@@ -1,0 +1,670 @@
+{
+  "achievement_rules": {
+    "branch": [
+      {
+        "id": 1,
+        "is_single": 1
+      },
+      {
+        "id": 2,
+        "is_single": 0
+      },
+      {
+        "id": 3,
+        "is_single": 1
+      },
+      {
+        "id": 4,
+        "is_single": 1
+      },
+      {
+        "id": 5,
+        "is_single": 1
+      },
+      {
+        "id": 6,
+        "is_single": 1
+      },
+      {
+        "id": 7,
+        "is_single": 1
+      },
+      {
+        "id": 8,
+        "is_single": 1
+      },
+      {
+        "id": 9,
+        "is_single": 1
+      },
+      {
+        "id": 10,
+        "is_single": 0
+      },
+      {
+        "id": 11,
+        "is_single": 1
+      },
+      {
+        "id": 12,
+        "is_single": 1
+      },
+      {
+        "id": 13,
+        "is_single": 1
+      },
+      {
+        "id": 14,
+        "is_single": 0
+      },
+      {
+        "id": 15,
+        "is_single": 1
+      },
+      {
+        "id": 16,
+        "is_single": 1
+      },
+      {
+        "id": 17,
+        "is_single": 1
+      },
+      {
+        "id": 18,
+        "is_single": 0
+      },
+      {
+        "id": 19,
+        "is_single": 1
+      },
+      {
+        "id": 20,
+        "is_single": 0
+      },
+      {
+        "id": 21,
+        "is_single": 0
+      },
+      {
+        "id": 22,
+        "is_single": 0
+      },
+      {
+        "id": 23,
+        "is_single": 1
+      },
+      {
+        "id": 24,
+        "is_single": 0
+      },
+      {
+        "id": 25,
+        "is_single": 0
+      },
+      {
+        "id": 26,
+        "is_single": 1
+      },
+      {
+        "id": 27,
+        "is_single": 1
+      },
+      {
+        "id": 28,
+        "is_single": 1
+      },
+      {
+        "id": 29,
+        "is_single": 1
+      },
+      {
+        "id": 30,
+        "is_single": 1
+      },
+      {
+        "id": 31,
+        "is_single": 0
+      },
+      {
+        "id": 32,
+        "is_single": 1
+      },
+      {
+        "id": 33,
+        "is_single": 1
+      },
+      {
+        "id": 34,
+        "is_single": 1
+      },
+      {
+        "id": 35,
+        "is_single": 1
+      },
+      {
+        "id": 36,
+        "is_single": 1
+      },
+      {
+        "id": 37,
+        "is_single": 1
+      },
+      {
+        "id": 38,
+        "is_single": 1
+      },
+      {
+        "id": 39,
+        "is_single": 0
+      },
+      {
+        "id": 40,
+        "is_single": 1
+      },
+      {
+        "id": 41,
+        "is_single": 1
+      },
+      {
+        "id": 42,
+        "is_single": 1
+      },
+      {
+        "id": 43,
+        "is_single": 0
+      },
+      {
+        "id": 44,
+        "is_single": 1
+      },
+      {
+        "id": 45,
+        "is_single": 1
+      },
+      {
+        "id": 46,
+        "is_single": 1
+      },
+      {
+        "id": 47,
+        "is_single": 1
+      },
+      {
+        "id": 48,
+        "is_single": 1
+      },
+      {
+        "id": 49,
+        "is_single": 0
+      },
+      {
+        "id": 50,
+        "is_single": 0
+      },
+      {
+        "id": 51,
+        "is_single": 1
+      },
+      {
+        "id": 52,
+        "is_single": 0
+      },
+      {
+        "id": 53,
+        "is_single": 1
+      },
+      {
+        "id": 54,
+        "is_single": 1
+      },
+      {
+        "id": 55,
+        "is_single": 1
+      },
+      {
+        "id": 56,
+        "is_single": 1
+      },
+      {
+        "id": 57,
+        "is_single": 0
+      },
+      {
+        "id": 58,
+        "is_single": 1
+      },
+      {
+        "id": 59,
+        "is_single": 1
+      },
+      {
+        "id": 60,
+        "is_single": 1
+      },
+      {
+        "id": 61,
+        "is_single": 1
+      },
+      {
+        "id": 62,
+        "is_single": 0
+      },
+      {
+        "id": 63,
+        "is_single": 0
+      },
+      {
+        "id": 64,
+        "is_single": 0
+      },
+      {
+        "id": 65,
+        "is_single": 1
+      },
+      {
+        "id": 66,
+        "is_single": 1
+      },
+      {
+        "id": 67,
+        "is_single": 1
+      },
+      {
+        "id": 68,
+        "is_single": 1
+      },
+      {
+        "id": 69,
+        "is_single": 1
+      },
+      {
+        "id": 70,
+        "is_single": 1
+      },
+      {
+        "id": 71,
+        "is_single": 1
+      },
+      {
+        "id": 72,
+        "is_single": 0
+      },
+      {
+        "id": 73,
+        "is_single": 1
+      },
+      {
+        "id": 74,
+        "is_single": 0
+      },
+      {
+        "id": 75,
+        "is_single": 0
+      },
+      {
+        "id": 76,
+        "is_single": 1
+      },
+      {
+        "id": 77,
+        "is_single": 1
+      },
+      {
+        "id": 78,
+        "is_single": 0
+      },
+      {
+        "id": 79,
+        "is_single": 1
+      },
+      {
+        "id": 80,
+        "is_single": 0
+      },
+      {
+        "id": 81,
+        "is_single": 0
+      },
+      {
+        "id": 82,
+        "is_single": 1
+      },
+      {
+        "id": 83,
+        "is_single": 0
+      },
+      {
+        "id": 84,
+        "is_single": 0
+      },
+      {
+        "id": 85,
+        "is_single": 1
+      },
+      {
+        "id": 86,
+        "is_single": 0
+      },
+      {
+        "id": 87,
+        "is_single": 1
+      },
+      {
+        "id": 88,
+        "is_single": 1
+      },
+      {
+        "id": 89,
+        "is_single": 1
+      },
+      {
+        "id": 91,
+        "is_single": 0
+      },
+      {
+        "id": 92,
+        "is_single": 1
+      },
+      {
+        "id": 93,
+        "is_single": 1
+      },
+      {
+        "id": 94,
+        "is_single": 1
+      },
+      {
+        "id": 95,
+        "is_single": 1
+      },
+      {
+        "id": 97,
+        "is_single": 1
+      },
+      {
+        "id": 99,
+        "is_single": 1
+      },
+      {
+        "id": 100,
+        "is_single": 1
+      },
+      {
+        "id": 101,
+        "is_single": 1
+      },
+      {
+        "id": 102,
+        "is_single": 1
+      },
+      {
+        "id": 103,
+        "is_single": 0
+      },
+      {
+        "id": 104,
+        "is_single": 0
+      },
+      {
+        "id": 105,
+        "is_single": 0
+      },
+      {
+        "id": 106,
+        "is_single": 0
+      },
+      {
+        "id": 107,
+        "is_single": 0
+      },
+      {
+        "id": 108,
+        "is_single": 0
+      },
+      {
+        "id": 109,
+        "is_single": 1
+      },
+      {
+        "id": 110,
+        "is_single": 0
+      },
+      {
+        "id": 111,
+        "is_single": 0
+      },
+      {
+        "id": 112,
+        "is_single": 0
+      },
+      {
+        "id": 113,
+        "is_single": 1
+      },
+      {
+        "id": 114,
+        "is_single": 1
+      },
+      {
+        "id": 115,
+        "is_single": 1
+      },
+      {
+        "id": 116,
+        "is_single": 1
+      },
+      {
+        "id": 117,
+        "is_single": 1
+      },
+      {
+        "id": 118,
+        "is_single": 0
+      },
+      {
+        "id": 119,
+        "is_single": 0
+      },
+      {
+        "id": 120,
+        "is_single": 0
+      },
+      {
+        "id": 121,
+        "is_single": 0
+      },
+      {
+        "id": 122,
+        "is_single": 0
+      },
+      {
+        "id": 123,
+        "is_single": 0
+      },
+      {
+        "id": 124,
+        "is_single": 0
+      },
+      {
+        "id": 125,
+        "is_single": 0
+      },
+      {
+        "id": 126,
+        "is_single": 0
+      },
+      {
+        "id": 127,
+        "is_single": 0
+      },
+      {
+        "id": 128,
+        "is_single": 1
+      },
+      {
+        "id": 129,
+        "is_single": 0
+      },
+      {
+        "id": 130,
+        "is_single": 0
+      },
+      {
+        "id": 131,
+        "is_single": 0
+      },
+      {
+        "id": 132,
+        "is_single": 1
+      },
+      {
+        "id": 133,
+        "is_single": 1
+      },
+      {
+        "id": 134,
+        "is_single": 1
+      },
+      {
+        "id": 135,
+        "is_single": 0
+      },
+      {
+        "id": 136,
+        "is_single": 1
+      },
+      {
+        "id": 137,
+        "is_single": 1
+      },
+      {
+        "id": 138,
+        "is_single": 1
+      },
+      {
+        "id": 139,
+        "is_single": 1
+      },
+      {
+        "id": 140,
+        "is_single": 1
+      },
+      {
+        "id": 141,
+        "is_single": 1
+      },
+      {
+        "id": 142,
+        "is_single": 0
+      },
+      {
+        "id": 143,
+        "is_single": 0
+      },
+      {
+        "id": 144,
+        "is_single": 0
+      },
+      {
+        "id": 145,
+        "is_single": 0
+      },
+      {
+        "id": 146,
+        "is_single": 1
+      },
+      {
+        "id": 147,
+        "is_single": 1
+      },
+      {
+        "id": 148,
+        "is_single": 1
+      },
+      {
+        "id": 150,
+        "is_single": 1
+      },
+      {
+        "id": 152,
+        "is_single": 0
+      },
+      {
+        "id": 153,
+        "is_single": 0
+      },
+      {
+        "id": 154,
+        "is_single": 0
+      },
+      {
+        "id": 155,
+        "is_single": 1
+      },
+      {
+        "id": 156,
+        "is_single": 1
+      },
+      {
+        "id": 157,
+        "is_single": 1
+      },
+      {
+        "id": 158,
+        "is_single": 0
+      },
+      {
+        "id": 159,
+        "is_single": 0
+      },
+      {
+        "id": 160,
+        "is_single": 0
+      },
+      {
+        "id": 161,
+        "is_single": 0
+      },
+      {
+        "id": 162,
+        "is_single": 0
+      },
+      {
+        "id": 163,
+        "is_single": 0
+      },
+      {
+        "id": 164,
+        "is_single": 0
+      },
+      {
+        "id": 165,
+        "is_single": 0
+      },
+      {
+        "id": 166,
+        "is_single": 0
+      },
+      {
+        "id": 167,
+        "is_single": 0
+      },
+      {
+        "id": 168,
+        "is_single": 0
+      },
+      {
+        "id": 169,
+        "is_single": 0
+      },
+      {
+        "id": 170,
+        "is_single": 0
+      },
+      {
+        "id": 171,
+        "is_single": 0
+      }
+    ]
+  }
+}

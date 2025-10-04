@@ -1,0 +1,825 @@
+{
+  "wishparts": {
+    "wishpart": [
+      {
+        "part_item_id": 100123,
+        "part_item_name": "特派队帽",
+        "part_item_type": "head",
+        "wishpart_id": 20001,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100124,
+        "part_item_name": "特派队靴",
+        "part_item_type": "foot",
+        "wishpart_id": 20002,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100162,
+        "part_item_name": "侦查眼罩",
+        "part_item_type": "eye",
+        "wishpart_id": 20003,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100163,
+        "part_item_name": "火焰盾",
+        "part_item_type": "hand",
+        "wishpart_id": 20004,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100172,
+        "part_item_name": "催眠球",
+        "part_item_type": "hand",
+        "wishpart_id": 20005,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100223,
+        "part_item_name": "暗能吸纳仪",
+        "part_item_type": "hand",
+        "wishpart_id": 20006,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100224,
+        "part_item_name": "幽灵枪",
+        "part_item_type": "head",
+        "wishpart_id": 20007,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100260,
+        "part_item_name": "寅虎加农",
+        "part_item_type": "head",
+        "wishpart_id": 20008,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100386,
+        "part_item_name": "正义之光",
+        "part_item_type": "head",
+        "wishpart_id": 20012,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100407,
+        "part_item_name": "安全卫士盾",
+        "part_item_type": "hand",
+        "wishpart_id": 20013,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100408,
+        "part_item_name": "晶岩护手",
+        "part_item_type": "hand",
+        "wishpart_id": 20014,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100409,
+        "part_item_name": "晶岩之尾",
+        "part_item_type": "foot",
+        "wishpart_id": 20015,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100410,
+        "part_item_name": "祖拉战盔",
+        "part_item_type": "head",
+        "wishpart_id": 20016,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100411,
+        "part_item_name": "祖拉战甲",
+        "part_item_type": "waist",
+        "wishpart_id": 20017,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100421,
+        "part_item_name": "加农炮F",
+        "part_item_type": "head",
+        "wishpart_id": 20018,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100422,
+        "part_item_name": "合金钻头F",
+        "part_item_type": "head",
+        "wishpart_id": 20019,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100423,
+        "part_item_name": "涡轮喷射座",
+        "part_item_type": "foot",
+        "wishpart_id": 20020,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100424,
+        "part_item_name": "重铠履带G",
+        "part_item_type": "foot",
+        "wishpart_id": 20021,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100425,
+        "part_item_name": "超能面罩",
+        "part_item_type": "eye",
+        "wishpart_id": 20022,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100426,
+        "part_item_name": "拜伦面具",
+        "part_item_type": "eye",
+        "wishpart_id": 20023,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100499,
+        "part_item_name": "新兵导弹架",
+        "part_item_type": "head",
+        "wishpart_id": 20024,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100540,
+        "part_item_name": "比利亚头盔",
+        "part_item_type": "head",
+        "wishpart_id": 20025,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100541,
+        "part_item_name": "亨姆头盔",
+        "part_item_type": "head",
+        "wishpart_id": 20026,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100542,
+        "part_item_name": "赫克托尔头盔",
+        "part_item_type": "head",
+        "wishpart_id": 20027,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100543,
+        "part_item_name": "侦查瞄准镜",
+        "part_item_type": "eye",
+        "wishpart_id": 20028,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100544,
+        "part_item_name": "暗影吸收器",
+        "part_item_type": "hand",
+        "wishpart_id": 20029,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100545,
+        "part_item_name": "强固面罩",
+        "part_item_type": "head",
+        "wishpart_id": 20030,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100546,
+        "part_item_name": "大阳光翼",
+        "part_item_type": "hand",
+        "wishpart_id": 20031,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100547,
+        "part_item_name": "全弹护肩",
+        "part_item_type": "hand",
+        "wishpart_id": 20032,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100548,
+        "part_item_name": "超能滑轮",
+        "part_item_type": "foot",
+        "wishpart_id": 20033,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100564,
+        "part_item_name": "巡查眼镜",
+        "part_item_type": "eye",
+        "wishpart_id": 20034,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100575,
+        "part_item_name": "雪球投射器",
+        "part_item_type": "head",
+        "wishpart_id": 20035,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100576,
+        "part_item_name": "能量收集器",
+        "part_item_type": "hand",
+        "wishpart_id": 20036,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100608,
+        "part_item_name": "迪恩战盔",
+        "part_item_type": "head",
+        "wishpart_id": 20037,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100614,
+        "part_item_name": "白遗忘者头盔",
+        "part_item_type": "head",
+        "wishpart_id": 20038,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100615,
+        "part_item_name": "能量探测仪",
+        "part_item_type": "hand",
+        "wishpart_id": 20039,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100624,
+        "part_item_name": "胶囊弹射炮",
+        "part_item_type": "head",
+        "wishpart_id": 20040,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100629,
+        "part_item_name": "赛影装置",
+        "part_item_type": "head",
+        "wishpart_id": 20041,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100639,
+        "part_item_name": "大电影河蟹头盔",
+        "part_item_type": "head",
+        "wishpart_id": 20042,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100640,
+        "part_item_name": "大电影驼羊头盔",
+        "part_item_type": "head",
+        "wishpart_id": 20043,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100641,
+        "part_item_name": "大电影熊猫头盔",
+        "part_item_type": "head",
+        "wishpart_id": 20044,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100642,
+        "part_item_name": "大电影雷伊头盔",
+        "part_item_type": "eye",
+        "wishpart_id": 20045,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100643,
+        "part_item_name": "大电影雷伊面罩",
+        "part_item_type": "head",
+        "wishpart_id": 20046,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100717,
+        "part_item_name": "超能采矿装置",
+        "part_item_type": "foot",
+        "wishpart_id": 20047,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100726,
+        "part_item_name": "闇灵枪",
+        "part_item_type": "head",
+        "wishpart_id": 20048,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100839,
+        "part_item_name": "星光魔法帽",
+        "part_item_type": "foot",
+        "wishpart_id": 20049,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100879,
+        "part_item_name": "见习列兵帽",
+        "part_item_type": "foot",
+        "wishpart_id": 20050,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100880,
+        "part_item_name": "高等列兵帽",
+        "part_item_type": "head",
+        "wishpart_id": 20051,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100881,
+        "part_item_name": "星际列兵帽",
+        "part_item_type": "hand",
+        "wishpart_id": 20052,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100882,
+        "part_item_name": "列兵长帽",
+        "part_item_type": "waist",
+        "wishpart_id": 20053,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100883,
+        "part_item_name": "见习统领帽",
+        "part_item_type": "foot",
+        "wishpart_id": 20054,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100884,
+        "part_item_name": "高等统领帽",
+        "part_item_type": "hand",
+        "wishpart_id": 20055,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100885,
+        "part_item_name": "星际统领帽",
+        "part_item_type": "head",
+        "wishpart_id": 20056,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100886,
+        "part_item_name": "见习船长帽",
+        "part_item_type": "hand",
+        "wishpart_id": 20057,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 100997,
+        "part_item_name": "4399勇者战盔",
+        "part_item_type": "head",
+        "wishpart_id": 20058,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 1300062,
+        "part_item_name": "深海氧气头套",
+        "part_item_type": "head",
+        "wishpart_id": 20059,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 1300259,
+        "part_item_name": "严肃盒大",
+        "part_item_type": "head",
+        "wishpart_id": 20070,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 1300260,
+        "part_item_name": "忧伤盒二",
+        "part_item_type": "head",
+        "wishpart_id": 20071,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 1300261,
+        "part_item_name": "盒呆呆",
+        "part_item_type": "head",
+        "wishpart_id": 20072,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 1300262,
+        "part_item_name": "愤怒盒小小",
+        "part_item_type": "head",
+        "wishpart_id": 20073,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 1300279,
+        "part_item_name": "初级体力腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20074,
+        "wishrank_id": 23
+      },
+      {
+        "part_item_id": 1300280,
+        "part_item_name": "中级体力腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20075,
+        "wishrank_id": 23
+      },
+      {
+        "part_item_id": 1300281,
+        "part_item_name": "普通体力腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20076,
+        "wishrank_id": 23
+      },
+      {
+        "part_item_id": 1300282,
+        "part_item_name": "高级体力腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20077,
+        "wishrank_id": 23
+      },
+      {
+        "part_item_id": 1300283,
+        "part_item_name": "超级体力腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20078,
+        "wishrank_id": 23
+      },
+      {
+        "part_item_id": 1300544,
+        "part_item_name": "青铜圣战腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20079,
+        "wishrank_id": 23
+      },
+      {
+        "part_item_id": 1300545,
+        "part_item_name": "白银圣战腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20080,
+        "wishrank_id": 23
+      },
+      {
+        "part_item_id": 1300546,
+        "part_item_name": "黄金圣战腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20081,
+        "wishrank_id": 23
+      },
+      {
+        "part_item_id": 1300547,
+        "part_item_name": "钻石圣战腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20082,
+        "wishrank_id": 23
+      },
+      {
+        "part_item_id": 1300548,
+        "part_item_name": "王者圣战腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20083,
+        "wishrank_id": 23
+      },
+      {
+        "part_item_id": 1300575,
+        "part_item_name": "VIP体力加成腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20084,
+        "wishrank_id": 23
+      },
+      {
+        "part_item_id": 1300612,
+        "part_item_name": "绝境逢生束腰",
+        "part_item_type": "waist",
+        "wishpart_id": 20085,
+        "wishrank_id": 24
+      },
+      {
+        "part_item_id": 1300613,
+        "part_item_name": "希望坚守束腰",
+        "part_item_type": "waist",
+        "wishpart_id": 20086,
+        "wishrank_id": 24
+      },
+      {
+        "part_item_id": 1300617,
+        "part_item_name": "冰凌腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20087,
+        "wishrank_id": 23
+      },
+      {
+        "part_item_id": 1300692,
+        "part_item_name": "雷神之翼腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20088,
+        "wishrank_id": 24
+      },
+      {
+        "part_item_id": 1300693,
+        "part_item_name": "狼王面具",
+        "part_item_type": "eye",
+        "wishpart_id": 20089,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 1300698,
+        "part_item_name": "四九荣耀墨镜",
+        "part_item_type": "eye",
+        "wishpart_id": 20090,
+        "wishrank_id": 24
+      },
+      {
+        "part_item_id": 1300715,
+        "part_item_name": "2016巅峰之眼",
+        "part_item_type": "eye",
+        "wishpart_id": 20091,
+        "wishrank_id": 24
+      },
+      {
+        "part_item_id": 1300755,
+        "part_item_name": "帝皇之钺",
+        "part_item_type": "hand",
+        "wishpart_id": 20092,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 1300773,
+        "part_item_name": "鹰眼目镜",
+        "part_item_type": "eye",
+        "wishpart_id": 20093,
+        "wishrank_id": 25
+      },
+      {
+        "part_item_id": 1300798,
+        "part_item_name": "七月流火",
+        "part_item_type": "eye",
+        "wishpart_id": 20094,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 1300804,
+        "part_item_name": "万圣骑士面具",
+        "part_item_type": "eye",
+        "wishpart_id": 20095,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 1300838,
+        "part_item_name": "未来之瞳",
+        "part_item_type": "eye",
+        "wishpart_id": 20096,
+        "wishrank_id": 25
+      },
+      {
+        "part_item_id": 1300871,
+        "part_item_name": "光羽目镜",
+        "part_item_type": "eye",
+        "wishpart_id": 20097,
+        "wishrank_id": 24
+      },
+      {
+        "part_item_id": 1300872,
+        "part_item_name": "粒子目镜",
+        "part_item_type": "eye",
+        "wishpart_id": 20098,
+        "wishrank_id": 24
+      },
+      {
+        "part_item_id": 1300874,
+        "part_item_name": "魔界之风",
+        "part_item_type": "eye",
+        "wishpart_id": 20099,
+        "wishrank_id": 25
+      },
+      {
+        "part_item_id": 1300895,
+        "part_item_name": "星愿之镜",
+        "part_item_type": "eye",
+        "wishpart_id": 20100,
+        "wishrank_id": 25
+      },
+      {
+        "part_item_id": 100004,
+        "part_item_name": "睫毛",
+        "part_item_type": "eye",
+        "wishpart_id": 20101,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100009,
+        "part_item_name": "警备围裙",
+        "part_item_type": "waist",
+        "wishpart_id": 20102,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100010,
+        "part_item_name": "裙子",
+        "part_item_type": "waist",
+        "wishpart_id": 20103,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100011,
+        "part_item_name": "履带",
+        "part_item_type": "foot",
+        "wishpart_id": 20104,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100012,
+        "part_item_name": "磁悬浮",
+        "part_item_type": "foot",
+        "wishpart_id": 20105,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100013,
+        "part_item_name": "女子高跟鞋",
+        "part_item_type": "foot",
+        "wishpart_id": 20106,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100014,
+        "part_item_name": "挖矿钻头",
+        "part_item_type": "hand",
+        "wishpart_id": 20107,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100015,
+        "part_item_name": "矿工头盔",
+        "part_item_type": "head",
+        "wishpart_id": 20108,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100029,
+        "part_item_name": "圈圈帽",
+        "part_item_type": "head",
+        "wishpart_id": 20109,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100030,
+        "part_item_name": "救生圈",
+        "part_item_type": "waist",
+        "wishpart_id": 20110,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100040,
+        "part_item_name": "喷雾器",
+        "part_item_type": "head",
+        "wishpart_id": 20111,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100041,
+        "part_item_name": "流行耳机",
+        "part_item_type": "hand",
+        "wishpart_id": 20112,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100043,
+        "part_item_name": "单排滑轮",
+        "part_item_type": "foot",
+        "wishpart_id": 20113,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100044,
+        "part_item_name": "火焰喷射器",
+        "part_item_type": "head",
+        "wishpart_id": 20114,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100045,
+        "part_item_name": "防火挡板",
+        "part_item_type": "eye",
+        "wishpart_id": 20115,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100046,
+        "part_item_name": "燃料带",
+        "part_item_type": "waist",
+        "wishpart_id": 20116,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100047,
+        "part_item_name": "防火靴",
+        "part_item_type": "foot",
+        "wishpart_id": 20117,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100055,
+        "part_item_name": "气体收集器",
+        "part_item_type": "hand",
+        "wishpart_id": 20118,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100059,
+        "part_item_name": "电能锯子",
+        "part_item_type": "hand",
+        "wishpart_id": 20119,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100067,
+        "part_item_name": "电焊枪",
+        "part_item_type": "hand",
+        "wishpart_id": 20120,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100245,
+        "part_item_name": "寒流枪",
+        "part_item_type": "head",
+        "wishpart_id": 20121,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 1300913,
+        "part_item_name": "愚者腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20122,
+        "wishrank_id": 24
+      },
+      {
+        "part_item_id": 100062,
+        "part_item_name": "教官指挥棒",
+        "part_item_type": "hand",
+        "wishpart_id": 20123,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100068,
+        "part_item_name": "教官帽",
+        "part_item_type": "head",
+        "wishpart_id": 20124,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100069,
+        "part_item_name": "少尉腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20125,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100070,
+        "part_item_name": "中尉腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20126,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100071,
+        "part_item_name": "上尉腰带",
+        "part_item_type": "waist",
+        "wishpart_id": 20127,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 100072,
+        "part_item_name": "教官训练鞋",
+        "part_item_type": "foot",
+        "wishpart_id": 20128,
+        "wishrank_id": 21
+      },
+      {
+        "part_item_id": 1300972,
+        "part_item_name": "万圣骑士飞靴",
+        "part_item_type": "foot",
+        "wishpart_id": 20129,
+        "wishrank_id": 22
+      },
+      {
+        "part_item_id": 1300994,
+        "part_item_name": "预言之镜",
+        "part_item_type": "eye",
+        "wishpart_id": 20130,
+        "wishrank_id": 25
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "root": {
+    "moves": [
+      {
+        "move_id": 37465,
+        "new_name": "缘·乞巧心语",
+        "skin_id": 641,
+        "move_name1": "缘",
+        "move_name2": "乞巧心语"
+      },
+      {
+        "move_id": 37466,
+        "new_name": "缘·乞巧心语",
+        "skin_id": 640,
+        "move_name1": "缘",
+        "move_name2": "乞巧心语"
+      },
+      {
+        "move_id": 37522,
+        "new_name": "最终终极赛罗",
+        "skin_id": 658,
+        "move_name1": "最终",
+        "move_name2": "终极赛罗"
+      },
+      {
+        "move_id": 37520,
+        "new_name": "终极赛罗之剑",
+        "skin_id": 658,
+        "move_name1": "",
+        "move_name2": ""
+      },
+      {
+        "move_id": 28812,
+        "new_name": "终极圣盾",
+        "skin_id": 658,
+        "move_name1": "",
+        "move_name2": ""
+      },
+      {
+        "move_id": 37523,
+        "new_name": "皇帝贝利亚光切",
+        "skin_id": 659,
+        "move_name1": "",
+        "move_name2": ""
+      },
+      {
+        "move_id": 28814,
+        "new_name": "贝利亚吸收",
+        "skin_id": 659,
+        "move_name1": "",
+        "move_name2": ""
+      },
+      {
+        "move_id": 37524,
+        "new_name": "凯撒贝利亚之爪",
+        "skin_id": 659,
+        "move_name1": "",
+        "move_name2": ""
+      },
+      {
+        "move_id": 28815,
+        "new_name": "皇帝贝利亚战吼",
+        "skin_id": 659,
+        "move_name1": "",
+        "move_name2": ""
+      },
+      {
+        "move_id": 37525,
+        "new_name": "终极帝斯修姆光线",
+        "skin_id": 660,
+        "move_name1": "终极",
+        "move_name2": "帝斯修姆光线"
+      },
+      {
+        "move_id": 37523,
+        "new_name": "终极能量吸收",
+        "skin_id": 660,
+        "move_name1": "",
+        "move_name2": ""
+      },
+      {
+        "move_id": 28814,
+        "new_name": "冥雷之颤",
+        "skin_id": 660,
+        "move_name1": "",
+        "move_name2": ""
+      },
+      {
+        "move_id": 37524,
+        "new_name": "终极死亡之爪",
+        "skin_id": 660,
+        "move_name1": "",
+        "move_name2": ""
+      },
+      {
+        "move_id": 28815,
+        "new_name": "赤红战场",
+        "skin_id": 660,
+        "move_name1": "",
+        "move_name2": ""
+      },
+      {
+        "move_id": 37039,
+        "new_name": "恒·真心共鸣",
+        "skin_id": 751,
+        "move_name1": "恒",
+        "move_name2": "真心共鸣"
+      },
+      {
+        "move_id": 37109,
+        "new_name": "恒·真心共鸣",
+        "skin_id": 752,
+        "move_name1": "恒",
+        "move_name2": "真心共鸣"
+      }
+    ]
+  }
+}

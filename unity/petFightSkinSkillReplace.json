@@ -1,0 +1,42 @@
+{
+  "root": {
+    "item": [
+      {
+        "petid": 0,
+        "skill": {
+          "action": "sa5",
+          "id": 35620,
+          "replace_id": 47935620
+        },
+        "skinid": 479
+      },
+      {
+        "petid": 5605,
+        "skill": {
+          "action": "sa5",
+          "id": 35620,
+          "replace_id": 47935620
+        },
+        "skinid": 0
+      },
+      {
+        "petid": 0,
+        "skill": {
+          "action": "sa5",
+          "id": 34812,
+          "replace_id": 64434812
+        },
+        "skinid": 644
+      },
+      {
+        "petid": 0,
+        "skill": {
+          "action": "sa5",
+          "id": 35620,
+          "replace_id": 64535620
+        },
+        "skinid": 645
+      }
+    ]
+  }
+}

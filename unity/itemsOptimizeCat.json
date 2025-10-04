@@ -1,0 +1,146 @@
+{
+  "root": {
+    "cats": [
+      {
+        "db_cat_id": 0,
+        "id": 0,
+        "max": -294967296,
+        "name": "派派属性",
+        "url": "Assets/Art/Ui/assets/item/doodle/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 1,
+        "max": 1,
+        "name": "个人装扮",
+        "url": "Assets/Art/Ui/assets/item/cloth/icon/"
+      },
+      {
+        "db_cat_id": 9999999,
+        "id": 2,
+        "max": 0,
+        "name": "派派涂装",
+        "url": "undefined"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 3,
+        "max": 999,
+        "name": "精灵道具",
+        "url": "Assets/Art/Ui/assets/item/petItem/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 4,
+        "max": 999999999,
+        "name": "收藏品",
+        "url": "Assets/Art/Ui/assets/item/doodle/icon/"
+      },
+      {
+        "db_cat_id": 2,
+        "id": 5,
+        "max": 999,
+        "name": "小屋装扮",
+        "url": "Assets/Art/Ui/assets/fitment/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 6,
+        "max": 99,
+        "name": "投掷道具",
+        "url": "Assets/Art/Ui/assets/item/throw/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 7,
+        "max": 99,
+        "name": "豆丁道具",
+        "url": "Assets/Art/Ui/assets/nono/chip/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 10,
+        "max": 20,
+        "name": "元神珠",
+        "url": "Assets/Art/Ui/assets/soulBead/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 11,
+        "max": 999,
+        "name": "技能石",
+        "url": "Assets/Art/Ui/assets/item/skillStone/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 12,
+        "max": 999999999,
+        "name": "收藏品扩展",
+        "url": "Assets/Art/Ui/assets/item/doodle/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 13,
+        "max": 1,
+        "name": "个人装扮",
+        "url": "Assets/Art/Ui/assets/item/cloth/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 14,
+        "max": -294967296,
+        "name": "后台虚拟值",
+        "url": "Assets/Art/Ui/assets/item/doodle/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 15,
+        "max": 999999999,
+        "name": "收藏品扩展(精元)",
+        "url": "Assets/Art/Ui/assets/item/doodle/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 17,
+        "max": 999999999,
+        "name": "普通物品扩展号段",
+        "url": "Assets/Art/Ui/assets/item/doodle/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 18,
+        "max": 999999999,
+        "name": "刻印镶嵌宝石",
+        "url": "Assets/Art/Ui/assets/countermark/gem/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 23,
+        "max": 999999999,
+        "name": "可开启的宝箱",
+        "url": "Assets/Art/Ui/assets/item/doodle/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 24,
+        "max": 9999,
+        "name": "精灵因子",
+        "url": "Assets/Art/Ui/assets/item/doodle/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 25,
+        "max": 9999,
+        "name": "限时道具",
+        "url": "Assets/Art/Ui/assets/item/doodle/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 26,
+        "max": 99999999,
+        "name": "礼盒类道具",
+        "url": "Assets/Art/Ui/assets/item/doodle/icon/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "pet_friends": {
+    "friendship": [
+      {
+        "effect_args": [
+          16077
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2523,
+        "pet_id": 2450
+      },
+      {
+        "effect_args": [
+          1747,
+          1767
+        ],
+        "effect_id": [
+          2
+        ],
+        "friend_id": 2523,
+        "pet_id": 2500
+      },
+      {
+        "effect_args": [
+          1744,
+          1768
+        ],
+        "effect_id": [
+          2
+        ],
+        "friend_id": 2523,
+        "pet_id": 2496
+      },
+      {
+        "effect_args": [
+          1769,
+          1772
+        ],
+        "effect_id": [
+          2
+        ],
+        "friend_id": 2523,
+        "pet_id": 2512
+      },
+      {
+        "effect_args": [
+          1769,
+          1772
+        ],
+        "effect_id": [
+          2
+        ],
+        "friend_id": 2523,
+        "pet_id": 2520
+      },
+      {
+        "effect_args": [
+          1769,
+          1772
+        ],
+        "effect_id": [
+          2
+        ],
+        "friend_id": 2523,
+        "pet_id": 2530
+      },
+      {
+        "effect_args": [
+          16189
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2523,
+        "pet_id": 2479
+      },
+      {
+        "effect_args": [
+          16041
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2468,
+        "pet_id": 2436
+      },
+      {
+        "effect_args": [
+          15987
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2468,
+        "pet_id": 2422
+      },
+      {
+        "effect_args": [
+          16141
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2468,
+        "pet_id": 2457
+      },
+      {
+        "effect_args": [
+          16082
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2468,
+        "pet_id": 2445
+      },
+      {
+        "effect_args": [
+          16388
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2556,
+        "pet_id": 2533
+      },
+      {
+        "effect_args": [
+          16432
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2556,
+        "pet_id": 2542
+      },
+      {
+        "effect_args": [
+          16472
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2556,
+        "pet_id": 2552
+      },
+      {
+        "effect_args": [
+          16492
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2556,
+        "pet_id": 2557
+      },
+      {
+        "effect_args": [
+          16527
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2556,
+        "pet_id": 2565
+      },
+      {
+        "effect_args": [
+          16556
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2556,
+        "pet_id": 2572
+      },
+      {
+        "effect_args": [
+          16683
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2586,
+        "pet_id": 2606
+      },
+      {
+        "effect_args": [
+          16630
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2586,
+        "pet_id": 2594
+      },
+      {
+        "effect_args": [
+          16775
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2615,
+        "pet_id": 2627
+      },
+      {
+        "effect_args": [
+          16790
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2625,
+        "pet_id": 2631
+      },
+      {
+        "effect_args": [
+          16764
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2637,
+        "pet_id": 2625
+      },
+      {
+        "effect_args": [
+          16815
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2631,
+        "pet_id": 2637
+      },
+      {
+        "effect_args": [
+          16278
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2517,
+        "pet_id": 2505
+      },
+      {
+        "effect_args": [
+          16272
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2517,
+        "pet_id": 2503
+      },
+      {
+        "effect_args": [
+          16225
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2517,
+        "pet_id": 2491
+      },
+      {
+        "effect_args": [
+          16211
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2517,
+        "pet_id": 2487
+      },
+      {
+        "effect_args": [
+          16407
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2541,
+        "pet_id": 2537
+      },
+      {
+        "effect_args": [
+          16424
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2537,
+        "pet_id": 2541
+      },
+      {
+        "effect_args": [
+          16673
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2609,
+        "pet_id": 2603
+      },
+      {
+        "effect_args": [
+          16642
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2609,
+        "pet_id": 2597
+      },
+      {
+        "effect_args": [
+          16205
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2662,
+        "pet_id": 2485
+      },
+      {
+        "effect_args": [
+          16121
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2662,
+        "pet_id": 2464
+      },
+      {
+        "effect_args": [
+          17190
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2751,
+        "pet_id": 2717
+      },
+      {
+        "effect_args": [
+          17219
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2751,
+        "pet_id": 2722
+      },
+      {
+        "effect_args": [
+          17238
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2751,
+        "pet_id": 2726
+      },
+      {
+        "effect_args": [
+          17329
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2751,
+        "pet_id": 2745
+      },
+      {
+        "effect_args": [
+          17384
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2751,
+        "pet_id": 2756
+      },
+      {
+        "effect_args": [
+          17297
+        ],
+        "effect_id": [
+          1
+        ],
+        "friend_id": 2787,
+        "pet_id": 2739
+      }
+    ]
+  }
+}

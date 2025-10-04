@@ -1,0 +1,713 @@
+{
+  "root": {
+    "item": [
+      {
+        "dan_number": 3,
+        "ladder_lv": 20,
+        "star": 0,
+        "star_lv": 0,
+        "title": "初入学徒"
+      },
+      {
+        "dan_number": 3,
+        "ladder_lv": 20,
+        "star": 1,
+        "star_lv": 1,
+        "title": "初入学徒"
+      },
+      {
+        "dan_number": 3,
+        "ladder_lv": 20,
+        "star": 2,
+        "star_lv": 2,
+        "title": "初入学徒"
+      },
+      {
+        "dan_number": 3,
+        "ladder_lv": 19,
+        "star": 0,
+        "star_lv": 3,
+        "title": "精灵学者"
+      },
+      {
+        "dan_number": 3,
+        "ladder_lv": 19,
+        "star": 1,
+        "star_lv": 4,
+        "title": "精灵学者"
+      },
+      {
+        "dan_number": 3,
+        "ladder_lv": 19,
+        "star": 2,
+        "star_lv": 5,
+        "title": "精灵学者"
+      },
+      {
+        "dan_number": 3,
+        "ladder_lv": 18,
+        "star": 0,
+        "star_lv": 6,
+        "title": "探险专家"
+      },
+      {
+        "dan_number": 3,
+        "ladder_lv": 18,
+        "star": 1,
+        "star_lv": 7,
+        "title": "探险专家"
+      },
+      {
+        "dan_number": 3,
+        "ladder_lv": 18,
+        "star": 2,
+        "star_lv": 8,
+        "title": "探险专家"
+      },
+      {
+        "dan_number": 3,
+        "ladder_lv": 17,
+        "star": 0,
+        "star_lv": 9,
+        "title": "对抗高手"
+      },
+      {
+        "dan_number": 3,
+        "ladder_lv": 17,
+        "star": 1,
+        "star_lv": 10,
+        "title": "对抗高手"
+      },
+      {
+        "dan_number": 3,
+        "ladder_lv": 17,
+        "star": 2,
+        "star_lv": 11,
+        "title": "对抗高手"
+      },
+      {
+        "dan_number": 3,
+        "ladder_lv": 16,
+        "star": 0,
+        "star_lv": 12,
+        "title": "神乎奇客"
+      },
+      {
+        "dan_number": 3,
+        "ladder_lv": 16,
+        "star": 1,
+        "star_lv": 13,
+        "title": "神乎奇客"
+      },
+      {
+        "dan_number": 3,
+        "ladder_lv": 16,
+        "star": 2,
+        "star_lv": 14,
+        "title": "神乎奇客"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 15,
+        "star": 0,
+        "star_lv": 15,
+        "title": "热血英杰"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 15,
+        "star": 1,
+        "star_lv": 16,
+        "title": "热血英杰"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 15,
+        "star": 2,
+        "star_lv": 17,
+        "title": "热血英杰"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 15,
+        "star": 3,
+        "star_lv": 18,
+        "title": "热血英杰"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 14,
+        "star": 0,
+        "star_lv": 19,
+        "title": "竞技先锋"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 14,
+        "star": 1,
+        "star_lv": 20,
+        "title": "竞技先锋"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 14,
+        "star": 2,
+        "star_lv": 21,
+        "title": "竞技先锋"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 14,
+        "star": 3,
+        "star_lv": 22,
+        "title": "竞技先锋"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 13,
+        "star": 0,
+        "star_lv": 23,
+        "title": "常胜勇士"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 13,
+        "star": 1,
+        "star_lv": 24,
+        "title": "常胜勇士"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 13,
+        "star": 2,
+        "star_lv": 25,
+        "title": "常胜勇士"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 13,
+        "star": 3,
+        "star_lv": 26,
+        "title": "常胜勇士"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 12,
+        "star": 0,
+        "star_lv": 27,
+        "title": "擂台霸主"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 12,
+        "star": 1,
+        "star_lv": 28,
+        "title": "擂台霸主"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 12,
+        "star": 2,
+        "star_lv": 29,
+        "title": "擂台霸主"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 12,
+        "star": 3,
+        "star_lv": 30,
+        "title": "擂台霸主"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 11,
+        "star": 0,
+        "star_lv": 31,
+        "title": "百战豪雄"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 11,
+        "star": 1,
+        "star_lv": 32,
+        "title": "百战豪雄"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 11,
+        "star": 2,
+        "star_lv": 33,
+        "title": "百战豪雄"
+      },
+      {
+        "dan_number": 4,
+        "ladder_lv": 11,
+        "star": 3,
+        "star_lv": 34,
+        "title": "百战豪雄"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 10,
+        "star": 0,
+        "star_lv": 35,
+        "title": "无敌猛将"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 10,
+        "star": 1,
+        "star_lv": 36,
+        "title": "无敌猛将"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 10,
+        "star": 2,
+        "star_lv": 37,
+        "title": "无敌猛将"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 10,
+        "star": 3,
+        "star_lv": 38,
+        "title": "无敌猛将"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 10,
+        "star": 4,
+        "star_lv": 39,
+        "title": "无敌猛将"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 9,
+        "star": 0,
+        "star_lv": 40,
+        "title": "威武魂灵"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 9,
+        "star": 1,
+        "star_lv": 41,
+        "title": "威武魂灵"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 9,
+        "star": 2,
+        "star_lv": 42,
+        "title": "威武魂灵"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 9,
+        "star": 3,
+        "star_lv": 43,
+        "title": "威武魂灵"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 9,
+        "star": 4,
+        "star_lv": 44,
+        "title": "威武魂灵"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 8,
+        "star": 0,
+        "star_lv": 45,
+        "title": "星际游神"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 8,
+        "star": 1,
+        "star_lv": 46,
+        "title": "星际游神"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 8,
+        "star": 2,
+        "star_lv": 47,
+        "title": "星际游神"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 8,
+        "star": 3,
+        "star_lv": 48,
+        "title": "星际游神"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 8,
+        "star": 4,
+        "star_lv": 49,
+        "title": "星际游神"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 7,
+        "star": 0,
+        "star_lv": 50,
+        "title": "秩序掌使"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 7,
+        "star": 1,
+        "star_lv": 51,
+        "title": "秩序掌使"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 7,
+        "star": 2,
+        "star_lv": 52,
+        "title": "秩序掌使"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 7,
+        "star": 3,
+        "star_lv": 53,
+        "title": "秩序掌使"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 7,
+        "star": 4,
+        "star_lv": 54,
+        "title": "秩序掌使"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 6,
+        "star": 0,
+        "star_lv": 55,
+        "title": "不败战魂"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 6,
+        "star": 1,
+        "star_lv": 56,
+        "title": "不败战魂"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 6,
+        "star": 2,
+        "star_lv": 57,
+        "title": "不败战魂"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 6,
+        "star": 3,
+        "star_lv": 58,
+        "title": "不败战魂"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 6,
+        "star": 4,
+        "star_lv": 59,
+        "title": "不败战魂"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 5,
+        "star": 0,
+        "star_lv": 60,
+        "title": "出世天骄"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 5,
+        "star": 1,
+        "star_lv": 61,
+        "title": "出世天骄"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 5,
+        "star": 2,
+        "star_lv": 62,
+        "title": "出世天骄"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 5,
+        "star": 3,
+        "star_lv": 63,
+        "title": "出世天骄"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 5,
+        "star": 4,
+        "star_lv": 64,
+        "title": "出世天骄"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 4,
+        "star": 0,
+        "star_lv": 65,
+        "title": "六合战神"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 4,
+        "star": 1,
+        "star_lv": 66,
+        "title": "六合战神"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 4,
+        "star": 2,
+        "star_lv": 67,
+        "title": "六合战神"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 4,
+        "star": 3,
+        "star_lv": 68,
+        "title": "六合战神"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 4,
+        "star": 4,
+        "star_lv": 69,
+        "title": "六合战神"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 3,
+        "star": 0,
+        "star_lv": 70,
+        "title": "八荒厉煞"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 3,
+        "star": 1,
+        "star_lv": 71,
+        "title": "八荒厉煞"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 3,
+        "star": 2,
+        "star_lv": 72,
+        "title": "八荒厉煞"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 3,
+        "star": 3,
+        "star_lv": 73,
+        "title": "八荒厉煞"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 3,
+        "star": 4,
+        "star_lv": 74,
+        "title": "八荒厉煞"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 2,
+        "star": 0,
+        "star_lv": 75,
+        "title": "九霄玉影"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 2,
+        "star": 1,
+        "star_lv": 76,
+        "title": "九霄玉影"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 2,
+        "star": 2,
+        "star_lv": 77,
+        "title": "九霄玉影"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 2,
+        "star": 3,
+        "star_lv": 78,
+        "title": "九霄玉影"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 2,
+        "star": 4,
+        "star_lv": 79,
+        "title": "九霄玉影"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 1,
+        "star": 0,
+        "star_lv": 80,
+        "title": "巅峰王者"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 1,
+        "star": 1,
+        "star_lv": 81,
+        "title": "巅峰王者"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 1,
+        "star": 2,
+        "star_lv": 82,
+        "title": "巅峰王者"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 1,
+        "star": 3,
+        "star_lv": 83,
+        "title": "巅峰王者"
+      },
+      {
+        "dan_number": 5,
+        "ladder_lv": 1,
+        "star": 4,
+        "star_lv": 84,
+        "title": "巅峰王者"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 0,
+        "star_lv": 85,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 1,
+        "star_lv": 86,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 2,
+        "star_lv": 87,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 3,
+        "star_lv": 88,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 4,
+        "star_lv": 89,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 5,
+        "star_lv": 90,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 6,
+        "star_lv": 91,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 7,
+        "star_lv": 92,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 8,
+        "star_lv": 93,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 9,
+        "star_lv": 94,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 10,
+        "star_lv": 95,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 11,
+        "star_lv": 96,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 12,
+        "star_lv": 97,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 13,
+        "star_lv": 98,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 14,
+        "star_lv": 99,
+        "title": "宇宙圣皇"
+      },
+      {
+        "dan_number": 0,
+        "ladder_lv": 0,
+        "star": 15,
+        "star_lv": 100,
+        "title": "宇宙圣皇"
+      }
+    ]
+  }
+}

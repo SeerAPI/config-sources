@@ -1,0 +1,186 @@
+{
+  "root": {
+    "items": [
+      {
+        "hide": 0,
+        "id": 2500015,
+        "life_time": 15,
+        "max": 1,
+        "name": "回归道具特惠券·5折",
+        "rarity": 3,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2500014,
+        "life_time": 15,
+        "max": 1,
+        "name": "回归道具特惠券·6折",
+        "rarity": 3,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2500013,
+        "life_time": 15,
+        "max": 1,
+        "name": "回归道具特惠券·8折",
+        "rarity": 3,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2500012,
+        "life_time": 15,
+        "max": 1,
+        "name": "回归道具特惠券·9折",
+        "rarity": 3,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2500011,
+        "life_time": 15,
+        "max": 1,
+        "name": "回归精灵特惠券·6折",
+        "rarity": 3,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2500010,
+        "life_time": 15,
+        "max": 1,
+        "name": "回归精灵特惠券·7折",
+        "rarity": 3,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2500009,
+        "life_time": 15,
+        "max": 1,
+        "name": "回归精灵特惠券·8折",
+        "rarity": 3,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2500008,
+        "life_time": 15,
+        "max": 1,
+        "name": "回归精灵特惠券·9折",
+        "rarity": 3,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2500007,
+        "life_time": 7,
+        "max": 99,
+        "name": "限时·宝石分离药剂",
+        "rarity": 3,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2500006,
+        "life_time": 7,
+        "max": 999,
+        "name": "限时·刻印回溯免单券",
+        "rarity": 5,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2500005,
+        "life_time": 7,
+        "max": 999,
+        "name": "限时·记忆作战模组",
+        "rarity": 3,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2500004,
+        "life_time": 7,
+        "max": 999,
+        "name": "限时·浩瀚星核",
+        "rarity": 5,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2500003,
+        "life_time": 7,
+        "max": 999,
+        "name": "限时·星际密令",
+        "rarity": 5,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2500002,
+        "life_time": 7,
+        "max": 999,
+        "name": "限时道具测试用",
+        "rarity": 0,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2500001,
+        "life_time": 7,
+        "max": 999,
+        "name": "限时·关卡扫荡券",
+        "rarity": 3,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "wd": 1
+      }
+    ]
+  }
+}

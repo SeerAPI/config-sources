@@ -1,0 +1,105 @@
+{
+  "root": {
+    "item": [
+      {
+        "exchange_ctrl_sp": " ",
+        "exchange_weak_sp": " ",
+        "target_ctrl_sp": " ",
+        "target_weak_sp": " ",
+        "exchange_ctrl_cnt": 0,
+        "exchange_weak_cnt": 0,
+        "id": 300913,
+        "target_ctrl_cnt": 0,
+        "target_weak_cnt": 0
+      },
+      {
+        "exchange_ctrl_sp": " ",
+        "exchange_weak_sp": " ",
+        "target_ctrl_sp": " ",
+        "target_weak_sp": " ",
+        "exchange_ctrl_cnt": 0,
+        "exchange_weak_cnt": 0,
+        "id": 300914,
+        "target_ctrl_cnt": 0,
+        "target_weak_cnt": 0
+      },
+      {
+        "exchange_ctrl_sp": " ",
+        "exchange_weak_sp": " ",
+        "target_ctrl_sp": " ",
+        "target_weak_sp": " ",
+        "exchange_ctrl_cnt": 0,
+        "exchange_weak_cnt": 0,
+        "id": 300915,
+        "target_ctrl_cnt": 0,
+        "target_weak_cnt": 0
+      },
+      {
+        "exchange_ctrl_sp": " ",
+        "exchange_weak_sp": " ",
+        "target_ctrl_sp": " ",
+        "target_weak_sp": " ",
+        "exchange_ctrl_cnt": 1,
+        "exchange_weak_cnt": 1,
+        "id": 300916,
+        "target_ctrl_cnt": 1,
+        "target_weak_cnt": 1
+      },
+      {
+        "exchange_ctrl_sp": " ",
+        "exchange_weak_sp": " ",
+        "target_ctrl_sp": " ",
+        "target_weak_sp": " ",
+        "exchange_ctrl_cnt": 3,
+        "exchange_weak_cnt": 3,
+        "id": 300917,
+        "target_ctrl_cnt": 3,
+        "target_weak_cnt": 3
+      },
+      {
+        "exchange_ctrl_sp": " ",
+        "exchange_weak_sp": " ",
+        "target_ctrl_sp": " ",
+        "target_weak_sp": " ",
+        "exchange_ctrl_cnt": 0,
+        "exchange_weak_cnt": 0,
+        "id": 300921,
+        "target_ctrl_cnt": 0,
+        "target_weak_cnt": 0
+      },
+      {
+        "exchange_ctrl_sp": " ",
+        "exchange_weak_sp": " ",
+        "target_ctrl_sp": " ",
+        "target_weak_sp": " ",
+        "exchange_ctrl_cnt": 0,
+        "exchange_weak_cnt": 0,
+        "id": 300922,
+        "target_ctrl_cnt": 0,
+        "target_weak_cnt": 0
+      },
+      {
+        "exchange_ctrl_sp": " ",
+        "exchange_weak_sp": " ",
+        "target_ctrl_sp": " ",
+        "target_weak_sp": " ",
+        "exchange_ctrl_cnt": 0,
+        "exchange_weak_cnt": 0,
+        "id": 300923,
+        "target_ctrl_cnt": 0,
+        "target_weak_cnt": 0
+      },
+      {
+        "exchange_ctrl_sp": " ",
+        "exchange_weak_sp": " ",
+        "target_ctrl_sp": " ",
+        "target_weak_sp": " ",
+        "exchange_ctrl_cnt": 0,
+        "exchange_weak_cnt": 0,
+        "id": 300924,
+        "target_ctrl_cnt": 0,
+        "target_weak_cnt": 0
+      }
+    ]
+  }
+}

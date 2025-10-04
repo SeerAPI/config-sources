@@ -1,0 +1,2840 @@
+{
+  "root": {
+    "relation": [
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 0.5
+          },
+          {
+            "type": "water",
+            "multiple": 2.0
+          },
+          {
+            "type": "fire",
+            "multiple": 0.5
+          },
+          {
+            "type": "flying",
+            "multiple": 0.5
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 0.5
+          },
+          {
+            "type": "ground",
+            "multiple": 2.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 1.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 1.0
+          },
+          {
+            "type": "light",
+            "multiple": 2.0
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 0.5
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 0.5
+          },
+          {
+            "type": "demon",
+            "multiple": 1.0
+          },
+          {
+            "type": "nature",
+            "multiple": 1.0
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 0.5
+          },
+          {
+            "type": "deity",
+            "multiple": 0.5
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "grass"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 0.5
+          },
+          {
+            "type": "water",
+            "multiple": 0.5
+          },
+          {
+            "type": "fire",
+            "multiple": 2.0
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 1.0
+          },
+          {
+            "type": "ground",
+            "multiple": 2.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 1.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 1.0
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 0.5
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 1.0
+          },
+          {
+            "type": "nature",
+            "multiple": 0.5
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 0.5
+          },
+          {
+            "type": "deity",
+            "multiple": 0.5
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "water"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 2.0
+          },
+          {
+            "type": "water",
+            "multiple": 0.5
+          },
+          {
+            "type": "fire",
+            "multiple": 0.5
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 2.0
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 2.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 1.0
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 0.5
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 1.0
+          },
+          {
+            "type": "nature",
+            "multiple": 0.5
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 0.5
+          },
+          {
+            "type": "deity",
+            "multiple": 0.5
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "fire"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 2.0
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 0.5
+          },
+          {
+            "type": "steel",
+            "multiple": 0.5
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 1.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 2.0
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 1.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 0.5
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 0.5
+          },
+          {
+            "type": "nature",
+            "multiple": 0.5
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 0.5
+          },
+          {
+            "type": "deity",
+            "multiple": 1.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 2.0
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "flying"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 0.5
+          },
+          {
+            "type": "water",
+            "multiple": 2.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 2.0
+          },
+          {
+            "type": "electric",
+            "multiple": 0.5
+          },
+          {
+            "type": "steel",
+            "multiple": 1.0
+          },
+          {
+            "type": "ground",
+            "multiple": 0.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 1.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 1.0
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 2.0
+          },
+          {
+            "type": "myth",
+            "multiple": 0.5
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 0.5
+          },
+          {
+            "type": "dimension",
+            "multiple": 2.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 1.0
+          },
+          {
+            "type": "nature",
+            "multiple": 0.5
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 2.0
+          },
+          {
+            "type": "deity",
+            "multiple": 0.5
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 2.0
+          }
+        ],
+        "type": "electric"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 1.0
+          },
+          {
+            "type": "water",
+            "multiple": 0.5
+          },
+          {
+            "type": "fire",
+            "multiple": 0.5
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 0.5
+          },
+          {
+            "type": "steel",
+            "multiple": 0.5
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 2.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 2.0
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 1.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 0.5
+          },
+          {
+            "type": "ancient",
+            "multiple": 2.0
+          },
+          {
+            "type": "demon",
+            "multiple": 2.0
+          },
+          {
+            "type": "nature",
+            "multiple": 1.0
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 1.0
+          },
+          {
+            "type": "deity",
+            "multiple": 2.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "steel"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 0.5
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 2.0
+          },
+          {
+            "type": "flying",
+            "multiple": 0.0
+          },
+          {
+            "type": "electric",
+            "multiple": 2.0
+          },
+          {
+            "type": "steel",
+            "multiple": 2.0
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 1.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 0.5
+          },
+          {
+            "type": "fight",
+            "multiple": 1.0
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 0.5
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 0.5
+          },
+          {
+            "type": "saint",
+            "multiple": 0.5
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 1.0
+          },
+          {
+            "type": "nature",
+            "multiple": 0.5
+          },
+          {
+            "type": "king",
+            "multiple": 2.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 1.0
+          },
+          {
+            "type": "deity",
+            "multiple": 0.5
+          },
+          {
+            "type": "samsara",
+            "multiple": 2.0
+          },
+          {
+            "type": "insect",
+            "multiple": 0.5
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "ground"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 1.0
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 1.0
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 1.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 1.0
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 1.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 1.0
+          },
+          {
+            "type": "nature",
+            "multiple": 1.0
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 1.0
+          },
+          {
+            "type": "deity",
+            "multiple": 1.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "normal"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 2.0
+          },
+          {
+            "type": "water",
+            "multiple": 0.5
+          },
+          {
+            "type": "fire",
+            "multiple": 0.5
+          },
+          {
+            "type": "flying",
+            "multiple": 2.0
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 0.5
+          },
+          {
+            "type": "ground",
+            "multiple": 2.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 0.5
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 1.0
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 0.5
+          },
+          {
+            "type": "dimension",
+            "multiple": 2.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 2.0
+          },
+          {
+            "type": "demon",
+            "multiple": 1.0
+          },
+          {
+            "type": "nature",
+            "multiple": 1.0
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 0.5
+          },
+          {
+            "type": "deity",
+            "multiple": 0.5
+          },
+          {
+            "type": "samsara",
+            "multiple": 2.0
+          },
+          {
+            "type": "insect",
+            "multiple": 2.0
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "ice"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 1.0
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 0.5
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 1.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 0.5
+          },
+          {
+            "type": "fight",
+            "multiple": 2.0
+          },
+          {
+            "type": "light",
+            "multiple": 0.0
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 2.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 1.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 1.0
+          },
+          {
+            "type": "nature",
+            "multiple": 2.0
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 1.0
+          },
+          {
+            "type": "deity",
+            "multiple": 1.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 0.5
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "psychic"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 1.0
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 2.0
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 2.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 0.5
+          },
+          {
+            "type": "fight",
+            "multiple": 0.5
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 0.5
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 2.0
+          },
+          {
+            "type": "saint",
+            "multiple": 2.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 0.5
+          },
+          {
+            "type": "nature",
+            "multiple": 1.0
+          },
+          {
+            "type": "king",
+            "multiple": 0.5
+          },
+          {
+            "type": "chaos",
+            "multiple": 1.0
+          },
+          {
+            "type": "deity",
+            "multiple": 1.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "fight"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 0.0
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 0.5
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 0.5
+          },
+          {
+            "type": "psychic",
+            "multiple": 2.0
+          },
+          {
+            "type": "fight",
+            "multiple": 1.0
+          },
+          {
+            "type": "light",
+            "multiple": 0.5
+          },
+          {
+            "type": "dark",
+            "multiple": 2.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 0.5
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 0.5
+          },
+          {
+            "type": "nature",
+            "multiple": 0.5
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 1.0
+          },
+          {
+            "type": "deity",
+            "multiple": 0.5
+          },
+          {
+            "type": "samsara",
+            "multiple": 0.5
+          },
+          {
+            "type": "insect",
+            "multiple": 2.0
+          },
+          {
+            "type": "void",
+            "multiple": 0.5
+          }
+        ],
+        "type": "light"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 1.0
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 0.5
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 0.5
+          },
+          {
+            "type": "psychic",
+            "multiple": 2.0
+          },
+          {
+            "type": "fight",
+            "multiple": 1.0
+          },
+          {
+            "type": "light",
+            "multiple": 0.5
+          },
+          {
+            "type": "dark",
+            "multiple": 2.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 0.5
+          },
+          {
+            "type": "dimension",
+            "multiple": 2.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 0.5
+          },
+          {
+            "type": "nature",
+            "multiple": 1.0
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 1.0
+          },
+          {
+            "type": "deity",
+            "multiple": 0.5
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "dark"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 1.0
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 2.0
+          },
+          {
+            "type": "steel",
+            "multiple": 1.0
+          },
+          {
+            "type": "ground",
+            "multiple": 0.5
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 1.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 0.5
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 2.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 2.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 0.5
+          },
+          {
+            "type": "nature",
+            "multiple": 2.0
+          },
+          {
+            "type": "king",
+            "multiple": 2.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 0.5
+          },
+          {
+            "type": "deity",
+            "multiple": 2.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 2.0
+          },
+          {
+            "type": "insect",
+            "multiple": 0.5
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "myth"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 0.5
+          },
+          {
+            "type": "water",
+            "multiple": 0.5
+          },
+          {
+            "type": "fire",
+            "multiple": 0.5
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 0.5
+          },
+          {
+            "type": "steel",
+            "multiple": 1.0
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 2.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 1.0
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 2.0
+          },
+          {
+            "type": "saint",
+            "multiple": 2.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 0.5
+          },
+          {
+            "type": "demon",
+            "multiple": 2.0
+          },
+          {
+            "type": "nature",
+            "multiple": 1.0
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 1.0
+          },
+          {
+            "type": "deity",
+            "multiple": 1.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 0.5
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "dragon"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 2.0
+          },
+          {
+            "type": "water",
+            "multiple": 2.0
+          },
+          {
+            "type": "fire",
+            "multiple": 2.0
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 2.0
+          },
+          {
+            "type": "steel",
+            "multiple": 1.0
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 2.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 0.5
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 0.5
+          },
+          {
+            "type": "dragon",
+            "multiple": 0.5
+          },
+          {
+            "type": "saint",
+            "multiple": 1.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 2.0
+          },
+          {
+            "type": "demon",
+            "multiple": 1.0
+          },
+          {
+            "type": "nature",
+            "multiple": 1.0
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 1.0
+          },
+          {
+            "type": "deity",
+            "multiple": 1.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 0.5
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 2.0
+          }
+        ],
+        "type": "saint"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 1.0
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 2.0
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 2.0
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 0.5
+          },
+          {
+            "type": "psychic",
+            "multiple": 2.0
+          },
+          {
+            "type": "fight",
+            "multiple": 1.0
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 0.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 1.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 2.0
+          },
+          {
+            "type": "nature",
+            "multiple": 2.0
+          },
+          {
+            "type": "king",
+            "multiple": 0.5
+          },
+          {
+            "type": "chaos",
+            "multiple": 0.5
+          },
+          {
+            "type": "deity",
+            "multiple": 0.5
+          },
+          {
+            "type": "samsara",
+            "multiple": 0.5
+          },
+          {
+            "type": "insect",
+            "multiple": 2.0
+          },
+          {
+            "type": "void",
+            "multiple": 2.0
+          }
+        ],
+        "type": "dimension"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 2.0
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 2.0
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 0.5
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 0.5
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 1.0
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 2.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 2.0
+          },
+          {
+            "type": "saint",
+            "multiple": 1.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 1.0
+          },
+          {
+            "type": "nature",
+            "multiple": 1.0
+          },
+          {
+            "type": "king",
+            "multiple": 0.5
+          },
+          {
+            "type": "chaos",
+            "multiple": 1.0
+          },
+          {
+            "type": "deity",
+            "multiple": 1.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 0.5
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 2.0
+          }
+        ],
+        "type": "ancient"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 1.0
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 0.5
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 0.5
+          },
+          {
+            "type": "psychic",
+            "multiple": 0.5
+          },
+          {
+            "type": "fight",
+            "multiple": 1.0
+          },
+          {
+            "type": "light",
+            "multiple": 2.0
+          },
+          {
+            "type": "dark",
+            "multiple": 2.0
+          },
+          {
+            "type": "myth",
+            "multiple": 2.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 0.5
+          },
+          {
+            "type": "dimension",
+            "multiple": 2.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 1.0
+          },
+          {
+            "type": "nature",
+            "multiple": 2.0
+          },
+          {
+            "type": "king",
+            "multiple": 0.5
+          },
+          {
+            "type": "chaos",
+            "multiple": 0.5
+          },
+          {
+            "type": "deity",
+            "multiple": 0.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 0.5
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "demon"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 2.0
+          },
+          {
+            "type": "water",
+            "multiple": 2.0
+          },
+          {
+            "type": "fire",
+            "multiple": 2.0
+          },
+          {
+            "type": "flying",
+            "multiple": 2.0
+          },
+          {
+            "type": "electric",
+            "multiple": 2.0
+          },
+          {
+            "type": "steel",
+            "multiple": 0.5
+          },
+          {
+            "type": "ground",
+            "multiple": 2.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 1.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 0.5
+          },
+          {
+            "type": "fight",
+            "multiple": 0.5
+          },
+          {
+            "type": "light",
+            "multiple": 2.0
+          },
+          {
+            "type": "dark",
+            "multiple": 0.5
+          },
+          {
+            "type": "myth",
+            "multiple": 0.5
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 1.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 0.5
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 0.5
+          },
+          {
+            "type": "nature",
+            "multiple": 1.0
+          },
+          {
+            "type": "king",
+            "multiple": 2.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 0.5
+          },
+          {
+            "type": "deity",
+            "multiple": 1.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 2.0
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 0.5
+          }
+        ],
+        "type": "nature"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 1.0
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 1.0
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 1.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 0.5
+          },
+          {
+            "type": "fight",
+            "multiple": 2.0
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 2.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 1.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 2.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 2.0
+          },
+          {
+            "type": "nature",
+            "multiple": 0.5
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 1.0
+          },
+          {
+            "type": "deity",
+            "multiple": 1.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 0.5
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "king"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 1.0
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 2.0
+          },
+          {
+            "type": "electric",
+            "multiple": 0.5
+          },
+          {
+            "type": "steel",
+            "multiple": 0.5
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 2.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 0.5
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 2.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 1.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 2.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 2.0
+          },
+          {
+            "type": "nature",
+            "multiple": 2.0
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 1.0
+          },
+          {
+            "type": "deity",
+            "multiple": 2.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 0.5
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 0.0
+          }
+        ],
+        "type": "chaos"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 2.0
+          },
+          {
+            "type": "water",
+            "multiple": 2.0
+          },
+          {
+            "type": "fire",
+            "multiple": 2.0
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 2.0
+          },
+          {
+            "type": "steel",
+            "multiple": 0.5
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 2.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 0.5
+          },
+          {
+            "type": "light",
+            "multiple": 1.0
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 0.5
+          },
+          {
+            "type": "saint",
+            "multiple": 1.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 2.0
+          },
+          {
+            "type": "demon",
+            "multiple": 2.0
+          },
+          {
+            "type": "nature",
+            "multiple": 1.0
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 2.0
+          },
+          {
+            "type": "deity",
+            "multiple": 1.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "deity"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 1.0
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 1.0
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 0.5
+          },
+          {
+            "type": "psychic",
+            "multiple": 0.5
+          },
+          {
+            "type": "fight",
+            "multiple": 1.0
+          },
+          {
+            "type": "light",
+            "multiple": 2.0
+          },
+          {
+            "type": "dark",
+            "multiple": 2.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 2.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 2.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 2.0
+          },
+          {
+            "type": "nature",
+            "multiple": 0.5
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 2.0
+          },
+          {
+            "type": "deity",
+            "multiple": 1.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 0.5
+          }
+        ],
+        "type": "samsara"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 2.0
+          },
+          {
+            "type": "water",
+            "multiple": 0.5
+          },
+          {
+            "type": "fire",
+            "multiple": 0.5
+          },
+          {
+            "type": "flying",
+            "multiple": 1.0
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 1.0
+          },
+          {
+            "type": "ground",
+            "multiple": 2.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 0.5
+          },
+          {
+            "type": "psychic",
+            "multiple": 1.0
+          },
+          {
+            "type": "fight",
+            "multiple": 2.0
+          },
+          {
+            "type": "light",
+            "multiple": 0.5
+          },
+          {
+            "type": "dark",
+            "multiple": 1.0
+          },
+          {
+            "type": "myth",
+            "multiple": 1.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 1.0
+          },
+          {
+            "type": "dimension",
+            "multiple": 1.0
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 1.0
+          },
+          {
+            "type": "nature",
+            "multiple": 1.0
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 2.0
+          },
+          {
+            "type": "deity",
+            "multiple": 1.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 1.0
+          },
+          {
+            "type": "insect",
+            "multiple": 2.0
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "insect"
+      },
+      {
+        "opponent": [
+          {
+            "type": "grass",
+            "multiple": 1.0
+          },
+          {
+            "type": "water",
+            "multiple": 1.0
+          },
+          {
+            "type": "fire",
+            "multiple": 1.0
+          },
+          {
+            "type": "flying",
+            "multiple": 0.5
+          },
+          {
+            "type": "electric",
+            "multiple": 1.0
+          },
+          {
+            "type": "steel",
+            "multiple": 1.0
+          },
+          {
+            "type": "ground",
+            "multiple": 1.0
+          },
+          {
+            "type": "normal",
+            "multiple": 1.0
+          },
+          {
+            "type": "ice",
+            "multiple": 1.0
+          },
+          {
+            "type": "psychic",
+            "multiple": 2.0
+          },
+          {
+            "type": "fight",
+            "multiple": 2.0
+          },
+          {
+            "type": "light",
+            "multiple": 2.0
+          },
+          {
+            "type": "dark",
+            "multiple": 0.5
+          },
+          {
+            "type": "myth",
+            "multiple": 2.0
+          },
+          {
+            "type": "dragon",
+            "multiple": 1.0
+          },
+          {
+            "type": "saint",
+            "multiple": 0.5
+          },
+          {
+            "type": "dimension",
+            "multiple": 0.5
+          },
+          {
+            "type": "ancient",
+            "multiple": 1.0
+          },
+          {
+            "type": "demon",
+            "multiple": 1.0
+          },
+          {
+            "type": "nature",
+            "multiple": 2.0
+          },
+          {
+            "type": "king",
+            "multiple": 1.0
+          },
+          {
+            "type": "chaos",
+            "multiple": 1.0
+          },
+          {
+            "type": "deity",
+            "multiple": 1.0
+          },
+          {
+            "type": "samsara",
+            "multiple": 2.0
+          },
+          {
+            "type": "insect",
+            "multiple": 1.0
+          },
+          {
+            "type": "void",
+            "multiple": 1.0
+          }
+        ],
+        "type": "void"
+      }
+    ]
+  }
+}

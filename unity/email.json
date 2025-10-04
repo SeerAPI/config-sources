@@ -1,0 +1,688 @@
+{
+  "root": {
+    "elements": {
+      "element": [
+        {
+          "text": "",
+          "id": 0,
+          "type": ""
+        },
+        {
+          "text": "http://www.61.com/",
+          "id": 1,
+          "type": "url"
+        },
+        {
+          "text": "GuaizhangtangPanel",
+          "id": 2,
+          "type": "module"
+        },
+        {
+          "text": "103",
+          "id": 3,
+          "type": "map"
+        },
+        {
+          "text": "com.robot.app2.mapProcess.control.BrogrenThirdPartnerController:click1",
+          "id": 4,
+          "type": "func"
+        },
+        {
+          "text": "com.robot.app2.control.TaitanMineController:joinMine",
+          "id": 5,
+          "type": "func"
+        },
+        {
+          "text": "PvePrepareMiningPanel",
+          "id": 6,
+          "type": "module"
+        },
+        {
+          "text": "93",
+          "id": 7,
+          "type": "map"
+        },
+        {
+          "text": "1095",
+          "id": 8,
+          "type": "map"
+        },
+        {
+          "text": "PeerlessAdorablePetGardenPanel",
+          "id": 9,
+          "type": "module"
+        },
+        {
+          "text": "BigGiftOfDarkPetPanel",
+          "id": 10,
+          "type": "module"
+        },
+        {
+          "text": "http://dc.61.com/Question/realQ?qn_id=84",
+          "id": 11,
+          "type": "url"
+        },
+        {
+          "text": "VipSixAnnualPanel",
+          "id": 12,
+          "type": "module"
+        },
+        {
+          "text": "StarGateGiftPopupPanel",
+          "id": 13,
+          "type": "module"
+        },
+        {
+          "text": "StarGateGiftPopup2Panel",
+          "id": 14,
+          "type": "module"
+        },
+        {
+          "text": "StarGateGiftPopup3Panel",
+          "id": 15,
+          "type": "module"
+        },
+        {
+          "text": "StarGateGiftPopup4Panel",
+          "id": 16,
+          "type": "module"
+        },
+        {
+          "text": "StarGateTelanxiPanel",
+          "id": 17,
+          "type": "module"
+        },
+        {
+          "text": "StarGateXiangyuPanel",
+          "id": 18,
+          "type": "module"
+        },
+        {
+          "text": "StarGateDeerbolaPanel",
+          "id": 19,
+          "type": "module"
+        },
+        {
+          "text": "793",
+          "id": 20,
+          "type": "map"
+        },
+        {
+          "text": "102",
+          "id": 21,
+          "type": "map"
+        },
+        {
+          "text": "StarGateTianhugouyuPanel",
+          "id": 22,
+          "type": "module"
+        },
+        {
+          "text": "StarGateXierniniPanel",
+          "id": 23,
+          "type": "module"
+        },
+        {
+          "text": "StarGateFantianPanel",
+          "id": 24,
+          "type": "module"
+        },
+        {
+          "text": "StarGateLandisiPanel",
+          "id": 25,
+          "type": "module"
+        },
+        {
+          "text": "StarGateYemolongzhanPanel",
+          "id": 26,
+          "type": "module"
+        },
+        {
+          "text": "StarGateZhaerselongPanel",
+          "id": 27,
+          "type": "module"
+        },
+        {
+          "text": "StarGateHundunAnglePanel",
+          "id": 28,
+          "type": "module"
+        },
+        {
+          "text": "StarGateLelexiongPanel",
+          "id": 29,
+          "type": "module"
+        },
+        {
+          "text": "StarGateDilongshengzunPanel",
+          "id": 30,
+          "type": "module"
+        },
+        {
+          "text": "ChristmasWishAmbassadorSnowGetRewardPanel",
+          "id": 31,
+          "type": "module"
+        },
+        {
+          "text": "LightKingLeavingPanel",
+          "id": 32,
+          "type": "none"
+        },
+        {
+          "text": "StarGateLiubeiPanel",
+          "id": 33,
+          "type": "module"
+        },
+        {
+          "text": "StarGateShentianmaPanel",
+          "id": 34,
+          "type": "module"
+        },
+        {
+          "text": "StarGateYemolongzhanFreePanel",
+          "id": 35,
+          "type": "module"
+        },
+        {
+          "text": "StarGateGuijiankulouPanel",
+          "id": 36,
+          "type": "module"
+        },
+        {
+          "text": "StarGateGeleimuPanel",
+          "id": 37,
+          "type": "module"
+        },
+        {
+          "text": "StarGateHuanyingdiePanel",
+          "id": 38,
+          "type": "module"
+        },
+        {
+          "text": "Yearvip2018MainPanel",
+          "id": 39,
+          "type": "module"
+        },
+        {
+          "text": "com.robot.app.control.BestSignupController:receiveInvited",
+          "id": 40,
+          "type": "func"
+        },
+        {
+          "text": "NewYearRedPackage2016Panel",
+          "id": 41,
+          "type": "module"
+        },
+        {
+          "text": "1095",
+          "id": 42,
+          "type": "map"
+        },
+        {
+          "text": "AllianceMainPanel",
+          "id": 43,
+          "type": "module"
+        },
+        {
+          "text": "PrinceDragonOrderPanel",
+          "id": 44,
+          "type": "module"
+        },
+        {
+          "text": "com.robot.app2.control.PeakJihadController:onEquipmentClick3",
+          "id": 45,
+          "type": "func"
+        },
+        {
+          "text": "WinterGameRuiaoPanel",
+          "id": 46,
+          "type": "module"
+        },
+        {
+          "text": "StarGateRenwuyuePanel",
+          "id": 47,
+          "type": "module"
+        },
+        {
+          "text": "StarGateHeerkaPanel",
+          "id": 48,
+          "type": "module"
+        },
+        {
+          "text": "StarGateAugusitePanel",
+          "id": 49,
+          "type": "module"
+        },
+        {
+          "text": "http://seer.61.com/gameevent/2015djls/",
+          "id": 50,
+          "type": "url"
+        },
+        {
+          "text": "StarPetReturnMoshenMainPanel",
+          "id": 51,
+          "type": "module"
+        },
+        {
+          "text": "StarGateDiannaPanel",
+          "id": 52,
+          "type": "module"
+        },
+        {
+          "text": "StarGateQixiaolinPanel",
+          "id": 53,
+          "type": "module"
+        },
+        {
+          "text": "StarGateZhangfeiPanel",
+          "id": 54,
+          "type": "module"
+        },
+        {
+          "text": "StarGateYongyanPanel",
+          "id": 55,
+          "type": "module"
+        },
+        {
+          "text": "StarGateLuodiniaoPanel",
+          "id": 56,
+          "type": "module"
+        },
+        {
+          "text": "http://img.2125.com/img/h01/h66/img201602011625223.jpg",
+          "id": 57,
+          "type": "url"
+        },
+        {
+          "text": "StarGateHadisiPanel",
+          "id": 58,
+          "type": "module"
+        },
+        {
+          "text": "StarGateHelaPanel",
+          "id": 59,
+          "type": "module"
+        },
+        {
+          "text": "StarGateLucasPanel",
+          "id": 60,
+          "type": "module"
+        },
+        {
+          "text": "StarGateXiupunuosiPanel",
+          "id": 61,
+          "type": "module"
+        },
+        {
+          "text": "StarGateKeluonuosiPanel",
+          "id": 62,
+          "type": "module"
+        },
+        {
+          "text": "http://img.2125.com/img/h01/h66/img201602011625223.jpg",
+          "id": 63,
+          "type": "url"
+        },
+        {
+          "text": "http://seer.61.com/events/2016vote/?tad=innermedia.seer.free.inseer",
+          "id": 64,
+          "type": "url"
+        },
+        {
+          "text": "http://dc.61.com/Question/preView?qn_id=89",
+          "id": 65,
+          "type": "url"
+        },
+        {
+          "text": "http://seer.61.com/events/seer_dfls",
+          "id": 66,
+          "type": "url"
+        },
+        {
+          "text": "com.robot.app2.control.GetDiamondOpenedVipController:getReward2",
+          "id": 67,
+          "type": "func"
+        },
+        {
+          "text": "com.robot.app2.control.GetDiamondOpenedVipController:getReward3",
+          "id": 68,
+          "type": "func"
+        },
+        {
+          "text": "com.robot.app2.control.GetDiamondOpenedVipController:getReward4",
+          "id": 69,
+          "type": "func"
+        },
+        {
+          "text": "ShichangFajiang20160624",
+          "id": 70,
+          "type": "module"
+        },
+        {
+          "text": "StarGateLBPanel",
+          "id": 71,
+          "type": "module"
+        },
+        {
+          "text": "StarGateZFPanel",
+          "id": 72,
+          "type": "module"
+        },
+        {
+          "text": "ShadowGoblinKingPreheatingYuyueLiBaoPanel",
+          "id": 73,
+          "type": "module"
+        },
+        {
+          "text": "HyperSpriterKingPreViewPanel",
+          "id": 74,
+          "type": "module"
+        },
+        {
+          "text": "Mail082601Panel",
+          "id": 75,
+          "type": "module"
+        },
+        {
+          "text": "Mail082602Panel",
+          "id": 76,
+          "type": "module"
+        },
+        {
+          "text": "Mail20140912Panel",
+          "id": 77,
+          "type": "module"
+        },
+        {
+          "text": "1209",
+          "id": 78,
+          "type": "map"
+        },
+        {
+          "text": "1209",
+          "id": 79,
+          "type": "map"
+        },
+        {
+          "text": "ShichangFajiang20161014Panel",
+          "id": 80,
+          "type": "module"
+        },
+        {
+          "text": "Shichangfajiang20161021Panel",
+          "id": 81,
+          "type": "module"
+        },
+        {
+          "text": "BaiYanFreeGetPanel",
+          "id": 82,
+          "type": "module"
+        },
+        {
+          "text": "MikaerFreeGetPanel",
+          "id": 83,
+          "type": "module"
+        },
+        {
+          "text": "MarketExchangePanel",
+          "id": 84,
+          "type": "module"
+        },
+        {
+          "text": "Year2016PetLeaveSoonMainPanel",
+          "id": 85,
+          "type": "module"
+        },
+        {
+          "text": "com.robot.app2.control.HongbaoCollectionController:gotoTeamMap",
+          "id": 86,
+          "type": "func"
+        },
+        {
+          "text": "Shichang0106Panel",
+          "id": 87,
+          "type": "module"
+        },
+        {
+          "text": "Shichang0303Panel",
+          "id": 88,
+          "type": "module"
+        },
+        {
+          "text": "com.robot.app2.control.QingmingfuliController:agreeRecruit",
+          "id": 89,
+          "type": "func"
+        },
+        {
+          "text": "http://dc.61.com/Question/realQ?qn_id=107",
+          "id": 90,
+          "type": "url"
+        },
+        {
+          "text": "http://dc.61.com/Question/realQ?qn_id=107",
+          "id": 91,
+          "type": "url"
+        },
+        {
+          "text": "Shichang0526APanel",
+          "id": 92,
+          "type": "module"
+        },
+        {
+          "text": "Shichang0526BPanel",
+          "id": 93,
+          "type": "module"
+        },
+        {
+          "text": "Shichang0630APanel",
+          "id": 94,
+          "type": "module"
+        },
+        {
+          "text": "Shichang0630BPanel",
+          "id": 95,
+          "type": "module"
+        },
+        {
+          "text": "HellDragon0721Panel",
+          "id": 96,
+          "type": "module"
+        },
+        {
+          "text": "9;securityGuard/SecurityGuardPanel",
+          "id": 97,
+          "type": "map/module"
+        },
+        {
+          "text": "ShichangFajiang0818Panel",
+          "id": 98,
+          "type": "module"
+        },
+        {
+          "text": "ShichangFajiang0818Panel2",
+          "id": 99,
+          "type": "module"
+        },
+        {
+          "text": "PanduolaExchangePanel",
+          "id": 100,
+          "type": "module"
+        },
+        {
+          "text": "DihuangExchangePanel",
+          "id": 101,
+          "type": "module"
+        },
+        {
+          "text": "Year2017PetLeaveSoonMainPanel",
+          "id": 102,
+          "type": "module"
+        },
+        {
+          "text": "GuZangExchangePanel",
+          "id": 103,
+          "type": "module"
+        },
+        {
+          "text": "Year2018PetLeaveSoonMainPanel",
+          "id": 104,
+          "type": "module"
+        },
+        {
+          "text": "Yearvip2019MainPanel",
+          "id": 105,
+          "type": "module"
+        },
+        {
+          "text": "https://wj.qq.com/s2/3203606/a1eb",
+          "id": 106,
+          "type": "url"
+        },
+        {
+          "text": "1344",
+          "id": 107,
+          "type": "map"
+        },
+        {
+          "text": "http://kf.61.com/",
+          "id": 108,
+          "type": "url"
+        },
+        {
+          "text": "Yearvip2020MainPanel",
+          "id": 109,
+          "type": "module"
+        },
+        {
+          "text": "https://www.wjx.cn/jq/85898844.aspx",
+          "id": 110,
+          "type": "url"
+        },
+        {
+          "text": "H5TestPvpSingupPanel",
+          "id": 111,
+          "type": "module"
+        },
+        {
+          "text": "Year2021PetLeaveSoonMainPanel",
+          "id": 112,
+          "type": "module"
+        },
+        {
+          "text": "https://game.61.com/events/useraddress",
+          "id": 113,
+          "type": "url"
+        },
+        {
+          "text": "Year2022PetLeaveSoonMainPanel",
+          "id": 114,
+          "type": "module"
+        },
+        {
+          "text": "Year2023PetLeaveSoonMainPanel",
+          "id": 116,
+          "type": "module"
+        },
+        {
+          "text": "https://www.wjx.cn/vm/O08jIsQ.aspx#",
+          "id": 117,
+          "type": "url"
+        },
+        {
+          "text": "https://seer-tyf.61.com$",
+          "id": 118,
+          "type": "url"
+        },
+        {
+          "text": "https://www.wjx.cn/vm/hw7WLtj.aspx#",
+          "id": 119,
+          "type": "url"
+        },
+        {
+          "text": "https://www.wjx.cn/vm/mO9YHiP.aspx#",
+          "id": 120,
+          "type": "url"
+        },
+        {
+          "text": "https://www.bilibili.com/opus/998787489275576324",
+          "id": 121,
+          "type": "url"
+        },
+        {
+          "text": "https://www.wjx.cn/vm/P6xc1d8.aspx",
+          "id": 122,
+          "type": "url"
+        },
+        {
+          "text": "https://game.61.com/events/2024tlj/$",
+          "id": 123,
+          "type": "url"
+        },
+        {
+          "text": "Year2024PetLeaveSoonMainPanel",
+          "id": 124,
+          "type": "module"
+        },
+        {
+          "text": "https://seerm.61.com$",
+          "id": 125,
+          "type": "url"
+        },
+        {
+          "text": "https://www.wjx.cn/vm/ml4I0db.aspx#",
+          "id": 126,
+          "type": "url"
+        },
+        {
+          "text": "https://www.wjx.cn/vm/mhb8mxC.aspx#",
+          "id": 127,
+          "type": "url"
+        },
+        {
+          "text": "weixin://dl/business/?appid=wxf0d22ab84976dc91&path=pages/yinliu/index&env_version=release&query=isNoCode%3Dfalse%26onechannel%3Dgame%26twochannel%3Dgamemail%26activityId%3Dkf_yinliu",
+          "id": 128,
+          "type": "url"
+        },
+        {
+          "text": "https://www.wjx.cn/vm/rGe4KsP.aspx",
+          "id": 129,
+          "type": "url"
+        },
+        {
+          "text": "weixin://dl/business/?appid=wxf0d22ab84976dc91&path=pages/yinliu/index&query=configId%3D3%26gameId%3D2%26onechannel%3Dgame%26twochannel%3Dgamemaill",
+          "id": 130,
+          "type": "url"
+        },
+        {
+          "text": "https://www.wjx.cn/vm/Yu9B7kt.aspx",
+          "id": 131,
+          "type": "url"
+        },
+        {
+          "text": "https://www.wjx.cn/vm/rnpBjG1.aspx",
+          "id": 132,
+          "type": "url"
+        },
+        {
+          "text": "https://qm.qq.com/q/SNCS86tZ2s",
+          "id": 133,
+          "type": "url"
+        },
+        {
+          "text": "https://live.bilibili.com/31981409",
+          "id": 134,
+          "type": "url"
+        },
+        {
+          "text": "https://www.wjx.cn/vm/rXJKKLk.aspx#",
+          "id": 136,
+          "type": "url"
+        },
+        {
+          "text": "weixin://dl/business/?appid=wxf0d22ab84976dc91&path=pages/yinliu/index&query=configId%3D3%26gameId%3D2%26onechannel%3Dgame%26twochannel%3Dgamemail",
+          "id": 137,
+          "type": "url"
+        }
+      ]
+    }
+  }
+}

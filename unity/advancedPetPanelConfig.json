@@ -1,0 +1,296 @@
+{
+  "root": {
+    "task": [
+      {
+        "compone": {
+          "name": [
+            "暗猎之弓",
+            "暗猎之翼",
+            "暗猎王冠",
+            "暗猎箭矢"
+          ]
+        },
+        "jump": "ShiShenLieHuangMainPanel",
+        "jump_h5": "107",
+        "main_panel": {
+          "free_time": {
+            "id": 346
+          },
+          "pay_time": {
+            "id": 344
+          }
+        },
+        "id": 1
+      },
+      {
+        "compone": {
+          "name": [
+            "幽冥结晶",
+            "幽冥利爪",
+            "幽冥桂冠",
+            "幽冥狂兽"
+          ]
+        },
+        "jump": "",
+        "jump_h5": "",
+        "main_panel": {
+          "free_time": {
+            "id": 359
+          },
+          "pay_time": {
+            "id": 360
+          }
+        },
+        "id": 2
+      },
+      {
+        "compone": {
+          "name": [
+            "镇海之叉",
+            "御海之冠",
+            "怒海之阵",
+            "狂海之蛟",
+            "定海之戟"
+          ]
+        },
+        "jump": "PetJackpotStarRecruitPanel",
+        "jump_h5": "144|yinzi",
+        "main_panel": {
+          "free_time": {
+            "id": 367
+          },
+          "pay_time": {
+            "id": 368
+          }
+        },
+        "id": 3
+      },
+      {
+        "compone": {
+          "name": [
+            "灾雷魔刃",
+            "幽蓝迷晶",
+            "混沌漩涡",
+            "暗黑磁翼"
+          ]
+        },
+        "jump": "Villain1MainPanel",
+        "jump_h5": "",
+        "main_panel": {
+          "free_time": {
+            "id": 370
+          },
+          "pay_time": {
+            "id": 371
+          }
+        },
+        "id": 4
+      },
+      {
+        "compone": {
+          "name": [
+            "黄金之翼",
+            "皓月之角",
+            "赤阳之蹄",
+            "圣耀之铠"
+          ]
+        },
+        "jump": "GoldenLightPegasusSuperEvolutionMainPanel",
+        "jump_h5": "",
+        "main_panel": {
+          "free_time": {
+            "id": 374
+          },
+          "pay_time": {
+            "id": 375
+          }
+        },
+        "id": 5
+      },
+      {
+        "compone": {
+          "name": [
+            "皎月之刃",
+            "弦月之华",
+            "寒月之靴",
+            "凌月之冠"
+          ]
+        },
+        "jump": "CangyueCompleteMainPanel",
+        "jump_h5": "",
+        "main_panel": {
+          "free_time": {
+            "id": 377
+          },
+          "pay_time": {
+            "id": 378
+          }
+        },
+        "id": 6
+      },
+      {
+        "compone": {
+          "name": [
+            "枫灵发卡",
+            "枫灵手环",
+            "枫灵红叶",
+            "枫灵拂袖"
+          ]
+        },
+        "jump": "SpiritFragmentSystemBagPanel|3954",
+        "jump_h5": "yinzi",
+        "main_panel": {
+          "free_time": {
+            "id": 381
+          },
+          "pay_time": {
+            "id": 382
+          }
+        },
+        "id": 7
+      },
+      {
+        "compone": {
+          "name": [
+            "黑龙之视",
+            "黑龙之爪",
+            "黑龙之翼",
+            "黑龙之尾",
+            "黑龙之足"
+          ]
+        },
+        "jump": "SpiritFragmentSystemBagPanel",
+        "jump_h5": "yinzi",
+        "main_panel": {
+          "free_time": {
+            "id": 387
+          },
+          "pay_time": {
+            "id": 388
+          }
+        },
+        "id": 8
+      },
+      {
+        "compone": {
+          "name": [
+            "罪咎束带",
+            "邪恶刀锋",
+            "死亡阴影",
+            "混沌意识"
+          ]
+        },
+        "jump": "SpiritFragmentSystemBagPanel",
+        "jump_h5": "yinzi",
+        "main_panel": {
+          "free_time": {
+            "id": 395
+          },
+          "pay_time": {
+            "id": 396
+          }
+        },
+        "id": 9
+      },
+      {
+        "compone": {
+          "name": [
+            "振风庇护",
+            "雷鸣脉冲",
+            "驰骋毁灭",
+            "独断执念"
+          ]
+        },
+        "jump": "SpiritFragmentSystemBagPanel",
+        "jump_h5": "yinzi",
+        "main_panel": {
+          "free_time": {
+            "id": 400
+          },
+          "pay_time": {
+            "id": 401
+          }
+        },
+        "id": 10
+      },
+      {
+        "compone": {
+          "name": [
+            "暗夜呢喃",
+            "幽冥象征",
+            "梦呓袭染",
+            "侵神魅影"
+          ]
+        },
+        "jump": "PveRewardMallMainPanel|5",
+        "jump_h5": "SP1|yinzi",
+        "main_panel": {
+          "free_time": {
+            "id": 412
+          },
+          "pay_time": {
+            "id": 413
+          }
+        },
+        "id": 11
+      },
+      {
+        "compone": {
+          "name": [
+            ""
+          ]
+        },
+        "jump": "MoleculeIntensificationMainPanel",
+        "jump_h5": "",
+        "main_panel": {
+          "free_time": {
+            "id": 414
+          },
+          "pay_time": {
+            "id": 415
+          }
+        },
+        "id": 12
+      },
+      {
+        "compone": {
+          "name": [
+            ""
+          ]
+        },
+        "jump": "ChaosShadowSpiritKingMainPanel",
+        "jump_h5": "",
+        "main_panel": {
+          "free_time": {
+            "id": 421
+          },
+          "pay_time": {
+            "id": 422
+          }
+        },
+        "id": 13
+      },
+      {
+        "compone": {
+          "name": [
+            "鬼幽之冠",
+            "遗忘之骸",
+            "梦语之袖",
+            "惑心之翼"
+          ]
+        },
+        "jump": "PetJackpotEnergySupplyStarPanel",
+        "jump_h5": "144",
+        "main_panel": {
+          "free_time": {
+            "id": 427
+          },
+          "pay_time": {
+            "id": 428
+          }
+        },
+        "id": 14
+      }
+    ]
+  }
+}

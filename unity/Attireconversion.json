@@ -1,0 +1,105 @@
+{
+  "attireconversions": {
+    "attireconversion": [
+      {
+        "exchange_num": 100,
+        "id": 1,
+        "platform": 0,
+        "reward_id": 2300051,
+        "reward_num": 1,
+        "sub_num": 5,
+        "user_info": 124088
+      },
+      {
+        "exchange_num": 1,
+        "id": 2,
+        "platform": 0,
+        "reward_id": 300066,
+        "reward_num": 1,
+        "sub_num": 100,
+        "user_info": 124089
+      },
+      {
+        "exchange_num": 10,
+        "id": 3,
+        "platform": 0,
+        "reward_id": 300065,
+        "reward_num": 1,
+        "sub_num": 10,
+        "user_info": 124090
+      },
+      {
+        "exchange_num": 50,
+        "id": 4,
+        "platform": 0,
+        "reward_id": 1400352,
+        "reward_num": 10000,
+        "sub_num": 2,
+        "user_info": 124091
+      },
+      {
+        "exchange_num": 50,
+        "id": 5,
+        "platform": 0,
+        "reward_id": 1706927,
+        "reward_num": 20,
+        "sub_num": 3,
+        "user_info": 124092
+      },
+      {
+        "exchange_num": 50,
+        "id": 6,
+        "platform": 0,
+        "reward_id": 1706928,
+        "reward_num": 20,
+        "sub_num": 3,
+        "user_info": 124093
+      },
+      {
+        "exchange_num": 10,
+        "id": 7,
+        "platform": 0,
+        "reward_id": 300063,
+        "reward_num": 1,
+        "sub_num": 15,
+        "user_info": 124094
+      },
+      {
+        "exchange_num": 20,
+        "id": 8,
+        "platform": 0,
+        "reward_id": 300671,
+        "reward_num": 1,
+        "sub_num": 20,
+        "user_info": 124095
+      },
+      {
+        "exchange_num": 20,
+        "id": 9,
+        "platform": 0,
+        "reward_id": 1706826,
+        "reward_num": 1,
+        "sub_num": 4,
+        "user_info": 124096
+      },
+      {
+        "exchange_num": 20,
+        "id": 10,
+        "platform": 0,
+        "reward_id": 300075,
+        "reward_num": 1,
+        "sub_num": 2,
+        "user_info": 124097
+      },
+      {
+        "exchange_num": 20,
+        "id": 11,
+        "platform": 0,
+        "reward_id": 300673,
+        "reward_num": 1,
+        "sub_num": 5,
+        "user_info": 124098
+      }
+    ]
+  }
+}
