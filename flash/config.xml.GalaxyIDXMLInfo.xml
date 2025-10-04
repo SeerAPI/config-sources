@@ -1,0 +1,70 @@
+<root>
+	<galaxy id="30" 	name="赫尔卡星" 			galaxyID="1"/>
+	<galaxy id="20" 	name="海洋星" 			galaxyID="1"/>
+	<galaxy id="l0" 	name="克洛斯星" 			galaxyID="1"/>
+	<galaxy id="15" 	name="火山星" 			galaxyID="1"/>
+	<galaxy id="25" 	name="云霄星" 			galaxyID="1"/>
+	<galaxy id="105" 	name="双子阿尔法星" 		galaxyID="1"/>
+	<galaxy id="47" 	name="双子贝塔星" 			galaxyID="1"/>
+	<galaxy id="40" 	name="塞西利亚星" 			galaxyID="1"/>
+	<galaxy id="314" 	name="拜伦号" 			galaxyID="1"/>
+	<galaxy id="54" 	name="露希欧星"			galaxyID="1"/>
+	<galaxy id="51" 	name="斯诺星"				galaxyID="1"/>
+	<galaxy id="463" 	name="卡酷星" 			galaxyID="1"/>
+	
+	
+	<galaxy id="57" 	name="尼古尔星" 			galaxyID="2"/>
+	<galaxy id="60" 	name="塔克星" 			galaxyID="2"/>
+	<galaxy id="325" 	name="艾迪星" 			galaxyID="2"/>
+	<galaxy id="328" 	name="斯科尔星" 			galaxyID="2"/>
+	<galaxy id="333" 	name="普雷空间站" 			galaxyID="2"/>
+	<galaxy id="338" 	name="哈莫星" 			galaxyID="2"/>
+	<galaxy id="688" 	name="加利部落" 			galaxyID="2"/>
+	<galaxy id="699" 	name="诺可撒斯星" 			galaxyID="2"/>
+	<galaxy id="82" 	name="试炼之域" 			galaxyID="2"/>
+	<galaxy id="929" 	name="流芳仙洲" 			galaxyID="2"/>
+	<galaxy id="95" 	name="天蛇花原" 			galaxyID="2"/>	
+	<galaxy id="948" 	name="索伦森星" 			galaxyID="2"/>	
+	
+	<galaxy id="404" 	name="比格星" 			galaxyID="3"/>
+	<galaxy id="411" 	name="陨石地带" 			galaxyID="3"/>
+	<galaxy id="424" 	name="空间补给站" 			galaxyID="3"/>
+	<galaxy id="429" 	name="拓梯星" 			galaxyID="3"/>
+	<galaxy id="436" 	name="戴斯星" 			galaxyID="3"/>
+	<galaxy id="437" 	name="墨杜萨星" 			galaxyID="3"/>
+	<galaxy id="439" 	name="海兹尔星" 			galaxyID="3"/>
+	<galaxy id="441" 	name="拉铂尔星" 			galaxyID="3"/>
+	<galaxy id="459" 	name="菲尔纳星" 			galaxyID="3"/>
+	<galaxy id="481" 	name="般若星" 			galaxyID="3"/>
+	
+	
+	<galaxy id="484" 	name="怀特星" 			galaxyID="4"/>
+	<galaxy id="494" 	name="麦兹星" 			galaxyID="4"/>
+	<galaxy id="497" 	name="SUN星" 			galaxyID="4"/>
+	<galaxy id="451" 	name="黯夜之城" 			galaxyID="4"/>
+	<galaxy id="350" 	name="草莓乐土" 			galaxyID="4"/>
+	<galaxy id="356" 	name="未来星" 			galaxyID="4"/>
+	<galaxy id="662" 	name="Y星" 				galaxyID="4"/>
+	<galaxy id="668" 	name="异能部落" 			galaxyID="4"/>
+	<galaxy id="677" 	name="封印之境" 			galaxyID="4"/>
+	<galaxy id="19" 	name="提尔瑞斯星" 			galaxyID="4"/>
+	
+	
+	<galaxy id="702" 	name="巨石岛" 			galaxyID="5"/>
+	<galaxy id="29" 	name="浅滩海岛" 			galaxyID="5"/>
+	<galaxy id="717" 	name="雾气石林" 			galaxyID="5"/>
+	<galaxy id="726" 	name="蘑草绿洲" 			galaxyID="5"/>
+	<galaxy id="736" 	name="幻梦秘境" 			galaxyID="5"/>
+	<galaxy id="748" 	name="天空之门" 			galaxyID="5"/>
+	<galaxy id="775"	name="魔神陵墓"			galaxyID="5"/>
+	<galaxy id="786"	name="南瓜山谷"			galaxyID="5"/>
+	<galaxy id="795"	name="浮空仙岛"			galaxyID="5"/>
+	<galaxy id="74"		name="迷域之门"			galaxyID="5"/>
+	
+	<galaxy id="966"	name="创世广场"			galaxyID="6"/>
+	<galaxy id="967"	name="魔灵之城"			galaxyID="6"/>
+	<galaxy id="969"	name="永恒之树"			galaxyID="6"/>
+	<galaxy id="973"	name="魔域结界"			galaxyID="6"/>
+	<galaxy id="988"	name="德拉诺荒漠"			galaxyID="6"/>
+	<galaxy id="1100"	name="帝陵"				galaxyID="6"/>
+</root>

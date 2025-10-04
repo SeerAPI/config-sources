@@ -1,0 +1,25 @@
+<root>
+	<item id="1"   jump="app:NewGiftMainPanel"/>
+	<item id="2"   jump="app:NewTaiTanHoleMainPanel"/>
+	<item id="3"   jump="app:PveExpTrainingMainPanel"/>
+	<item id="4"   jump="app:StudytrainingMainPanel"/>
+	<item id="5"   jump="app:TowerOfCourageMainPanel"/>
+	<item id="6"   jump="app:StarWishdDriftBottleMainPanel"/>
+	<item id="7"   jump="app:SixKingOfGodPalaceMainPanel"/>
+	<item id="8"   jump="app:SeerNewBook1120MainPanel:0"/>
+	<item id="9"   jump="app:PveElvenKingTrialMainPanel"/>
+	<item id="10"  jump="app:PetBag2017"/>
+	<item id="11"  jump="app:StarWishdDriftBottleMainPanel"/>
+	<item id="101"  jump="app:NewTaiTanHoleMainPanel"/>
+	<item id="102"  jump="app:PveExpTrainingMainPanel"/>
+	<item id="103"  jump="app:StudytrainingMainPanel"/>
+	<item id="104"  jump="app:TowerOfCourageMainPanel"/>
+	<item id="105"  jump="app:RecommendPetPanel"/>
+	<item id="106"  jump="app:StarWishdDriftBottleMainPanel"/>
+	<item id="107"  jump="app:ResourceCopyMainPanel"/>
+	<item id="108"  jump="app:PeakJihad2023MainPanel"/>
+	<item id="109"  jump="app:PveElvenKingTrialMainPanel"/>
+	<item id="110"  jump="app:SixKingOfGodPalaceMainPanel"/>
+	<item id="111"  jump="app:SeerNewBook1120MainPanel:0"/>
+	<item id="112"  jump="map:1153"/>
+</root>

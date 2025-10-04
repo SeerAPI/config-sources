@@ -1,0 +1,356 @@
+<root>
+
+<!--
+JumpH5="107"   JumpH5="107"   H5跳转路径
+JumpH5= "AAA|BBBB"   AAA是精灵的获取途径， BBBB是精灵第五和特性的获得途径, 需要特殊参数的跳转@程序增加SP函数
+-->
+
+<Default>  <!-- OldEffID、NewEffID effectIcon.xml的effectId    -->
+
+
+	<ComparePanel>
+		<PetIcon Offset="" Scale="1.25"/>       <!-- 图片偏移量 x_y  精灵图标缩放-->
+		<OldEffect Id="822" />                       <!-- effectIcon.xml id -->
+		<AdvEffect Id="822" Des="this is &lt;font color='#FF7751'&gt;new&lt;/font&gt; Icon html text" />	 <!-- effectIcon-id   描述 htmltext   &lt;font color='#FF7751'&gt;  word   &lt;/font&gt;  -->
+	</ComparePanel>
+		
+	<InfoPanel>
+		<SpRes Url="" />     					  <!-- 特殊面板名字， 路径：update/advancedpet/advpetInfo/ ，取消程序动态加载 -->
+		<PetIcon Offset="" Scale="1"/>            <!-- 偏移量x_y 缩放-->
+		<AdvEffect Id="822" />                       <!-- effectIcon.xml id -->
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<PetIcon Offset="" Scale="0.7" />      <!-- 偏移量x_y 缩放-->
+		<Glow Color = "0xFF4500" Alpha="40" Blur = "12" />     <!-- 精灵图片发光滤镜参数 -->
+		<Tips Text = "&lt;font color='#FF7751'&gt;【活动规则】：&lt;/font&gt;&lt;br&gt;1、$START-$END期间可以通过试炼获取专属神谕之证&lt;br&gt;2、每天拥有5次试炼机会，每场战斗胜利后，可能获取5~7个专属神谕之证&lt;br&gt;3、实战试炼为1V1单精灵作战，且仅能使用$PET完成挑战&lt;br&gt;4、消耗专属神谕之证，解锁&lt;font color='#FF7751'&gt;全部$REQ个组件&lt;/font&gt;即可完成神谕进阶，解锁每个组件需要消耗$COST个神谕之证&lt;br&gt;5、已完成神谕进阶后可以继续进行实战试炼，照常获得专属神谕之证&lt;br&gt;6、试炼关闭后，剩余的专属神谕之证可以在活动结束前&lt;font color='#FF7751'&gt;手动转换&lt;/font&gt;为通用神谕之证，在返场商城强化错过的精灵&lt;br&gt;（返场商城活动将在后续更新开启，敬请期待）" />
+		<!-- &lt;br&gt; 换行-->    <!-- $START $END 由Time.Id提供  $PET为精灵名字  $REQ为组件数量      $COST为需要神谕之证数量 -->
+		<Time Id = "346"/>               <!-- activityTimeControl.xml id  -->
+	</ChallengePanel>
+	
+	<!-- 每个Task的内部参数可以不写，将会默认调用这个Default的数据 -->
+	
+</Default>
+
+
+
+<Task ID="1" PetID="3514" OldEffID="1108" NewEffID="2032" Jump="ShiShenLieHuangMainPanel" JumpH5="107" StatDes1="1028神谕进阶-弑神猎皇" StatDes2="2022运营活动">
+	<Compone Name="暗猎之弓|暗猎之翼|暗猎王冠|暗猎箭矢"/>
+	<MainPanel>
+		<FreeTime Id = "346"/>  
+		<PayTime Id =  "344"/>  
+	</MainPanel>
+
+	<ComparePanel>
+		<OldEffect Id="822" />
+	</ComparePanel>
+		
+	<InfoPanel>
+	<PetIcon Offset="0_30" Scale="1.1"/>  
+		<AdvEffect Id="1646"  />
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<Time Id = "346"/>  
+	</ChallengePanel>
+</Task>
+
+
+<Task ID="2" PetID="3704" OldEffID="1283" NewEffID="2049" Jump="" JumpH5="" StatDes1="1216神谕进阶-狂热之诚·吉罗德" StatDes2="2022运营活动">
+	<Compone Name="幽冥结晶|幽冥利爪|幽冥桂冠|幽冥狂兽"/>
+	<MainPanel>
+		<FreeTime Id = "359"/>  
+		<PayTime Id =  "360"/>  
+	</MainPanel>
+
+	<ComparePanel>
+		<PetIcon Offset="35_40" Scale="1.3" /> 
+		<OldEffect Id="985" />
+	</ComparePanel>
+		
+	<InfoPanel>
+	<PetIcon Offset="25_35" Scale="1.1"/>  
+		<AdvEffect Id="1666"  />
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<Time Id = "359"/>  
+	</ChallengePanel>
+</Task>
+
+
+<Task ID="3" PetID="3506" OldEffID="1103" NewEffID="2066" Jump="PetJackpotStarRecruitPanel" FifthSkillJump="SpiritFragmentSystemBagPanel|3506" JumpH5="144|yinzi" StatDes1="0203神谕进阶-惊涛海皇·波塞冬" StatDes2="2023运营活动">
+	<Compone Name="镇海之叉|御海之冠|怒海之阵|狂海之蛟|定海之戟"/>
+	<MainPanel>
+		<FreeTime Id = "367"/>  
+		<PayTime Id =  "368"/>  
+	</MainPanel>
+
+	<ComparePanel>
+		<OldEffect Id="819" />
+	</ComparePanel>
+		
+	<InfoPanel>
+		<PetIcon Offset="0_35" Scale="1"/>  
+		<AdvEffect Id="1685"  />
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<Time Id = "367"/>
+	</ChallengePanel>
+</Task>
+
+
+<Task ID="4" PetID="3388" OldEffID="987" NewEffID="2084" Jump="Villain1MainPanel" JumpH5="" StatDes1="0317神谕进阶-昔兰尼加" StatDes2="2023运营活动">
+	<Compone Name="灾雷魔刃|幽蓝迷晶|混沌漩涡|暗黑磁翼"/>
+	<MainPanel>
+		<FreeTime Id = "370"/>
+		<PayTime Id =  "371"/>
+	</MainPanel>
+
+	<ComparePanel>
+		<OldEffect Id="701" />
+	</ComparePanel>
+		
+	<InfoPanel>
+		<PetIcon Offset="-35_85" Scale="0.85"/>
+		<AdvEffect Id="1697"  />
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<Time Id = "370"/>
+	</ChallengePanel>
+</Task>
+
+
+<Task ID="5" PetID="3670" OldEffID="1245" NewEffID="2096" Jump="GoldenLightPegasusSuperEvolutionMainPanel" JumpH5="" StatDes1="0421神谕进阶-圣耀之光·黄金天马" StatDes2="2023运营活动">
+	<Compone Name="黄金之翼|皓月之角|赤阳之蹄|圣耀之铠"/>
+	<MainPanel>
+		<FreeTime Id = "374"/>
+		<PayTime Id =  "375"/>
+	</MainPanel>
+
+	<ComparePanel>
+		<OldEffect Id="956" />
+	</ComparePanel>
+		
+	<InfoPanel>
+		<PetIcon Offset="-55_-8" Scale="0.75"/>
+		<AdvEffect Id="1710"  />
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<Time Id = "374"/>
+	</ChallengePanel>
+</Task>
+
+
+<Task ID="6" PetID="3507" OldEffID="1104" NewEffID="2109" Jump="CangyueCompleteMainPanel" JumpH5="" StatDes1="0519神谕进阶-冥王·苍月影" StatDes2="2023运营活动">
+	<Compone Name="皎月之刃|弦月之华|寒月之靴|凌月之冠"/>
+	<MainPanel>
+		<FreeTime Id = "377"/>
+		<PayTime Id =  "378"/>
+	</MainPanel>
+
+	<ComparePanel>
+		<OldEffect Id="817" />
+	</ComparePanel>
+		
+	<InfoPanel>
+		<PetIcon Offset="-14_50" Scale="0.6"/>
+		<AdvEffect Id="1718"  />
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<Time Id = "377"/>
+	</ChallengePanel>
+</Task>
+
+
+<Task ID="7" PetID="3954" OldEffID="1553" NewEffID="2122" Jump="SpiritFragmentSystemBagPanel|3954" JumpH5="yinzi" FifthSkillJump="SpiritFragmentSystemBagPanel|3954" StatDes1="0630神谕进阶-枫眠" StatDes2="2023运营活动" >
+	<Compone Name="枫灵发卡|枫灵手环|枫灵红叶|枫灵拂袖"/>
+	<MainPanel>
+		<FreeTime Id = "381"/>
+		<PayTime Id =  "382"/>
+	</MainPanel>
+
+	<ComparePanel>
+		<OldEffect Id="1218" />
+	</ComparePanel>
+		
+	<InfoPanel>
+		<PetIcon Offset="20_90" Scale="0.7"/>
+		<AdvEffect Id="1730"  />
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<Time Id = "381"/>
+		<Tips Text = "&lt;font color='#FF7751'&gt;【活动规则】：&lt;/font&gt;&lt;br&gt;1、$START-$END期间可以通过试炼获取专属神谕之证&lt;br&gt;2、每天拥有5次试炼机会，每场战斗胜利后，可能获取4~6个专属神谕之证&lt;br&gt;3、实战试炼为1V1单精灵作战，且仅能使用$PET完成挑战&lt;br&gt;4、消耗专属神谕之证，解锁&lt;font color='#FF7751'&gt;全部$REQ个组件&lt;/font&gt;即可完成神谕进阶，解锁每个组件需要消耗$COST个神谕之证&lt;br&gt;5、已完成神谕进阶后可以继续进行实战试炼，照常获得专属神谕之证&lt;br&gt;6、试炼关闭后，剩余的专属神谕之证可以在活动结束前&lt;font color='#FF7751'&gt;手动转换&lt;/font&gt;为通用神谕之证，在返场商城强化错过的精灵&lt;br&gt;（返场商城活动将在后续更新开启，敬请期待）" />
+		<!-- diff：获取数量6~8     （tips不写默认调用最上面的tips）  -->
+	</ChallengePanel>
+</Task>
+
+<Task ID="8" PetID="3724" OldEffID="1299" NewEffID="2141" Jump="SpiritFragmentSystemBagPanel" JumpH5="yinzi" FifthSkillJump="SpiritFragmentSystemBagPanel" StatDes1="0908哈肯萨神谕" StatDes2="2023运营活动" >
+	<Compone Name="黑龙之视|黑龙之爪|黑龙之翼|黑龙之尾|黑龙之足"/>
+	<MainPanel>
+		<FreeTime Id = "387"/>
+		<PayTime Id =  "388"/>
+	</MainPanel>
+
+	<ComparePanel>
+		<OldEffect Id="999" />
+	</ComparePanel>
+		
+	<InfoPanel>
+		<PetIcon Offset="-18_60" Scale="0.7"/>
+		<AdvEffect Id="1756"  />
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<Time Id = "387"/>
+		<Tips Text = "&lt;font color='#FF7751'&gt;【活动规则】：&lt;/font&gt;&lt;br&gt;1、$START-$END期间可以通过试炼获取专属神谕之证&lt;br&gt;2、进阶的精灵需要&lt;font color='#FF7751'&gt;已解锁第五技能及专属特性&lt;/font&gt;&lt;br&gt;3、每天拥有5次试炼机会，每场战斗胜利后，可能获取6~8个专属神谕之证&lt;br&gt;4、实战试炼为1V1单精灵作战，且仅能使用$PET完成挑战&lt;br&gt;5、消耗专属神谕之证，解锁&lt;font color='#FF7751'&gt;全部$REQ个组件&lt;/font&gt;即可完成神谕进阶，解锁每个组件需要消耗$COST个神谕之证&lt;br&gt;6、已完成神谕进阶后可以继续进行实战试炼，照常获得专属神谕之证&lt;br&gt;7、试炼关闭后，剩余的专属神谕之证可以在活动结束前&lt;font color='#FF7751'&gt;手动转换&lt;/font&gt;为通用神谕之证，在返场商城强化错过的精灵&lt;br&gt;（返场商城活动将在后续更新开启，敬请期待）" />
+		<!-- diff：获取数量6~8     （tips不写默认调用最上面的tips）  -->
+	</ChallengePanel>
+</Task>
+
+<Task ID="9" PetID="3716" OldEffID="1292" NewEffID="2160" Jump="SpiritFragmentSystemBagPanel" JumpH5="yinzi" FifthSkillJump="SpiritFragmentSystemBagPanel" StatDes1="1013该洛西斯神谕" StatDes2="2023运营活动" >
+	<Compone Name="罪咎束带|邪恶刀锋|死亡阴影|混沌意识"/>
+	<MainPanel>
+		<FreeTime Id = "395"/>
+		<PayTime Id =  "396"/>
+	</MainPanel>
+
+	<ComparePanel>
+		<OldEffect Id="993" />
+	</ComparePanel>
+		
+	<InfoPanel>
+		<PetIcon Offset="-60_50" Scale="0.7"/>
+		<AdvEffect Id="1769"  />
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<Time Id = "395"/>
+		<Tips Text = "&lt;font color='#FF7751'&gt;【活动规则】：&lt;/font&gt;&lt;br&gt;1、$START-$END期间可以通过试炼获取专属神谕之证&lt;br&gt;2、进阶的精灵需要&lt;font color='#FF7751'&gt;已解锁第五技能及专属特性&lt;/font&gt;&lt;br&gt;3、每天拥有5次试炼机会，每场战斗胜利后，可能获取5~7个专属神谕之证&lt;br&gt;4、实战试炼为1V1单精灵作战，且仅能使用$PET完成挑战&lt;br&gt;5、消耗专属神谕之证，解锁&lt;font color='#FF7751'&gt;全部$REQ个组件&lt;/font&gt;即可完成神谕进阶，解锁每个组件需要消耗$COST个神谕之证&lt;br&gt;6、已完成神谕进阶后可以继续进行实战试炼，照常获得专属神谕之证&lt;br&gt;7、试炼关闭后，剩余的专属神谕之证可以在活动结束前&lt;font color='#FF7751'&gt;手动转换&lt;/font&gt;为通用神谕之证，在返场商城强化错过的精灵&lt;br&gt;（返场商城活动将在后续更新开启，敬请期待）" />
+		<!-- diff：获取数量6~8     （tips不写默认调用最上面的tips）  -->
+	</ChallengePanel>
+</Task>
+
+<Task ID="10" PetID="3705" OldEffID="1284" NewEffID="2174" Jump="SpiritFragmentSystemBagPanel" JumpH5="yinzi" FifthSkillJump="SpiritFragmentSystemBagPanel" StatDes1="1124守护者艾里克神谕" StatDes2="2023运营活动" >
+	<Compone Name="振风庇护|雷鸣脉冲|驰骋毁灭|独断执念"/>
+	<MainPanel>
+		<FreeTime Id = "400"/>
+		<PayTime Id =  "401"/>
+	</MainPanel>
+
+	<ComparePanel>
+		<OldEffect Id="984" />
+	</ComparePanel>
+		
+	<InfoPanel>
+		<PetIcon Offset="-20_20" Scale=""/>
+		<AdvEffect Id="1781"  />
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<Time Id = "400"/>
+		<Tips Text = "&lt;font color='#FF7751'&gt;【活动规则】：&lt;/font&gt;&lt;br&gt;1、$START-$END期间可以通过试炼获取专属神谕之证&lt;br&gt;2、进阶的精灵需要&lt;font color='#FF7751'&gt;已解锁第五技能及专属特性&lt;/font&gt;&lt;br&gt;3、每天拥有5次试炼机会，每场战斗胜利后，可能获取5~7个专属神谕之证&lt;br&gt;4、实战试炼为1V1单精灵作战，且仅能使用$PET完成挑战&lt;br&gt;5、消耗专属神谕之证，解锁&lt;font color='#FF7751'&gt;全部$REQ个组件&lt;/font&gt;即可完成神谕进阶，解锁每个组件需要消耗$COST个神谕之证&lt;br&gt;6、已完成神谕进阶后可以继续进行实战试炼，照常获得专属神谕之证&lt;br&gt;7、试炼关闭后，剩余的专属神谕之证可以在活动结束前&lt;font color='#FF7751'&gt;手动转换&lt;/font&gt;为通用神谕之证，在返场商城强化错过的精灵&lt;br&gt;（返场商城活动将在后续更新开启，敬请期待）" />
+		<!-- diff：获取数量6~8     （tips不写默认调用最上面的tips）  -->
+	</ChallengePanel>
+</Task>
+
+<Task ID="11" PetID="3156" OldEffID="801" NewEffID="2209" Jump="PveRewardMallMainPanel|5" JumpH5="SP1|yinzi" FifthSkillJump="SpiritFragmentSystemBagPanel" StatDes1="0308路希菲尔德神谕" StatDes2="2024运营活动" >
+	<Compone Name="暗夜呢喃|幽冥象征|梦呓袭染|侵神魅影"/>
+	<MainPanel>
+		<FreeTime Id = "412"/>
+		<PayTime Id =  "413"/>
+	</MainPanel>
+
+	<ComparePanel>
+		<OldEffect Id="497" />
+	</ComparePanel>
+		
+	<InfoPanel>
+		<PetIcon Offset="-80_15" Scale="0.68"/>
+		<AdvEffect Id="1819"  />
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<Time Id = "412"/>
+		<Tips Text = "&lt;font color='#FF7751'&gt;【活动规则】：&lt;/font&gt;&lt;br&gt;1、$START-$END期间可以通过试炼获取专属神谕之证&lt;br&gt;2、进阶的精灵需要&lt;font color='#FF7751'&gt;已解锁第五技能及专属特性&lt;/font&gt;&lt;br&gt;3、每天拥有5次试炼机会，每场战斗胜利后，可能获取5~7个专属神谕之证&lt;br&gt;4、实战试炼为1V1单精灵作战，且仅能使用$PET完成挑战&lt;br&gt;5、消耗专属神谕之证，解锁&lt;font color='#FF7751'&gt;全部$REQ个组件&lt;/font&gt;即可完成神谕进阶，解锁每个组件需要消耗$COST个神谕之证&lt;br&gt;6、已完成神谕进阶后可以继续进行实战试炼，照常获得专属神谕之证&lt;br&gt;7、试炼关闭后，剩余的专属神谕之证可以在活动结束前&lt;font color='#FF7751'&gt;手动转换&lt;/font&gt;为通用神谕之证，在返场商城强化错过的精灵&lt;br&gt;（返场商店“神谕归来”持续开放中）" />
+		<!-- diff：获取数量6~8     （tips不写默认调用最上面的tips）  -->
+	</ChallengePanel>
+</Task>
+
+<Task ID="12" PetID="3613" OldEffID="1191" NewEffID="2215" Jump="MoleculeIntensificationMainPanel" FifthSkillJump="MoleculeIntensificationMainPanel" StatDes1="0403芳馨·茉蕊儿元素觉醒" StatDes2="2024运营活动" >
+	<Compone Name=" "/>
+	<MainPanel>
+		<FreeTime Id = "414"/>
+		<PayTime Id =  "415"/>
+	</MainPanel>
+
+	<ComparePanel>
+		<OldEffect Id="909" />
+	</ComparePanel>
+		
+	<InfoPanel>
+		<PetIcon Offset="2_15" Scale="0.78"/>
+		<AdvEffect Id="1825"  />
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<Time Id = "414"/>
+		<Tips Text = "&lt;font color=&apos;#FF7751&apos;&gt;【活动规则】：&lt;/font&gt;&lt;br&gt;1、$START-$END期间可以通过试炼获取复苏结晶&lt;br&gt;2、精灵的元素觉醒需要&lt;font color=&apos;#FF7751&apos;&gt;已解锁第五技能及专属特性&lt;/font&gt;&lt;br&gt;3、每天拥有&lt;font color=&apos;#FF7751&apos;&gt;6次&lt;/font&gt;试炼机会，每场战斗胜利后可获取5~7个复苏结晶&lt;br&gt;4、元素试炼为1V1单精灵作战，且仅能使用$PET完成挑战&lt;br&gt;5、消耗&lt;font color=&apos;#FF7751&apos;&gt;720个复苏结晶&lt;/font&gt;即可完成元素觉醒。" />
+		<!-- diff：获取数量6~8     （tips不写默认调用最上面的tips）  -->
+	</ChallengePanel>
+</Task>
+
+<Task ID="13" PetID="3941" OldEffID="1539" NewEffID="2220" Jump="ChaosShadowSpiritKingMainPanel" FifthSkillJump="ChaosShadowSpiritKingMainPanel" StatDes1="0503混沌暗王霍德尔元素觉醒" StatDes2="2024运营活动" >
+	<Compone Name=" "/>
+	<MainPanel>
+		<FreeTime Id = "421"/>
+		<PayTime Id =  "422"/>
+	</MainPanel>
+
+	<ComparePanel>
+		<OldEffect Id="1204" />
+	</ComparePanel>
+		
+	<InfoPanel>
+		<PetIcon Offset="2_15" Scale="0.78"/>
+		<AdvEffect Id="1834"  />
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<Time Id = "421"/>
+		<Tips Text = "&lt;font color=&apos;#FF7751&apos;&gt;【活动规则】：&lt;/font&gt;&lt;br&gt;1、$START-$END期间可以通过试炼获取蚀影结晶&lt;br&gt;2、精灵的元素觉醒需要&lt;font color=&apos;#FF7751&apos;&gt;已解锁第五技能及专属特性&lt;/font&gt;&lt;br&gt;3、每天拥有&lt;font color=&apos;#FF7751&apos;&gt;6次&lt;/font&gt;试炼机会，每场战斗胜利后可获取5~7个蚀影结晶&lt;br&gt;4、元素试炼为1V1单精灵作战，且仅能使用$PET完成挑战&lt;br&gt;5、消耗&lt;font color=&apos;#FF7751&apos;&gt;720个蚀影结晶&lt;/font&gt;即可完成元素觉醒。" />
+		<!-- diff：获取数量6~8     （tips不写默认调用最上面的tips）  -->
+	</ChallengePanel>
+</Task>
+
+
+
+<Task ID="14" PetID="3623" OldEffID="1201" NewEffID="2257" Jump="PetJackpotEnergySupplyStarPanel" FifthSkillJump="PetJackpotEnergySupplyStarPanel" JumpH5="144" StatDes1="0809鬼面幽蝶神谕" StatDes2="2024运营活动" >
+	<Compone Name="鬼幽之冠|遗忘之骸|梦语之袖|惑心之翼"/>
+	<MainPanel>
+		<FreeTime Id = "427"/>
+		<PayTime Id =  "428"/>
+	</MainPanel>
+
+	<ComparePanel>
+		<OldEffect Id="917" />
+	</ComparePanel>
+		
+	<InfoPanel>
+
+		<PetIcon Offset="-30_15" Scale="0.68"/>
+		<AdvEffect Id="1863"  />
+	</InfoPanel>
+	
+	<ChallengePanel>
+		<Time Id = "427"/>
+		<Tips Text = "&lt;font color='#FF7751'&gt;【活动规则】：&lt;/font&gt;&lt;br&gt;1、$START-$END期间可以通过试炼获取专属神谕之证&lt;br&gt;2、进阶的精灵需要&lt;font color='#FF7751'&gt;已解锁第五技能及专属特性&lt;/font&gt;&lt;br&gt;3、每天拥有5次试炼机会，每场战斗胜利后，可能获取5~7个专属神谕之证&lt;br&gt;4、实战试炼为1V1单精灵作战，且仅能使用$PET完成挑战&lt;br&gt;5、消耗专属神谕之证，解锁&lt;font color='#FF7751'&gt;全部$REQ个组件&lt;/font&gt;即可完成神谕进阶，解锁每个组件需要消耗$COST个神谕之证&lt;br&gt;6、已完成神谕进阶后可以继续进行实战试炼，照常获得专属神谕之证&lt;br&gt;7、试炼关闭后，剩余的专属神谕之证可以在活动结束前&lt;font color='#FF7751'&gt;手动转换&lt;/font&gt;为通用神谕之证，在返场商城强化错过的精灵&lt;br&gt;（返场商店“神谕归来”持续开放中）" />
+		<!-- diff：获取数量6~8     （tips不写默认调用最上面的tips）  -->
+	</ChallengePanel>
+</Task>
+</root>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Patresearchgames>
+	<Patresearchgame GameStage="1" StageDesc="第1天第1关" UseCardInfo="1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30" InitEnergyID="1" ConvertInfo="0" GenNum="4" TargetRule="1_1_1_3" TargetDesc="经历1次转换后，生成不超过4个能源，且至少包含1个草属性的能源。"/>
+	<Patresearchgame GameStage="2" StageDesc="第1天第2关" UseCardInfo="1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30" InitEnergyID="3_3_3" ConvertInfo="0_0" GenNum="4" TargetRule="1_1_1_1" TargetDesc="经历2次转换后，生成不超过4个能源，且至少包含1个水属性的能源。"/>
+	<Patresearchgame GameStage="3" StageDesc="第2天第1关" UseCardInfo="1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30" InitEnergyID="1_1" ConvertInfo="0_0" GenNum="4" TargetRule="2_1_2_0" TargetDesc="经历2次转换后，生成不超过4个能源，且所有生成能源的属性相同。"/>
+	<Patresearchgame GameStage="4" StageDesc="第2天第2关" UseCardInfo="1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30" InitEnergyID="1_3_3" ConvertInfo="0_0_0" GenNum="4" TargetRule="1_2_2_0" TargetDesc="经历3次转换后，生成不超过4个能源，且至少需要包含2种属性。"/>
+	<Patresearchgame GameStage="5" StageDesc="第3天第1关" UseCardInfo="1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30" InitEnergyID="2" ConvertInfo="0_0_0" GenNum="3" TargetRule="2_1_2_0" TargetDesc="经历3次转换后，生成不超过3个能源，且所有生成能源的属性相同。"/>
+	<Patresearchgame GameStage="6" StageDesc="第3天第2关" UseCardInfo="1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30" InitEnergyID="2_3" ConvertInfo="0_201" GenNum="4" TargetRule="1_1_1_2" TargetDesc="经历2次转换后，生成不超过4个能源，且至少包含1个火属性的能源。"/>
+	<Patresearchgame GameStage="7" StageDesc="第4天第1关" UseCardInfo="1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30" InitEnergyID="3" ConvertInfo="0_0_0" GenNum="4" TargetRule="2_3_2_0" TargetDesc="经历3次转换后，生成不超过4个能源，且需要包含3种属性。"/>
+	<Patresearchgame GameStage="8" StageDesc="第4天第2关" UseCardInfo="1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30" InitEnergyID="2" ConvertInfo="0_0_201" GenNum="4" TargetRule="1_2_1_1" TargetDesc="经历3次转换后，生成不超过4个能源，且至少包含2个水属性的能源。"/>
+	<Patresearchgame GameStage="9" StageDesc="第5天第1关" UseCardInfo="1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30" InitEnergyID="3" ConvertInfo="0_202" GenNum="3" TargetRule="1_1_1_2" TargetDesc="经历2次转换后，生成不超过3个能源，且至少包含1个火属性的能源。"/>
+	<Patresearchgame GameStage="10" StageDesc="第5天第2关" UseCardInfo="1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30" InitEnergyID="3" ConvertInfo="0_201_0" GenNum="4" TargetRule="1_2_1_3" TargetDesc="经历3次转换后，生成不超过4个能源，且至少包含2个草属性的能源。"/>
+	<Patresearchgame GameStage="11" StageDesc="第6天第1关" UseCardInfo="1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30" InitEnergyID="2" ConvertInfo="0_0_202" GenNum="4" TargetRule="1_2_1_1" TargetDesc="经历3次转换后，生成不超过4个能源，且至少包含2个水属性的能源。"/>
+	<Patresearchgame GameStage="12" StageDesc="第6天第2关" UseCardInfo="1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30" InitEnergyID="3" ConvertInfo="0_202_0" GenNum="4" TargetRule="1_2_1_2" TargetDesc="经历3次转换后，生成不超过4个能源，且至少包含2个火属性的能源。"/>
+	<Patresearchgame GameStage="13" StageDesc="第7天第1关" UseCardInfo="1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30" InitEnergyID="2" ConvertInfo="0_0_0" GenNum="4" TargetRule="2_3_2_0" TargetDesc="经历3次转换后，生成不超过4个能源，且需要包含3种属性。"/>
+	<Patresearchgame GameStage="14" StageDesc="第7天第2关" UseCardInfo="1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30" InitEnergyID="2" ConvertInfo="0_201_0" GenNum="4" TargetRule="2_3_2_0" TargetDesc="经历3次转换后，生成不超过4个能源，且需要包含3种属性。"/>
+	
+	
+</Patresearchgames>

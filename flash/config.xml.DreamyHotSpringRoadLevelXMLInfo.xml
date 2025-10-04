@@ -1,0 +1,27 @@
+<root>
+	<item id="0" type="0" battleNum1="12" battleNum2="14" battleNum3="16" rewardNum="0" />
+	<item id="1" type="1" rewardNum="0" />
+	<item id="2" type="2" battleNum1="20" battleNum2="24" battleNum3="28" rewardNum="20" />
+	<item id="3" type="1" rewardNum="0" />
+	<item id="4" type="2" battleNum1="30" battleNum2="33" battleNum3="37" rewardNum="20" />
+	<item id="5" type="1" rewardNum="0" />
+	<item id="6" type="2" battleNum1="40" battleNum2="44" battleNum3="48" rewardNum="20" />
+	<item id="7" type="1" rewardNum="0" />
+	<item id="8" type="2" battleNum1="52" battleNum2="57" battleNum3="63" rewardNum="20" />
+	<item id="9" type="1" rewardNum="0" />
+	<item id="10" type="2" battleNum1="75" battleNum2="78" battleNum3="82" rewardNum="30" />
+	<item id="11" type="1" rewardNum="0" />
+	<item id="12" type="2" battleNum1="97" battleNum2="102" battleNum3="107" rewardNum="30" />
+	<item id="13" type="1" rewardNum="0" />
+	<item id="14" type="2" battleNum1="127" battleNum2="133" battleNum3="139" rewardNum="30" />
+	<item id="15" type="1" rewardNum="0" />
+	<item id="16" type="2" battleNum1="164" battleNum2="172" battleNum3="181" rewardNum="30" />
+	<item id="17" type="1" rewardNum="0" />
+	<item id="18" type="2" battleNum1="214" battleNum2="225" battleNum3="236" rewardNum="40" />
+	<item id="19" type="2" battleNum1="278" battleNum2="292" battleNum3="307" rewardNum="40" />
+	<item id="20" type="1" rewardNum="0" />
+	<item id="21" type="2" battleNum1="361" battleNum2="380" battleNum3="399" rewardNum="40" />
+	<item id="22" type="2" battleNum1="470" battleNum2="493" battleNum3="518" rewardNum="40" />
+	<item id="23" type="1" rewardNum="0" />
+	<item id="24" type="2" battleNum1="699" battleNum2="777" battleNum3="885" rewardNum="40" />
+</root>

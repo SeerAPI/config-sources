@@ -1,0 +1,259 @@
+<!-- Broadcast ID
+	type: 策划提供广播类型值
+ * 		1: 米米号+玩家昵称+道具信息
+ * 		2: 米米号+玩家昵称+精灵名称
+ * 		3: 米米号+玩家昵称+玩家VIP信息
+ * 		4: 米米号+玩家昵称+玩家巅峰圣战等级
+ * 		5: 米米号+玩家昵称+精灵名称+精灵特性+特性等级
+ * 		6: 战队ID+战队名称+战队等级
+ * 		7: 活动参与人数+剩余奖励
+ *		8: 刻印信息
+ * 		9: 前端主动触发
+
+配表配置:
+<Broadcast ID: 
+	Type:广播类型 对应以上type值
+	itemID MonsterID MintmarkID: 根据type类型需要提供的具体数据值(广播不随奖励输出时候再配)
+
+type: 根据type类型 配表需要提供值
+* 		1: item_id
+* 		2: monster_id 
+* 		3: 
+* 		4: 
+* 		5: monster_id
+* 		6: 
+* 		7: 
+*       8: mintmark_id
+
+ 配表格式 : 配新广播只需拷贝对应配置 && 更改需要信息 && 对应以下后台信息添加到配表项末尾
+<BroadcastPool>
+	<Broadcast ID="1" Type="1" itemID = "1711651" />
+	<Broadcast ID="2" Type="2" MonsterID = "2370" />
+	<Broadcast ID="3" Type="3" />
+	<Broadcast ID="4" Type="4" />
+	<Broadcast ID="5" Type="5" MonsterID = "2370" />
+	<Broadcast ID="6" Type="6" />
+	<Broadcast ID="7" Type="7" />
+	<Broadcast ID="8" Type="8" MintmarkID = "" /> 
+</BroadcastPool>
+
+<broadCast ID="1" during="10000" type="1" itemID = "1711651" >
+		<p>恭喜<a href='event:米米号'><font color='#ff0000'>$米米号$</font></a>获得了一个物品<a href='event:道具信息'><font color='#ffff00'>$道具信息$</font></a>大家一起恭喜他吧！<a href='event:跳转:module_app/PuniAndSuolunsenGuidPanel'>[快去看看]</a></p>
+	</broadCast>
+	<broadCast ID="2" during="10000" type="2" itemID = "1711651" >
+		<p>恭喜<a href='event:米米号'><font color='#ff0000'>$米米号$</font></a>获得了一个精灵<a href='event:精灵'><font color='#ffff00'>$精灵昵称$</font></a>大家一起恭喜他吧！<a href='event:跳转:module_app/PuniAndSuolunsenGuidPanel'>[快去看看]</a></p>
+	</broadCast>
+	<broadCast ID="3" during="10000" type="3" itemID = "1711651" >
+		<p>恭喜<a href='event:米米号'><font color='#ff0000'>$米米号$</font></a><a href= 'event:玩家昵称'>$玩家昵称$</a>获得了VIP等级<a href='event:vip'>$VIP等级$</a>,大家一起恭喜他吧！<a href='event:跳转:module_app/PuniAndSuolunsenGuidPanel'>[快去看看]</a></p>
+	</broadCast>
+	<broadCast ID="4" during="10000" type="4" itemID = "1711651" >
+		<p>恭喜<a href='event:米米号'><font color='#ff0000'>$米米号$</font></a>巅峰等级提升到了<a href='event:'><font color='#ffff00'>$巅峰等级$</font></a>大家一起恭喜他吧！<a href='event:跳转:module_app/PuniAndSuolunsenGuidPanel'>[快去看看]</a></p>
+	</broadCast>
+	<broadCast ID="5" during="10000" type="5" itemID = "1711651" >
+		<p>
+			<a href='event:米米号'><font color='#ff0000'>$米米号$</font></a>
+			<a href= 'event:玩家昵称'>$玩家昵称$</a>
+			<a href= 'event:精灵昵称'>$精灵昵称$</a>
+			<a href='event:精灵特性'>$精灵特性$</a>
+			<a href='event:精灵等级'>$精灵等级$</a>
+			<a href='event:跳转:module_app/PuniAndSuolunsenGuidPanel'>[快去看看]</a>
+		</p>
+	</broadCast>
+	<broadCast ID="6" during="10000" type="6" itemID = "1711651" >
+		<p>
+			<a href='event:战队ID'><font color='#ff0000'>$战队ID$</font></a>
+			<a href= 'event:战队名称'>$战队名称$</a>
+			<a href= 'event:战队等级'>$战队等级$</a>
+			<a href='event:跳转:module_app/PuniAndSuolunsenGuidPanel'>[快去看看]</a>
+		</p>
+	</broadCast>
+	<broadCast ID="7" during="10000" type="7" itemID = "1711651" >
+		<p>
+			<a href='event:活动参与人数'><font color='#ff0000'>$活动参与人数$</font></a>
+			<a href='event:剩余奖励'>$剩余奖励$</a>
+			<a href='event:跳转:module_app/PuniAndSuolunsenGuidPanel'>[快去看看]</a>
+		</p>
+	</broadCast>
+	<broadCast ID="8" during="10000" type="8" itemID = "1711651" >
+		<p>
+			<a href= 'event:刻印信息'>$刻印信息$</a>
+			<a href='event:跳转:module_app/PuniAndSuolunsenGuidPanel'>[快去看看]</a>
+		</p>
+	</broadCast>
+	
+	<broadCast ID="9" during="10000" type="9" itemID = "1711651" >
+		<p>
+			<a href= 'event:地图名称'>$地图名称$</a>
+			<a href='event:跳转:map_$地图id$'>[快去看看]</a>
+		</p>
+	</broadCast>
+-->
+
+<BroadcastPool>
+	<broadCastType type="1" className="com.robot.app.control.broadCast.IdNickItemIdBroadCastType" />
+	<broadCastType type="2" className="com.robot.app.control.broadCast.MonsterBroadCastType" />
+	<broadCastType type="3" className="com.robot.app.control.broadCast.VIPBroadCastType" />
+	<broadCastType type="4" className="com.robot.app.control.broadCast.PvpBroadCastType" />
+	<broadCastType type="5" className="com.robot.app.control.broadCast.MonsterSpecBroadCastType" />
+	<broadCastType type="6" className="com.robot.app.control.broadCast.TeamBroadCastType" />
+	<broadCastType type="7" className="com.robot.app.control.broadCast.ActivityBroadCastType" />
+	<broadCastType type="8" className="com.robot.app.control.broadCast.MiniIconBroadCastType" />
+	<broadCastType type="9" className="com.robot.app.control.broadCast.GotoServerMapBroadCastType" />
+	<broadCast ID="1" during="10000" type="2" MonsterID = "3291" > <!-- id为1对应后台id270以此顺延 -->
+		<p>恭喜
+			<a href='event:米米号'><font color='#ff0000'>$玩家昵称$</font></a>
+			在惊喜霜蛋活动中幸运地获得了
+			<a href='event:精灵'><font color='#ffff00'>$精灵昵称$</font></a>
+			！
+			<a href='event:跳转:module_app/WishToAnnualFeeMainPanel'><font color='#0000ff'>我也要参加</font></a>
+			</p>
+	</broadCast>
+	<broadCast ID="2" during="10000" type="7" >
+		<p>恭喜
+			<a href='event:米米号'><font color='#ff0000'>$玩家昵称$</font></a>
+			在惊喜霜蛋活动中幸运地获得了
+			<a href='event:剩余奖励'><font color='#ffff00'>$剩余奖励$钻石</font></a>
+			！
+			<a href='event:跳转:module_app/WishToAnnualFeeMainPanel'><font color='#0000ff'>我也要参加</font></a>
+			</p>
+	</broadCast>
+	<broadCast ID="3" during="10000" type="1" itemID = "300066" >
+		<p>恭喜
+			<a href='event:米米号'><font color='#ff0000'>$玩家昵称$</font></a>
+			在惊喜霜蛋活动中幸运地获得了
+			<a href='event:道具信息'><font color='#ffff00'>$道具信息$</font></a>
+			！
+			<a href='event:跳转:module_app/WishToAnnualFeeMainPanel'><font color='#0000ff'>我也要参加</font></a>
+			</p>
+	</broadCast>
+	<broadCast ID="4" during="10000" type="1" itemID = "300791" >
+		<p>恭喜
+			<a href='event:米米号'><font color='#ff0000'>$玩家昵称$</font></a>
+			在惊喜霜蛋活动中幸运地获得了
+			<a href='event:道具信息'><font color='#ffff00'>$道具信息$</font></a>
+			！
+			<a href='event:跳转:module_app/WishToAnnualFeeMainPanel'><font color='#0000ff'>我也要参加</font></a>
+			</p>
+	</broadCast>
+	<broadCast ID="5" during="10000" type="8">
+		<p>恭喜
+			<a href='event:米米号'><font color='#ff0000'>$玩家昵称$</font></a>
+			在惊喜霜蛋活动中幸运地获得了
+			<a href= 'event:刻印信息'>5级$道具信息$</a>
+			！
+			<a href='event:跳转:module_app/WishToAnnualFeeMainPanel'><font color='#0000ff'>我也要参加</font></a>
+		</p>
+	</broadCast>
+	<broadCast ID="6" during="10000" type="7" >
+		<p>财小爷的整点礼包开始放送啦！仅限10分钟，大家快来领取吧！
+			<a href='event:跳转:module_app/CaixiaoyeSendGiftMainPanel'><font color='#ff0000'>立即前往</font></a>
+		</p>
+	</broadCast>
+	<broadCast ID="7" during="10000" type="7" >
+		<p>恭喜
+			<a href='event:米米号'><font color='#ff0000'>$玩家昵称$</font></a>
+			通过精灵王全民领活动，成功免费领取了一只精灵王！
+		</p>
+	</broadCast>
+	<broadCast ID="8" during="10000" type="7" >
+		<p>
+			“2钻得全新神宠艾欧丽娅”活动正在进行，赛尔
+			<a href='event:米米号'><font color='#ff0000'>$玩家昵称$</font></a>
+			已经幸运地获得了一只！
+		</p>
+	</broadCast>
+	<broadCast ID="9" during="10000" type="2" >
+		<p>
+			喜从天降！恭喜幸运的[
+			<a href='event:米米号'><font color='#ff0000'>$玩家昵称$</font></a>
+			]，在许愿池活动中获得了超级珍稀神宠[
+			<a href='event:精灵'><font color='#ff0000'>无限自由</font></a>
+			]
+			<a href='event:跳转:module_app/WishPool9YearMainPanel'><font color='#0000ff'>我也试试</font></a>
+		</p>
+	</broadCast>
+	<broadCast ID="10" during="10000" type="7" >
+		<p>
+			盗贼们开始作案了！帮助船长罗杰抓捕他们，可兑换获得浩瀚星核、精灵因子礼盒等好礼！
+			<a href='event:跳转:module_app/OpenSchoole1809MainPanel'><font color='#EEE75B'>参与追捕</font></a>
+		</p>
+	</broadCast>
+	<broadCast ID="11" during="10000" type="7" >
+		<p>
+			仍有<font color='#ff0000'>10000</font>名盗贼正在作案！参与追捕，可兑换获得浩瀚星核、精灵因子礼盒等好礼！
+			<a href='event:跳转:module_app/OpenSchoole1809MainPanel'><font color='#EEE75B'>参与追捕</font></a>
+		</p>
+	</broadCast>
+	<broadCast ID="12" during="10000" type="7" >
+		<p>
+			仍有<font color='#ff0000'>5000</font>名盗贼正在作案！参与追捕，可兑换获得浩瀚星核、精灵因子礼盒等好礼！
+			<a href='event:跳转:module_app/OpenSchoole1809MainPanel'><font color='#EEE75B'>参与追捕</font></a>
+		</p>
+	</broadCast>
+	<broadCast ID="13" during="10000" type="7" >
+		<p>
+			所有盗贼已被缉拿归案。下个整点，他们的其余成员又将展开行动，我们需要更多的勇士！
+		</p>
+	</broadCast>
+	
+	<broadCast ID="14" during="10000" type="1" >
+		<p>恭喜
+			<a href='event:米米号'><font color='#ff0000'>$玩家昵称$</font></a>
+			在“年费精灵的见面礼”活动中，幸运地获得了
+			<a href='event:道具信息'><font color='#ffff00'>$道具信息$</font></a>
+			！
+			<a href='event:跳转:module_app/FidelityPreheatingIIIOf2019MainPanel'><font color='#0000ff'>我也试试</font></a>
+		</p>
+	</broadCast>
+	<broadCast ID="15" during="10000" type="2" >
+		<p>
+			在赛尔们的共同努力下，
+			<font color='#ff0000'>$精灵昵称$</font>
+			被击退了。所有参与过这场战斗的英雄，都将获得奖励！
+			<a href='event:跳转:module_app/FinalBattleMainPanel'><font color='#0000ff'>我去看看</font></a>
+		</p>
+	</broadCast>
+	<broadCast ID="16" during="10000" type="9" >
+		<p>
+			<font color='#ff0000'>幕</font>在
+			<font color='#ff0000'>$地图名称$</font>
+			引动了一场流星雨，快来看看吧！
+			<a href='event:跳转:map_$地图id$'><font color='#ff0000'>我去看看</font></a>
+		</p>
+	</broadCast>
+	
+	<broadCast ID="17" during="10000" type="1" >
+		<p>
+			<a href='event:米米号'><font color='#ff0000'>$玩家昵称$</font></a>
+			祝赛尔号越飞越远，幸运地获得了100个
+			<a href='event:道具信息'><font color='#ffff00'>$道具信息$</font></a>
+			！
+			<a href='event:跳转:module_app/SpringFestivalActivityGoToMainPanel'><font color='#0000ff'>我也试试</font></a>
+		</p>
+	</broadCast>
+	<broadCast ID="18" during="10000" type="1" >
+		<p>
+			<a href='event:米米号'><font color='#ff0000'>$玩家昵称$</font></a>
+			祝大家新年快乐，幸运地获得了100个
+			<a href='event:道具信息'><font color='#ffff00'>$道具信息$</font></a>
+			！
+			<a href='event:跳转:module_app/SpringFestivalActivityGoToMainPanel'><font color='#0000ff'>我也试试</font></a>
+		</p>
+	</broadCast>
+	<broadCast ID="19" during="10000" type="1" >
+		<p>
+			<a href='event:米米号'><font color='#ff0000'>$玩家昵称$</font></a>
+			祝自己欧皇附体，幸运地获得了100个
+			<a href='event:道具信息'><font color='#ffff00'>$道具信息$</font></a>
+			！
+			<a href='event:跳转:module_app/SpringFestivalActivityGoToMainPanel'><font color='#0000ff'>我也试试</font></a>
+		</p>
+	</broadCast>
+
+	
+	
+</BroadcastPool>
+
+
+
+

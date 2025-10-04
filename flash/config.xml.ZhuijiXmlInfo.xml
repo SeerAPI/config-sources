@@ -1,0 +1,43 @@
+	<!--
+	ID与后台给出的ID对应
+	monster表示调用动画所属精灵的ID，如果配0则默认为在场的当前精灵，不配0时，如果背包中的此精灵装有皮肤，则会优先播放精灵此皮肤的动画，不会播放没有皮肤的动画
+	
+	skin表示monster的ID在对应皮肤ID下，连击时对精灵动画的调用，0为精灵原皮肤。
+	
+	anm表示调用哪一个动画，根据精灵皮肤在skin的序列，调用对应序列（用:隔开）的动画，attack为攻击动画，sa为特攻动画，cp为属性动画，hited为受攻击动画，transform以及以后为一些特殊的动作动画，如果精灵没有对应动画则默认为动画cp
+
+	比如CritRate="0" skin="0:512" anm="attack:transform"，那么此精灵在原皮肤时，追击动画调用attack，在用512皮肤时，追击动画调用transform，以此类推
+
+	cover表示播放这个连击动画时，原本在场的精灵是否屏蔽，0为屏蔽，1为不屏蔽
+	CritRate表示是否追加暴击动画，配置1时，如果第一次攻击暴击，第二次也会暴击
+	reportname表示战报中显示的名字，会根据精灵皮肤在skin的序列，调用对应名字
+	reportskill表示战报中显示的技能名字，会根据精灵皮肤在skin的序列，调用对应名字
+	reporttxt表示战报中显示的描述性文本，会根据精灵皮肤在skin的序列，调用对应文本
+	最终战报的表现为【reportname】使用了【reportskill】【reportname】【reporttxt】，当reporttxt为空时，第二个【reportname】不显示
+
+
+	-->
+
+
+<Moves>    
+
+	<Move ID="1" monster="0" damage="0" CritRate="0" skin="0:586:609" anm="add2:add2:add2" cover="0" reportname="空元行者:空元行者:空元行者" reportskill="空元之诗·渍:空元之诗·渍:空元之诗·渍" reporttxt="消除了对手的能力提升与回合类效果:消除了对手的能力提升与回合类效果:消除了对手的能力提升与回合类效果" />
+	<Move ID="2" monster="0" damage="0" CritRate="0" skin="0:586:609" anm="add2:add2:add2" cover="0" reportname="空元行者:空元行者:空元行者" reportskill="空元之诗·镀:空元之诗·镀:空元之诗·镀" reporttxt="己方获得了保护:己方获得了保护:己方获得了保护" />
+	<Move ID="3" monster="0" damage="1" CritRate="0" skin="0:586:609" anm="add1:add1:add1" cover="0" reportname="空元行者:空元行者:空元行者" reportskill="空元之诗·柱:空元之诗·柱:空元之诗·柱" reporttxt="封锁了对手的退路:封锁了对手的退路:封锁了对手的退路" />
+	<Move ID="4" monster="0" damage="1" CritRate="0" skin="0:586:609" anm="add1:add1:add1" cover="0" reportname="空元行者:空元行者:空元行者" reportskill="空元之诗·烙:空元之诗·烙:空元之诗·烙" reporttxt="铭刻了生命的印记:铭刻了生命的印记:铭刻了生命的印记" />
+	<Move ID="5" monster="0" damage="1" CritRate="0" skin="0:586:609" anm="add1:add1:add1" cover="0" reportname="空元行者:空元行者:空元行者" reportskill="空元之诗·均:空元之诗·均:空元之诗·均" reporttxt="吟唱了起始的诗篇:吟唱了起始的诗篇:吟唱了起始的诗篇" />
+	<Move ID="6" monster="0" damage="1" CritRate="0" skin="0" anm="add1" cover="0" reportname="萨芙凯特" reportskill="最终指令" reporttxt="离开，这是最后的指令" />
+	<Move ID="7" monster="0" damage="1" CritRate="0" skin="0:618" anm="add1:add1" cover="0" reportname="德莱赫默:狩犬" reportskill="核威强袭:奔猎追袭" reporttxt="向对手发起了袭击:向对手发起了袭击" />
+	<Move ID="8" monster="0" damage="0" CritRate="0" skin="0:618" anm="add2:add2" cover="0" reportname="德莱赫默:狩犬" reportskill="激鸣雷封:嘶嚎震慑" reporttxt="用雷鸣威慑了对手:靠野性威慑了对手" />
+	<Move ID="9" monster="0" damage="1" CritRate="0" skin="0" anm="add1" cover="0" reportname="星辰万象·天启星魂" reportskill="覆宙星回" reporttxt="回返了星盘的刻度" />
+	<Move ID="10" monster="0" damage="1" CritRate="1" skin="0:184:222:510" anm="add1:add1:add1:add1" cover="0" reportname="瀚宇星皇:瀚宇星皇:瀚宇星皇:瀚宇星皇" reportskill="圣世惩杀:圣世惩杀:圣世惩杀:圣世惩杀" reporttxt="断送了虚妄:断送了虚妄:断送了虚妄:断送了虚妄" />
+	<Move ID="11" monster="0" damage="0" CritRate="0" skin="0:184:222:510" anm="add3:add3:add3:add3" cover="0" reportname="瀚宇星皇:瀚宇星皇:瀚宇星皇:瀚宇星皇" reportskill="瀚空之门:瀚空之门:瀚空之门:瀚空之门" reporttxt="掌控了瀚空的乱流:掌控了瀚空的乱流:掌控了瀚空的乱流:掌控了瀚空的乱流" />
+	<Move ID="12" monster="0" damage="0" CritRate="0" skin="0:184:222:510" anm="add3:add3:add3:add3" cover="0" reportname="瀚宇星皇:瀚宇星皇:瀚宇星皇:瀚宇星皇" reportskill="命宇轮回:命宇轮回:命宇轮回:命宇轮回" reporttxt="解放了命宇的伟力:解放了命宇的伟力:解放了命宇的伟力:解放了命宇的伟力" />
+	<Move ID="13" monster="0" damage="1" CritRate="1" skin="0:184:222:510" anm="add1:add1:add1:add1" cover="0" reportname="瀚宇星皇:瀚宇星皇:瀚宇星皇:瀚宇星皇" reportskill="亘古圣辰决:亘古圣辰决:亘古圣辰决:亘古圣辰决" reporttxt="封印了对手的力量:封印了对手的力量:封印了对手的力量:封印了对手的力量" />
+	<Move ID="14" monster="0" damage="1" CritRate="1" skin="0:184:222:510" anm="add1:add1:add1:add1" cover="0" reportname="瀚宇星皇:瀚宇星皇:瀚宇星皇:瀚宇星皇" reportskill="万皇宗魄决:万皇宗魄决:万皇宗魄决:万皇宗魄决" reporttxt="贯彻了皇帝的意志:贯彻了皇帝的意志:贯彻了皇帝的意志:贯彻了皇帝的意志" />
+	<Move ID="15" monster="0" damage="1" CritRate="1" skin="0:538" anm="sa:sa" cover="0" reportname="魂帝·天循道:魂帝·天循道" reportskill="咒骸魂契:咒骸魂契" reporttxt="解放了萃取的元素:解放了萃取的元素" />
+
+
+
+
+</Moves>

@@ -1,0 +1,17 @@
+<!-- 
+战队任务表
+ID：任务ID
+TaskName：任务名称
+TaskDes:任务描述
+BaseRewards：基础奖励 用于前端展示，配置格式参考 ID_Num,ID_Num,ID_Num
+ExtrRewards：额外奖励 用于前端展示，配置格式参考 ID_Num,ID_Num,ID_Num
+
+-->
+
+<TeamTasks>
+	<Task ID="1" TaskName="落难星球大拯救" TaskDes="接收到求救讯号，有星球陷入了危机之中，需要派遣人员去营救" BaseRewards="1722814_7,1_25000,1400352_50000" ExtrRewards="1722814_7,1_25000,1400352_50000" />
+	<Task ID="2" TaskName="稀有资源搜寻" TaskDes="得到情报在遥远的星系中出现了珍惜的资源，需要派遣人员去搜集资源" BaseRewards="1722814_6,1_20000,1400352_40000" ExtrRewards="1722814_4,1_20000,1400352_40000"/>	
+	<Task ID="3" TaskName="护送重要人员" TaskDes="接到任务需要护送一队重要的人员前往其他星球，需要派遣人员随行" BaseRewards="1722814_5,1_15000,1400352_30000" ExtrRewards="1722814_3,1_15000,1400352_30000"/>	
+	<Task ID="4" TaskName="进行安保工作" TaskDes="其他星球上举行了盛大的活动，需要人员保障安全" BaseRewards="1722814_4,1_10000,1400352_20000" ExtrRewards="1722814_2,1_10000,1400352_20000"/>	
+	<Task ID="5" TaskName="飞船维修" TaskDes="飞船外部舱室发生了故障，需要派遣人员进行维修工作" BaseRewards="1722814_2,1_5000,1400352_10000" ExtrRewards="1722814_2,1_5000,1400352_10000"/>	
+</TeamTasks>

@@ -1,0 +1,76 @@
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!--
+    	  前端只要显示等级
+			quality 1 ss  2 s  3a 4 b
+	-->
+<root>
+	<item id="1" petId="3860" pond="1" quality="1"/>
+	<item id="2" petId="3865" pond="1" quality="1"/>
+	<item id="3" petId="3763" pond="1" quality="1"/>
+	<item id="4" petId="3685" pond="2" quality="1"/>
+	<item id="5" petId="3741" pond="2" quality="1"/>
+	<item id="6" petId="3576" pond="2" quality="1"/>
+	<item id="7" petId="3814" pond="3" quality="2"/>
+	<item id="8" petId="2724" pond="3" quality="2"/>
+	<item id="9" petId="3074" pond="3" quality="2"/>
+	<item id="10" petId="3461" pond="3" quality="2"/>
+	<item id="11" petId="3540" pond="3" quality="2"/>
+	<item id="12" petId="3434" pond="3" quality="2"/>
+	<item id="13" petId="3476" pond="3" quality="2"/>
+	<item id="14" petId="3336" pond="3" quality="2"/>
+	<item id="15" petId="3653" pond="3" quality="2"/>
+	<item id="16" petId="3227" pond="3" quality="2"/>
+	<item id="17" petId="3060" pond="4" quality="3"/>
+	<item id="18" petId="3145" pond="4" quality="3"/>
+	<item id="19" petId="3779" pond="4" quality="3"/>
+	<item id="20" petId="3309" pond="4" quality="3"/>
+	<item id="21" petId="3470" pond="4" quality="3"/>
+	<item id="22" petId="3411" pond="4" quality="3"/>
+	<item id="23" petId="3365" pond="4" quality="3"/>
+	<item id="24" petId="3528" pond="4" quality="3"/>
+	<item id="25" petId="2825" pond="4" quality="3"/>
+	<item id="26" petId="3078" pond="4" quality="3"/>
+	<item id="27" petId="3769" pond="4" quality="3"/>
+	<item id="28" petId="2736" pond="4" quality="3"/>
+	<item id="29" petId="3729" pond="4" quality="3"/>
+	<item id="30" petId="3714" pond="4" quality="3"/>
+	<item id="31" petId="3462" pond="4" quality="3"/>
+	<item id="32" petId="3862" pond="5" quality="4"/>
+	<item id="33" petId="3854" pond="5" quality="4"/>
+	<item id="34" petId="3801" pond="5" quality="4"/>
+	<item id="35" petId="3872" pond="5" quality="4"/>
+	<item id="36" petId="3877" pond="5" quality="4"/>
+	<item id="37" petId="3798" pond="5" quality="4"/>
+	<item id="38" petId="2654" pond="5" quality="4"/>
+	<item id="39" petId="3449" pond="5" quality="4"/>
+	<item id="40" petId="3450" pond="5" quality="4"/>
+	<item id="41" petId="3314" pond="5" quality="4"/>
+	<item id="42" petId="3101" pond="5" quality="4"/>
+	<item id="43" petId="2446" pond="5" quality="4"/>
+	<item id="44" petId="3241" pond="5" quality="4"/>
+	<item id="45" petId="3287" pond="5" quality="4"/>
+	<item id="46" petId="3247" pond="5" quality="4"/>
+	<item id="47" petId="3202" pond="5" quality="4"/>
+	<item id="48" petId="3215" pond="5" quality="4"/>
+	<item id="49" petId="3163" pond="5" quality="4"/>
+	<item id="50" petId="3130" pond="5" quality="4"/>
+	<item id="51" petId="3095" pond="5" quality="4"/>
+	<item id="52" petId="3084" pond="5" quality="4"/>
+	<item id="53" petId="2925" pond="5" quality="4"/>
+	<item id="54" petId="2978" pond="5" quality="4"/>
+	<item id="55" petId="2874" pond="5" quality="4"/>
+	<item id="56" petId="2810" pond="5" quality="4"/>
+	<!--
+
+	 you please  
+			
+	-->
+</root>

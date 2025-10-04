@@ -1,0 +1,120 @@
+<!--Red ID：主键ID-->
+<!--IsClick：红点是否点击后消失，点击事件1，非点击事件0，特殊约定2-->
+<!--UserInfo：红点判断的标记位-->
+<!--BytePos：数字是否按字节判断(1~4:分别代表1byte~4byte,0代表整个值判断)-->
+<!--ByteValue：当前获取的值小于这个时则红点亮起-->
+<!--Judge：判断方式(0:不等于亮起红点 1:小于亮起红点)-->
+<!--tips：红点逻辑备注说明-->
+<!--UserInfo=121117\121118的红点类型均为点击查看即取消红点的逻辑类型；目前共有8个可用（2*（BytePos=1-4））。每次更新ByteValue递增1(上限255)-->
+<!--2022/1/26增加一批UserInfo=121221/121222/121223/121224/121225/121226/121227/121228/121229/121230     周值20311   月值30061  日值201731
+    均为点击查看即取消红点的逻辑类型；此批共有36个可用（9*（BytePos=1-4））。每次更新ByteValue递增1(上限255)-->
+<!--forwhat=1(仅页游)、2(仅H５)、3(页游＆H５共用)-->
+
+<!--From ：指示配置显示红点逻辑前端位置的对应字段,若有并行逻辑，则以"|"划分，内层————外层从左至右配置;
+    *|新增类型字段需要与前端敲定
+	icon:XXXX (指示icon_config中的ui字段，即主界面icon文件名)
+    shopcenter:X（指示【最新礼包】面板的配置活动页签，X为对应gift ID）
+-->
+<root>
+    <Red ID="1" IsClick="0" UserInfo="0"      BytePos="0" ByteValue="0" Judge="0" forwhat="1" tips="最新礼包_星愿漂流瓶可否许愿红点" From="icon:shopcenter_icon"/><!--系统逻辑-->
+	<Red ID="3" IsClick="0" UserInfo="16577"  BytePos="0" ByteValue="1" Judge="1" forwhat="1" tips="最新礼包_刻印抽奖机页签红点,消耗掉每日赛尔豆抽取次数后消失" From="icon:shopcenter_icon"/><!--系统逻辑-->
+	<Red ID="21" IsClick="1" UserInfo="121223" BytePos="1" ByteValue="25" Judge="0" forwhat="1" tips="最新礼包_【能源研究站】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>
+
+	<Red ID="6" IsClick="0" UserInfo="0"      BytePos="0" ByteValue="0" Judge="0" forwhat="3" tips="主界面_【钻石任务】无每日任务/奖励待领取的情况下，则不显示" From="icon:SeerTrainLog_icon"/><!--系统逻辑-->
+	
+	<!--<Red ID="4" IsClick="0" UserInfo="123524" BytePos="3" ByteValue="8" Judge="0" forwhat="1" tips="主界面_主线剧情提醒红点，完成当期主线剧情后消失" From="icon:task_main_icon"/>后台更新-->
+	
+    <Red ID="2" IsClick="1" UserInfo="121117" BytePos="1" ByteValue="8" Judge="0" forwhat="1" tips="主界面_【英雄圣殿巡回】更新提示红点，点击进入prepanel面板后消失" From="icon:shengdianyingxiongtuan_icon"/><!--策划更新-->   	
+	<Red ID="5" IsClick="1" UserInfo="121117" BytePos="2" ByteValue="22" Judge="0" forwhat="1" tips="主界面_【商会周刊】更新提示红点，点击进入对应面板后消失" From="icon:ShangHuiZhouKan_icon"/>
+	<Red ID="7" IsClick="1" UserInfo="121117" BytePos="3" ByteValue="31" Judge="0" forwhat="1" tips="主界面_【公告中心】更新提示红点，点击进入公告中心面板后消失" From="icon:announcement_icon"/>
+	<Red ID="8" IsClick="1" UserInfo="121117" BytePos="4" ByteValue="19" Judge="0" forwhat="1" tips="主界面_【星河长明商店】更新提示红点，点击进入对应面板后消失" From="icon:markJackpot_icon"/>
+
+	<!--以下为短期活动-->
+	<Red ID="9" IsClick="1" UserInfo="121118" BytePos="1" ByteValue="45" Judge="0" forwhat="1" tips="最新礼包_【付费活动1】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>
+	<Red ID="10" IsClick="1" UserInfo="121118" BytePos="2" ByteValue="35" Judge="0" forwhat="1" tips="最新礼包_【付费活动2】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>
+	<Red ID="11" IsClick="1" UserInfo="121118" BytePos="3" ByteValue="38" Judge="0" forwhat="1" tips="最新礼包_【付费活动3】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>
+	<Red ID="12" IsClick="1" UserInfo="121118" BytePos="4" ByteValue="44" Judge="0" forwhat="1" tips="最新礼包_【付费活动4】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>  
+	<Red ID="13" IsClick="1" UserInfo="121221" BytePos="1" ByteValue="52" Judge="0" forwhat="1" tips="最新礼包_【付费活动5】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>
+	<Red ID="14" IsClick="1" UserInfo="121221" BytePos="2" ByteValue="37" Judge="0" forwhat="1" tips="最新礼包_【付费活动6】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>
+	<Red ID="15" IsClick="1" UserInfo="121221" BytePos="3" ByteValue="36" Judge="0" forwhat="1" tips="最新礼包_【付费活动7】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>
+	<Red ID="16" IsClick="1" UserInfo="121221" BytePos="4" ByteValue="26" Judge="0" forwhat="1" tips="最新礼包_【付费活动8】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>
+	<Red ID="17" IsClick="1" UserInfo="121222" BytePos="1" ByteValue="36" Judge="0" forwhat="1" tips="最新礼包_【付费活动9】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>
+	<Red ID="18" IsClick="1" UserInfo="121222" BytePos="2" ByteValue="23" Judge="0" forwhat="1" tips="最新礼包_【付费活动10】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/> 
+	<Red ID="19" IsClick="1" UserInfo="121222" BytePos="3" ByteValue="17" Judge="0" forwhat="1" tips="最新礼包_【付费活动11】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/> 
+	<Red ID="20" IsClick="1" UserInfo="121222" BytePos="4" ByteValue="26" Judge="0" forwhat="1" tips="最新礼包_【付费活动12】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>
+	<Red ID="43" IsClick="1" UserInfo="121230" BytePos="1" ByteValue="21" Judge="0" forwhat="1" tips="最新礼包_【付费活动13】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/> 
+	<Red ID="44" IsClick="1" UserInfo="121230" BytePos="2" ByteValue="14" Judge="0" forwhat="1" tips="最新礼包_【付费活动14】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>
+	<Red ID="45" IsClick="1" UserInfo="121230" BytePos="3" ByteValue="16" Judge="0" forwhat="1" tips="最新礼包_【付费活动15】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/> 
+	<!-- <Red ID="46" IsClick="1" UserInfo="121230" BytePos="4" ByteValue="15" Judge="0" forwhat="1" tips="最新礼包_【付费活动16】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/> -->
+	<!-- <Red ID="47" IsClick="1" UserInfo="207053" BytePos="1" ByteValue="11" Judge="0" forwhat="1" tips="最新礼包_【付费活动17】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/> -->
+	<Red ID="51" IsClick="1" UserInfo="121228" BytePos="2" ByteValue="106" Judge="0" forwhat="1" tips="最新礼包_【付费活动18】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>
+	<!-- <Red ID="52" IsClick="1" UserInfo="121228" BytePos="3" ByteValue="108" Judge="0" forwhat="1" tips="最新礼包_【付费活动19】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/> -->
+	<!-- <Red ID="53" IsClick="1" UserInfo="121229" BytePos="4" ByteValue="105" Judge="0" forwhat="1" tips="最新礼包_【付费活动20】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/> -->
+	<!-- <Red ID="54" IsClick="1" UserInfo="121229" BytePos="1" ByteValue="105" Judge="0" forwhat="1" tips="最新礼包_【付费活动21】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/> -->
+	<!-- <Red ID="48" IsClick="1" UserInfo="207053" BytePos="2" ByteValue="3" Judge="0" forwhat="1" tips="主界面_【付费活动22】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>  -->
+	<!-- <Red ID="49" IsClick="1" UserInfo="20311" BytePos="2" ByteValue="3" Judge="0" forwhat="1" tips="主界面_【付费活动23】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/> -->
+	<Red ID="100" IsClick="2" UserInfo="121224" BytePos="1" ByteValue="100" Judge="0" forwhat="1" tips="主界面_【精灵觉醒更新】提示红点，点击进入活动面板后红点消失" From="icon:lotteryIcon"/>
+	<!-- <Red ID="101" IsClick="2" UserInfo="121224" BytePos="3" ByteValue="100" Judge="0" forwhat="1" tips="主界面_【精灵觉醒密钥】提示红点，点击进入活动面板后红点消失" From="icon:lotteryIcon"/> -->
+	<Red ID="102" IsClick="0" UserInfo="0" BytePos="0" ByteValue="0" Judge="0" forwhat="1" tips="主界面_【精灵觉醒任务】提示红点，点击进入活动面板后红点消失" From="icon:lotteryIcon"/>
+
+	<!-- <Red ID="22" IsClick="1" UserInfo="121223" BytePos="2" ByteValue="34" Judge="0" forwhat="1" tips="最新礼包_【付费活动24】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/> -->
+	<!-- <Red ID="23" IsClick="1" UserInfo="121223" BytePos="3" ByteValue="22" Judge="0" forwhat="1" tips="最新礼包_【付费活动25】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/> -->
+	<!--<Red ID="24" IsClick="1" UserInfo="121223" BytePos="4" ByteValue="22" Judge="0" forwhat="1" tips="最新礼包_【付费活动26】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>
+	<Red ID="25" IsClick="1" UserInfo="121224" BytePos="1" ByteValue="20" Judge="0" forwhat="1" tips="最新礼包_【付费活动27】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>
+	<Red ID="26" IsClick="1" UserInfo="121224" BytePos="3" ByteValue="13" Judge="0" forwhat="1" tips="最新礼包_【付费活动28】提示红点，点击进入活动面板后红点消失" From="icon:shopcenter_icon"/>-->
+	
+
+
+
+	<Red ID="27" IsClick="0" UserInfo="0"      BytePos="0" ByteValue="1" Judge="0" forwhat="3" tips="主界面_【新春回馈】无奖励待领取的情况下，则不显示" From="icon:springFeedback_icon"/>
+
+	<Red ID="28" IsClick="1" UserInfo="30061" BytePos="1" ByteValue="2" Judge="0" forwhat="1" tips="主界面_【2025年费】提示红点，点击进入活动面板后红点消失" From="icon:yearvip_icon"/>
+    <Red ID="29" IsClick="1" UserInfo="121222" BytePos="4" ByteValue="3" Judge="0" forwhat="3" tips="主界面_【刻印之轮】提示红点，点击进入活动面板后红点消失" From="icon:markJackpot_icon"/>
+    <Red ID="30" IsClick="1" UserInfo="201731" BytePos="1" ByteValue="3" Judge="0" forwhat="1" tips="主界面_【钻石月卡】提示红点，点击进入活动面板后红点消失" From="icon:monthlycard"/>
+
+
+    
+  
+
+	
+	<Red ID="1001" IsClick="1" UserInfo="121224" BytePos="2" ByteValue="5" Judge="0" forwhat="2" tips="H5_【星河长明商店】提示红点，点击进入活动面板后红点消失" From=""/>
+	
+	<Red ID="1002" IsClick="1" UserInfo="201491" BytePos="1" ByteValue="1" Judge="0" forwhat="2" tips="H5_【战队BOSS】提示红点" From=""/>
+	<Red ID="1003" IsClick="1" UserInfo="201491" BytePos="2" ByteValue="1" Judge="0" forwhat="2" tips="H5_【战队商人】提示红点，点击进入活动面板后红点消失" From=""/>
+	<Red ID="1004" IsClick="1" UserInfo="20311" BytePos="1" ByteValue="1" Judge="0" forwhat="2" tips="H5_【资源回收】提示红点，点击进入活动面板后红点消失" From=""/>
+	<Red ID="1005" IsClick="0" UserInfo="0" BytePos="0" ByteValue="0" Judge="0" forwhat="2" tips="H5_【勇者征程】提示红点，奖励领取完红点消失" From=""/>
+	<Red ID="1006" IsClick="1" UserInfo="201491" BytePos="3" ByteValue="1" Judge="0" forwhat="2" tips="H5_【刻印抽奖新春版】提示红点，点击进入活动面板后红点消失" From=""/>
+	
+	<!--H5剧情专用-->
+	<Red ID="2001" IsClick="1" UserInfo="121224" BytePos="4" ByteValue="2" Judge="0" forwhat="3" tips="页游【主线任务】提示红点，点击进入活动面板后红点消失" From="icon:task_main_icon"/>
+	<Red ID="2011" IsClick="1" UserInfo="121225" BytePos="1" ByteValue="71" Judge="0" forwhat="3" tips="H5_【灰色爵刻/沧吟星海/云霄之间/风的追忆/幽灵木桩】提示红点，点击进入活动面板后红点消失" From=""/>
+	<Red ID="2012" IsClick="1" UserInfo="121225" BytePos="2" ByteValue="55" Judge="0" forwhat="3" tips="H5_【绝境的试炼者/命定时刻/完美谎言/锋雪试剑录】提示红点，点击进入活动面板后红点消失" From=""/>
+	<Red ID="2013" IsClick="1" UserInfo="121225" BytePos="3" ByteValue="36" Judge="0" forwhat="3" tips="H5_【无尽冰凌/浅梦/星光帕诺杯/机械与少女】提示红点，点击进入活动面板后红点消失" From=""/>
+	<Red ID="2014" IsClick="1" UserInfo="121225" BytePos="4" ByteValue="22" Judge="0" forwhat="3" tips="H5_【幽灯寻途/群星待觉】提示红点，点击进入活动面板后红点消失" From=""/>
+	<Red ID="2018" IsClick="1" UserInfo="121227" BytePos="1" ByteValue="52" Judge="0" forwhat="3" tips="H5_双版本用提示红点，点击进入活动面板后红点消失" From=""/>
+	<Red ID="2019" IsClick="1" UserInfo="121227" BytePos="2" ByteValue="1" Judge="0" forwhat="3" tips="H5_双版本用提示红点，点击进入活动面板后红点消失" From=""/>
+	
+	<!--H5推送专用-->
+	<Red ID="2015" IsClick="1" UserInfo="121226" BytePos="1" ByteValue="2" Judge="0" forwhat="2" tips="H5_【H5推送专用】提示红点，点击进入活动面板后红点消失" From=""/>
+	<Red ID="2016" IsClick="1" UserInfo="121226" BytePos="2" ByteValue="2" Judge="0" forwhat="2" tips="H5_【H5推送专用】提示红点，点击进入活动面板后红点消失" From=""/>
+	<Red ID="2017" IsClick="1" UserInfo="121226" BytePos="3" ByteValue="2" Judge="0" forwhat="2" tips="H5_【H5推送专用】提示红点，点击进入活动面板后红点消失" From=""/>
+	
+
+	<Red ID="3001" IsClick="0" UserInfo="0" BytePos="0" ByteValue="0" Judge="0" forwhat="2" tips="H5_【回流系统】勇者归来：未领取回归礼包" From=""/>
+	<Red ID="3002" IsClick="0" UserInfo="0" BytePos="0" ByteValue="0" Judge="0" forwhat="2" tips="H5_【回流系统】战斗火焰：今日未领取战斗火焰" From=""/>
+	<Red ID="3003" IsClick="0" UserInfo="0" BytePos="0" ByteValue="0" Judge="0" forwhat="2" tips="H5_【回流系统】巅峰精灵：达成可领取精灵的条件但未领取" From=""/>
+	<Red ID="3004" IsClick="0" UserInfo="0" BytePos="0" ByteValue="0" Judge="0" forwhat="2" tips="H5_【回流系统】登陆好礼：今日有未领取的礼包" From=""/>
+	<Red ID="3005" IsClick="0" UserInfo="0" BytePos="0" ByteValue="0" Judge="0" forwhat="2" tips="H5_【回流系统】回归任务：已完成的任务未领取奖励" From=""/>
+	<Red ID="3006" IsClick="0" UserInfo="0" BytePos="0" ByteValue="0" Judge="0" forwhat="2" tips="H5_【回流系统】折扣商城：已达到可领取折扣券的条件但未领取" From=""/>
+	
+	
+	<!--H5VIP商城专用-->
+	<Red ID="3101" IsClick="0" UserInfo="0" BytePos="0" ByteValue="0" Judge="0" forwhat="2" tips="H5_【VIP特惠商城】人气推荐" From=""/>
+	<Red ID="3102" IsClick="0" UserInfo="0" BytePos="0" ByteValue="0" Judge="0" forwhat="2" tips="H5_【VIP特惠商城】绝版精灵" From=""/>
+	<Red ID="3103" IsClick="0" UserInfo="0" BytePos="0" ByteValue="0" Judge="0" forwhat="2" tips="H5_【VIP特惠商城】精灵养成" From=""/>
+	<Red ID="3104" IsClick="0" UserInfo="0" BytePos="0" ByteValue="0" Judge="0" forwhat="2" tips="H5_【VIP特惠商城】辅助道具" From=""/>
+	<Red ID="3105" IsClick="0" UserInfo="0" BytePos="0" ByteValue="0" Judge="0" forwhat="2" tips="H5_【VIP特惠商城】全能刻印" From=""/>
+	<Red ID="3106" IsClick="0" UserInfo="0" BytePos="0" ByteValue="0" Judge="0" forwhat="2" tips="H5_【VIP特惠商城】绝版成就" From=""/>
+	
+
+</root>

@@ -1,0 +1,607 @@
+<root>
+	<item id="1" realid="41329" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="750" POPID="1" />
+	<item id="2" realid="41330" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="750" POPID="2" />
+	<item id="3" realid="41331" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="750" POPID="3" />
+	<item id="4" realid="41332" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="750" POPID="4" />
+	<item id="5" realid="41333" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="750" POPID="5" />
+	<item id="6" realid="41334" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="750" POPID="6" />
+	<item id="7" realid="41335" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="750" POPID="7" />
+	<item id="8" realid="41336" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="750" POPID="8" />
+	<item id="9" realid="41337" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="750" POPID="9" />
+	<item id="10" realid="41338" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="750" POPID="10" />
+	<item id="11" realid="1800006" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717451" price="300" POPID="11" />
+	<item id="12" realid="1800016" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717451" price="300" POPID="12" />
+	<item id="13" realid="1800026" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717451" price="300" POPID="13" />
+	<item id="14" realid="1800036" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717451" price="300" POPID="14" />
+	<item id="15" realid="1800046" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717451" price="300" POPID="15" />
+	<item id="16" realid="1800056" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717451" price="300" POPID="16" />
+	<item id="17" realid="1800066" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717451" price="300" POPID="17" />
+	<item id="18" realid="1800076" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717451" price="300" POPID="18" />
+	<item id="19" realid="1800086" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717451" price="300" POPID="19" />
+	<item id="20" realid="1800096" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717451" price="300" POPID="20" />
+	<item id="21" realid="1800106" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717451" price="300" POPID="21" />
+	<item id="22" realid="1800116" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717451" price="300" POPID="22" />
+	<item id="23" realid="337" type="3" Subtag="0" batch="1" shopid="1" cointype="4" coinid="1717452" price="500" POPID="23" />
+	<item id="24" realid="370" type="3" Subtag="0" batch="1" shopid="1" cointype="4" coinid="1717452" price="1500" POPID="24" />
+	<item id="25" realid="393" type="3" Subtag="0" batch="1" shopid="1" cointype="4" coinid="1717452" price="1500" POPID="25" />
+	<item id="26" realid="404" type="3" Subtag="0" batch="1" shopid="1" cointype="4" coinid="1717452" price="1500" POPID="26" />
+	<item id="27" realid="300749" type="1" Subtag="0" batch="5" shopid="1" cointype="3" coinid="1717451" price="2" POPID="27" />
+	<item id="28" realid="300750" type="1" Subtag="0" batch="5" shopid="1" cointype="3" coinid="1717451" price="2" POPID="28" />
+	<item id="29" realid="300751" type="1" Subtag="0" batch="5" shopid="1" cointype="3" coinid="1717451" price="2" POPID="29" />
+	<item id="30" realid="300066" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717452" price="1500" POPID="30" />
+	<item id="31" realid="1706927" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717452" price="3" POPID="31" />
+	<item id="32" realid="1706928" type="1" Subtag="0" batch="10" shopid="1" cointype="3" coinid="1717452" price="3" POPID="32" />
+	<item id="33" realid="2438" monappend="1726_16065_40187" type="4" Subtag="1" batch="1" shopid="2" cointype="5" coinid="1707511" price="3000" isjustone="1" NewStatLog="2011190800" POPID="33" />
+	<item id="34" realid="2462" monappend="1733_16114_40193" type="4" Subtag="1" batch="1" shopid="2" cointype="5" coinid="1707511" price="3000" isjustone="1" NewStatLog="2011190801" POPID="34" />
+	<item id="35" realid="2508" monappend="1757_16289_40214" type="4" Subtag="1" batch="1" shopid="2" cointype="5" coinid="1707511" price="6000" isjustone="1" NewStatLog="2011190802" POPID="35" />
+	<item id="36" realid="3043" monappend="2228_19308_40573" type="4" Subtag="1" batch="1" shopid="2" cointype="5" coinid="1707511" price="10000" isjustone="1" NewStatLog="2011190803" POPID="36" />
+	<item id="37" realid="3426" monappend="2660_31063_41012" type="4" Subtag="1" batch="1" shopid="2" cointype="5" coinid="1707511" price="15000" isjustone="1" NewStatLog="2011190804" POPID="37" />
+	<item id="38" realid="3744" monappend="3011_32691_41411" type="4" Subtag="1" batch="1" shopid="2" cointype="5" coinid="1707511" price="15000" isjustone="1" NewStatLog="2011190805" POPID="38" />
+	<item id="39" realid="2739" monappend="1881_17299_40357" type="4" Subtag="2" batch="1" shopid="2" cointype="6" coinid="1721743" price="900" NewStatLog="2011190806" POPID="39" />
+	<item id="40" realid="2787" monappend="1909_17514_40387" type="4" Subtag="2" batch="1" shopid="2" cointype="7" coinid="1721744" price="900" NewStatLog="2011190807" POPID="40" />
+	<item id="41" realid="2844" monappend="1979_17774_40422" type="4" Subtag="2" batch="1" shopid="2" cointype="8" coinid="1721745" price="900" NewStatLog="2011190808" POPID="41" />
+	<item id="42" realid="2959" monappend="2161_18331_40526" type="4" Subtag="2" batch="1" shopid="2" cointype="9" coinid="1721746" price="900" NewStatLog="2011190809" POPID="42" />
+	<item id="43" realid="2988" monappend="2185_19123_40545" type="4" Subtag="2" batch="1" shopid="2" cointype="10" coinid="1721747" price="900" NewStatLog="2011190810" POPID="43" />
+	<item id="44" realid="3036" monappend="2219_19295_40570" type="4" Subtag="2" batch="1" shopid="2" cointype="11" coinid="1721748" price="900" NewStatLog="2011190811" POPID="44" />
+	<item id="45" realid="3082" monappend="2259_19477_40599" type="4" Subtag="2" batch="1" shopid="2" cointype="12" coinid="1721749" price="900" NewStatLog="2011190812" POPID="45" />
+	<item id="46" realid="3105" monappend="2290_19586_40617" type="4" Subtag="2" batch="1" shopid="2" cointype="13" coinid="1721750" price="900" NewStatLog="2011190813" POPID="46" />
+	<item id="47" realid="3150" monappend="2350_19765_40662" type="4" Subtag="2" batch="1" shopid="2" cointype="14" coinid="1721751" price="900" NewStatLog="2011190814" POPID="47" />
+	<item id="48" realid="3174" monappend="2366_19856_40679" type="4" Subtag="2" batch="1" shopid="2" cointype="15" coinid="1721752" price="900" NewStatLog="2011190815" POPID="48" />
+	<item id="49" realid="3200" monappend="2392_19965_40701" type="4" Subtag="2" batch="1" shopid="2" cointype="16" coinid="1721753" price="900" NewStatLog="2011190816" POPID="49" />
+	<item id="50" realid="3211" monappend="2410_30017_40720" type="4" Subtag="2" batch="1" shopid="2" cointype="17" coinid="1721754" price="900" NewStatLog="2011190817" POPID="50" />
+	<item id="51" realid="3223" monappend="2423_30074_40736" type="4" Subtag="2" batch="1" shopid="2" cointype="18" coinid="1721755" price="900" NewStatLog="2011190818" POPID="51" />
+	<item id="52" realid="3240" monappend="2437_30148_40743" type="4" Subtag="2" batch="1" shopid="2" cointype="19" coinid="1721756" price="900" NewStatLog="2011190819" POPID="52" />
+	<item id="53" realid="3322" monappend="2548_30518_40869" type="4" Subtag="2" batch="1" shopid="2" cointype="20" coinid="1721757" price="900" NewStatLog="2011190820" POPID="53" />
+	<item id="54" realid="3340" monappend="2565_30605_40889" type="4" Subtag="2" batch="1" shopid="2" cointype="21" coinid="1721758" price="900" NewStatLog="2011190821" POPID="54" />
+	<item id="55" realid="3355" monappend="2581_30678_40900" type="4" Subtag="2" batch="1" shopid="2" cointype="22" coinid="1721759" price="900" NewStatLog="2011190822" POPID="55" />
+	<item id="56" realid="3372" monappend="2593_30757_40931" type="4" Subtag="2" batch="1" shopid="2" cointype="23" coinid="1721760" price="900" NewStatLog="2011190823" POPID="56" />
+	<item id="57" realid="41787" type="2" Subtag="3" batch="1" shopid="2" cointype="5" coinid="1707511" price="500" DiamondTask="10" NewStatLog="2011190824" POPID="57" />
+	<item id="58" realid="41788" type="2" Subtag="3" batch="1" shopid="2" cointype="5" coinid="1707511" price="500" DiamondTask="10" NewStatLog="2011190825" POPID="58" />
+	<item id="59" realid="41789" type="2" Subtag="3" batch="1" shopid="2" cointype="5" coinid="1707511" price="500" DiamondTask="10" NewStatLog="2011190826" POPID="59" />
+	<item id="60" realid="41790" type="2" Subtag="3" batch="1" shopid="2" cointype="5" coinid="1707511" price="500" DiamondTask="10" NewStatLog="2011190827" POPID="60" />
+	<item id="61" realid="41783" type="2" Subtag="3" batch="1" shopid="2" cointype="5" coinid="1707511" price="200" DiamondTask="10" NewStatLog="2011190828" POPID="61" />
+	<item id="62" realid="41784" type="2" Subtag="3" batch="1" shopid="2" cointype="5" coinid="1707511" price="200" DiamondTask="10" NewStatLog="2011190829" POPID="62" />
+	<item id="63" realid="41785" type="2" Subtag="3" batch="1" shopid="2" cointype="5" coinid="1707511" price="200" DiamondTask="10" NewStatLog="2011190830" POPID="63" />
+	<item id="64" realid="41786" type="2" Subtag="3" batch="1" shopid="2" cointype="5" coinid="1707511" price="200" DiamondTask="10" NewStatLog="2011190831" POPID="64" />
+	<item id="65" realid="40646" type="2" Subtag="4" batch="1" shopid="2" cointype="24" coinid="1721761" price="400" cond_id="1" NewStatLog="2011190832" POPID="65" />
+	<item id="66" realid="40648" type="2" Subtag="4" batch="1" shopid="2" cointype="24" coinid="1721761" price="400" cond_id="1" NewStatLog="2011190833" POPID="66" />
+	<item id="67" realid="40650" type="2" Subtag="4" batch="1" shopid="2" cointype="24" coinid="1721761" price="400" cond_id="1" NewStatLog="2011190834" POPID="67" />
+	<item id="68" realid="40653" type="2" Subtag="4" batch="1" shopid="2" cointype="24" coinid="1721761" price="400" cond_id="1" NewStatLog="2011190835" POPID="68" />
+	<item id="69" realid="40649" type="2" Subtag="4" batch="1" shopid="2" cointype="24" coinid="1721761" price="400" cond_id="1" NewStatLog="2011190836" POPID="69" />
+	<item id="70" realid="40651" type="2" Subtag="4" batch="1" shopid="2" cointype="24" coinid="1721761" price="400" cond_id="1" NewStatLog="2011190837" POPID="70" />
+	<item id="71" realid="40652" type="2" Subtag="4" batch="1" shopid="2" cointype="24" coinid="1721761" price="400" cond_id="1" NewStatLog="2011190838" POPID="71" />
+	<item id="72" realid="40647" type="2" Subtag="4" batch="1" shopid="2" cointype="24" coinid="1721761" price="400" cond_id="1" NewStatLog="2011190839" POPID="72" />
+	<item id="73" realid="41077" type="2" Subtag="4" batch="1" shopid="2" cointype="24" coinid="1721761" price="400" cond_id="1" NewStatLog="2011190840" POPID="73" />
+	<item id="74" realid="41079" type="2" Subtag="4" batch="1" shopid="2" cointype="24" coinid="1721761" price="400" cond_id="1" NewStatLog="2011190841" POPID="74" />
+	<item id="75" realid="40894" type="2" Subtag="4" batch="1" shopid="2" cointype="24" coinid="1721761" price="400" cond_id="1" NewStatLog="2011190842" POPID="75" />
+	<item id="76" realid="41078" type="2" Subtag="4" batch="1" shopid="2" cointype="24" coinid="1721761" price="400" cond_id="1" NewStatLog="2011190843" POPID="76" />
+	<item id="77" realid="41080" type="2" Subtag="4" batch="1" shopid="2" cointype="24" coinid="1721761" price="400" cond_id="1" NewStatLog="2011190844" POPID="77" />
+	<item id="78" realid="300070" type="1" Subtag="11" batch="10" shopid="2" cointype="5" coinid="1707511" price="150" DiamondTask="10" NewStatLog="2309150101" POPID="78" />
+	<item id="79" realid="300673" type="1" Subtag="11" batch="10" shopid="2" cointype="5" coinid="1707511" price="150" DiamondTask="10" NewStatLog="2309150102" POPID="79" />
+	<item id="80" realid="300075" type="1" Subtag="11" batch="10" shopid="2" cointype="5" coinid="1707511" price="150" DiamondTask="10" NewStatLog="2309150103" POPID="80" />
+	<item id="81" realid="300065" type="1" Subtag="11" batch="10" shopid="2" cointype="5" coinid="1707511" price="3000" DiamondTask="10" NewStatLog="2309150104" POPID="81" />
+	<item id="82" realid="300063" type="1" Subtag="11" batch="10" shopid="2" cointype="5" coinid="1707511" price="4000" DiamondTask="10" NewStatLog="2309150105" POPID="82" />
+	<item id="83" realid="4117" monappend="5620_34551_41906" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" isjustone="1" NewStatLog="2011190901" POPID="83" />
+	<item id="84" realid="4145" monappend="5645_34687_41926" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" isjustone="1" NewStatLog="2011190900" POPID="84" />
+	<item id="85" realid="300130" type="1" Subtag="6" batch="10" shopid="3" cointype="27" coinid="1722506" price="150" NewStatLog="2011190904" POPID="85" />
+	<item id="86" realid="300131" type="1" Subtag="6" batch="10" shopid="3" cointype="27" coinid="1722506" price="150" NewStatLog="2011190905" POPID="86" />
+	<item id="87" realid="300132" type="1" Subtag="6" batch="10" shopid="3" cointype="27" coinid="1722506" price="150" NewStatLog="2011190906" POPID="87" />
+	<item id="88" realid="300133" type="1" Subtag="6" batch="10" shopid="3" cointype="27" coinid="1722506" price="150" NewStatLog="2011190907" POPID="88" />
+	<item id="89" realid="300134" type="1" Subtag="6" batch="10" shopid="3" cointype="27" coinid="1722506" price="150" NewStatLog="2011190908" POPID="89" />
+	<item id="90" realid="300135" type="1" Subtag="6" batch="10" shopid="3" cointype="27" coinid="1722506" price="150" NewStatLog="2011190909" POPID="90" />
+	<item id="91" realid="300784" type="1" Subtag="6" batch="10" shopid="3" cointype="27" coinid="1722506" price="200" NewStatLog="2011190910" POPID="91" />
+	<item id="92" realid="300785" type="1" Subtag="6" batch="10" shopid="3" cointype="27" coinid="1722506" price="200" NewStatLog="2011190911" POPID="92" />
+	<item id="93" realid="201" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="93" />
+	<item id="94" realid="202" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="94" />
+	<item id="95" realid="203" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="95" />
+	<item id="96" realid="204" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="96" />
+	<item id="97" realid="205" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="97" />
+	<item id="98" realid="206" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="98" />
+	<item id="99" realid="207" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="99" />
+	<item id="100" realid="208" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="100" />
+	<item id="101" realid="209" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="101" />
+	<item id="102" realid="210" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="102" />
+	<item id="103" realid="211" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="103" />
+	<item id="104" realid="212" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="104" />
+	<item id="105" realid="213" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="105" />
+	<item id="106" realid="214" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="106" />
+	<item id="107" realid="215" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="107" />
+	<item id="108" realid="216" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="108" />
+	<item id="109" realid="217" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="109" />
+	<item id="110" realid="218" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="110" />
+	<item id="111" realid="219" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="111" />
+	<item id="112" realid="220" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="112" />
+	<item id="113" realid="221" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="113" />
+	<item id="114" realid="222" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="114" />
+	<item id="115" realid="223" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="115" />
+	<item id="116" realid="224" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="116" />
+	<item id="117" realid="225" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="117" />
+	<item id="118" realid="226" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="118" />
+	<item id="119" realid="227" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="119" />
+	<item id="120" realid="228" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="120" />
+	<item id="121" realid="229" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="121" />
+	<item id="122" realid="230" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="122" />
+	<item id="123" realid="231" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="123" />
+	<item id="124" realid="6401" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="124" />
+	<item id="125" realid="6402" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="125" />
+	<item id="126" realid="6403" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="126" />
+	<item id="127" realid="6404" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="127" />
+	<item id="128" realid="6405" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="128" />
+	<item id="129" realid="6406" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="129" />
+	<item id="130" realid="6407" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="130" />
+	<item id="131" realid="6408" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="131" />
+	<item id="132" realid="6409" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="132" />
+	<item id="133" realid="6410" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="133" />
+	<item id="134" realid="6411" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="134" />
+	<item id="135" realid="6412" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="135" />
+	<item id="136" realid="6413" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="136" />
+	<item id="137" realid="6414" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="137" />
+	<item id="138" realid="6415" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="138" />
+	<item id="139" realid="6416" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="139" />
+	<item id="140" realid="6417" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="140" />
+	<item id="141" realid="6418" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="141" />
+	<item id="142" realid="6419" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="142" />
+	<item id="143" realid="6420" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="143" />
+	<item id="144" realid="6421" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="144" />
+	<item id="145" realid="6422" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="145" />
+	<item id="146" realid="6423" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="146" />
+	<item id="147" realid="6424" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="147" />
+	<item id="148" realid="6425" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="148" />
+	<item id="149" realid="6426" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="149" />
+	<item id="150" realid="6427" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="150" />
+	<item id="151" realid="6428" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="151" />
+	<item id="152" realid="6429" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="152" />
+	<item id="153" realid="6430" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="153" />
+	<item id="154" realid="6431" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="154" />
+	<item id="155" realid="6432" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="155" />
+	<item id="156" realid="10401" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="156" />
+	<item id="157" realid="10402" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="157" />
+	<item id="158" realid="10403" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="158" />
+	<item id="159" realid="10404" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="159" />
+	<item id="160" realid="10405" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="160" />
+	<item id="161" realid="10406" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="161" />
+	<item id="162" realid="10407" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="162" />
+	<item id="163" realid="10408" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="163" />
+	<item id="164" realid="10409" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="164" />
+	<item id="165" realid="10410" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="165" />
+	<item id="166" realid="10411" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="166" />
+	<item id="167" realid="10412" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="167" />
+	<item id="168" realid="10413" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="168" />
+	<item id="169" realid="10414" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="169" />
+	<item id="170" realid="10415" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="170" />
+	<item id="171" realid="10416" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="171" />
+	<item id="172" realid="10417" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="172" />
+	<item id="173" realid="10418" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="173" />
+	<item id="174" realid="10419" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="174" />
+	<item id="175" realid="10420" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="175" />
+	<item id="176" realid="10421" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="176" />
+	<item id="177" realid="10422" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="177" />
+	<item id="178" realid="10423" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="178" />
+	<item id="179" realid="10424" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="179" />
+	<item id="180" realid="10425" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="180" />
+	<item id="181" realid="10426" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="181" />
+	<item id="182" realid="10427" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="182" />
+	<item id="183" realid="10428" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="183" />
+	<item id="184" realid="10429" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="184" />
+	<item id="185" realid="10430" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="185" />
+	<item id="186" realid="10431" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="186" />
+	<item id="187" realid="10432" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="187" />
+	<item id="188" realid="1" type="1" Subtag="6" batch="10" shopid="3" cointype="27" coinid="1722506" price="10" count="10000" NewStatLog="2011190912" POPID="188" />
+	<item id="189" realid="3065" monappend="2247_19413_40592" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" isjustone="1" NewStatLog="2011190903" POPID="189" />
+	<item id="190" realid="3030" monappend="2225_19268_40568" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" isjustone="1" NewStatLog="2011190902" POPID="190" />
+	<item id="191" realid="2501" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="5000" DiamondTask="10" NewStatLog="2011190851" POPID="191" />
+	<item id="192" realid="2503" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" DiamondTask="10" NewStatLog="2011190852" POPID="192" />
+	<item id="193" realid="2504" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="10000" DiamondTask="10" NewStatLog="2011190853" POPID="193" />
+	<item id="194" realid="2401" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="5000" DiamondTask="10" NewStatLog="2011190854" POPID="194" />
+	<item id="195" realid="2402" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" DiamondTask="10" NewStatLog="2011190855" POPID="195" />
+	<item id="196" realid="2403" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="10000" DiamondTask="10" NewStatLog="2011190856" POPID="196" />
+	<item id="197" realid="9101" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" DiamondTask="10" NewStatLog="2011190857" POPID="197" />
+	<item id="198" realid="9102" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="10000" DiamondTask="10" NewStatLog="2011190858" POPID="198" />
+	<item id="199" realid="8109" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="10000" DiamondTask="10" NewStatLog="2011190859" POPID="199" />
+	<item id="200" realid="8110" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="10000" DiamondTask="10" NewStatLog="2011190860" POPID="200" />
+	<item id="201" realid="8111" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="10000" DiamondTask="10" NewStatLog="2011190861" POPID="201" />
+	<item id="202" realid="40320" type="2" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="3010" BitSetId="19320" NewStatLog="2011210200" POPID="202" />
+	<item id="203" realid="1930" type="7" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="3010" BitSetId="19319" NewStatLog="2011210201" POPID="203" />
+	<item id="204" realid="40238" type="2" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="2545" BitSetId="88" NewStatLog="2011210202" POPID="204" />
+	<item id="205" realid="1780" type="7" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="2545" BitSetId="87" NewStatLog="2011210203" POPID="205" />
+	<item id="206" realid="2737" type="4" Subtag="2" batch="1" shopid="2" cointype="6" coinid="1721743" price="900" NewStatLog="2101140200" POPID="206" />
+	<item id="207" realid="2785" type="4" Subtag="2" batch="1" shopid="2" cointype="7" coinid="1721744" price="900" NewStatLog="2101140201" POPID="207" />
+	<item id="208" realid="2842" type="4" Subtag="2" batch="1" shopid="2" cointype="8" coinid="1721745" price="900" NewStatLog="2101140202" POPID="208" />
+	<item id="209" realid="2962" type="4" Subtag="2" batch="1" shopid="2" cointype="9" coinid="1721746" price="900" NewStatLog="2101140203" POPID="209" />
+	<item id="210" realid="2996" type="4" Subtag="2" batch="1" shopid="2" cointype="10" coinid="1721747" price="900" NewStatLog="2101140204" POPID="210" />
+	<item id="211" realid="3034" type="4" Subtag="2" batch="1" shopid="2" cointype="11" coinid="1721748" price="900" NewStatLog="2101140205" POPID="211" />
+	<item id="212" realid="3080" type="4" Subtag="2" batch="1" shopid="2" cointype="12" coinid="1721749" price="900" NewStatLog="2101140206" POPID="212" />
+	<item id="213" realid="3109" type="4" Subtag="2" batch="1" shopid="2" cointype="13" coinid="1721750" price="900" NewStatLog="2101140207" POPID="213" />
+	<item id="214" realid="3148" type="4" Subtag="2" batch="1" shopid="2" cointype="14" coinid="1721751" price="900" NewStatLog="2101140208" POPID="214" />
+	<item id="215" realid="3172" type="4" Subtag="2" batch="1" shopid="2" cointype="15" coinid="1721752" price="900" NewStatLog="2101140209" POPID="215" />
+	<item id="216" realid="3198" type="4" Subtag="2" batch="1" shopid="2" cointype="16" coinid="1721753" price="900" NewStatLog="2101140210" POPID="216" />
+	<item id="217" realid="3206" type="4" Subtag="2" batch="1" shopid="2" cointype="17" coinid="1721754" price="900" NewStatLog="2101140211" POPID="217" />
+	<item id="218" realid="3231" type="4" Subtag="2" batch="1" shopid="2" cointype="18" coinid="1721755" price="900" NewStatLog="2101140212" POPID="218" />
+	<item id="219" realid="3320" type="4" Subtag="2" batch="1" shopid="2" cointype="20" coinid="1721757" price="900" NewStatLog="2101140213" POPID="219" />
+	<item id="220" realid="3338" type="4" Subtag="2" batch="1" shopid="2" cointype="21" coinid="1721758" price="900" NewStatLog="2101140214" POPID="220" />
+	<item id="221" realid="3353" type="4" Subtag="2" batch="1" shopid="2" cointype="22" coinid="1721759" price="900" NewStatLog="2101140215" POPID="221" />
+	<item id="222" realid="3370" type="4" Subtag="2" batch="1" shopid="2" cointype="23" coinid="1721760" price="900" NewStatLog="2101140216" POPID="222" />
+	<item id="224" realid="2" type="5" Subtag="8" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" NewStatLog="2101210300" POPID="224" />
+	<item id="225" realid="3" type="5" Subtag="8" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" NewStatLog="2101210301" POPID="225" />
+	<item id="226" realid="4" type="5" Subtag="8" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" NewStatLog="2101210302" POPID="226" />
+	<item id="227" realid="5" type="5" Subtag="8" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" NewStatLog="2101210303" POPID="227" />
+	<item id="228" realid="6" type="5" Subtag="8" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" NewStatLog="2101210304" POPID="228" />
+	<item id="229" realid="7" type="5" Subtag="8" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" NewStatLog="2101210305" POPID="229" />
+	<item id="230" realid="8" type="5" Subtag="8" batch="1" shopid="3" cointype="27" coinid="1722506" price="700" NewStatLog="2101210306" POPID="230" />
+	<item id="231" realid="9" type="5" Subtag="8" batch="1" shopid="3" cointype="27" coinid="1722506" price="700" NewStatLog="2101210307" POPID="231" />
+	<item id="232" realid="10" type="5" Subtag="8" batch="1" shopid="3" cointype="27" coinid="1722506" price="700" NewStatLog="2101210308" POPID="232" />
+	<item id="233" realid="11" type="5" Subtag="8" batch="1" shopid="3" cointype="27" coinid="1722506" price="700" NewStatLog="2101210309" POPID="233" />
+	<item id="234" realid="12" type="5" Subtag="8" batch="1" shopid="3" cointype="27" coinid="1722506" price="700" NewStatLog="2101210310" POPID="234" />
+	<item id="235" realid="13" type="5" Subtag="8" batch="1" shopid="3" cointype="27" coinid="1722506" price="700" NewStatLog="2101210311" POPID="235" />
+	<item id="236" realid="40267" type="2" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="2581" BitSetId="103" NewStatLog="2101210314" POPID="236" />
+	<item id="237" realid="1796" type="7" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="2581" BitSetId="102" NewStatLog="2101210315" POPID="237" />
+	<item id="238" realid="4047" monappend="5568_34194_41825" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" isjustone="1" NewStatLog="2101210312" POPID="238" />
+	<item id="239" realid="3480" monappend="2717_31345_41073" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" isjustone="1" NewStatLog="2101210313" POPID="239" />
+	<item id="240" realid="40322" type="2" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="2676" BitSetId="8121" NewStatLog="2103180102" POPID="240" />
+	<item id="241" realid="1854" type="7" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="2676" BitSetId="8120" NewStatLog="2103180103" POPID="241" />
+	<item id="242" realid="3098" monappend="2270_19543_40614" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" BitSetId="19440" NewStatLog="2103180101" POPID="242" />
+	<item id="243" realid="4201" monappend="5694_34976_42005" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" isjustone="1" NewStatLog="2103180100" POPID="243" />
+	<item id="244" realid="40849" type="2" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="3310" BitSetId="8807" NewStatLog="2104220102" POPID="244" />
+	<item id="245" realid="2532" type="7" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="3310" BitSetId="8808" NewStatLog="2104220103" POPID="245" />
+	<item id="246" realid="3151" monappend="2351_19769_40663" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" isjustone="1" NewStatLog="2104220100" POPID="246" />
+	<item id="247" realid="3235" monappend="2432_30115_40738" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" isjustone="1" NewStatLog="2104220101" POPID="247" />
+	<item id="248" realid="30465" type="6" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="100" boundmonster="3310" BitSetId="8810" NewStatLog="2105200100" POPID="248" />
+	<item id="249" realid="40609" type="2" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="2933" BitSetId="8812" NewStatLog="2106240101" POPID="249" />
+	<item id="250" realid="2046" type="7" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="2933" BitSetId="8813" NewStatLog="2106240102" POPID="250" />
+	<item id="251" realid="3768" monappend="3045_32814_41437" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" isjustone="1" NewStatLog="2106240100" POPID="251" />
+	<item id="252" realid="40824" type="2" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="3292" BitSetId="8815" NewStatLog="2108120101" POPID="252" />
+	<item id="253" realid="2502" type="7" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="3292" BitSetId="8816" NewStatLog="2108120102" POPID="253" />
+	<item id="254" realid="4265" monappend="5759_35326_42077" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" isjustone="1" NewStatLog="2108120100" POPID="254" />
+	<item id="255" realid="1400153" type="1" Subtag="6" batch="2" shopid="3" cointype="27" coinid="1722506" price="200" UserInfoId="201336" Limittype="1" LimitCnt="2" NewStatLog="2303090400" POPID="255" />
+	<item id="256" realid="30385" type="6" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="100" boundmonster="3292" BitSetId="8817" NewStatLog="2108120404" POPID="256" />
+	<item id="257" realid="3582" monappend="2814_31875_41201" type="4" Subtag="1" batch="1" shopid="2" cointype="5" coinid="1707511" price="2000" isjustone="1" NewStatLog="2108260100" POPID="257" />
+	<item id="258" realid="4274" monappend="5768_35374_42085" type="4" Subtag="1" batch="1" shopid="2" cointype="5" coinid="1707511" price="15000" isjustone="1" NewStatLog="2108260101" POPID="258" />
+	<item id="260" realid="701" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="5000" DiamondTask="10" NewStatLog="2108260103" POPID="260" />
+	<item id="261" realid="702" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="6000" DiamondTask="10" NewStatLog="2108260104" POPID="261" />
+	<item id="262" realid="703" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="6000" DiamondTask="10" NewStatLog="2108260105" POPID="262" />
+	<item id="263" realid="704" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" DiamondTask="10" NewStatLog="2108260106" POPID="263" />
+	<item id="264" realid="705" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" DiamondTask="10" NewStatLog="2108260107" POPID="264" />
+	<item id="265" realid="706" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="10000" DiamondTask="10" NewStatLog="2108260108" POPID="265" />
+	<item id="266" realid="1706927" type="1" Subtag="12" batch="100" shopid="2" cointype="33" coinid="1721558" price="1" NewStatLog="2109290300" POPID="266" />
+	<item id="267" realid="1706928" type="1" Subtag="12" batch="100" shopid="2" cointype="33" coinid="1721558" price="1" NewStatLog="2109290301" POPID="267" />
+	<item id="268" realid="1706826" type="1" Subtag="12" batch="10" shopid="2" cointype="33" coinid="1721558" price="20" NewStatLog="2109290302" POPID="268" />
+	<item id="269" realid="1706924" type="1" Subtag="12" batch="10" shopid="2" cointype="33" coinid="1721558" price="80" NewStatLog="2109290303" POPID="269" />
+	<item id="270" realid="1706925" type="1" Subtag="12" batch="10" shopid="2" cointype="33" coinid="1721558" price="80" NewStatLog="2109290304" POPID="270" />
+	<item id="271" realid="1706926" type="1" Subtag="12" batch="10" shopid="2" cointype="33" coinid="1721558" price="160" NewStatLog="2109290305" POPID="271" />
+	<item id="272" realid="40809" type="2" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="3282" BitSetId="8818" NewStatLog="2110280201" POPID="272" />
+	<item id="273" realid="2486" type="7" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="3282" BitSetId="8819" NewStatLog="2110280202" POPID="273" />
+	<item id="274" realid="4297" monappend="5788_35489_42115" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" isjustone="1" NewStatLog="2110280200" POPID="274" />
+	<item id="275" realid="2400043" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="4" NewStatLog="2110280207" POPID="275" />
+	<item id="276" realid="2400044" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="7" NewStatLog="2110280208" POPID="276" />
+	<item id="277" realid="2400045" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="4" NewStatLog="2110280209" POPID="277" />
+	<item id="278" realid="30338" type="6" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="100" boundmonster="3282" BitSetId="8820" NewStatLog="2110280203" POPID="278" />
+	<item id="279" realid="41109" type="2" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="100" boundmonster="3513" BitSetId="8821" NewStatLog="2110280204" POPID="279" />
+	<item id="280" realid="2749" type="7" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="100" boundmonster="3513" BitSetId="8822" NewStatLog="2110280205" POPID="280" />
+	<item id="281" realid="31513" type="6" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="50" boundmonster="3513" BitSetId="8823" NewStatLog="2110280206" POPID="281" />
+	<item id="282" realid="1723854" type="1" Subtag="11" batch="2" shopid="2" cointype="5" coinid="1707511" price="1000" UserInfoId="20234" Limittype="2" LimitCnt="2" count="250" DiamondTask="10" NewStatLog="2309150100" POPID="282" />
+	<item id="283" realid="4280" type="4" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="600" UserInfoId="121121" Limittype="4" LimitCnt="1" POPID="283" />
+	<item id="284" realid="1297" type="4" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="200" UserInfoId="121122" Limittype="4" LimitCnt="1" POPID="284" />
+	<item id="285" realid="1298" type="4" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="200" UserInfoId="121123" Limittype="4" LimitCnt="1" POPID="285" />
+	<item id="286" realid="1216" type="4" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="200" UserInfoId="121124" Limittype="4" LimitCnt="1" POPID="286" />
+	<item id="287" realid="1296" type="4" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="100" UserInfoId="121125" Limittype="4" LimitCnt="1" POPID="287" />
+	<item id="288" realid="938" type="4" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="100" UserInfoId="121126" Limittype="4" LimitCnt="1" POPID="288" />
+	<item id="289" realid="2124" type="4" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="100" UserInfoId="121127" Limittype="4" LimitCnt="1" POPID="289" />
+	<item id="290" realid="1217" type="4" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="100" UserInfoId="121128" Limittype="4" LimitCnt="1" POPID="290" />
+	<item id="291" realid="300405" type="1" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="30" UserInfoId="20236" Limittype="2" LimitCnt="1" POPID="291" />
+	<item id="292" realid="300671" type="1" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="30" UserInfoId="20237" Limittype="2" LimitCnt="1" POPID="292" />
+	<item id="293" realid="300021" type="1" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="30" UserInfoId="20238" Limittype="2" LimitCnt="1" POPID="293" />
+	<item id="294" realid="300065" type="1" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="30" UserInfoId="20239" Limittype="2" LimitCnt="1" NewStatLog="2303300209" POPID="294" />
+	<item id="295" realid="300697" type="1" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="20" UserInfoId="20240" Limittype="2" LimitCnt="1" NewStatLog="2303300210" POPID="295" />
+	<item id="296" realid="300854" type="1" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="20" UserInfoId="20241" Limittype="2" LimitCnt="1" NewStatLog="2303300211" POPID="296" />
+	<item id="297" realid="300075" type="1" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="15" UserInfoId="20242" Limittype="2" LimitCnt="1" POPID="297" />
+	<item id="298" realid="300129" type="1" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="15" UserInfoId="20243" Limittype="2" LimitCnt="1" POPID="298" />
+	<item id="299" realid="1706926" type="1" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="30" UserInfoId="20244" Limittype="2" LimitCnt="1" NewStatLog="2303300208" POPID="299" />
+	<item id="300" realid="1706925" type="1" Subtag="0" batch="2" shopid="4" cointype="35" coinid="1720852" price="20" UserInfoId="20245" Limittype="2" LimitCnt="2" POPID="300" />
+	<item id="301" realid="1706924" type="1" Subtag="0" batch="2" shopid="4" cointype="35" coinid="1720852" price="20" UserInfoId="20246" Limittype="2" LimitCnt="2" POPID="301" />
+	<item id="302" realid="1706826" type="1" Subtag="0" batch="2" shopid="4" cointype="35" coinid="1720852" price="20" UserInfoId="20247" Limittype="2" LimitCnt="2" POPID="302" />
+	<item id="303" realid="1706927" type="1" Subtag="0" batch="2" shopid="4" cointype="35" coinid="1720852" price="15" UserInfoId="20248" Limittype="2" LimitCnt="2" count="15" POPID="303" />
+	<item id="304" realid="1706928" type="1" Subtag="0" batch="2" shopid="4" cointype="35" coinid="1720852" price="15" UserInfoId="20249" Limittype="2" LimitCnt="2" count="15" POPID="304" />
+	<item id="305" realid="40922" type="2" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="30" UserInfoId="20250" Limittype="2" LimitCnt="1" POPID="305" />
+	<item id="306" realid="40923" type="2" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="30" UserInfoId="20251" Limittype="2" LimitCnt="1" POPID="306" />
+	<item id="307" realid="40924" type="2" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="30" UserInfoId="20252" Limittype="2" LimitCnt="1" POPID="307" />
+	<item id="308" realid="40925" type="2" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="30" UserInfoId="20253" Limittype="2" LimitCnt="1" POPID="308" />
+	<item id="309" realid="4313" monappend="5806_35576_42132" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" isjustone="1" NewStatLog="2112090100" POPID="309" />
+	<item id="310" realid="40812" type="2" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="3285" BitSetId="8824" NewStatLog="2112090101" POPID="310" />
+	<item id="311" realid="2493" type="7" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" boundmonster="3285" BitSetId="8825" NewStatLog="2112090102" POPID="311" />
+	<item id="312" realid="30351" type="6" Subtag="9" batch="1" shopid="3" cointype="27" coinid="1722506" price="100" boundmonster="3285" BitSetId="8826" NewStatLog="2112090103" POPID="312" />
+	<item id="313" realid="2400051" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" NewStatLog="2112090104" POPID="313" />
+	<item id="314" realid="2400052" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" NewStatLog="2112090105" POPID="314" />
+	<item id="315" realid="2400053" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" NewStatLog="2112090106" POPID="315" />
+	<item id="316" realid="2400059" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="3" NewStatLog="2202240100" POPID="316" />
+	<item id="317" realid="2400060" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="3" NewStatLog="2202240101" POPID="317" />
+	<item id="318" realid="2400061" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" NewStatLog="2202240102" POPID="318" />
+	<item id="319" realid="2400062" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" NewStatLog="2202240103" POPID="319" />
+	<item id="320" realid="2400066" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="3" NewStatLog="2202240104" POPID="320" />
+	<item id="321" realid="2400067" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="3" NewStatLog="2202240105" POPID="321" />
+	<item id="322" realid="2400068" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="3" NewStatLog="2202240106" POPID="322" />
+	<item id="323" realid="2400069" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="3" NewStatLog="2202240107" POPID="323" />
+	<item id="324" realid="2400071" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="7" NewStatLog="2202240108" POPID="324" />
+	<item id="325" realid="2400072" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="7" NewStatLog="2202240109" POPID="325" />
+	<item id="399" realid="300136" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="3000" UserInfoId="20263" Limittype="2" LimitCnt="1" DiamondTask="10" NewStatLog="2309150106" POPID="399" />
+	<item id="400" realid="11801" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="400" />
+	<item id="401" realid="11802" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="401" />
+	<item id="402" realid="11803" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="402" />
+	<item id="403" realid="11804" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="403" />
+	<item id="404" realid="11805" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="404" />
+	<item id="405" realid="11901" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="405" />
+	<item id="406" realid="11902" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="406" />
+	<item id="407" realid="11903" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="407" />
+	<item id="408" realid="10301" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="408" />
+	<item id="409" realid="10302" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="409" />
+	<item id="410" realid="10303" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="410" />
+	<item id="411" realid="10304" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="411" />
+	<item id="412" realid="10305" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="412" />
+	<item id="413" realid="10306" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="413" />
+	<item id="414" realid="15" type="9" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" NewStatLog="2207210200" POPID="414" />
+	<item id="415" realid="16" type="9" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" NewStatLog="2207210201" POPID="415" />
+	<item id="416" realid="17" type="9" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" NewStatLog="2207210202" POPID="416" />
+	<item id="417" realid="18" type="9" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" NewStatLog="2207210203" POPID="417" />
+	<item id="418" realid="19" type="9" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" NewStatLog="2207210204" POPID="418" />
+	<item id="419" realid="10307" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="419" />
+	<item id="420" realid="10308" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="420" />
+	<item id="421" realid="10309" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="421" />
+	<item id="422" realid="10310" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="422" />
+	<item id="423" realid="10311" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="423" />
+	<item id="424" realid="10312" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="424" />
+	<item id="425" realid="10313" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="425" />
+	<item id="426" realid="10314" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="426" />
+	<item id="427" realid="10315" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="427" />
+	<item id="428" realid="10316" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="428" />
+	<item id="429" realid="10317" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="429" />
+	<item id="430" realid="10318" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="430" />
+	<item id="431" realid="10320" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="431" />
+	<item id="432" realid="10321" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="432" />
+	<item id="433" realid="10322" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="433" />
+	<item id="434" realid="10323" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="434" />
+	<item id="435" realid="10324" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="435" />
+	<item id="436" realid="10326" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="436" />
+	<item id="437" realid="10330" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="437" />
+	<item id="438" realid="10331" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="438" />
+	<item id="439" realid="10332" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="439" />
+	<item id="440" realid="10501" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="440" />
+	<item id="441" realid="10502" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="441" />
+	<item id="442" realid="10503" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="442" />
+	<item id="470" realid="10504" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="470" />
+	<item id="471" realid="10505" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="471" />
+	<item id="472" realid="10506" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="472" />
+	<item id="473" realid="10507" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="473" />
+	<item id="474" realid="10508" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="474" />
+	<item id="475" realid="10509" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="475" />
+	<item id="476" realid="2106" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="476" />
+	<item id="477" realid="2107" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="477" />
+	<item id="478" realid="2108" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="478" />
+	<item id="479" realid="2109" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="479" />
+	<item id="480" realid="1801" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="480" />
+	<item id="481" realid="1802" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="481" />
+	<item id="482" realid="1803" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="482" />
+	<item id="483" realid="1804" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="483" />
+	<item id="484" realid="1805" type="5" Subtag="7" batch="1" shopid="3" cointype="27" coinid="1722506" price="200" POPID="484" />
+	<item id="497" realid="4410" monappend="5918_36070_42263" type="4" Subtag="1" batch="1" shopid="2" cointype="5" coinid="1707511" price="20000" isjustone="1" NewStatLog="2208260100" POPID="497" />
+	<item id="500" realid="8324" type="5" Subtag="14" batch="1" shopid="2" cointype="6" coinid="1721743" price="500" POPID="500" />
+	<item id="501" realid="8325" type="5" Subtag="14" batch="1" shopid="2" cointype="7" coinid="1721744" price="500" POPID="501" />
+	<item id="540" realid="8326" type="5" Subtag="14" batch="1" shopid="2" cointype="8" coinid="1721745" price="500" POPID="540" />
+	<item id="541" realid="6207" type="5" Subtag="14" batch="1" shopid="2" cointype="9" coinid="1721746" price="500" POPID="541" />
+	<item id="542" realid="12601" type="5" Subtag="14" batch="1" shopid="2" cointype="10" coinid="1721747" price="500" POPID="542" />
+	<item id="543" realid="6208" type="5" Subtag="14" batch="1" shopid="2" cointype="11" coinid="1721748" price="500" POPID="543" />
+	<item id="547" realid="40817" type="2" Subtag="15" batch="1" shopid="2" cointype="37" coinid="1724909" price="360" UserInfoId="6705" UserInfoBitPos="4" Limittype="4" NewStatLog="2212010100" POPID="547" />
+	<item id="548" realid="40843" type="2" Subtag="15" batch="1" shopid="2" cointype="38" coinid="1724910" price="360" Limittype="4" BitSetId="323" NewStatLog="2212010101" POPID="548" />
+	<item id="549" realid="40877" type="2" Subtag="15" batch="1" shopid="2" cointype="39" coinid="1724911" price="360" Limittype="4" BitSetId="9516" NewStatLog="2212010102" POPID="549" />
+	<item id="550" realid="40878" type="2" Subtag="15" batch="1" shopid="2" cointype="40" coinid="1724912" price="360" Limittype="4" BitSetId="9517" NewStatLog="2212010103" POPID="550" />
+	<item id="551" realid="40854" type="2" Subtag="15" batch="1" shopid="2" cointype="41" coinid="1724913" price="360" UserInfoId="102399" UserInfoBitPos="7" Limittype="4" NewStatLog="2212010104" POPID="551" />
+	<item id="552" realid="1711783" type="1" Subtag="16" batch="10" shopid="2" cointype="37" coinid="1724909" price="3" NewStatLog="2212010105" POPID="552" />
+	<item id="553" realid="1711876" type="1" Subtag="16" batch="10" shopid="2" cointype="38" coinid="1724910" price="3" NewStatLog="2212010106" POPID="553" />
+	<item id="554" realid="1712157" type="1" Subtag="16" batch="10" shopid="2" cointype="39" coinid="1724911" price="3" NewStatLog="2212010107" POPID="554" />
+	<item id="555" realid="1712417" type="1" Subtag="16" batch="10" shopid="2" cointype="40" coinid="1724912" price="3" NewStatLog="2212010108" POPID="555" />
+	<item id="556" realid="1712359" type="1" Subtag="16" batch="1" shopid="2" cointype="41" coinid="1724913" price="360" UserInfoId="121539" Limittype="4" LimitCnt="1" NewStatLog="2212010109" POPID="556" />
+	<item id="557" realid="15214" type="5" Subtag="14" batch="1" shopid="2" cointype="12" coinid="1721749" price="500" POPID="557" />
+	<item id="558" realid="12614" type="5" Subtag="14" batch="1" shopid="2" cointype="14" coinid="1721751" price="500" POPID="558" />
+	<item id="559" realid="12610" type="5" Subtag="14" batch="1" shopid="2" cointype="13" coinid="1721750" price="500" POPID="559" />
+	<item id="560" realid="12617" type="5" Subtag="14" batch="1" shopid="2" cointype="15" coinid="1721752" price="500" POPID="560" />
+	<item id="561" realid="12622" type="5" Subtag="14" batch="1" shopid="2" cointype="17" coinid="1721754" price="500" POPID="561" />
+	<item id="573" realid="42310" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="900" POPID="573" />
+	<item id="574" realid="42311" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="900" POPID="574" />
+	<item id="575" realid="42312" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="900" POPID="575" />
+	<item id="576" realid="42313" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="900" POPID="576" />
+	<item id="577" realid="42314" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="900" POPID="577" />
+	<item id="578" realid="42315" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="900" POPID="578" />
+	<item id="579" realid="42316" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="900" POPID="579" />
+	<item id="580" realid="42317" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="900" POPID="580" />
+	<item id="581" realid="42318" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="900" POPID="581" />
+	<item id="582" realid="42319" type="2" Subtag="0" batch="1" shopid="1" cointype="3" coinid="1717451" price="900" POPID="582" />
+	<item id="583" realid="3728" monappend="2991_32613_41392" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="500" UserInfoId="103138" UserInfoBitPos="23" isjustone="1" POPID="583" />
+	<item id="584" realid="1192" type="4" Subtag="5" batch="1" shopid="3" cointype="42" coinid="1725115" price="200" BitSetId="8833" POPID="584" />
+	<item id="585" realid="12620" type="5" Subtag="14" batch="1" shopid="2" cointype="16" coinid="1721753" price="500" POPID="585" />
+	<item id="586" realid="12625" type="5" Subtag="14" batch="1" shopid="2" cointype="18" coinid="1721755" price="500" POPID="586" />
+	<item id="589" realid="12907" type="5" Subtag="14" batch="1" shopid="2" cointype="20" coinid="1721757" price="500" POPID="589" />
+	<item id="590" realid="12908" type="5" Subtag="14" batch="1" shopid="2" cointype="21" coinid="1721758" price="500" POPID="590" />
+	<item id="591" realid="12910" type="5" Subtag="14" batch="1" shopid="2" cointype="22" coinid="1721759" price="500" POPID="591" />
+	<item id="592" realid="12911" type="5" Subtag="14" batch="1" shopid="2" cointype="23" coinid="1721760" price="500" POPID="592" />
+	<item id="593" realid="1400153" type="1" Subtag="18" batch="10" shopid="3" cointype="42" coinid="1725115" price="20" UserInfoId="201545" Limittype="1" LimitCnt="5" NewStatLog="2303090401" POPID="255" />
+	<item id="594" realid="502" type="4" Subtag="17" batch="1" shopid="2" cointype="37" coinid="1724909" price="360" isjustone="1" NewStatLog="2303160200" POPID="605" />
+	<item id="595" realid="503" type="4" Subtag="17" batch="1" shopid="2" cointype="38" coinid="1724910" price="360" isjustone="1" NewStatLog="2303160201" POPID="606" />
+	<item id="596" realid="501" type="4" Subtag="17" batch="1" shopid="2" cointype="39" coinid="1724911" price="360" isjustone="1" NewStatLog="2303160202" POPID="607" />
+	<item id="597" realid="504" type="4" Subtag="17" batch="1" shopid="2" cointype="40" coinid="1724912" price="360" isjustone="1" NewStatLog="2303160203" POPID="608" />
+	<item id="598" realid="505" type="4" Subtag="17" batch="1" shopid="2" cointype="41" coinid="1724913" price="360" isjustone="1" NewStatLog="2303160204" POPID="609" />
+	<item id="612" realid="300102" type="1" Subtag="18" batch="10" shopid="3" cointype="42" coinid="1725115" price="80" POPID="612" />
+	<item id="613" realid="300139" type="1" Subtag="18" batch="10" shopid="3" cointype="42" coinid="1725115" price="80" POPID="613" />
+	<item id="614" realid="300106" type="1" Subtag="18" batch="10" shopid="3" cointype="42" coinid="1725115" price="80" POPID="614" />
+	<item id="615" realid="300107" type="1" Subtag="18" batch="10" shopid="3" cointype="42" coinid="1725115" price="80" POPID="615" />
+	<item id="616" realid="300103" type="1" Subtag="18" batch="10" shopid="3" cointype="42" coinid="1725115" price="80" POPID="616" />
+	<item id="617" realid="300742" type="1" Subtag="18" batch="100" shopid="3" cointype="42" coinid="1725115" price="20" UserInfoId="201549" Limittype="1" LimitCnt="5" POPID="617" />
+	<item id="618" realid="300157" type="1" Subtag="18" batch="100" shopid="3" cointype="42" coinid="1725115" price="2" POPID="618" />
+	<item id="619" realid="300724" type="1" Subtag="18" batch="100" shopid="3" cointype="42" coinid="1725115" price="5" POPID="619" />
+	<item id="620" realid="300671" type="1" Subtag="18" batch="3" shopid="3" cointype="42" coinid="1725115" price="20" UserInfoId="201553" Limittype="1" LimitCnt="3" POPID="632" />
+	<item id="621" realid="2400076" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="200" count="40" POPID="635" />
+	<item id="622" realid="2400077" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="636" />
+	<item id="623" realid="2400078" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="637" />
+	<item id="624" realid="2400081" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="638" />
+	<item id="625" realid="2400112" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="639" />
+	<item id="626" realid="2400114" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="640" />
+	<item id="627" realid="2400116" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="641" />
+	<item id="628" realid="2400117" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="642" />
+	<item id="629" realid="2400118" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="643" />
+	<item id="630" realid="2400142" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="644" />
+	<item id="631" realid="2400022" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="645" />
+	<item id="632" realid="2400023" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="646" />
+	<item id="633" realid="2400024" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="647" />
+	<item id="634" realid="2400007" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="648" />
+	<item id="635" realid="2400021" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="649" />
+	<item id="636" realid="2400004" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="650" />
+	<item id="637" realid="2400028" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="665" />
+	<item id="638" realid="2400029" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="80" POPID="666" />
+	<item id="639" realid="2400030" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="100" POPID="667" />
+	<item id="640" realid="2400031" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="100" POPID="668" />
+	<item id="641" realid="2400032" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="200" count="40" POPID="669" />
+	<item id="642" realid="2400255" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="670" />
+	<item id="643" realid="2400256" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="671" />
+	<item id="644" realid="2400143" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="7" POPID="672" />
+	<item id="645" realid="2400144" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="7" POPID="673" />
+	<item id="646" realid="2400145" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="7" POPID="674" />
+	<item id="647" realid="2400146" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="7" POPID="675" />
+	<item id="648" realid="2400158" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="676" />
+	<item id="649" realid="2400159" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="677" />
+	<item id="650" realid="2400160" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="678" />
+	<item id="651" realid="2400161" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="679" />
+	<item id="652" realid="2400254" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="680" />
+	<item id="653" realid="1722506" type="1" Subtag="18" batch="100" shopid="3" cointype="42" coinid="1725115" price="5" count="10" POPID="681" />
+	<item id="654" realid="3215" type="4" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="500" UserInfoId="121129" Limittype="4" LimitCnt="1" POPID="684" />
+	<item id="655" realid="2400165" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="7" POPID="685" />
+	<item id="656" realid="2400162" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="7" POPID="686" />
+	<item id="657" realid="2400163" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="7" POPID="687" />
+	<item id="658" realid="2400164" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="7" POPID="688" />
+	<item id="659" realid="2400177" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="689" />
+	<item id="660" realid="2400178" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="690" />
+	<item id="661" realid="2400264" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="3" POPID="691" />
+	<item id="662" realid="2400265" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="200" count="40" POPID="692" />
+	<item id="663" realid="2400266" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="200" count="40" POPID="693" />
+	<item id="664" realid="2400267" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="694" />
+	<item id="665" realid="2400268" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="695" />
+	<item id="666" realid="2400269" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="696" />
+	<item id="667" realid="2400270" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="697" />
+	<item id="668" realid="2400271" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="698" />
+	<item id="669" realid="2400272" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="699" />
+	<item id="670" realid="1706926" type="1" Subtag="11" batch="2" shopid="2" cointype="5" coinid="1707511" price="3000" UserInfoId="20385" Limittype="2" LimitCnt="2" NewStatLog="2309150107" POPID="702" />
+	<item id="671" realid="501" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="5000" POPID="703" />
+	<item id="672" realid="502" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="5000" POPID="704" />
+	<item id="673" realid="503" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="5000" POPID="705" />
+	<item id="674" realid="504" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="5000" POPID="706" />
+	<item id="675" realid="505" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" POPID="707" />
+	<item id="676" realid="2505" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" POPID="708" />
+	<item id="677" realid="2506" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" POPID="709" />
+	<item id="678" realid="301" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="5000" POPID="710" />
+	<item id="679" realid="302" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="5000" POPID="711" />
+	<item id="680" realid="303" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="5000" POPID="712" />
+	<item id="681" realid="304" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="5000" POPID="713" />
+	<item id="682" realid="305" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" POPID="714" />
+	<item id="683" realid="306" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" POPID="715" />
+	<item id="684" realid="307" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" POPID="716" />
+	<item id="685" realid="308" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" POPID="717" />
+	<item id="686" realid="13001" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" POPID="718" />
+	<item id="687" realid="13002" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" POPID="719" />
+	<item id="688" realid="9701" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="5000" POPID="720" />
+	<item id="689" realid="9702" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="5000" POPID="721" />
+	<item id="690" realid="9703" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="6000" POPID="722" />
+	<item id="691" realid="9704" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="6000" POPID="723" />
+	<item id="692" realid="9705" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="6000" POPID="724" />
+	<item id="693" realid="9706" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" POPID="725" />
+	<item id="694" realid="9707" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="8000" POPID="726" />
+	<item id="695" realid="9708" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="10000" POPID="727" />
+	<item id="696" realid="9709" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="10000" POPID="728" />
+	<item id="697" realid="9710" type="5" Subtag="8" batch="1" shopid="2" cointype="5" coinid="1707511" price="10000" POPID="729" />
+	<item id="698" realid="1707511" type="1" Subtag="16" batch="100" shopid="2" cointype="37" coinid="1724909" price="30" count="60" NewStatLog="2310190100" POPID="744" />
+	<item id="699" realid="1707511" type="1" Subtag="16" batch="100" shopid="2" cointype="38" coinid="1724910" price="30" count="60" NewStatLog="2310190101" POPID="745" />
+	<item id="700" realid="1707511" type="1" Subtag="16" batch="100" shopid="2" cointype="39" coinid="1724911" price="30" count="60" NewStatLog="2310190102" POPID="746" />
+	<item id="701" realid="1707511" type="1" Subtag="16" batch="100" shopid="2" cointype="40" coinid="1724912" price="30" count="60" NewStatLog="2310190103" POPID="747" />
+	<item id="702" realid="1707511" type="1" Subtag="16" batch="100" shopid="2" cointype="41" coinid="1724913" price="30" count="60" NewStatLog="2310190104" POPID="748" />
+	<item id="703" realid="2400079" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="3" POPID="758" />
+	<item id="704" realid="2400080" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="3" POPID="759" />
+	<item id="705" realid="2400085" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="760" />
+	<item id="706" realid="2400086" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="761" />
+	<item id="707" realid="2400087" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="3" POPID="762" />
+	<item id="708" realid="2400088" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="763" />
+	<item id="709" realid="2400089" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="764" />
+	<item id="710" realid="2400184" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="765" />
+	<item id="711" realid="2400185" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="3" POPID="766" />
+	<item id="712" realid="2400202" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="767" />
+	<item id="713" realid="2400203" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="768" />
+	<item id="714" realid="2400207" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="769" />
+	<item id="715" realid="2400208" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="5" POPID="770" />
+	<item id="716" realid="2400306" type="1" Subtag="13" batch="100" shopid="3" cointype="27" coinid="1722506" price="7" POPID="771" />
+	<item id="717" realid="2400093" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="775" />
+	<item id="718" realid="2400094" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="776" />
+	<item id="719" realid="2400179" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="777" />
+	<item id="720" realid="2400180" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="778" />
+	<item id="721" realid="2400181" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="779" />
+	<item id="722" realid="2400182" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="780" />
+	<item id="723" realid="2400183" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="781" />
+	<item id="724" realid="2400308" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="782" />
+	<item id="725" realid="2400323" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="798" />
+	<item id="726" realid="2400321" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="799" />
+	<item id="727" realid="2400322" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="800" />
+	<item id="728" realid="2400320" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="400" count="40" POPID="801" />
+	<item id="729" realid="2400331" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="802" />
+	<item id="730" realid="2400332" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="803" />
+	<item id="731" realid="2400333" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="804" />
+	<item id="732" realid="2400334" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="805" />
+	<item id="733" realid="1200" type="4" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="600" UserInfoId="121621" Limittype="4" LimitCnt="1" POPID="821" />
+	<item id="734" realid="1201" type="4" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="600" UserInfoId="121622" Limittype="4" LimitCnt="1" POPID="822" />
+	<item id="735" realid="1202" type="4" Subtag="0" batch="1" shopid="4" cointype="35" coinid="1720852" price="600" UserInfoId="121623" Limittype="4" LimitCnt="1" POPID="823" />
+	<item id="736" realid="2400354" type="1" Subtag="19" batch="20" shopid="2" cointype="5" coinid="1707511" price="600" count="40" POPID="824" />
+	<item id="737" realid="4616" monappend="6115_37188_42475" type="4" Subtag="1" batch="1" shopid="2" cointype="5" coinid="1707511" price="50000" isjustone="1" POPID="825" top="1" />
+	<item id="738" realid="1725953" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121841" Limittype="4" LimitCnt="1" POPID="836" />
+	<item id="739" realid="1725954" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121842" Limittype="4" LimitCnt="1" POPID="837" />
+	<item id="740" realid="1725955" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121843" Limittype="4" LimitCnt="1" POPID="838" />
+	<item id="741" realid="1725956" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121844" Limittype="4" LimitCnt="1" POPID="839" />
+	<item id="742" realid="1725957" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121845" Limittype="4" LimitCnt="1" POPID="840" />
+	<item id="743" realid="1725958" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="1" Limittype="4" POPID="841" />
+	<item id="744" realid="1725959" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="2" Limittype="4" POPID="842" />
+	<item id="745" realid="1725960" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="3" Limittype="4" POPID="843" />
+	<item id="746" realid="1725961" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="4" Limittype="4" POPID="844" />
+	<item id="747" realid="1725962" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="5" Limittype="4" POPID="845" />
+	<item id="748" realid="1725998" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="6" Limittype="4" POPID="846" />
+	<item id="749" realid="1725999" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="7" Limittype="4" POPID="847" />
+	<item id="750" realid="1726000" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="8" Limittype="4" POPID="848" />
+	<item id="751" realid="1726001" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="9" Limittype="4" POPID="849" />
+	<item id="752" realid="1726002" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="10" Limittype="4" POPID="850" />
+	<item id="753" realid="1726013" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="11" Limittype="4" POPID="853" />
+	<item id="754" realid="1726014" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="12" Limittype="4" POPID="854" />
+	<item id="755" realid="1726015" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="13" Limittype="4" POPID="855" />
+	<item id="756" realid="1726016" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="14" Limittype="4" POPID="856" />
+	<item id="757" realid="1726017" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="15" Limittype="4" POPID="857" />
+	<item id="758" realid="1726041" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="16" Limittype="4" POPID="858" />
+	<item id="759" realid="1726042" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="17" Limittype="4" POPID="859" />
+	<item id="760" realid="1726043" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="18" Limittype="4" POPID="860" />
+	<item id="761" realid="1726044" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="19" Limittype="4" POPID="861" />
+	<item id="762" realid="1726045" type="1" Subtag="11" batch="1" shopid="2" cointype="5" coinid="1707511" price="1" UserInfoId="121846" UserInfoBitPos="20" Limittype="4" POPID="862" />
+	<item id="763" realid="300878" type="1" Subtag="11" batch="3" shopid="2" cointype="5" coinid="1707511" price="200" UserInfoId="20652" Limittype="2" LimitCnt="3" POPID="910" top="1" />
+	<item id="764" realid="2" type="8" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" POPID="224" />
+	<item id="765" realid="3" type="8" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" POPID="225" />
+	<item id="766" realid="4" type="8" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" POPID="226" />
+	<item id="767" realid="5" type="8" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" POPID="227" />
+	<item id="768" realid="6" type="8" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" POPID="228" />
+	<item id="769" realid="7" type="8" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="500" POPID="229" />
+	<item id="770" realid="8" type="8" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="700" POPID="230" />
+	<item id="771" realid="9" type="8" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="700" POPID="231" />
+	<item id="772" realid="10" type="8" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="700" POPID="232" />
+	<item id="773" realid="11" type="8" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="700" POPID="233" />
+	<item id="774" realid="12" type="8" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="700" POPID="234" />
+	<item id="775" realid="13" type="8" Subtag="10" batch="1" shopid="3" cointype="27" coinid="1722506" price="700" POPID="235" />
+	<item id="776" realid="2400483" type="1" Subtag="20" batch="1700" shopid="5" cointype="43" coinid="1727037" price="25" POPID="913" />
+	<item id="777" realid="2400484" type="1" Subtag="20" batch="918" shopid="5" cointype="43" coinid="1727037" price="21" POPID="914" />
+	<item id="778" realid="2400485" type="1" Subtag="20" batch="918" shopid="5" cointype="43" coinid="1727037" price="21" POPID="915" />
+	<item id="779" realid="2400486" type="1" Subtag="20" batch="918" shopid="5" cointype="43" coinid="1727037" price="21" POPID="916" />
+	<item id="780" realid="2400487" type="1" Subtag="20" batch="700" shopid="5" cointype="43" coinid="1727037" price="18" POPID="917" />
+	<item id="781" realid="2400488" type="1" Subtag="20" batch="700" shopid="5" cointype="43" coinid="1727037" price="18" POPID="918" />
+	<item id="782" realid="2300080" type="1" Subtag="21" batch="10" shopid="5" cointype="43" coinid="1727037" price="1000" POPID="919" />
+	<item id="783" realid="2400493" type="1" Subtag="20" batch="700" shopid="5" cointype="43" coinid="1727037" price="18" POPID="920" />
+	<item id="784" realid="2400101" type="1" Subtag="20" batch="700" shopid="5" cointype="43" coinid="1727037" price="18" POPID="459" />
+	<item id="785" realid="2400498" type="1" Subtag="20" batch="918" shopid="5" cointype="43" coinid="1727037" price="21" POPID="921" />
+	<item id="786" realid="2400504" type="1" Subtag="20" batch="918" shopid="5" cointype="43" coinid="1727037" price="21" POPID="922" />
+	<item id="787" realid="2400514" type="1" Subtag="20" batch="918" shopid="5" cointype="43" coinid="1727037" price="21" POPID="922" />
+	<item POPID="929" />
+</root>

@@ -1,0 +1,52 @@
+<!--
+常规登录强弹 特殊的在代码里面
+panel:面板名字 不带app/
+start开始时间可以不填20220212
+end结束时间没有不填  注：  SystemTimerManager.sysBJDate.time < tmp.end.time  不包含endTime
+type 目前都为app,有后续需要后面再说
+flushDefer 是否延迟flush 0写入本地 1不写会一直弹（即每次登录都弹出）
+dayOnce 是否每天 1是 0只弹一次
+isReturn 回流的显示不显示
+weekOnce 是否每周显示一次，优先级比每日的值高 1每周一次，0不是每周一次  其他特殊值的是前端填的用来根据值判断
+弹窗默认顺序Editted by Horizon 20240807：
+优先弹新活动，后弹旧活动，【最新活动】面板永远最后弹
+-->
+<root>
+	<item panel="SpringFestivalWeChatRedenvelopePanel" start="20250110" end="20250118" type="app" flushDefer="0" dayOnce="0" isReturn="1" weekOnce="0"/>
+	<item panel="TaoLe2024PopPanel" start="20241213" end="20241227" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/>
+	<item panel="PeakJihad2023LoginStrongBulletPanel" start="20250411" end="20250425" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/>
+	<item panel="SPF2024SkinSellLoginOpenPanel" start="20250502" end="20250509" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/>
+	<item panel="BHYunusLastDay" start="20250124" end="20250214" type="app" flushDefer="0" dayOnce="0" isReturn="1" weekOnce="0"/>
+	<item panel="FinalActivityPanel" start="" end="" type="app" flushDefer="0" dayOnce="0" isReturn="1" weekOnce="1"/>
+	<!-- <item panel="PiSignRemindPop" start="20250403" end="20250412" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/>-->
+	<!-- <item panel="GuoqingSignUpPanel" start="20241001" end="20241008" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/>
+	<item panel="GuoQingYuRe2024Panel" start="20240920" end="20240928" type="app" flushDefer="0" dayOnce="0" isReturn="1" weekOnce="0"/>
+	<item panel="PeakJihad2023LoginStrongBulletPanel" start="20241018" end="20241101" type="app" flushDefer="0" dayOnce="0" isReturn="1" weekOnce="0"/> -->
+	<!-- <item panel="PreHeatPlanetariumA" start="20241009" end="20241012" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/>-->
+	<!-- <item panel="Song4PlayerPop" start="20240705" end="20240708" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/> -->
+	<item panel="Backflow2023PopViewPanel" start="" end="" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/>
+	<!-- <item panel="YearsVip2024AlertPanel" start="20240101" end="20240223" type="app" flushDefer="1" dayOnce="1" isReturn="0" weekOnce="0"/> -->
+<!-- 	<item panel="SummerHolidaySign2024Panel" start="20240719" end="20240823" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/>
+	<item panel="DiDuoPopUpPanel" start="20240809" end="20240906" type="app" flushDefer="0" dayOnce="0" isReturn="1" weekOnce="0"/> -->
+	<!-- <item panel="PopUp20240202Panel" start="" end="20240208" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="1"/>-->
+	<!-- <item panel="SpringFestivalWeChatCoverPanel" start="20240131" end="20240206" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/>-->
+<!-- 	<item panel="NianShouPopUpMainPanel" start="20240208" end="20240223" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/>
+	<item panel="SignPopUp20240208Panel" start="20240210" end="20240223" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/>
+	<item panel="Qingming20240403PopupPanel" start="20240404" end="20240407" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/> -->
+	<item panel="ChangeAbilityMsg" start="20241122" end="20241205" type="app" flushDefer="0" dayOnce="0" isReturn="1" weekOnce="0"/>
+	<!--  <item panel="NewPeakJihadLaunchPreviewMainPanel" start="20231201" end="20231215" type="app" flushDefer="0" dayOnce="1" isReturn="0" weekOnce="0"/>
+	<item panel="SummaryOf14thAnniversaryFristOpenViewPanel" start="" end="20230706" type="app" flushDefer="0" dayOnce="1" isReturn="0" weekOnce="0"/>
+	<item panel="SummaryOf14thAnniversaryFristOpenView2Panel" start="" end="20230706" type="app" flushDefer="0" dayOnce="1" isReturn="0" weekOnce="0"/>
+	<item panel="MayDayActivityPreheating2023MainPanel" start="20230421" end="20230427" type="app" flushDefer="0" dayOnce="1" isReturn="0" weekOnce="0"/>-->
+	<!-- <item panel="LoginPop1109Panel" start="20221109" end="" type="app" flushDefer="0" dayOnce="1" isReturn="0" weekOnce="0"/> -->
+	<!-- <item panel="QingPuPopPanel" start="" end="" type="app" flushDefer="0" dayOnce="0" isReturn="0" weekOnce="1"/> -->
+	<!-- <item panel="Anniversary13thPopUpPanel" start="" end="20220610" type="app" flushDefer="1" dayOnce="0" isReturn="1" weekOnce="0"/>
+	<item panel="WinterVacationMonthlyVisaMainPanel" start="20230113" end="20230210" type="app" flushDefer="0" dayOnce="1" isReturn="0" weekOnce="0"/>
+	<item panel="CommemorationSpacecraftNavigationMainPanel" start="20230217" end="20230219" type="app" flushDefer="0" dayOnce="1" isReturn="0" weekOnce="0"/>
+	<item panel="PopUp20231117MainPanel" start="20231117" end="20231201" type="app" flushDefer="0" dayOnce="1" isReturn="0" weekOnce="0"/>
+	<item panel="PopUp20231124MainPanel" start="20231124" end="20231208" type="app" flushDefer="0" dayOnce="1" isReturn="0" weekOnce="0"/>
+	<item panel="AnnualPet2024JumpPanel" start="20231222" end="20231229" type="app" flushDefer="0" dayOnce="0" isReturn="0" weekOnce="1"/> -->
+	<!-- <item panel="DiDuoSingupMainPanel" start="20240809" end="20240816" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/> -->
+  	<item panel="JieLuoEnCompletePopPanel" start="20241129" end="20241202" type="app" flushDefer="0" dayOnce="1" isReturn="1" weekOnce="0"/>
+	<item panel="SceneActivityPanel" start="" end="" type="app" flushDefer="0" dayOnce="0" isReturn="0" weekOnce="23626"/><!-- 最新活动 默认最后弹 -->
+</root>

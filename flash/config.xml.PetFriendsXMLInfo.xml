@@ -1,0 +1,67 @@
+<!--
+
+PetID 加效果的精灵
+PetName 精灵的名字
+FriendID 他的好基友
+FriendName 基友名字
+TriggerID 触发接口的id, 可以配置多个接口，接口之间用分号分隔，参数之间用逗号分隔
+TriggerArgs 触发接口的参数，可以配置多个接口，接口之间用分号分隔，参数之间用逗号分隔
+EffectID 效果接口的id, 可以配置多个接口，接口之间用分号分隔，参数之间用逗号分隔
+EffectArgs 效果接口的参数，可以配置多个接口，接口之间用分号分隔，参数之间用逗号分隔
+Desc 效果描述
+
+-->
+<PetFriends>
+    <Friendship PetID="2450" PetName="陆逊" FriendID="2523" FriendName="卧龙诸葛" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16077" Desc="陆逊的第五技能神话终结者：效果由8%概率3倍伤害改为10%概率3倍伤害" />
+	<Friendship PetID="2500" PetName="神威·马超" FriendID="2523" FriendName="卧龙诸葛" TriggerID="1" TriggerArgs="" EffectID="2" EffectArgs="1747,1767" Desc="登场首回合所有攻击先制+1同时增加20%暴击率"/>
+	<Friendship PetID="2496" PetName="将神·吕布" FriendID="2523" FriendName="卧龙诸葛" TriggerID="1" TriggerArgs="" EffectID="2" EffectArgs="1744,1768" Desc="满体力时100%免疫异常状态，满体力时50%概率免疫能力下降状态" />
+	<Friendship PetID="2512" PetName="昭烈帝刘备" FriendID="2523" FriendName="卧龙诸葛" TriggerID="1" TriggerArgs="" EffectID="2" EffectArgs="1769,1772" Desc="三兄弟特性由每回合回血15点变为20点" />
+	<Friendship PetID="2520" PetName="武圣·关羽" FriendID="2523" FriendName="卧龙诸葛" TriggerID="1" TriggerArgs="" EffectID="2" EffectArgs="1769,1772" Desc="三兄弟特性由每回合回血15点变为20点" />
+	<Friendship PetID="2530" PetName="万人敌张飞" FriendID="2523" FriendName="卧龙诸葛" TriggerID="1" TriggerArgs="" EffectID="2" EffectArgs="1769,1772" Desc="三兄弟特性由每回合回血15点变为20点" />
+	<Friendship PetID="2479" PetName="貂蝉" FriendID="2523" FriendName="卧龙诸葛" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16189" Desc="第五技能红颜殒命斩效果升级为：若对手是雄性则威力提升25%，不是雄性则25%使对手害怕" />
+    <Friendship PetID="2436" PetName="炼狱魔神" FriendID="2468" FriendName="万魔天尊" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16041" Desc="第五技能黑水啸天破效果升级为：使对手能力提升变为能力下降，2回合对手属性攻击命中下降35%" />
+	<Friendship PetID="2422" PetName="邪恶魔神" FriendID="2468" FriendName="万魔天尊" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="15987" Desc="第五技能焚神炽烈斩效果升级为：若对手烧伤伤害1/2恢复体力；未击败对手下3回合攻击必定致命" />
+	<Friendship PetID="2457" PetName="寂灭魔神" FriendID="2468" FriendName="万魔天尊" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16141" Desc="第五技能妖刀胧村正效果升级为：当回合击败对手攻击+1，当回合未击败对手速度+1、防御+1、特防+1" />
+	<Friendship PetID="2445" PetName="毁灭魔神" FriendID="2468" FriendName="万魔天尊" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16082" Desc="第五技能魔神惊天破效果升级为：使对手命中-1；先出手时额外附加125点固定伤害；无视对手所有防御能力提升效果" />
+	<Friendship PetID="2533" PetName="萨恩德斯" FriendID="2556" FriendName="乾坤战神昆仑" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16388" Desc="第五技能无我逆沙舞效果升级为：消除对手强化；若对手处于流血状态，技能威力提升100%" />
+	<Friendship PetID="2542" PetName="摩耶斯特" FriendID="2556" FriendName="乾坤战神昆仑" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16432" Desc="第五技能曙光冰裂破效果升级为：伤害1/3恢复体力，若对手冻伤则伤害1/2恢复体力，20%使对手冻伤" />
+	<Friendship PetID="2552" PetName="兰帕德斯" FriendID="2556" FriendName="乾坤战神昆仑" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16472" Desc="第五技能万神魂灭斩效果升级为：必中；命中后50%使对手冻伤；附加100点固定伤害" />
+	<Friendship PetID="2557" PetName="杰洛里德" FriendID="2556" FriendName="乾坤战神昆仑" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16492" Desc="第五技能万月千星箭效果升级为：若对手害怕则威力翻倍；若当回合未击败对手则攻击+2" />
+	<Friendship PetID="2565" PetName="泽拉瑞尔" FriendID="2556" FriendName="乾坤战神昆仑" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16527" Desc="第五技能凝神无双击效果升级为：消除对手能力提升状态；命中后50%使对手流血" />
+	<Friendship PetID="2572" PetName="吉亚克鲁" FriendID="2556" FriendName="乾坤战神昆仑" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16556" Desc="第五技能绞心绕魂斩效果升级为：若对手处于异常状态，则威力翻倍并消除对手相应的防御能力提升效果；后出手时攻击+2" />
+	<Friendship PetID="2606" PetName="天火•烈焰号" FriendID="2586" FriendName="圣刃•神力号" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16683" Desc="第五技能灰烬轰杀击效果升级为：必中；造成伤害的1/4恢复自身体力，若对手烧伤造成伤害的1/3恢复自身体力" />
+	<Friendship PetID="2594" PetName="强袭•勇气号" FriendID="2586" FriendName="圣刃•神力号" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16630" Desc="第五技能破世冲天震效果升级为：体力值8%固伤，增加4%，最高20%，攻命速+1" />
+	<Friendship PetID="2627" PetName="耶尔" FriendID="2615" FriendName="克克" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16775" Desc="第五技能断壁流沙拳效果升级为：若自身处于能力强化状态，附加110点固定伤害" />
+	<Friendship PetID="2631" PetName="暗黑蒙娜丽莎" FriendID="2625" FriendName="暗黑鲁斯王" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16790" Desc="第五技能幽藤绞杀破效果升级为：对手中毒使对手下3回合攻击MISS；后出手时恢复120Hp" />
+	<Friendship PetID="2625" PetName="暗黑鲁斯王" FriendID="2637" FriendName="暗黑炽焰金刚" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16764" Desc="第五技能沧浪破世击效果升级为：对手体力不足320则秒杀；若对手冻伤100%使对手害怕" />
+	<Friendship PetID="2637" PetName="暗黑炽焰金刚" FriendID="2631" FriendName="暗黑蒙娜丽莎" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16815" Desc="第五技能万焰冲火拳效果升级为：每次攻击提升10%致命，最高提升60%；先出手对手双攻-1" />
+	<Friendship PetID="2505" PetName="冥王•苍月" FriendID="2517" FriendName="冥帝•修罗" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16278" Desc="第五技能妖月连星闪效果升级为：	若对手冻伤则伤害的1/2恢复体力；先出手时威力翻倍；后出手时附加100点固定伤害" />
+	<Friendship PetID="2503" PetName="冥王•破天" FriendID="2517" FriendName="冥帝•修罗" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16272" Desc="第五技能天罗破阵轰效果升级为：	必中，消除对手能力提升状态；3回合内使对手属性技能失效" />
+	<Friendship PetID="2491" PetName="冥王•断空" FriendID="2517" FriendName="冥帝•修罗" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16225" Desc="第五技能千魂骨镰断效果升级为：	若对手处于能力下降状态则威力翻倍；若对手处于能力强化状态则附加250点固定伤害" />
+	<Friendship PetID="2487" PetName="冥王•夜刃" FriendID="2517" FriendName="冥帝•修罗" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16211" Desc="第五技能神鬼俱灭斩效果升级为：	若体力低于对手，附加已损失体力60%伤害；若体力高于对手，技能威力翻倍" />
+	<Friendship PetID="2537" PetName="八部天龙" FriendID="2541" FriendName="九天圣龙" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16407" Desc="第五技能终焉颤魂吟效果升级为：无视对手速度、防御强化；对手体力低于220直接秒杀" />
+	<Friendship PetID="2541" PetName="九天圣龙" FriendID="2537" FriendName="八部天龙" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16424" Desc="第五技能真龙破天啸效果升级为：先出手威力翻倍，后出手下回合先制+1；10%令对手害怕" />
+	<Friendship PetID="2603" PetName="布鲁克林" FriendID="2609" FriendName="贝迪恩斯" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16673" Desc="第五技能神浪迎天击效果升级为：消除对手能力强化状态；当回合未击败对手则减少对手当前体力1/3" />
+	<Friendship PetID="2597" PetName="格林奇" FriendID="2609" FriendName="贝迪恩斯" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16642" Desc="第五技能万宇归尘斩效果升级为：消除对手能力强化状态；使对手速度-1、使对手命中-1" />
+	<Friendship PetID="2485" PetName="神·鱼龙王" FriendID="2662" FriendName="神•始祖灵兽" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16205" Desc="第五技能逆刃龙麟光效果升级为：后出手下回合速度、命中＋1，先出手时下回合特攻＋1、防御+1" />
+	<Friendship PetID="2464" PetName="神·炎魔" FriendID="2662" FriendName="神•始祖灵兽" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="16121" Desc="第五技能豪炎灼天破效果升级为：造成伤害1/3恢复体力，对手处于烧伤，造成伤害1/2恢复体力；后出手时速度+1" />
+	<Friendship PetID="2717" PetName="紫霄惊鸿龙" FriendID="2751" FriendName="太玄木灵龙" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="17190" Desc="第五技能傲世九重天效果升级为：若对手下一次攻击miss，则对手睡眠；使对手命中-2" />
+	<Friendship PetID="2722" PetName="混沌青火龙" FriendID="2751" FriendName="太玄木灵龙" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="17219" Desc="第五技能龙神焚天咒效果升级为：3回合内所有直接攻击都将有70%使对手烧伤；攻击对手时若对手处于烧伤状态，则100%使对手麻痹" />
+	<Friendship PetID="2726" PetName="神宫雷霆龙" FriendID="2751" FriendName="太玄木灵龙" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="17238" Desc="第五技能极电狂龙祭效果升级为：必中；若对手不处于麻痹状态则附加对手已损失生命值50%的固定伤害" />
+	<Friendship PetID="2745" PetName="霸血星灵龙" FriendID="2751" FriendName="太玄木灵龙" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="17329" Desc="第五技能星风血煞击效果升级为：必中；70%令对手害怕，若没有触发害怕效果，则对手防御-1，命中-1" />
+	<Friendship PetID="2756" PetName="琉璃冰角龙" FriendID="2751" FriendName="太玄木灵龙" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="17384" Desc="第五技能冰龙暴风破效果升级为：必中；体力低于1/2时威力3倍" />
+	<Friendship PetID="2739" PetName="艾恩斯" FriendID="2787" FriendName="斯嘉丽" TriggerID="1" TriggerArgs="" EffectID="1" EffectArgs="17297" Desc="焱皇烈焰效果升级为：先制+3；消除对手能力提升；将自身能力下降反馈给对手；使用时若有一方处于烧伤状态，则必定致命一击" />
+	
+	<!--
+
+    Trggier接口 
+        1、检查FriendID精灵是否在背包中，参数: 无
+
+    Effect接口
+        1、替换技能, 如果老技能存在，则替换成新技能 参数: 1) 老技能id 2) 新技能id
+        2、替换特效(NewSe), 如果老特效存在，则替换成新特效 参数: 1) 老特效id 2) 新特效id
+        3、加特效(NewSe), 如果特效已经满了超过8个特效，则不加 参数: 1) 特效id 
+    
+    -->
+</PetFriends>
+	

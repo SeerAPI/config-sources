@@ -1,0 +1,69 @@
+<!--
+ -->
+<Root>
+	<PersonGame>
+		<!-- panelName：小游戏的面板名称
+			itemIds:奖励的道具Id
+			Routes：所有的路线
+				level：小游戏对应的等级
+				route：对应等级可相连的点，多个相连的点用"|"隔开，点的编号从上到下从左往右命名，从1开始
+				注：节点顺序按照从上到下，从左往右的顺序排列
+				reward：获得奖励的概率_奖励的道具(按照items里面的顺序)_奖励的数量
+		-->
+		<Game des="个人模式星云迷途面板" panelName="AstrayOfStarAndCloudMainPanel" maxTime="35" delayTime="15" itemIds="1721765_1721763" >
+			<Levels>
+				<LevelInfo level="0" nodeNum="0" route="" reward="" />
+				<LevelInfo level="1" nodeNum="2" route="1_2" reward="100_0_2" />
+				<LevelInfo level="2" nodeNum="5" route="1_2|1_3|2_3|2_4|2_5|3_4|3_5|4_5" reward="100_0_3" />
+				<LevelInfo level="3" nodeNum="6" route="1_2|1_3|1_5|1_6|2_4|3_4|4_5|4_6|5_6" reward="80_0_5|20_1_1" />
+				<LevelInfo level="4" nodeNum="6" route="1_2|1_3|1_4|1_5|2_6|3_4|3_6|4_6|5_6" reward="80_0_5|20_1_4" />
+				<LevelInfo level="5" nodeNum="5" route="1_2|1_3|1_4|1_5|2_3|2_4|2_5|3_4|3_5|4_5" reward="100_1_4" />
+			</Levels>
+		</Game>
+		<!-- panelName：小游戏的面板名称
+			Rules:
+				id 对应的规则序号，以策划案的顺序排列
+				score：放行与不放行给予的积分
+			Rewards
+				score:分数的范围，"最小值|最大值"，无上限，最大值填-1
+				reward：奖励的数量与类型，多种奖励用"|"隔开
+		-->
+		<Game des="个人模式欢腾的鬼火面板" panelName="JubilantGhostFireMainPanel" maxTime="35" itemIds="1721765_1721763" >
+			<Rules>
+				<Rule id="1" score="-10|10" />
+				<Rule id="2" score="7|5" />
+				<Rule id="3" score="5|7" />
+				<Rule id="4" score="10|-10" />
+			</Rules>
+			<Rewards>
+				<Reward level="1" score="1|100" reward="0_1" />
+				<Reward level="2" score="101|250" reward="0_2" />
+				<Reward level="3" score="251|450" reward="0_2|1_8" />
+				<Reward level="4" score="451|-1" reward="1_8" />
+			</Rewards>
+		</Game>
+		<!-- panelName：小游戏的面板名称
+			Boss:
+				reward：奖励，格式：概率_最低获得的数量_最大获得的数量_道具Id
+		-->
+		<Game des="个人模式星辰挑战面板" panelName="StarChallengeMainPanel" itemIds="1721765_1721763" >
+			<Reward id="1" bossId="3979_3945_3924" reward="90_5_5_0|10_1_1_1" />
+			<Reward id="2" bossId="3962_3961_3953" reward="80_8_8_0|20_2_2_1" />
+			<Reward id="3" bossId="3983_3896_3866" reward="70_8_10_0|30_5_5_1" />
+		</Game>
+		<!-- panelName：小游戏的面板名称
+			MainBoss:主打精灵;OtherBoss：右侧A级精灵
+			costNum:消耗的道具数量；exchangeItem：消耗的道具（按照itemIds里的顺序，从0开始）
+			iconId：加载的半身像文件名，半身像文件放在 update/exchangediamond/pet 下
+		-->
+		<Game des="星辰宝藏兑换面板" panelName="StarTreasureExchangePanel" itemIds="1721765_1721763" >
+			<MainBoss bossId="4020" exchangID="13110" costNum="998" costDiamond="998" exchangeItem="1" />
+			<OtherBoss>
+				<Boss bossId="3998" exchangID="13111" costNum="998" exchangeItem="0" iconId="10001" />
+				<Boss bossId="3986" exchangID="13112" costNum="998" exchangeItem="0" iconId="10007" />
+				<Boss bossId="3988" exchangID="13113" costNum="998" exchangeItem="0" iconId="1004" />
+				<Boss bossId="4010" exchangID="13114" costNum="998" exchangeItem="0" iconId="10011" />
+			</OtherBoss>
+		</Game>
+	</PersonGame>
+</Root>

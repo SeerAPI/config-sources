@@ -1,0 +1,245 @@
+<!--
+	邮件模板配置表
+	
+	id - 模板编号,与素材文件名对应
+	x、y - 模块中的文本框的位置
+	width、height - 模板中文本框的宽高 
+	hideTxt 是否隐藏文本框，默认为0不隐藏，1为隐藏
+	
+	type - 贺卡类型 1：精灵 2：战队 3：NONO 4：祝福 5：节日
+	<![CDATA[ xxx ]]> - 'xxx' 是当前模块对应的标题(也就是代码中的getTitle)。用来决定收到邮件以后显示的标题信息
+-->
+<root>
+	<item id="1008" x="240" y="160" width="250" height="100" type="0">
+		<![CDATA[超能六一祝福！]]>
+	</item>
+	
+	<item id="1009" x="240" y="100" width="250" height="100" type="0">
+		<![CDATA[超能六一祝福！]]>
+	</item>
+	
+	<item id="10007" x="200" y="180" width="300" height="100" type="0">
+		<![CDATA[赛尔号船员信息！]]>
+	</item>
+	
+	<item id="10008" x="220" y="70" width="300" height="50" type="0">
+		<![CDATA[超能新春祝福！]]>
+	</item>
+	
+	<item id="10009" x="220" y="70" width="300" height="50" type="0">
+		<![CDATA[超能新春祝福！]]>
+	</item>
+	
+	<item id="10010" x="220" y="70" width="300" height="50" type="0">
+		<![CDATA[超能新春祝福！]]>
+	</item>
+	
+	<item id="10011" x="220" y="70" width="300" height="50" type="0">
+		<![CDATA[超能新春祝福！]]>
+	</item>
+	
+	<item id="10012" x="311" y="100" width="160" height="118" type="0" desc="虎年新模板">
+		<![CDATA[虎虎生威！]]>
+	</item>
+	
+	<item id="10013" x="320" y="180" width="160" height="118" type="0" desc="加入米饭团模板">
+		<![CDATA[你成功加入米饭啦!]]>
+	</item>
+	
+	<item id="10014" x="320" y="180" width="160" height="118" type="0" desc="正式米饭团模板">
+		<![CDATA[你正式成为合格米饭啦!]]>
+	</item>
+	
+	<item id="10015" x="180" y="100" width="180" height="80" type="0" desc="回归计划模板">
+		<![CDATA[超能回归计划]]>
+	</item>
+	
+	<item id="10016" x="190" y="100" width="160" height="70" type="0" desc="回归奖励计划模板">
+		<![CDATA[超能回归奖励计划]]>
+	</item>
+	
+	<item id="10017" x="320" y="180" width="160" height="118" type="0" desc="米饭审核失败模板">
+		<![CDATA[你没有通过米饭的审核哦!]]>
+	</item>
+	
+	<item id="10018" x="110" y="120" width="180" height="80" type="0" desc="火星港暑期训练计划模板">
+		<![CDATA[火星港暑期训练计划]]>
+	</item>
+	
+	<item id="10019" x="190" y="100" width="160" height="70" type="0" desc="远古的宿命模板">
+		<![CDATA[远古的宿命]]>
+	</item>
+	
+	<item id="10020" x="190" y="100" width="160" height="70" type="0" desc="中秋活动模板">
+		<![CDATA[中秋巨献，满月礼包]]>
+	</item>
+	
+	<item id="10021" x="190" y="100" width="160" height="70" type="0" desc="淘米嘉年华模板">
+		<![CDATA[淘米嘉年华]]>
+	</item>
+	
+	<item id="10022" x="300" y="100" width="160" height="70" type="0" desc="怒血精元模板">
+		<![CDATA[怒血精元]]>
+	</item>
+	<item id="10023" x="150" y="100" width="160" height="60" type="0" desc="赠送精灵蛋模板">
+		<![CDATA[赠送精灵蛋！]]>
+	</item>
+	
+	<item id="10024" x="210" y="100" width="160" height="60" type="0" desc="赠送子弹模板">
+		<![CDATA[冰柱中的古代精灵]]>
+	</item>
+	
+	<item id="10025" x="300" y="140" width="180" height="100" type="0" desc="元旦赠送模板">
+		<![CDATA[跨年迎新，三灵齐赠]]>
+	</item>
+	
+	<item id="10026" hideTxt="1" type="0" desc="校巴邮件模板">
+		<![CDATA[淘米校巴抢票大行动!]]>
+	</item>
+	
+	<item id="10027" hideTxt="1" type="0" desc="校巴邮件模板">
+		<![CDATA[淘米校巴]]>
+	</item>
+	
+	<item id="10028" hideTxt="1" type="0" desc="淘米嘉年华邮件模板">
+		<![CDATA[淘米嘉年华]]>
+	</item>
+	
+	<item id="10029" hideTxt="1" type="0" desc="进入校巴邮件模板">
+		<![CDATA[淘米校巴欢迎你！]]>
+	</item>
+	
+	<item id="10030" x="320" y="160" width="180" height="100" type="0" desc="年会会员邮件模板">
+		<![CDATA[年费会员]]>
+	</item>
+	
+	<item id="10031" hideTxt="1" type="0" desc="暗黑第八门模板">
+		<![CDATA[暗黑第八门开放啦！]]>
+	</item>
+	
+	<item id="10032" hideTxt="1" type="0" desc="至尊NONO促销活动即将截止">
+		<![CDATA[至尊NONO促销活动即将截止！]]>
+	</item>
+
+	<item id="10033" hideTxt="1" type="0" desc="校巴邀请信 系统">
+		<![CDATA[淘米校巴欢迎你！]]>
+	</item>
+	
+	<item id="10034" hideTxt="1" type="0" desc="校巴邀请信 用户之间">
+		<![CDATA[淘米校巴欢迎你！]]>
+	</item>
+
+	<item id="10035" x="320" y="160" width="180" height="100" type="0" desc="精灵许愿池">
+		<![CDATA[精灵许愿池]]>
+	</item>
+	
+	<item id="10036" x="328" y="164" width="180" height="100" type="0" desc="校巴扭蛋机中奖">
+		<![CDATA[来自校巴的获奖通知！]]>
+	</item>
+	
+	<item id="10037" hideTxt="1" type="0" desc="摩尔斗斗">
+		<![CDATA[一起来玩摩尔斗斗！]]>
+	</item>
+    
+    <item id="10038" x="320" y="160" width="180" height="100" type="0" desc="百级精灵总动员">
+		<![CDATA[百级精灵总动员！]]>
+	</item>
+	
+	<item id="10039" hideTxt="1" type="0" desc="校巴模板">
+		<![CDATA[上线奖励！]]>
+	</item>
+	
+	<item id="10040" hideTxt="1" type="0" desc="校巴福建定向通知">
+		<![CDATA[鲸奇玩水节！]]>
+	</item>
+	
+	<item id="10041" hideTxt="1" type="0" desc="两周年礼包大派送">
+		<![CDATA[两周年礼包大派送！]]>
+	</item>
+	
+	<item id="10042" hideTxt="1" type="0" desc="果然多奖品大派送">
+		<![CDATA[果然多奖品大派送！]]>
+	</item>
+	
+	<item id="10043" hideTxt="1" type="0" desc="校巴奖品大派送">
+		<![CDATA[校巴奖品大派送！]]>
+	</item>
+	
+	<item id="10044" hideTxt="1" type="0" desc="营救广告">
+		<![CDATA[上等精灵营救行动最新情报！]]>
+	</item>
+	
+	<item id="10045" hideTxt="1" type="0" desc="校巴广告">
+		<![CDATA[赛尔号官方博客搬家啦！]]>
+	</item>
+	
+	<item id="10046" hideTxt="1" type="0" desc="合作广告">
+		<![CDATA[真假妙妙！]]>
+	</item>
+	
+	<item id="10047" hideTxt="1" type="0" desc="淘米“靓号”">
+		<![CDATA[淘米“靓号”！]]>
+	</item>
+	
+	<item id="10048" hideTxt="1" type="0" desc="摩尔赛尔家运会">
+		<![CDATA[摩尔赛尔家运会！]]>
+	</item>
+	
+	<item id="10049" hideTxt="1" type="0" desc="摩尔赛尔家运会">
+		<![CDATA[摩尔赛尔家运会！]]>
+	</item>
+	
+	<item id="10050" x="200" y="180" width="300" height="100" type="0">
+		<![CDATA[超能NONO打折啦~~]]>
+	</item>
+	
+	<item id="10051" hideTxt="1" type="0" desc="赛尔号动画片震撼首播！">
+		<![CDATA[赛尔号动画片震撼开播！]]>
+	</item>
+	
+	<item id="10052" hideTxt="1" type="0" desc="赛尔号：精灵决斗卡 全面启售！">
+		<![CDATA[赛尔号：精灵决斗卡 全面启售！]]>
+	</item>
+	
+	<item id="10053" hideTxt="1" type="0" desc="赛尔号春节乐翻天！">
+		<![CDATA[赛尔号春节乐翻天！]]>
+	</item>
+	
+	<item id="10054" hideTxt="1" type="0" desc="赛尔号起航千日大庆典">
+		<![CDATA[赛尔号起航千日大庆典]]>
+	</item>
+	
+	<item id="10055" hideTxt="1" type="0" desc="赛尔号大电影2 2012年6月28日全国影院震撼上映">
+		<![CDATA[赛尔号大电影2 2012年6月28日全国影院震撼上映]]>
+	</item>
+	
+	<item id="10056" hideTxt="1" type="0" desc="快去搜索奥迪双钻官方旗舰店吧！">
+		<![CDATA[快去搜索奥迪双钻官方旗舰店吧！]]>
+	</item>
+	
+	<item id="10057" hideTxt="1" type="0" desc="巅峰之战超额奖励回收公告">
+		<![CDATA[巅峰之战超额奖励回收公告]]>
+	</item>
+	
+	<item id="1" x="350" y="200" width="146" height="86" type="1">
+		<![CDATA[一起去捉闪光皮皮吧！]]>
+	</item>
+	<item id="2" x="400" y="135" width="100" height="134" type="2">
+		<![CDATA[一起去参加战队要塞保卫战吧！]]>
+	</item>
+	<item id="3" x="142" y="245" width="256" height="52" type="3">
+		<![CDATA[一起去参加超能NoNo派对吧！]]>
+	</item>
+	<item id="4" x="320" y="140" width="144" height="84" type="4">
+		<![CDATA[生日快乐！]]>
+	</item>
+	<item id="5" x="290" y="180" width="144" height="84" type="5">
+		<![CDATA[圣诞快乐！]]>
+	</item>
+	<item id="6" x="110" y="190" width="144" height="84" type="5">
+		<![CDATA[元旦快乐！]]>
+	</item>
+	<item id="7" x="100" y="180" width="144" height="84" type="5">
+		<![CDATA[元宵快乐！]]>
+	</item>
+</root>

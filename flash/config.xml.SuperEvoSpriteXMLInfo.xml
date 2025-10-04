@@ -1,0 +1,51 @@
+<!--
+使用说明:
+Limit:	
+	BitSetId 使用bit位来标记状态 [50000-60000]与UserInfoId不同时配置
+	MsgLog 统计项。
+Origin:
+	源精灵id
+Target:
+	进化后的精灵id
+ProcFuncId:
+	自定义函数(获取跳转)
+OriginSearch module_name  map_123456   获取精灵的路径
+comItemListSearch 物品获取路径组合
+comItemList 物品组合列表
+Item ID 要合成的物品ID
+-->
+
+<SuperEvolves>
+    <SuperEvolve ID="1" Origin="1118 1119 1120" OriginSearch="module_SearchBaoPanel" OriginSearchDesc="前往超进化寻宝仪开启白银宝箱可以获得（无法重复获取）" Target="1121" BitSetId="25601" ProcFuncId="0" 	Desc="巨石灵王超进化" DetailSesc="巨石灵王——阿洛比斯的超进化形态，成为巨石灵王后的它有着更加可怕的破坏力，能对敌人的灵魂造成伤害！"> <!--20140404版本-->
+        <In>
+            <Item ID="1200036" Count="1" Exchange="2160" comItemList="1700671_12 400007_3 1_50000" IcomItemBit="27201" comItemListSearch="module_SearchBaoPanel map_15 module_TreasureNewPanel"/>
+        </In>
+    </SuperEvolve>
+
+    <SuperEvolve ID="2" Origin="998 999" OriginSearch="module_SearchBaoPanel" OriginSearchDesc="前往超进化寻宝仪开启白银宝箱可以获得（无法重复获取）" Target="1122" BitSetId="25602" ProcFuncId="0" 		Desc="圣光天马超进化" DetailSesc="圣光天马——珀伽索斯的超进化形态，得到了圣光的祝福，展翅腾飞的瞬间犹如流星般耀眼，是遗憾落选的星系神兽！" > <!--20140404版本-->
+        <In>
+            <Item ID="1200035" Count="1" Exchange="2161" comItemList="1700671_18 400001_5 1_80000" IcomItemBit="27202" comItemListSearch="module_SearchBaoPanel map_10 module_TreasureNewPanel"/>
+        </In>
+    </SuperEvolve>
+      <SuperEvolve ID="9" Origin="111 112 113" OriginSearch="map_49" OriginSearchDesc="前往双子贝塔星挑战雷纳多可以获得（无法重复获取）" Target="1277" BitSetId="25609" ProcFuncId="0" 		Desc="雷纳尔多超进化" DetailSesc="雷纳尔多——雷纳多的超进化形态，拥有强大力量的霜钳和极低的身姿，能很好的伪装起来并突然发起进攻！" > <!--20140404版本-->
+        <In>
+            <Item ID="1200184" Count="1" Exchange="2162" comItemList="1700671_6 400029_3 1_30000" IcomItemBit="27209" comItemListSearch="module_SearchBaoPanel map_21 module_TreasureNewPanel"/>
+        </In>
+    </SuperEvolve>
+ 
+     <SuperEvolve ID="16" Origin="19 20 21" OriginSearch="map_31" OriginSearchDesc="前往赫尔卡星遗迹有机会遇到稀有精灵利利" Target="1565" BitSetId="25616" ProcFuncId="0" 		Desc="狂暴电击兔超进化"  DetailSesc="狂暴电击兔——电击兔的超进化形态，当电流汇聚双拳，无人敢轻视狂暴电击兔的威严。小心了，被它电到可没有任何挽回的余地哦！"> <!--20140404版本-->
+        <In>
+            <Item ID="1200611" Count="1" Exchange="2163" comItemList="1700671_12 400007_3 1_50000" IcomItemBit="27216" comItemListSearch="module_SearchBaoPanel map_15 module_TreasureNewPanel"/>
+        </In>
+    </SuperEvolve>
+     <SuperEvolve ID="25" Origin="474 475" OriginSearch="map_411" OriginSearchDesc="前往陨石地带即可捕捉野生精灵该隐" Target="1768" BitSetId="25625" ProcFuncId="0" 		Desc="该洛林超进化"  DetailSesc="该洛林——平民神宠该隐的超进化形态，它冷酷的外表下隐藏着恐怖的地面和暗影双重能量，超进化后的它更是领悟了多个超强技能！"> <!--20140404版本-->
+        <In>
+            <Item ID="1200931" Count="1" Exchange="2164" comItemList="1700671_6 400029_3 1_30000" IcomItemBit="27225" comItemListSearch="module_SearchBaoPanel map_21 module_TreasureNewPanel"/>
+        </In>
+    </SuperEvolve>	
+       <SuperEvolve ID="45" Origin="390 391" OriginSearch="map_348" OriginSearchDesc="前往龙王圣殿挑战塔西亚可以获得（无法重复获取）" Target="2105" BitSetId="25645" ProcFuncId="0" 		Desc="塔西格超进化"  DetailSesc="塔西格——龙族三巨头塔西亚的超进化形态，在经过征服索伦森的历练之后，塔西亚获得能力的蜕变，成为一代龙将！"> <!--20140404版本-->
+        <In>
+            <Item ID="1700433" Count="1"  Exchange="2165" comItemList="1700671_18 400001_5 1_80000" IcomItemBit="27245" comItemListSearch="module_SearchBaoPanel map_10 module_TreasureNewPanel"/>
+        </In>
+    </SuperEvolve>
+</SuperEvolves>

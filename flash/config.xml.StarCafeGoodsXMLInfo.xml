@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 
+地点ID对照
+1南荒山庄
+2北冥鱼市
+3灵籁商厦
+4绒绒菊百货
+5赛尔不夜城
+
+物品ID&标准价格对照
+1牛奶 20
+2红茶 135
+3蜂蜜 200
+4水果 30
+5海盐 55
+6郁金香 80
+7餐具套装 240
+8红丝绒沙发 1200
+9江江僵姜 500
+10晨露薄荷 350
+11无极抹茶 800
+12冥寒椰乳 660
+
+Sale字段
+0/不配：正常价格
+1：降价
+2：溢价
+3：停业
+
+ -->
+
+
+<Goods>
+	<Good ID="1" Day="1" Map="1" Item="2" Price="135"/>
+	<Good ID="2" Day="1" Map="1" Item="3" Price="180" Sale="1"/>
+	<Good ID="3" Day="1" Map="1" Item="6" Price="70" Sale="1"/>
+	<Good ID="4" Day="1" Map="1" Item="4" Price="10" Sale="1"/>
+	<Good ID="5" Day="1" Map="1" Item="9" Price="460" Sale="1"/>
+	<Good ID="6" Day="1" Map="2" Item="5" Price="45" Sale="1"/>
+	<Good ID="7" Day="1" Map="2" Item="4" Price="20" Sale="1"/>
+	<Good ID="8" Day="1" Map="2" Item="2" Price="150" Sale="2"/>
+	<Good ID="9" Day="1" Map="2" Item="7" Price="265" Sale="2"/>
+	<Good ID="10" Day="1" Map="2" Item="12" Price="640" Sale="1"/>
+	<Good ID="11" Day="1" Map="3" Item="1" Price="20"/>
+	<Good ID="12" Day="1" Map="3" Item="5" Price="55"/>
+	<Good ID="13" Day="1" Map="3" Item="3" Price="200"/>
+	<Good ID="14" Day="1" Map="3" Item="4" Price="25" Sale="1"/>
+	<Good ID="15" Day="1" Map="3" Item="10" Price="340" Sale="1"/>
+	<Good ID="16" Day="1" Map="4" Item="1" Price="25" Sale="2"/>
+	<Good ID="17" Day="1" Map="4" Item="6" Price="80"/>
+	<Good ID="18" Day="1" Map="4" Item="7" Price="240"/>
+	<Good ID="19" Day="1" Map="4" Item="8" Price="1250" Sale="2"/>
+	<Good ID="20" Day="1" Map="4" Item="11" Price="820" Sale="2"/>
+	<Good ID="21" Day="1" Map="5" Item="8" Price="1150" Sale="1"/>
+	<Good ID="22" Day="1" Map="5" Item="9" Price="500"/>
+	<Good ID="23" Day="1" Map="5" Item="12" Price="685" Sale="2"/>
+	<Good ID="24" Day="1" Map="5" Item="10" Price="375" Sale="2"/>
+	<Good ID="25" Day="1" Map="5" Item="11" Price="770" Sale="1"/>
+	<Good ID="26" Day="2" Map="1" Item="2" Price="135"/>
+	<Good ID="27" Day="2" Map="1" Item="3" Price="180" Sale="1"/>
+	<Good ID="28" Day="2" Map="1" Item="6" Price="70" Sale="1"/>
+	<Good ID="29" Day="2" Map="1" Item="4" Price="20" Sale="1"/>
+	<Good ID="30" Day="2" Map="1" Item="9" Price="460" Sale="1"/>
+	<Good ID="31" Day="2" Map="2" Item="5" Price="25" Sale="1"/>
+	<Good ID="32" Day="2" Map="2" Item="4" Price="30"/>
+	<Good ID="33" Day="2" Map="2" Item="2" Price="150" Sale="2"/>
+	<Good ID="34" Day="2" Map="2" Item="7" Price="280" Sale="2"/>
+	<Good ID="35" Day="2" Map="2" Item="12" Price="640" Sale="1"/>
+	<Good ID="36" Day="2" Map="3" Item="1" Price="20"/>
+	<Good ID="37" Day="2" Map="3" Item="5" Price="55"/>
+	<Good ID="38" Day="2" Map="3" Item="3" Price="200"/>
+	<Good ID="39" Day="2" Map="3" Item="4" Price="35" Sale="2"/>
+	<Good ID="40" Day="2" Map="3" Item="10" Price="340" Sale="1"/>
+	<Good ID="41" Day="2" Map="4" Item="1" Price="25" Sale="2"/>
+	<Good ID="42" Day="2" Map="4" Item="6" Price="80"/>
+	<Good ID="43" Day="2" Map="4" Item="7" Price="255" Sale="2"/>
+	<Good ID="44" Day="2" Map="4" Item="8" Price="1250" Sale="2"/>
+	<Good ID="45" Day="2" Map="4" Item="11" Price="820" Sale="2"/>
+	<Good ID="46" Day="2" Map="5" Item="8" Price="1150" Sale="1"/>
+	<Good ID="47" Day="2" Map="5" Item="9" Price="500"/>
+	<Good ID="48" Day="2" Map="5" Item="12" Price="685" Sale="2"/>
+	<Good ID="49" Day="2" Map="5" Item="10" Price="375" Sale="2"/>
+	<Good ID="50" Day="2" Map="5" Item="11" Price="770" Sale="1"/>
+	<Good ID="51" Day="3" Map="1" Item="2" Price="135"/>
+	<Good ID="52" Day="3" Map="1" Item="3" Price="160" Sale="1"/>
+	<Good ID="53" Day="3" Map="1" Item="6" Price="70" Sale="1"/>
+	<Good ID="54" Day="3" Map="1" Item="4" Price="30"/>
+	<Good ID="55" Day="3" Map="1" Item="9" Price="460" Sale="1"/>
+	<Good ID="56" Day="3" Map="2" Item="5" Price="25" Sale="1"/>
+	<Good ID="57" Day="3" Map="2" Item="4" Price="40" Sale="2"/>
+	<Good ID="58" Day="3" Map="2" Item="2" Price="150" Sale="2"/>
+	<Good ID="59" Day="3" Map="2" Item="7" Price="265" Sale="2"/>
+	<Good ID="60" Day="3" Map="2" Item="12" Price="640" Sale="1"/>
+	<Good ID="61" Day="3" Map="3" Item="1" Price="15" Sale="1"/>
+	<Good ID="62" Day="3" Map="3" Item="5" Price="55"/>
+	<Good ID="63" Day="3" Map="3" Item="3" Price="180" Sale="1"/>
+	<Good ID="64" Day="3" Map="3" Item="4" Price="45" Sale="2"/>
+	<Good ID="65" Day="3" Map="3" Item="10" Price="340" Sale="1"/>
+	<Good ID="66" Day="3" Map="4" Item="1" Price="20"/>
+	<Good ID="67" Day="3" Map="4" Item="6" Price="80"/>
+	<Good ID="68" Day="3" Map="4" Item="7" Price="240"/>
+	<Good ID="69" Day="3" Map="4" Item="8" Price="1250" Sale="2"/>
+	<Good ID="70" Day="3" Map="4" Item="11" Price="820" Sale="2"/>
+	<Good ID="71" Day="3" Map="5" Item="8" Price="1150" Sale="1"/>
+	<Good ID="72" Day="3" Map="5" Item="9" Price="500"/>
+	<Good ID="73" Day="3" Map="5" Item="12" Price="685" Sale="2"/>
+	<Good ID="74" Day="3" Map="5" Item="10" Price="375" Sale="2"/>
+	<Good ID="75" Day="3" Map="5" Item="11" Price="770" Sale="1"/>
+	<Good ID="76" Day="4" Map="1" Item="2" Price="135"/>
+	<Good ID="77" Day="4" Map="1" Item="3" Price="180" Sale="1"/>
+	<Good ID="78" Day="4" Map="1" Item="6" Price="70" Sale="1"/>
+	<Good ID="79" Day="4" Map="1" Item="4" Price="20" Sale="1"/>
+	<Good ID="80" Day="4" Map="1" Item="9" Price="460" Sale="1"/>
+	<Good ID="81" Day="4" Map="2" Item="5" Price="45" Sale="1"/>
+	<Good ID="82" Day="4" Map="2" Item="4" Price="30"/>
+	<Good ID="83" Day="4" Map="2" Item="2" Price="150" Sale="2"/>
+	<Good ID="84" Day="4" Map="2" Item="7" Price="265" Sale="2"/>
+	<Good ID="85" Day="4" Map="2" Item="12" Price="640" Sale="1"/>
+	<Good ID="86" Day="4" Map="3" Item="1" Price="15" Sale="1"/>
+	<Good ID="87" Day="4" Map="3" Item="5" Price="55"/>
+	<Good ID="88" Day="4" Map="3" Item="3" Price="200"/>
+	<Good ID="89" Day="4" Map="3" Item="4" Price="35" Sale="2"/>
+	<Good ID="90" Day="4" Map="3" Item="10" Price="340" Sale="1"/>
+	<Good ID="91" Day="4" Map="4" Item="1" Price="20"/>
+	<Good ID="92" Day="4" Map="4" Item="6" Price="130" Sale="2"/>
+	<Good ID="93" Day="4" Map="4" Item="7" Price="240"/>
+	<Good ID="94" Day="4" Map="4" Item="8" Price="1250" Sale="2"/>
+	<Good ID="95" Day="4" Map="4" Item="11" Price="820" Sale="2"/>
+	<Good ID="96" Day="4" Map="5" Item="8" Price="1150" Sale="3"/>
+	<Good ID="97" Day="4" Map="5" Item="9" Price="500" Sale="3"/>
+	<Good ID="98" Day="4" Map="5" Item="12" Price="685" Sale="3"/>
+	<Good ID="99" Day="4" Map="5" Item="10" Price="375" Sale="3"/>
+	<Good ID="100" Day="4" Map="5" Item="11" Price="770" Sale="3"/>
+	<Good ID="101" Day="5" Map="1" Item="2" Price="175" Sale="2"/>
+	<Good ID="102" Day="5" Map="1" Item="3" Price="200"/>
+	<Good ID="103" Day="5" Map="1" Item="6" Price="80"/>
+	<Good ID="104" Day="5" Map="1" Item="4" Price="30"/>
+	<Good ID="105" Day="5" Map="1" Item="9" Price="500"/>
+	<Good ID="106" Day="5" Map="2" Item="5" Price="55"/>
+	<Good ID="107" Day="5" Map="2" Item="4" Price="40" Sale="2"/>
+	<Good ID="108" Day="5" Map="2" Item="2" Price="190" Sale="2"/>
+	<Good ID="109" Day="5" Map="2" Item="7" Price="280" Sale="2"/>
+	<Good ID="110" Day="5" Map="2" Item="12" Price="660"/>
+	<Good ID="111" Day="5" Map="3" Item="1" Price="15" Sale="1"/>
+	<Good ID="112" Day="5" Map="3" Item="5" Price="55"/>
+	<Good ID="113" Day="5" Map="3" Item="3" Price="200"/>
+	<Good ID="114" Day="5" Map="3" Item="4" Price="35" Sale="2"/>
+	<Good ID="115" Day="5" Map="3" Item="10" Price="340" Sale="1"/>
+	<Good ID="116" Day="5" Map="4" Item="1" Price="20"/>
+	<Good ID="117" Day="5" Map="4" Item="6" Price="80"/>
+	<Good ID="118" Day="5" Map="4" Item="7" Price="240"/>
+	<Good ID="119" Day="5" Map="4" Item="8" Price="1250" Sale="2"/>
+	<Good ID="120" Day="5" Map="4" Item="11" Price="820" Sale="2"/>
+	<Good ID="121" Day="5" Map="5" Item="8" Price="1150" Sale="1"/>
+	<Good ID="122" Day="5" Map="5" Item="9" Price="500"/>
+	<Good ID="123" Day="5" Map="5" Item="12" Price="685" Sale="2"/>
+	<Good ID="124" Day="5" Map="5" Item="10" Price="375" Sale="2"/>
+	<Good ID="125" Day="5" Map="5" Item="11" Price="770" Sale="1"/>
+	<Good ID="126" Day="6" Map="1" Item="2" Price="135"/>
+	<Good ID="127" Day="6" Map="1" Item="3" Price="180" Sale="1"/>
+	<Good ID="128" Day="6" Map="1" Item="6" Price="70" Sale="1"/>
+	<Good ID="129" Day="6" Map="1" Item="4" Price="20" Sale="1"/>
+	<Good ID="130" Day="6" Map="1" Item="9" Price="460" Sale="1"/>
+	<Good ID="131" Day="6" Map="2" Item="5" Price="45" Sale="3"/>
+	<Good ID="132" Day="6" Map="2" Item="4" Price="30" Sale="3"/>
+	<Good ID="133" Day="6" Map="2" Item="2" Price="150" Sale="3"/>
+	<Good ID="134" Day="6" Map="2" Item="7" Price="265" Sale="3"/>
+	<Good ID="135" Day="6" Map="2" Item="12" Price="640" Sale="3"/>
+	<Good ID="136" Day="6" Map="3" Item="1" Price="15" Sale="1"/>
+	<Good ID="137" Day="6" Map="3" Item="5" Price="55"/>
+	<Good ID="138" Day="6" Map="3" Item="3" Price="200"/>
+	<Good ID="139" Day="6" Map="3" Item="4" Price="35" Sale="2"/>
+	<Good ID="140" Day="6" Map="3" Item="10" Price="340" Sale="1"/>
+	<Good ID="141" Day="6" Map="4" Item="1" Price="15" Sale="1"/>
+	<Good ID="142" Day="6" Map="4" Item="6" Price="60" Sale="1"/>
+	<Good ID="143" Day="6" Map="4" Item="7" Price="225" Sale="1"/>
+	<Good ID="144" Day="6" Map="4" Item="8" Price="1200" Sale="0"/>
+	<Good ID="145" Day="6" Map="4" Item="11" Price="790" Sale="1"/>
+	<Good ID="146" Day="6" Map="5" Item="8" Price="1150" Sale="1"/>
+	<Good ID="147" Day="6" Map="5" Item="9" Price="500"/>
+	<Good ID="148" Day="6" Map="5" Item="12" Price="685" Sale="2"/>
+	<Good ID="149" Day="6" Map="5" Item="10" Price="375" Sale="2"/>
+	<Good ID="150" Day="6" Map="5" Item="11" Price="770" Sale="1"/>
+	<Good ID="151" Day="7" Map="1" Item="2" Price="135"/>
+	<Good ID="152" Day="7" Map="1" Item="3" Price="180" Sale="1"/>
+	<Good ID="153" Day="7" Map="1" Item="6" Price="70" Sale="1"/>
+	<Good ID="154" Day="7" Map="1" Item="4" Price="20" Sale="1"/>
+	<Good ID="155" Day="7" Map="1" Item="9" Price="460" Sale="1"/>
+	<Good ID="156" Day="7" Map="2" Item="5" Price="55"/>
+	<Good ID="157" Day="7" Map="2" Item="4" Price="30"/>
+	<Good ID="158" Day="7" Map="2" Item="2" Price="150" Sale="2"/>
+	<Good ID="159" Day="7" Map="2" Item="7" Price="265" Sale="2"/>
+	<Good ID="160" Day="7" Map="2" Item="12" Price="640" Sale="1"/>
+	<Good ID="161" Day="7" Map="3" Item="1" Price="20"/>
+	<Good ID="162" Day="7" Map="3" Item="5" Price="75" Sale="2"/>
+	<Good ID="163" Day="7" Map="3" Item="3" Price="220" Sale="2"/>
+	<Good ID="164" Day="7" Map="3" Item="4" Price="45" Sale="2"/>
+	<Good ID="165" Day="7" Map="3" Item="10" Price="360" Sale="2"/>
+	<Good ID="166" Day="7" Map="4" Item="1" Price="20"/>
+	<Good ID="167" Day="7" Map="4" Item="6" Price="80"/>
+	<Good ID="168" Day="7" Map="4" Item="7" Price="240"/>
+	<Good ID="169" Day="7" Map="4" Item="8" Price="1250" Sale="2"/>
+	<Good ID="170" Day="7" Map="4" Item="11" Price="820" Sale="2"/>
+	<Good ID="171" Day="7" Map="5" Item="8" Price="1150" Sale="1"/>
+	<Good ID="172" Day="7" Map="5" Item="9" Price="500"/>
+	<Good ID="173" Day="7" Map="5" Item="12" Price="685" Sale="2"/>
+	<Good ID="174" Day="7" Map="5" Item="10" Price="375" Sale="2"/>
+	<Good ID="175" Day="7" Map="5" Item="11" Price="770" Sale="1"/>
+	<Good ID="176" Day="8" Map="1" Item="2" Price="135"/>
+	<Good ID="177" Day="8" Map="1" Item="3" Price="180" Sale="1"/>
+	<Good ID="178" Day="8" Map="1" Item="6" Price="70" Sale="1"/>
+	<Good ID="179" Day="8" Map="1" Item="4" Price="20" Sale="1"/>
+	<Good ID="180" Day="8" Map="1" Item="9" Price="460" Sale="1"/>
+	<Good ID="181" Day="8" Map="2" Item="5" Price="45" Sale="1"/>
+	<Good ID="182" Day="8" Map="2" Item="4" Price="30"/>
+	<Good ID="183" Day="8" Map="2" Item="2" Price="150" Sale="2"/>
+	<Good ID="184" Day="8" Map="2" Item="7" Price="265" Sale="2"/>
+	<Good ID="185" Day="8" Map="2" Item="12" Price="640" Sale="1"/>
+	<Good ID="186" Day="8" Map="3" Item="1" Price="5" Sale="1"/>
+	<Good ID="187" Day="8" Map="3" Item="5" Price="55"/>
+	<Good ID="188" Day="8" Map="3" Item="3" Price="200"/>
+	<Good ID="189" Day="8" Map="3" Item="4" Price="35" Sale="2"/>
+	<Good ID="190" Day="8" Map="3" Item="10" Price="340" Sale="1"/>
+	<Good ID="191" Day="8" Map="4" Item="1" Price="20"/>
+	<Good ID="192" Day="8" Map="4" Item="6" Price="80"/>
+	<Good ID="193" Day="8" Map="4" Item="7" Price="240"/>
+	<Good ID="194" Day="8" Map="4" Item="8" Price="1250" Sale="2"/>
+	<Good ID="195" Day="8" Map="4" Item="11" Price="820" Sale="2"/>
+	<Good ID="196" Day="8" Map="5" Item="8" Price="1100" Sale="1"/>
+	<Good ID="197" Day="8" Map="5" Item="9" Price="480" Sale="1"/>
+	<Good ID="198" Day="8" Map="5" Item="12" Price="655" Sale="1"/>
+	<Good ID="199" Day="8" Map="5" Item="10" Price="355" Sale="2"/>
+	<Good ID="200" Day="8" Map="5" Item="11" Price="740" Sale="1"/>
+</Goods>

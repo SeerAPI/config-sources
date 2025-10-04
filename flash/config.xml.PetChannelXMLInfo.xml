@@ -1,0 +1,187 @@
+<!-- 传送室通道配置表 -->
+<!-- 
+icon 0不显示，1显示NEW，2显示HOT
+hideGo 1隐藏GO按钮
+map 地图ID
+title 标题
+level 适合等级
+intro 介绍
+-->
+
+<root>
+
+	<!-- 精灵成长 -->
+	<petGrow>
+		
+		<item title="热门推荐" type="0">
+			<page id="11001"/>
+			<page id="11002"/>
+			<page id="12001"/>
+		</item>
+		
+		<item title="精灵挑战" type="0">
+			<page id="11001"/>
+			<page id="11002"/>
+			<page id="11006"/>
+			<page id="11003"/>
+			<page id="11004"/>
+			<page id="11005"/>
+		</item>
+		
+		<item title="精灵对战" type="0">
+			<page id="12001"/>
+			<page id="12002"/>
+			<page id="12003"/>
+		</item>
+		
+		<item title="能力提升" type="0">
+			<page id="13003"/>
+			<page id="13001"/>
+			<page id="13002"/>
+		</item>
+		
+		<item title="精准推送" type="0">
+			<page id="11001"/>
+			<page id="11002"/>
+			<page id="11003"/>
+			<page id="11005"/>
+			<page id="11006"/>
+			<page id="12001"/>
+			<page id="12002"/>
+			<page id="12003"/>
+			<page id="14001"/>
+			<page id="14002"/>
+			<page id="14003"/>
+			<page id="14004"/>
+			<page id="14005"/>
+			<page id="14006"/>
+			<page id="14007"/>
+		</item>
+	</petGrow>
+
+	<!-- 精灵收集 -->
+	<petCollect>
+		<item title="精灵新发现" type="0">
+			<page id="3968" map="103" intro="参与“十二月包月精灵”活动获得！"/>
+			<page id="3969" map="1409" intro="可在雨林篝火捕捉获得！"/>
+			<page id="3970" map="1409" intro="参与“阿内斯超进化”活动获得！"/>
+			<page id="3971" map="103" intro="参与“蛮荒之息超进化”活动获得！"/>
+			<page id="3972" map="1095" intro="参与“十二月巅峰联赛”活动获得！"/>
+
+
+		</item>	
+		<item title="超时空通道" type="1">
+		</item>
+		<popPet title="人气精灵">
+			<page id="5000"/>
+			<page id="3577"/>
+			<page id="3586"/>
+		    <page id="3711"/>
+			<page id="3697"/>
+		  	<page id="3699"/>
+			<page id="3647"/>
+		  	<page id="3686"/>
+  			<page id="3673"/>
+			<page id="3667"/>
+			<page id="3665"/>
+			<page id="3642"/>
+			<page id="3627"/>
+			<page id="3613"/>
+			<page id="3575"/>
+			<page id="3568"/>
+			<page id="3539"/>
+			<page id="3541"/>
+			<page id="3529"/>
+			<page id="3514"/>
+			<page id="3488"/>
+			<page id="3740"/>
+			<page id="3734"/>
+			<page id="3788"/>
+		</popPet>
+		<diamondPet title="钻石神宠">
+		    <page id="3550"/>
+			<page id="3714"/>
+			<page id="3685"/>
+			<page id="3676"/>
+			<page id="3564"/>
+			<page id="3506"/>
+			<page id="3631"/>
+			<page id="3617"/>
+			<page id="3576"/>
+			<page id="3512"/>
+			<page id="3033"/>
+			<page id="3237"/>
+			<page id="3741"/>
+			<page id="3750"/>
+			<page id="3763"/>
+			<page id="3788"/>
+			<page id="3865"/>
+		</diamondPet>
+	</petCollect>
+
+	<!-- 赛尔挑战 -->
+	<petFight>
+		
+		<item title="热门推荐" type="0">
+			<page id="70"/>
+			<page id="798"/>
+		</item>
+		
+		<item title="赛尔先锋队" type="2">
+		</item>
+		
+		<item title="伏魔空间" type="0">
+			<page id="32001"/>
+			<page id="32002"/>
+			<page id="32003"/>
+		</item>
+		
+		<item title="神秘领域" type="0">
+			<page id="33001"/>
+		</item>
+		
+		<item title="异能王的试炼" type="0">
+			<page id="34001"/>
+		</item>
+	
+	</petFight>
+
+	<!-- 赛尔豆 -->
+	<seerBean>
+		
+		<item title="热门推荐" type="0">
+			<page id="41019"/>
+			<page id="41018"/>
+			<page id="11005"/>
+			
+		</item>
+		
+		<item title="小游戏" type="0">
+			<page id="41019"/>
+			<page id="41018"/>
+			<page id="41017"/>
+			<page id="41016"/>
+			<page id="41015"/>
+			<page id="41014"/>
+			<page id="41013"/>
+			<page id="41012"/>
+			<page id="41001"/>
+			<page id="41002"/>
+			<!-- page id="41003"/ -->
+			<page id="41004"/>
+			<!-- page id="41005"/ -->
+			<page id="41006"/>
+			<page id="41007"/>
+			<page id="41008"/>
+			<page id="41009"/>
+			<page id="41010"/>
+			<page id="41011"/>
+		</item>
+		
+		<item title="能源兑换" type="0">
+			<page id="42001"/>
+		</item>
+	
+	</seerBean>
+	
+</root>

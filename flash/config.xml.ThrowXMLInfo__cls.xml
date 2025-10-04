@@ -1,0 +1,194 @@
+<!-- 
+	投掷道具XML表
+	id 道具ID，
+	changeBody 变身效果ID，
+	hasEffect 投掷后，是否播放一段动画（变身的话就默认没有），
+	hideModel 播放动画的时候，是否隐藏人模，
+	
+	resource/item/throw/line/
+	resource/item/throw/effect/
+-->
+
+<root>
+
+	<!--烟花-->
+	<item id="600001" changeBody="0" hasEffect="0" hideModel="0"/>
+	<!--斯诺天气弹-->
+	<item id="600002" changeBody="0" hasEffect="0" hideModel="0"/>
+	<!--斯诺花粉-->
+	<item id="600003" changeBody="0" hasEffect="1" hideModel="0"/>
+	<!--周年庆烟花-->
+	<item id="600004" changeBody="0" hasEffect="1" hideModel="0"/>
+	<!--龙王石化-->
+	<item id="600005" changeBody="0" hasEffect="1" hideModel="1"/>
+	<!--蓝色冰点-->
+	<item id="600006" changeBody="0" hasEffect="1" hideModel="0"/>
+	<!--红色苏果-->
+	<item id="600007" changeBody="0" hasEffect="1" hideModel="0"/>
+	<!--绿色罗玉-->
+	<item id="600008" changeBody="0" hasEffect="1" hideModel="0"/>
+	<!--绿野仙踪-->
+	<item id="600009" changeBody="0" hasEffect="1" hideModel="0"/>
+	<!--太阳之尘-->
+	<item id="600010" changeBody="0" hasEffect="1" hideModel="0"/>
+	<!--月光石-->
+	<item id="600011" changeBody="0" hasEffect="1" hideModel="1"/>
+	<!--金属南瓜头-->
+	<item id="600012" changeBody="0" hasEffect="1" hideModel="1"/>
+	<!--爱心果-->
+	<item id="600013" changeBody="0" hasEffect="0" hideModel="0"/>
+	<!--幻彩果实-->
+	<item id="600014" changeBody="0" hasEffect="0" hideModel="0"/>
+	<!--斯诺草-->
+	<item id="600015" changeBody="0" hasEffect="0" hideModel="0"/>
+	<!--可乐粽-->
+	<item id="600016" changeBody="799" hasEffect="0" hideModel="0"/>
+	<!--冰之结晶-->
+	<item id="600017" changeBody="0" hasEffect="0" hideModel="0"/>
+	<!--NoNo礼花弹-->
+	<item id="600018" changeBody="0" hasEffect="0" hideModel="0"/>
+	<!--南瓜-->
+	<item id="600019" changeBody="20002" hasEffect="0" hideModel="0"/>
+	<!--小幽灵-->
+	<item id="600020" changeBody="20003" hasEffect="0" hideModel="0"/>
+	<!--小雪球-->
+	<item id="600021" changeBody="0" hasEffect="0" hideModel="0"/>
+	<!--大雪球-->
+	<item id="600022" changeBody="0" hasEffect="0" hideModel="0"/>
+	<!--派对礼花-->
+	<item id="600023" changeBody="0" hasEffect="0" hideModel="0"/>
+	<!--愚乐变身球-->
+	<item id="600024" changeBody="10002" hasEffect="0" hideModel="0"/>
+	<!--蛋糕变身球-->
+	<item id="600025" changeBody="10003" hasEffect="0" hideModel="0"/>
+	
+	<!--木木变身球-->
+	<item id="600026" changeBody="1217" hasEffect="0" hideModel="0"/>
+	<!--雷伊变身球-->
+	<item id="600027" changeBody="70" hasEffect="0" hideModel="0"/>
+	<!--卡修斯变身球-->
+	<item id="600028" changeBody="798" hasEffect="0" hideModel="0"/>
+	<!--布莱克变身球-->
+	<item id="600029" changeBody="875" hasEffect="0" hideModel="0"/>
+	<!--盖亚变身球-->
+	<item id="600030" changeBody="2545" hasEffect="0" hideModel="0"/>
+	<!--巴里修斯变身球-->
+	<item id="600031" changeBody="1212" hasEffect="0" hideModel="0"/>
+	<!--托鲁克变身球-->
+	<item id="600032" changeBody="865" hasEffect="0" hideModel="0"/>
+	<!--始祖灵兽变身球-->
+	<item id="600033" changeBody="811" hasEffect="0" hideModel="0"/>
+	<!--炎魔变身球-->
+	<item id="600034" changeBody="760" hasEffect="0" hideModel="0"/>
+	<!--杰恩斯变身球-->
+	<item id="600035" changeBody="1093" hasEffect="0" hideModel="0"/>
+	<!--丽莎布布变身球-->
+	<item id="600036" changeBody="303" hasEffect="0" hideModel="0"/>
+	<!--闪光波克尔变身球-->
+	<item id="600037" changeBody="166" hasEffect="0" hideModel="0"/>
+	<!--闪光艾菲亚变身球-->
+	<item id="600038" changeBody="312" hasEffect="0" hideModel="0"/>
+	<!--尤米娜变身球-->
+	<item id="600039" changeBody="1215" hasEffect="0" hideModel="0"/>
+	<!--魔域仙子变身球-->
+	<item id="600040" changeBody="1216" hasEffect="0" hideModel="0"/>
+	<!--小布变身球-->
+	<item id="600041" changeBody="1168" hasEffect="0" hideModel="0"/>
+	<!--帕罗狄亚变身球-->
+	<item id="600042" changeBody="1167" hasEffect="0" hideModel="0"/>
+	
+	<!--烈焰变身球-->
+	<item id="600043" changeBody="300001" hasEffect="0" hideModel="0"/>
+	<!--绿光变身球-->
+	<item id="600045" changeBody="300002" hasEffect="0" hideModel="0"/>
+	<!--海啸变身球-->
+	<item id="600044" changeBody="300003" hasEffect="0" hideModel="0"/>
+	<!--夏令营纪念变身球-->
+	<item id="600046" changeBody="1248" hasEffect="0" hideModel="0"/>
+	
+	<!--雷神助威彩弹-->
+	<item id="600047" changeBody="0" hasEffect="1" hideModel="0"/>
+	<!--魔神助威彩弹-->
+	<item id="600048" changeBody="0" hasEffect="1" hideModel="0"/>
+	<!--月光投掷-->
+	<item id="600049" changeBody="1373" hasEffect="1" hideModel="0"/>
+	<!--月兔投掷-->
+	<item id="600050" changeBody="819" hasEffect="1" hideModel="0"/>
+	<!--海盗投掷道具-->
+	<item id="600051" changeBody="0" hasEffect="1" hideModel="0"/>
+	<!--小幽灵投掷道具-->
+	<item id="600052" changeBody="1385" hasEffect="1" hideModel="0"/>
+
+	<!--铃儿响叮铛投掷道具-->
+	<item id="600055" changeBody="1451" hasEffect="1" hideModel="0"/>
+
+	<!--末日船票投掷道具-->
+	<item id="600056" changeBody="0" hasEffect="1" hideModel="0"/>
+	<item id="600057" changeBody="1461" hasEffect="1" hideModel="0"/>
+	
+	<item id="600058" changeBody="0" hasEffect="1" hideModel="0"/>
+	<item id="600059" changeBody="0" hasEffect="1" hideModel="0"/>
+	
+	<!-- 愚人节科洛迪投掷道具 -->
+	<item id="600060" changeBody="1594" hasEffect="1" hideModel="0"/>
+	<!-- 赛尔号四周年庆典投掷道具 -->
+	<item id="600063" changeBody="1234" hasEffect="1" hideModel="0"/>
+	
+	<!-- 爆炸水球 -->
+	<item id="600064" changeBody="0" hasEffect="1" hideModel="0"/>
+	
+	<!--雷伊超进化变身球-->
+	<item id="600065" changeBody="2505" hasEffect="1" hideModel="0"/>
+	<!--盖亚超进化变身球-->
+	<item id="600066" changeBody="1845" hasEffect="1" hideModel="0"/>
+	<!--超No变身球-->
+	<item id="600067" changeBody="1" hasEffect="1" hideModel="0"/>
+	<!--国庆礼花弹爆炸效果-->
+	<item id="600068" changeBody="0" hasEffect="1" hideModel="0"/>
+	
+	<!--拉摩斯变身球-->
+	<item id="600069" changeBody="1412" hasEffect="1" hideModel="0"/>
+	<!--比莫拉变身球-->
+	<item id="600070" changeBody="1443" hasEffect="1" hideModel="0"/>
+	<!--纳斯琪变身球-->
+	<item id="600071" changeBody="1480" hasEffect="1" hideModel="0"/>
+	
+	<!--圣诞变身球-->
+	<item id="600072" changeBody="1463" hasEffect="1" hideModel="0"/>
+	
+	<!--砸屏雪球-->
+	<item id="600073" changeBody="0" hasEffect="1" hideModel="0"/>
+	<!--马年礼花弹-->
+	<item id="600074" changeBody="0" hasEffect="1" hideModel="0"/>
+	
+	<!--小豆芽变身球-->
+	<item id="600075" changeBody="27" hasEffect="0" hideModel="0"/>
+	<!--布布花变身球-->
+	<item id="600076" changeBody="3" hasEffect="0" hideModel="0"/>
+	<!--蒙娜丽莎变身球-->
+	<item id="600077" changeBody="2189" hasEffect="0" hideModel="0"/>
+	<!--鲁斯王变身球-->
+	<item id="600078" changeBody="306" hasEffect="0" hideModel="0"/>
+	<!--利爪鲁斯王变身球-->
+	<item id="600079" changeBody="2220" hasEffect="0" hideModel="0"/>
+	<!--魔焰猩猩变身球-->
+	<item id="600080" changeBody="309" hasEffect="0" hideModel="0"/>
+	<!--炽焰金刚变身球-->
+	<item id="600081" changeBody="2221" hasEffect="0" hideModel="0"/>
+	<!--怪杰变身球-->
+	<item id="600082" changeBody="1596" hasEffect="0" hideModel="0"/>
+	<!--格莱奥变身球-->
+	<item id="600083" changeBody="1851" hasEffect="0" hideModel="0"/>
+	<!-- 七彩虎王变身球  -->
+	<item id="600085" changeBody="298" hasEffect="0" hideModel="0"/>
+	<!-- 缪斯变身球  -->
+	<item id="600086" changeBody="1633" hasEffect="0" hideModel="0"/>
+	<!-- 凯兮变身球  -->
+	<item id="600087" changeBody="1633" hasEffect="0" hideModel="0"/>
+	<!-- 奥斯卡变身球  -->
+	<item id="600088" changeBody="2006" hasEffect="0" hideModel="0"/>
+	<!-- 布莱克超进化变身球  -->
+	<item id="600089" changeBody="875" hasEffect="0" hideModel="0"/>
+	<!-- 圣诞雪球  -->
+	<item id="600090" changeBody="0" hasEffect="1" hideModel="0"/>
+</root>

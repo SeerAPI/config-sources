@@ -1,0 +1,50 @@
+<!-- 传送室通道配置表 -->
+<!-- 
+
+galaxy 所在星系
+map 所在地图
+name 名字
+arrow 跳转后加的箭头
+isHot isNew 标签页描述信息
+
+-->
+
+<root>	
+	
+	<galaxy id="0" name="首页" isHot="0" isNew="0">
+		<game id="41018" name="米咔站稳" map="743" arrow="220_320_45" />
+		<game id="41019" name="古墓历险" map="778" arrow="100_300_310" />
+	</galaxy>	
+	
+	<galaxy id="1" name="赛尔号飞船" isHot="0" isNew="0">
+		<game id="41001" name="保护导航仪" map="4" arrow="294_246_270" />
+		<game id="41002" name="星座档案管理" map="9" arrow="337_160_270" />
+		<!-- game id="41003" name="舱外回收员" map="7" arrow="" / -->
+		<game id="41004" name="突围磁风暴" map="6" arrow="507_395_270" />
+		<!-- game id="41005" name="晶体采集练习" map="107" arrow="" / -->
+	</galaxy>
+	
+	<galaxy id="2" name="帕诺星系" isHot="0" isNew="0">
+		<game id="41006" name="拆弹游戏" map="30" arrow="634_121_330" />
+		<game id="41007" name="防空塔" map="106" arrow="414_435_270" />
+		<game id="41008" name="米鲁雪地疾走" map="51" arrow="299_460_270" />
+		<game id="41009" name="赛尔套圈大赛" map="51" arrow="273_210_270" />
+		<game id="41010" name="智勇闯冰关" map="51" arrow="53_291_330" />
+	</galaxy>
+	
+	<galaxy id="3" name="卡兰星系" isHot="0" isNew="0">
+		<game id="41011" name="植物大战沙暴" map="60" arrow="83_177_330" />
+	</galaxy>
+	
+	<galaxy id="4" name="螺旋星系" isHot="1" isNew="0">
+		<game id="41012" name="石门迷阵" map="731" arrow="349_246_330" />
+		<game id="41013" name="机械精灵连连看" map="735" arrow="240_220_30" />
+		<game id="41014" name="粽仔祖玛" map="739" arrow="90_260_30" />
+		<game id="41015" name="鬼屋大作战" map="743" arrow="636_140_330" />
+		<game id="41016" name="星际攀爬" map="747" arrow="836_152_210" />
+		<game id="41017" name="际疯狂射击" map="747" arrow="831_211_310" />
+		<game id="41018" name="米咔站稳" map="743" arrow="220_320_45" />
+		<game id="41019" name="古墓历险" map="778" arrow="100_300_310" />
+	</galaxy>
+	
+</root>

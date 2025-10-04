@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<item skinid="479">
+		<skill id="35620" replaceId="47935620" action="sa5"/>
+	</item>
+	<item petid="5605">
+		<skill id="35620" replaceId="47935620" action="sa5"/>
+	</item>
+	<item skinid="644">
+		<skill id="34812" replaceId="64434812" action="sa5"/>
+	</item>
+	<item skinid="645">
+		<skill id="35620" replaceId="64535620" action="sa5"/>
+	</item>
+</Root>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 玩法配置文件 -->
+
+<config>
+	
+	<fighting name="试炼之塔" lv="30" map="108" posX="610" posY="288" rotation="0"/>
+	<fighting name="精灵王之战" lv="33" map="102" posX="714" posY="104" rotation="135"/>
+	<fighting name="训练师之门" lv="36" map="503" posX="356" posY="260" rotation="180"/>
+	<fighting name="命运之轮" lv="40" map="405" posX="600" posY="96" rotation="135"/>
+	<fighting name="精灵大乱斗" lv="43" map="102" posX="248" posY="192" rotation="90"/>
+	<fighting name="幸运大作战" lv="46" map="503" posX="746" posY="156" rotation="180"/>
+	<fighting name="勇者之塔" lv="50" map="108" posX="492" posY="118" rotation="135"/>
+	<fighting name="战斗阶梯" lv="53" map="405" posX="250" posY="110" rotation="135"/>
+	<fighting name="星际擂台" lv="56" map="102" posX="480" posY="136" rotation="135"/>
+	<fighting name="幸运大作战" lv="60" map="503" posX="746" posY="156" rotation="180"/>
+	<fighting name="精灵王之战" lv="63" map="102" posX="714" posY="104" rotation="135"/>
+	<fighting name="训练师之门" lv="66" map="503" posX="356" posY="260" rotation="180"/>
+	<fighting name="命运之轮" lv="70" map="405" posX="600" posY="96" rotation="135"/>
+	<fighting name="精灵大乱斗" lv="73" map="102" posX="248" posY="192" rotation="90"/>
+	<fighting name="幸运大作战" lv="76" map="503" posX="746" posY="156" rotation="180"/>
+	<fighting name="勇者之塔" lv="80" map="108" posX="492" posY="118" rotation="135"/>
+	<fighting name="战斗阶梯" lv="83" map="405" posX="250" posY="110" rotation="135"/>
+	<fighting name="星际擂台" lv="86" map="102" posX="480" posY="136" rotation="135"/>
+	<fighting name="幸运大作战" lv="90" map="503" posX="746" posY="156" rotation="180"/>
+	<fighting name="精灵王之战" lv="93" map="102" posX="714" posY="104" rotation="135"/>
+	<fighting name="训练师之门" lv="96" map="503" posX="356" posY="260" rotation="180"/>
+	
+</config>

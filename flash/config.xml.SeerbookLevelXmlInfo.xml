@@ -1,0 +1,142 @@
+<!-- 图鉴奖励及等级经验配置表 -->
+<!--  说明
+
+Reward:奖励配置 ID:奖励组标识
+			    Type：1普通奖励 其他为特殊奖励
+				Kind：奖励类型 1：物品， 2：精灵， 3：刻印， 4：皮肤  5：称号  6：头像,头像框(头像需要添加type="1"  头像框type="2")
+				hide=1时不高亮
+
+Level：等级配置 ID:配置等级
+				ExpNeed：达到该等级所需总经验 
+				RewardID：对应奖励ID 即Reward部分配置
+				UseFlag：领奖标志，foreverID 位置[1-32] 例 107554 1 即forever值107554第1位置位为已领取该等级奖励，有特殊展示需求的奖励自行补充
+				action: alarm 提示  后续拓展
+				actionValue   当action是alarm时填提示文字  后续扩展
+-->
+<root>
+	<!-- 奖励配置部分 -->
+	<Reward ID="1" Type="1" Kind="1" ishide="1">
+		<Item ID="1" Count="1000" Name=""/>
+		<Item ID="1400352" Count="1000" Name=""/>
+	</Reward>
+	<Reward ID="2" Type="2" Kind="2">
+		<Monster ID="1" Lv="1" Name=""/>
+		<Monster ID="7" Lv="1" Name=""/>
+		<Monster ID="4" Lv="1" Name=""/>
+	</Reward>
+	<Reward ID="3" Type="1" Kind="2">
+		<Monster ID="669" Lv="1" Name=""/>
+		<Monster ID="969" Lv="1" Name=""/>
+	</Reward>
+	<Reward ID="4" Type="1" Kind="2">
+		<Monster ID="1195" Lv="1" Name=""/>
+		<Monster ID="275" Lv="1" Name=""/>
+		<Monster ID="71" Lv="1" Name=""/>
+	</Reward>
+	<Reward ID="5" Type="1" Kind="2">
+		<Monster ID="1771" Lv="1" Name=""/>
+		<Monster ID="4148" Lv="1" ExtraMove="1" Name=""/>
+	</Reward>
+		<!--<Reward ID="6" Type="1" Kind="1">
+		<Item ID="300065" Count="5" Name=""/>
+	</Reward>-->
+	<Reward ID="7" Type="1" Kind="1">
+		<Item ID="300772" Count="2" Name=""/>
+	</Reward>
+	<Reward ID="8" Type="1" Kind="3">
+		<Mintmark Name="" ID="41942" Count="1"/>
+		<Mintmark Name="" ID="41943" Count="1"/>
+	</Reward>
+	<Reward ID="9" Type="1" Kind="2">
+		<Monster ID="4159" Lv="1" ExtraMove="1" Name="" NewSeID="5657"/>
+		<Mintmark Name="" ID="41945" Count="1"/>
+	</Reward>
+	<Reward ID="10" Type="1" Kind="4">
+		<Skin ID="401" KindId="1" Name="卡通玩具·几米"/>
+	</Reward>
+
+	<!--<Reward ID="11" Type="1" Kind="1">
+		<Item ID="1" Count="20" Name=""/>
+	</Reward>-->
+
+	<Reward ID="11" Type="1" Kind="5">
+		<ach ID="14301" Name="新新收藏家" BranchID="143" RuleID="1"/>
+	</Reward>
+
+	<Reward ID="12" Type="1" Kind="5">
+		<ach ID="14302" Name="大收藏家" BranchID="143" RuleID="2"/>
+	</Reward>	
+    <Reward ID="13" Type="1" Kind="1">
+        <Item ID="700827" Count="1" Name="NONO小博士"/>
+    </Reward>
+	<Reward ID="14" Type="1" Kind="1">
+        <Item ID="1300943" Count="1" Name="星际光轮"/>
+    </Reward>
+	<Reward ID="15" Type="1" Kind="6">
+        <Head ID="41" Count="1" type="1" Name="H5专属头像：圣战·盖亚"/>
+		<HeadFrame ID="42" Count="1" type="2" Name="H5专属头像框：赛尔收藏家"/>
+    </Reward>
+	
+	<!-- 等级配置部分 -->
+	<Level ID="1" ExpNeed="100" RewardID="1" UseValue="107554" UseBit="1"/>
+	<Level ID="2" ExpNeed="200" RewardID="1" UseValue="107554" UseBit="2"/>
+	<Level ID="3" ExpNeed="300" RewardID="1" UseValue="107554" UseBit="3"/>
+	<Level ID="4" ExpNeed="400" RewardID="1" UseValue="107554" UseBit="4"/>
+	<Level ID="5" ExpNeed="500" RewardID="2" UseValue="107554" UseBit="5"/>
+	<Level ID="6" ExpNeed="1000" RewardID="1" UseValue="107554" UseBit="6"/>
+	<Level ID="7" ExpNeed="1500" RewardID="1" UseValue="107554" UseBit="7"/>
+	<Level ID="8" ExpNeed="2000" RewardID="1" UseValue="107554" UseBit="8"/>
+	<Level ID="9" ExpNeed="2500" RewardID="1" UseValue="107554" UseBit="9"/>
+	<Level ID="10" ExpNeed="3000" RewardID="3" UseValue="107554" UseBit="10"/>
+	<Level ID="11" ExpNeed="3500" RewardID="1" UseValue="107554" UseBit="11"/>
+	<Level ID="12" ExpNeed="4000" RewardID="1" UseValue="107554" UseBit="12"/>
+	<Level ID="13" ExpNeed="4500" RewardID="1" UseValue="107554" UseBit="13"/>
+	<Level ID="14" ExpNeed="5000" RewardID="1" UseValue="107554" UseBit="14"/>
+	<Level ID="15" ExpNeed="5500" RewardID="4" UseValue="107554" UseBit="15"/>
+	<Level ID="16" ExpNeed="6500" RewardID="1" UseValue="107554" UseBit="16"/>
+	<Level ID="17" ExpNeed="7500" RewardID="1" UseValue="107554" UseBit="17"/>
+	<Level ID="18" ExpNeed="8500" RewardID="1" UseValue="107554" UseBit="18"/>
+	<Level ID="19" ExpNeed="9500" RewardID="1" UseValue="107554" UseBit="19"/>
+	<Level ID="20" ExpNeed="10500" RewardID="5" UseValue="107554" UseBit="20"/>
+	<Level ID="21" ExpNeed="11500" RewardID="1" UseValue="107554" UseBit="21"/>
+	<Level ID="22" ExpNeed="12500" RewardID="1" UseValue="107554" UseBit="22"/>
+	<Level ID="23" ExpNeed="13500" RewardID="1" UseValue="107554" UseBit="23"/>
+	<Level ID="24" ExpNeed="14500" RewardID="1" UseValue="107554" UseBit="24"/>
+	<Level ID="25" ExpNeed="16000" RewardID="7" UseValue="107554" UseBit="25"/>
+	<Level ID="26" ExpNeed="17000" RewardID="1" UseValue="107554" UseBit="26"/>
+	<Level ID="27" ExpNeed="18000" RewardID="1" UseValue="107554" UseBit="27"/>
+	<Level ID="28" ExpNeed="19000" RewardID="1" UseValue="107554" UseBit="28"/>
+	<Level ID="29" ExpNeed="20000" RewardID="1" UseValue="107554" UseBit="29"/>
+	<Level ID="30" ExpNeed="21000" RewardID="9" UseValue="107554" UseBit="30"/>
+	<Level ID="31" ExpNeed="22000" RewardID="1" UseValue="107554" UseBit="31"/>
+	<Level ID="32" ExpNeed="23000" RewardID="1" UseValue="107554" UseBit="32"/>
+	<Level ID="33" ExpNeed="24000" RewardID="1" UseValue="107555" UseBit="1"/>
+	<Level ID="34" ExpNeed="25000" RewardID="1" UseValue="107555" UseBit="2"/>
+	<Level ID="35" ExpNeed="26000" RewardID="8" UseValue="107555" UseBit="3"/>
+	<Level ID="36" ExpNeed="27000" RewardID="1" UseValue="107555" UseBit="4"/>
+	<Level ID="37" ExpNeed="28000" RewardID="1" UseValue="107555" UseBit="5"/>
+	<Level ID="38" ExpNeed="29000" RewardID="1" UseValue="107555" UseBit="6"/>
+	<Level ID="39" ExpNeed="30000" RewardID="1" UseValue="107555" UseBit="7"/>
+	<Level ID="40" ExpNeed="31000" RewardID="11" UseValue="107555" UseBit="8"/>
+    <Level ID="41" ExpNeed="32000" RewardID="1" UseValue="107555" UseBit="9"/>
+	<Level ID="42" ExpNeed="33000" RewardID="1" UseValue="107555" UseBit="10"/>
+	<Level ID="43" ExpNeed="34000" RewardID="1" UseValue="107555" UseBit="11"/>
+	<Level ID="44" ExpNeed="35000" RewardID="1" UseValue="107555" UseBit="12"/>
+	<Level ID="45" ExpNeed="36000" RewardID="10" UseValue="107555" UseBit="13"/>
+	<Level ID="46" ExpNeed="37000" RewardID="1" UseValue="107555" UseBit="14"/>
+	<Level ID="47" ExpNeed="38000" RewardID="1" UseValue="107555" UseBit="15"/>
+	<Level ID="48" ExpNeed="39000" RewardID="1" UseValue="107555" UseBit="16"/>
+	<Level ID="49" ExpNeed="40000" RewardID="1" UseValue="107555" UseBit="17"/>
+	<Level ID="50" ExpNeed="41000" RewardID="13" UseValue="107555" UseBit="18"/>
+	<Level ID="51" ExpNeed="42000" RewardID="1" UseValue="107555" UseBit="19"/>
+	<Level ID="52" ExpNeed="43000" RewardID="1" UseValue="107555" UseBit="20"/>
+	<Level ID="53" ExpNeed="44000" RewardID="1" UseValue="107555" UseBit="21"/>
+	<Level ID="54" ExpNeed="45000" RewardID="1" UseValue="107555" UseBit="22"/>
+	<Level ID="55" ExpNeed="46000" RewardID="14" UseValue="107555" UseBit="23"/>
+	<Level ID="56" ExpNeed="47000" RewardID="1" UseValue="107555" UseBit="24"/>
+	<Level ID="57" ExpNeed="48000" RewardID="1" UseValue="107555" UseBit="25"/>
+	<Level ID="58" ExpNeed="49000" RewardID="1" UseValue="107555" UseBit="26"/>
+	<Level ID="59" ExpNeed="50000" RewardID="1" UseValue="107555" UseBit="27"/>
+	<Level ID="60" ExpNeed="51000" RewardID="15" UseValue="107555" UseBit="28" action="alarm" actionValue="已成功领取，请前往《赛尔号：巅峰之战》进行查看"/>
+	<Level ID="61" ExpNeed="999999" RewardID="1" UseValue="107555" UseBit="29"/>
+</root>

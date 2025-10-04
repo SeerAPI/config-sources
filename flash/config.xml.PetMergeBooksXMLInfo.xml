@@ -1,0 +1,31 @@
+﻿<PET>
+	<pet id="303" name="丽莎布布" gotoPage="1"/>
+	<pet id="306" name="鲁斯王" gotoPage="2"/>
+	<pet id="309" name="魔焰猩猩" gotoPage="3"/>
+	<pet id="312" name="闪光艾菲亚" gotoPage="4"/>
+	<pet id="318" name="卡鲁克斯" gotoPage="5"/>
+	<pet id="321" name="哈尔翼蜂" gotoPage="6"/>
+	<pet id="324" name="古雷亚" gotoPage="7"/>
+	<pet id="334" name="多鲁鲁斯" gotoPage="8"/>
+	<pet id="340" name="托雷塔斯" gotoPage="9"/>
+	<pet id="343" name="索比拉特" gotoPage="10"/>
+	<pet id="403" name="泰瑞" gotoPage="11"/>
+	<pet id="405" name="提姆提姆" gotoPage="12"/>
+	<pet id="429" name="艾克里桑" gotoPage="13"/>
+	<pet id="573" name="布莱卡恩" gotoPage="14"/>
+	<pet id="579" name="库洛卡" gotoPage="15"/>
+	<pet id="634" name="德格拉克" gotoPage="16"/>
+	<pet id="628" name="远古塔拉" gotoPage="17"/>
+	<pet id="631" name="依卡劳特" gotoPage="18"/>
+	<pet id="624" name="沃德斯特" gotoPage="19"/>
+	<pet id="626" name="卡拉巨龙" gotoPage="20"/>
+	<pet id="851" name="冰封雪灵" gotoPage="21"/>
+	<pet id="933" name="马尔尼洛" gotoPage="22"/>
+	<pet id="947" name="超级果然多" gotoPage="23"/>
+	<pet id="1071" name="布克鸟" gotoPage="24"/>
+	<pet id="1073" name="莫德纳" gotoPage="25"/>
+	<pet id="1268" name="瑞德洛" gotoPage="26"/>
+	<pet id="1488" name="霍利迪斯" gotoPage="27"/>
+	<pet id="1449" name="瑞德尔" gotoPage="28"/>
+	<pet id="1750" name="库迪斯特" gotoPage="29"/>
+</PET>

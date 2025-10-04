@@ -1,0 +1,967 @@
+<MoveStones>
+	<MoveStone ID="1" Name="草石之力-D" ItemID="1100001" Rank="1" Type="1" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="15%令对手中毒" Index="7" EffectType="1" EffectProb="18" SideEffect="11" SideEffectArg="15" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="2" Name="草石之力-C" ItemID="1100002" Rank="2" Type="1" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手中毒" Index="7" EffectType="1" EffectProb="15" SideEffect="11" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="3" Name="草石之力-B" ItemID="1100003" Rank="3" Type="1" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手中毒" Index="7" EffectType="1" EffectProb="12" SideEffect="11" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="4" Name="草石之力-A" ItemID="1100004" Rank="4" Type="1" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手中毒" Index="7" EffectType="1" EffectProb="10" SideEffect="11" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="5" Name="草石之力-S" ItemID="1100005" Rank="5" Type="1" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手中毒" Index="7" EffectType="1" EffectProb="7" SideEffect="11" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="6" Name="水石之力-D" ItemID="1100006" Rank="1" Type="2" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="15%令对手冻伤" Index="8" EffectType="1" EffectProb="18" SideEffect="14" SideEffectArg="15" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="7" Name="水石之力-C" ItemID="1100007" Rank="2" Type="2" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手冻伤" Index="8" EffectType="1" EffectProb="15" SideEffect="14" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="8" Name="水石之力-B" ItemID="1100008" Rank="3" Type="2" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手冻伤" Index="8" EffectType="1" EffectProb="12" SideEffect="14" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="9" Name="水石之力-A" ItemID="1100009" Rank="4" Type="2" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手冻伤" Index="8" EffectType="1" EffectProb="10" SideEffect="14" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="10" Name="水石之力-S" ItemID="1100010" Rank="5" Type="2" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手冻伤" Index="8" EffectType="1" EffectProb="7" SideEffect="14" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="11" Name="火石之力-D" ItemID="1100011" Rank="1" Type="3" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="15%令对手烧伤" Index="9" EffectType="1" EffectProb="18" SideEffect="12" SideEffectArg="15" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="12" Name="火石之力-C" ItemID="1100012" Rank="2" Type="3" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手烧伤" Index="9" EffectType="1" EffectProb="15" SideEffect="12" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="13" Name="火石之力-B" ItemID="1100013" Rank="3" Type="3" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手烧伤" Index="9" EffectType="1" EffectProb="12" SideEffect="12" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="14" Name="火石之力-A" ItemID="1100014" Rank="4" Type="3" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手烧伤" Index="9" EffectType="1" EffectProb="10" SideEffect="12" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="15" Name="火石之力-S" ItemID="1100015" Rank="5" Type="3" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手烧伤" Index="9" EffectType="1" EffectProb="7" SideEffect="12" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="16" Name="飞行石之力-D" ItemID="1100016" Rank="1" Type="4" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="15%令对手速度属性-1" Index="10" EffectType="1" EffectProb="18" SideEffect="5" SideEffectArg="4 15 -1" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="17" Name="飞行石之力-C" ItemID="1100017" Rank="2" Type="4" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手速度属性-1" Index="10" EffectType="1" EffectProb="15" SideEffect="5" SideEffectArg="4 15 -1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="18" Name="飞行石之力-B" ItemID="1100018" Rank="3" Type="4" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手速度属性-1" Index="10" EffectType="1" EffectProb="12" SideEffect="5" SideEffectArg="4 15 -1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="19" Name="飞行石之力-A" ItemID="1100019" Rank="4" Type="4" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手速度属性-1" Index="10" EffectType="1" EffectProb="10" SideEffect="5" SideEffectArg="4 15 -1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="20" Name="飞行石之力-S" ItemID="1100020" Rank="5" Type="4" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手速度属性-1" Index="10" EffectType="1" EffectProb="7" SideEffect="5" SideEffectArg="4 15 -1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="21" Name="电石之力-D" ItemID="1100021" Rank="1" Type="5" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="10%令对手麻痹" Index="11" EffectType="1" EffectProb="18" SideEffect="10" SideEffectArg="10" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="22" Name="电石之力-C" ItemID="1100022" Rank="2" Type="5" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对手麻痹" Index="11" EffectType="1" EffectProb="15" SideEffect="10" SideEffectArg="10" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="23" Name="电石之力-B" ItemID="1100023" Rank="3" Type="5" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对手麻痹" Index="11" EffectType="1" EffectProb="12" SideEffect="10" SideEffectArg="10" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="24" Name="电石之力-A" ItemID="1100024" Rank="4" Type="5" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对手麻痹" Index="11" EffectType="1" EffectProb="10" SideEffect="10" SideEffectArg="10" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="25" Name="电石之力-S" ItemID="1100025" Rank="5" Type="5" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对手麻痹" Index="11" EffectType="1" EffectProb="7" SideEffect="10" SideEffectArg="10" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="26" Name="机械石之力-D" ItemID="1100026" Rank="1" Type="6" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="15%令对手双防-1" Index="12" EffectType="1" EffectProb="18" SideEffect="5 5" SideEffectArg="1 15 -1 3 15 -1" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="27" Name="机械石之力-C" ItemID="1100027" Rank="2" Type="6" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手双防-1" Index="12" EffectType="1" EffectProb="15" SideEffect="5 5" SideEffectArg="1 15 -1 3 15 -1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="28" Name="机械石之力-B" ItemID="1100028" Rank="3" Type="6" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手双防-1" Index="12" EffectType="1" EffectProb="12" SideEffect="5 5" SideEffectArg="1 15 -1 3 15 -1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="29" Name="机械石之力-A" ItemID="1100029" Rank="4" Type="6" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手双防-1" Index="12" EffectType="1" EffectProb="10" SideEffect="5 5" SideEffectArg="1 15 -1 3 15 -1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="30" Name="机械石之力-S" ItemID="1100030" Rank="5" Type="6" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手双防-1" Index="12" EffectType="1" EffectProb="7" SideEffect="5 5" SideEffectArg="1 15 -1 3 15 -1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="31" Name="地面石之力-D" ItemID="1100031" Rank="1" Type="7" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="15%令对手命中-1" Index="13" EffectType="1" EffectProb="18" SideEffect="5" SideEffectArg="5 15 -1" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="32" Name="地面石之力-C" ItemID="1100032" Rank="2" Type="7" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手命中-1" Index="13" EffectType="1" EffectProb="15" SideEffect="5" SideEffectArg="5 15 -1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="33" Name="地面石之力-B" ItemID="1100033" Rank="3" Type="7" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手命中-1" Index="13" EffectType="1" EffectProb="12" SideEffect="5" SideEffectArg="5 15 -1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="34" Name="地面石之力-A" ItemID="1100034" Rank="4" Type="7" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手命中-1" Index="13" EffectType="1" EffectProb="10" SideEffect="5" SideEffectArg="5 15 -1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="35" Name="地面石之力-S" ItemID="1100035" Rank="5" Type="7" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手命中-1" Index="13" EffectType="1" EffectProb="7" SideEffect="5" SideEffectArg="5 15 -1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="36" Name="普通石之力-D" ItemID="1100036" Rank="1" Type="8" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="5%威力翻倍" Index="14" EffectType="1" EffectProb="18" SideEffect="88" SideEffectArg="5 2" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="37" Name="普通石之力-C" ItemID="1100037" Rank="2" Type="8" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="5%威力翻倍" Index="14" EffectType="1" EffectProb="15" SideEffect="88" SideEffectArg="5 2" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="38" Name="普通石之力-B" ItemID="1100038" Rank="3" Type="8" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="5%威力翻倍" Index="14" EffectType="1" EffectProb="12" SideEffect="88" SideEffectArg="5 2" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="39" Name="普通石之力-A" ItemID="1100039" Rank="4" Type="8" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="5%威力翻倍" Index="14" EffectType="1" EffectProb="10" SideEffect="88" SideEffectArg="5 2" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="40" Name="普通石之力-S" ItemID="1100040" Rank="5" Type="8" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="5%威力翻倍" Index="14" EffectType="1" EffectProb="7" SideEffect="88" SideEffectArg="5 2" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="41" Name="冰石之力-D" ItemID="1100041" Rank="1" Type="9" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="15%令对手冻伤" Index="15" EffectType="1" EffectProb="18" SideEffect="14" SideEffectArg="15" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="42" Name="冰石之力-C" ItemID="1100042" Rank="2" Type="9" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手冻伤" Index="15" EffectType="1" EffectProb="15" SideEffect="14" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="43" Name="冰石之力-B" ItemID="1100043" Rank="3" Type="9" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手冻伤" Index="15" EffectType="1" EffectProb="12" SideEffect="14" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="44" Name="冰石之力-A" ItemID="1100044" Rank="4" Type="9" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手冻伤" Index="15" EffectType="1" EffectProb="10" SideEffect="14" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="45" Name="冰石之力-S" ItemID="1100045" Rank="5" Type="9" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手冻伤" Index="15" EffectType="1" EffectProb="7" SideEffect="14" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="46" Name="超能石之力-D" ItemID="1100046" Rank="1" Type="10" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="15%令对手混乱" Index="16" EffectType="1" EffectProb="18" SideEffect="99" SideEffectArg="15" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="47" Name="超能石之力-C" ItemID="1100047" Rank="2" Type="10" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手混乱" Index="16" EffectType="1" EffectProb="15" SideEffect="99" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="48" Name="超能石之力-B" ItemID="1100048" Rank="3" Type="10" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手混乱" Index="16" EffectType="1" EffectProb="12" SideEffect="99" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="49" Name="超能石之力-A" ItemID="1100049" Rank="4" Type="10" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手混乱" Index="16" EffectType="1" EffectProb="10" SideEffect="99" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="50" Name="超能石之力-S" ItemID="1100050" Rank="5" Type="10" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="15%令对手混乱" Index="16" EffectType="1" EffectProb="7" SideEffect="99" SideEffectArg="15" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	
+	<MoveStone ID="51" Name="战斗石之力-D" ItemID="1100051" Rank="1" Type="11" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="下回合致命提升" Index="17" EffectType="1" EffectProb="18" SideEffect="32" SideEffectArg="1" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="52" Name="战斗石之力-C" ItemID="1100052" Rank="2" Type="11" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="下回合致命提升" Index="17" EffectType="1" EffectProb="15" SideEffect="32" SideEffectArg="1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="53" Name="战斗石之力-B" ItemID="1100053" Rank="3" Type="11" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="下回合致命提升" Index="17" EffectType="1" EffectProb="12" SideEffect="32" SideEffectArg="1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="54" Name="战斗石之力-A" ItemID="1100054" Rank="4" Type="11" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="下回合致命提升" Index="17" EffectType="1" EffectProb="10" SideEffect="32" SideEffectArg="1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="55" Name="战斗石之力-S" ItemID="1100055" Rank="5" Type="11" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="下回合致命提升" Index="17" EffectType="1" EffectProb="7" SideEffect="32" SideEffectArg="1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="56" Name="光石之力-D" ItemID="1100056" Rank="1" Type="12" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="10%令对手睡眠" Index="18" EffectType="1" EffectProb="18" SideEffect="16" SideEffectArg="10" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="57" Name="光石之力-C" ItemID="1100057" Rank="2" Type="12" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对手睡眠" Index="18" EffectType="1" EffectProb="15" SideEffect="16" SideEffectArg="10" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="58" Name="光石之力-B" ItemID="1100058" Rank="3" Type="12" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对手睡眠" Index="18" EffectType="1" EffectProb="12" SideEffect="16" SideEffectArg="10" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="59" Name="光石之力-A" ItemID="1100059" Rank="4" Type="12" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对手睡眠" Index="18" EffectType="1" EffectProb="10" SideEffect="16" SideEffectArg="10" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="60" Name="光石之力-S" ItemID="1100060" Rank="5" Type="12" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对手睡眠" Index="18" EffectType="1" EffectProb="7" SideEffect="16" SideEffectArg="10" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="61" Name="暗影石之力-D" ItemID="1100061" Rank="1" Type="13" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="10%令对手害怕" Index="19" EffectType="1" EffectProb="18" SideEffect="15" SideEffectArg="10" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="62" Name="暗影石之力-C" ItemID="1100062" Rank="2" Type="13" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对手害怕" Index="19" EffectType="1" EffectProb="15" SideEffect="15" SideEffectArg="10" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="63" Name="暗影石之力-B" ItemID="1100063" Rank="3" Type="13" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对手害怕" Index="19" EffectType="1" EffectProb="12" SideEffect="15" SideEffectArg="10" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="64" Name="暗影石之力-A" ItemID="1100064" Rank="4" Type="13" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对手害怕" Index="19" EffectType="1" EffectProb="10" SideEffect="15" SideEffectArg="10" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="65" Name="暗影石之力-S" ItemID="1100065" Rank="5" Type="13" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对手害怕" Index="19" EffectType="1" EffectProb="7" SideEffect="15" SideEffectArg="10" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="66" Name="神秘石之力-D" ItemID="1100066" Rank="1" Type="14" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="10%令对方疲惫" Index="20" EffectType="1" EffectProb="18" SideEffect="22" SideEffectArg="10 1" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="67" Name="神秘石之力-C" ItemID="1100067" Rank="2" Type="14" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对方疲惫" Index="20" EffectType="1" EffectProb="15" SideEffect="22" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="68" Name="神秘石之力-B" ItemID="1100068" Rank="3" Type="14" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对方疲惫" Index="20" EffectType="1" EffectProb="12" SideEffect="22" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="69" Name="神秘石之力-A" ItemID="1100069" Rank="4" Type="14" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对方疲惫" Index="20" EffectType="1" EffectProb="10" SideEffect="22" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="70" Name="神秘石之力-S" ItemID="1100070" Rank="5" Type="14" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="10%令对方疲惫" Index="20" EffectType="1" EffectProb="7" SideEffect="22" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="71" Name="龙石之力-D" ItemID="1100071" Rank="1" Type="15" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="5%附加200伤害" Index="21" EffectType="1" EffectProb="18" SideEffect="93" SideEffectArg="5 200" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="72" Name="龙石之力-C" ItemID="1100072" Rank="2" Type="15" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="5%附加200伤害" Index="21" EffectType="1" EffectProb="15" SideEffect="93" SideEffectArg="5 200" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="73" Name="龙石之力-B" ItemID="1100073" Rank="3" Type="15" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="5%附加200伤害" Index="21" EffectType="1" EffectProb="12" SideEffect="93" SideEffectArg="5 200" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="74" Name="龙石之力-A" ItemID="1100074" Rank="4" Type="15" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="5%附加200伤害" Index="21" EffectType="1" EffectProb="10" SideEffect="93" SideEffectArg="5 200" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="75" Name="龙石之力-S" ItemID="1100075" Rank="5" Type="15" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="5%附加200伤害" Index="21" EffectType="1" EffectProb="7" SideEffect="93" SideEffectArg="5 200" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="76" Name="圣灵石之力-D" ItemID="1100076" Rank="1" Type="16" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="10%一回合伤害减半" Index="22" EffectType="1" EffectProb="18" SideEffect="127" SideEffectArg="10 1" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="77" Name="圣灵石之力-C" ItemID="1100077" Rank="2" Type="16" Power="60" MaxPP="25" Accuracy="100" >
+        <MoveEffect ID="1" des="10%一回合伤害减半" Index="22" EffectType="1" EffectProb="15" SideEffect="127" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="78" Name="圣灵石之力-B" ItemID="1100078" Rank="3" Type="16" Power="90" MaxPP="15" Accuracy="100" >
+        <MoveEffect ID="1" des="10%一回合伤害减半" Index="22" EffectType="1" EffectProb="12" SideEffect="127" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="79" Name="圣灵石之力-A" ItemID="1100079" Rank="4" Type="16" Power="120" MaxPP="5" Accuracy="100" >
+        <MoveEffect ID="1" des="10%一回合伤害减半" Index="22" EffectType="1" EffectProb="10" SideEffect="127" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="80" Name="圣灵石之力-S" ItemID="1100080" Rank="5" Type="16" Power="160" MaxPP="2" Accuracy="100" >
+        <MoveEffect ID="1" des="10%一回合伤害减半" Index="22" EffectType="1" EffectProb="7" SideEffect="127" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+
+	<MoveStone ID="81" Name="次元石之力-D" ItemID="1100081" Rank="1" Type="17" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率令对手瘫痪" Index="23" EffectType="1" EffectProb="18" SideEffect="756" SideEffectArg="10 19" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="82" Name="次元石之力-C" ItemID="1100082" Rank="2" Type="17" Power="60" MaxPP="25" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率令对手瘫痪" Index="23" EffectType="1" EffectProb="15" SideEffect="756" SideEffectArg="10 19" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="83" Name="次元石之力-B" ItemID="1100083" Rank="3" Type="17" Power="90" MaxPP="15" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率令对手瘫痪" Index="23" EffectType="1" EffectProb="12" SideEffect="756" SideEffectArg="10 19" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="84" Name="次元石之力-A" ItemID="1100084" Rank="4" Type="17" Power="120" MaxPP="5" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率令对手瘫痪" Index="23" EffectType="1" EffectProb="10" SideEffect="756" SideEffectArg="10 19" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="85" Name="次元石之力-S" ItemID="1100085" Rank="5" Type="17" Power="160" MaxPP="2" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率令对手瘫痪" Index="23" EffectType="1" EffectProb="7" SideEffect="756" SideEffectArg="10 19" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>	
+
+	<MoveStone ID="86" Name="远古石之力-D" ItemID="1100086" Rank="1" Type="18" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率令对手流血" Index="24" EffectType="1" EffectProb="18" SideEffect="756" SideEffectArg="10 16" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="87" Name="远古石之力-C" ItemID="1100087" Rank="2" Type="18" Power="60" MaxPP="25" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率令对手流血" Index="24" EffectType="1" EffectProb="15" SideEffect="756" SideEffectArg="10 16" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="88" Name="远古石之力-B" ItemID="1100088" Rank="3" Type="18" Power="90" MaxPP="15" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率令对手流血" Index="24" EffectType="1" EffectProb="12" SideEffect="756" SideEffectArg="10 16" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="89" Name="远古石之力-A" ItemID="1100089" Rank="4" Type="18" Power="120" MaxPP="5" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率令对手流血" Index="24" EffectType="1" EffectProb="10" SideEffect="756" SideEffectArg="10 16" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="90" Name="远古石之力-S" ItemID="1100090" Rank="5" Type="18" Power="160" MaxPP="2" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率令对手流血" Index="24" EffectType="1" EffectProb="7" SideEffect="756" SideEffectArg="10 16" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>	
+
+	<MoveStone ID="91" Name="邪灵石之力-D" ItemID="1100091" Rank="1" Type="19" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率先制+1" Index="25" EffectType="1" EffectProb="18" SideEffect="482" SideEffectArg="10 1" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="92" Name="邪灵石之力-C" ItemID="1100092" Rank="2" Type="19" Power="60" MaxPP="25" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率先制+1" Index="25" EffectType="1" EffectProb="15" SideEffect="482" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="93" Name="邪灵石之力-B" ItemID="1100093" Rank="3" Type="19" Power="90" MaxPP="15" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率先制+1" Index="25" EffectType="1" EffectProb="12" SideEffect="482" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="94" Name="邪灵石之力-A" ItemID="1100094" Rank="4" Type="19" Power="120" MaxPP="5" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率先制+1" Index="25" EffectType="1" EffectProb="10" SideEffect="482" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="95" Name="邪灵石之力-S" ItemID="1100095" Rank="5" Type="19" Power="160" MaxPP="2" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率先制+1" Index="25" EffectType="1" EffectProb="7" SideEffect="482" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>	
+
+	<MoveStone ID="96" Name="自然石之力-D" ItemID="1100096" Rank="1" Type="20" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率恢复自己所有技能PP值1点" Index="26" EffectType="1" EffectProb="18" SideEffect="598" SideEffectArg="10 1" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="97" Name="自然石之力-C" ItemID="1100097" Rank="2" Type="20" Power="60" MaxPP="25" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率恢复自己所有技能PP值1点" Index="26" EffectType="1" EffectProb="15" SideEffect="598" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="98" Name="自然石之力-B" ItemID="1100098" Rank="3" Type="20" Power="90" MaxPP="15" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率恢复自己所有技能PP值1点" Index="26" EffectType="1" EffectProb="12" SideEffect="598" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="99" Name="自然石之力-A" ItemID="1100099" Rank="4" Type="20" Power="120" MaxPP="5" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率恢复自己所有技能PP值1点" Index="26" EffectType="1" EffectProb="10" SideEffect="598" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="100" Name="自然石之力-S" ItemID="1100100" Rank="5" Type="20" Power="160" MaxPP="2" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率恢复自己所有技能PP值1点" Index="26" EffectType="1" EffectProb="7" SideEffect="598" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>	
+
+	<MoveStone ID="101" Name="虫石之力-D" ItemID="1100101" Rank="1" Type="225" Power="40" MaxPP="30" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率降低对手所有技能PP值1点" Index="27" EffectType="1" EffectProb="18" SideEffect="39" SideEffectArg="10 1" />
+		<MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="0 15 1" />
+		<MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="1 15 1" />
+		<MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="2 15 1" />
+		<MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="3 15 1" />
+		<MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="4 15 1" />
+		<MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="8" SideEffect="4" SideEffectArg="5 15 1" />
+	</MoveStone>
+	<MoveStone ID="102" Name="虫石之力-C" ItemID="1100102" Rank="2" Type="225" Power="60" MaxPP="25" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率降低对手所有技能PP值1点" Index="27" EffectType="1" EffectProb="15" SideEffect="39" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="6" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="103" Name="虫石之力-B" ItemID="1100103" Rank="3" Type="225" Power="90" MaxPP="15" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率降低对手所有技能PP值1点" Index="27" EffectType="1" EffectProb="12" SideEffect="39" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="4" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="104" Name="虫石之力-A" ItemID="1100104" Rank="4" Type="225" Power="120" MaxPP="5" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率降低对手所有技能PP值1点" Index="27" EffectType="1" EffectProb="10" SideEffect="39" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="3" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+	<MoveStone ID="105" Name="虫石之力-S" ItemID="1100105" Rank="5" Type="225" Power="160" MaxPP="2" Accuracy="100" >
+		<MoveEffect ID="1" des="10%几率降低对手所有技能PP值1点" Index="27" EffectType="1" EffectProb="7" SideEffect="39" SideEffectArg="10 1" />
+        <MoveEffect ID="2" des="15%攻击属性+1" Index="1" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="0 15 1" />
+        <MoveEffect ID="3" des="15%防御属性+1" Index="2" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="1 15 1" />
+        <MoveEffect ID="4" des="15%特攻属性+1" Index="3" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="2 15 1" />
+        <MoveEffect ID="5" des="15%特防属性+1" Index="4" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="3 15 1" />
+        <MoveEffect ID="6" des="15%速度属性+1" Index="5" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="4 15 1" />
+        <MoveEffect ID="7" des="15%命中属性+1" Index="6" EffectType="2" EffectProb="2" SideEffect="4" SideEffectArg="5 15 1" />
+    </MoveStone>
+</MoveStones>

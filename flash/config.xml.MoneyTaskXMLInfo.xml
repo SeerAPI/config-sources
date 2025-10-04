@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--Task-->
+<!--ID 任务号-->
+<!--Type 1-4表示4种-->
+<!--Type Args表示参数 1-表示完成次数-->
+
+<!--Money-->
+<!-- Type 类型-->
+<!-- Rewards 数量/ID;数量/ID-->
+
+<!--赏金任务配表-->
+<MoneyTask>
+	<Tasks>
+		<Task ID="1000" Type="1" Args="301 1" Desc="战胜1次蘑菇怪"/>
+		<Task ID="1001" Type="1" Args="302 1" Desc="战胜1次钢牙鲨"/>
+		<Task ID="1002" Type="1" Args="303 1" Desc="战胜1次里奥斯"/>
+		<Task ID="1003" Type="1" Args="304 1" Desc="战胜1次阿克希亚"/>
+		<Task ID="1004" Type="1" Args="305 1" Desc="战胜1次提亚斯"/>
+		<Task ID="1005" Type="1" Args="307 1" Desc="战胜1次纳多雷"/>
+		<Task ID="1006" Type="1" Args="308 1" Desc="战胜1次雷纳多"/>
+		<Task ID="1007" Type="1" Args="309 1" Desc="战胜1次尤纳斯"/>
+		<Task ID="1008" Type="1" Args="310 1" Desc="战胜1次魔狮迪露"/>
+		<Task ID="1009" Type="1" Args="327 1" Desc="战胜1次克莱芬"/>
+		<Task ID="1010" Type="1" Args="331 1" Desc="战胜1次斯宾塞"/>
+
+		<Task ID="1011" Type="2" Args="336 1" Desc="战胜1次阿加莎"/>
+		<Task ID="1012" Type="2" Args="312 1" Desc="战胜1次奈尼芬多"/>
+		<Task ID="1013" Type="2" Args="314 1" Desc="战胜1次塔西亚"/>
+		<Task ID="1014" Type="2" Args="315 1" Desc="战胜1次塔克林"/>
+		<Task ID="1015" Type="2" Args="324 1" Desc="战胜1次斯普林特"/>
+		<Task ID="1016" Type="2" Args="335 1" Desc="战胜1次瑞尔斯"/>
+		<Task ID="1017" Type="2" Args="353 1" Desc="战胜1次克鲁斯"/>
+		<Task ID="1018" Type="2" Args="364 1" Desc="战胜1次雅库布"/>
+		<Task ID="1019" Type="2" Args="369 1" Desc="战胜1次普尔扎"/>
+		<Task ID="1020" Type="2" Args="2101 1" Desc="战胜1次奥特克伯"/>
+		<Task ID="1021" Type="2" Args="318 1" Desc="战胜1次克拉尼特"/>
+		<Task ID="1022" Type="2" Args="322 1" Desc="战胜1次亚伦斯"/>
+		<Task ID="1023" Type="2" Args="362 1" Desc="战胜1次哈耶克"/>
+
+		<Task ID="2000" Type="3" Args="1 50000" Desc="提交50000赛尔豆"/>
+		<Task ID="2001" Type="3" Args="3 50000" Desc="提交50000经验"/>
+		<Task ID="2002" Type="3" Args="1400352 5000" Desc="提交5000泰坦之灵"/>
+		<Task ID="2003" Type="3" Args="1700664 10" Desc="提交10皇家勋章"/>
+		<!-- TODO kaven -->
+		<!-- 个体改造 -->
+		<!-- 精灵鉴定器 -->
+		<!-- 学习力训练室  -->
+		<!-- 获得一只精灵 -->
+		 
+		<Task ID="3000" Type="4" Args="1 1" Desc="进行1次经验大作战"/>
+		<Task ID="3001" Type="4" Args="2 1" Desc="进行1次学习力大作战"/>
+		<Task ID="3002" Type="4" Args="3 5" Desc="进行5层试炼之塔"/>
+		<Task ID="3003" Type="4" Args="4 5" Desc="进行5场精灵大乱斗"/>
+		<Task ID="3004" Type="4" Args="5 5" Desc="进行5次星际擂台"/>
+		<Task ID="3005" Type="4" Args="6 5" Desc="进行5次高阶战斗试炼"/>
+		<Task ID="3006" Type="4" Args="7 5" Desc="进行5层勇者之塔"/>
+		<Task ID="3007" Type="4" Args="8 1" Desc="进行1次伏魔空间"/>
+		<Task ID="3008" Type="4" Args="9 5" Desc="进行5次命运之轮"/>
+		<Task ID="3009" Type="4" Args="10 5" Desc="进行5次巅峰之战"/>
+		<!-- TODO kaven -->
+		<!-- 许愿树 -->
+
+
+		<Task ID="3010" Type="5" Args="11 5" Desc="进行5层战斗阶梯"/>
+		<Task ID="3011" Type="5" Args="12 5" Desc="进行5次训练师之门"/>
+		<Task ID="3012" Type="5" Args="13 5" Desc="进行5次精灵王之战"/>
+		<Task ID="3013" Type="5" Args="14 5" Desc="进行5次王者之塔"/>
+		<Task ID="3014" Type="5" Args="15 1" Desc="进行1次极限法则"/>
+		<Task ID="4000" Type="5" Args="1 1" Desc="进行1次智慧连珠"/>
+		<Task ID="4001" Type="5" Args="2 1" Desc="进行1次绚丽火花"/>
+		<Task ID="4002" Type="5" Args="3 1" Desc="进行1次星际攀爬"/>
+		<Task ID="4003" Type="5" Args="4 1" Desc="进行1次米卡站稳"/>
+		<Task ID="4004" Type="5" Args="5 1" Desc="进行1次祖玛"/>
+	</Tasks>
+	<Moneys>
+		<Money Type="1" Rewards="10000/3;10000/1;2000/1400352" Desc="通缉令"/>
+		<Money Type="2" Rewards="1/300157;1/300004;10/1800001" Desc="收集材料"/>
+		<Money Type="3" Rewards="10000/1;2000/1400352;10/1800011" Desc="热血战斗"/>
+		<Money Type="4" Rewards="10000/1;2000/1400352;10/1800021" Desc="休闲娱乐"/>
+	</Moneys>
+</MoneyTask>

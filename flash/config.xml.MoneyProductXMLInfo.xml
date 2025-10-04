@@ -1,0 +1,1595 @@
+<!--
+	米币购买的物品配置表
+	
+	productID - 商品ID
+	itemID - 游戏里的物品ID
+	price - 米币价格
+	vip - vip折扣，请填小数，比如6折就是0.6
+	gold - 赠送钻石数
+-->
+
+<root>
+
+	<item name="钻石" productID="200000" itemID="5" price="1" vip="1" gold="10" type="-1"/>	
+	<item name="钻石" productID="200001" itemID="5" price="10" vip="1" gold="100" type="-1"/>
+	<item name="钻石" productID="200002" itemID="5" price="50" vip="1" gold="500" type="-1"/>	
+	<item name="钻石" productID="200003" itemID="5" price="0.1" vip="1" gold="1" type="-1"/>
+	<item name="2019暑期尊享特权月卡" productID="200004" itemID="1720383" price="50" vip="1" gold="1" type="-1"/>
+	
+	<item name="购买lv1钻石金卡" productID="200005" itemID="1720761" price="10" vip="1" gold="1" type="-1"/>
+	<item name="购买lv2钻石金卡" productID="200006" itemID="1720762" price="35" vip="1" gold="1" type="-1"/>
+	<item name="购买lv3钻石金卡" productID="200007" itemID="1720763" price="65" vip="1" gold="1" type="-1"/>
+	<item name="购买lv4钻石金卡" productID="200008" itemID="1720764" price="120" vip="1" gold="1" type="-1"/>
+	<item name="购买lv5钻石金卡" productID="200009" itemID="1720765" price="120" vip="1" gold="1" type="-1"/>	
+	<item name="2020寒假尊享特权月卡" productID="200010" itemID="1721181" price="50" vip="1" gold="1" type="-1"/>
+	<item name="2020暑期尊享特权月卡" productID="200011" itemID="1722273" price="50" vip="1" gold="1" type="-1"/>
+	<item name="2021寒假尊享特权月卡" productID="200012" itemID="1723208" price="50" vip="1" gold="1" type="-1"/>
+	<item name="2021暑假尊享特权月卡" productID="200013" itemID="1723851" price="50" vip="1" gold="1" type="-1"/>
+	<item name="2022寒假尊享特权月卡" productID="200014" itemID="1724325" price="50" vip="1" gold="1" type="-1"/>	
+	<item name="2022暑假尊享特权月卡" productID="200015" itemID="1724679" price="50" vip="1" gold="1" type="-1"/>	
+	<item name="2023寒假尊享特权月卡" productID="200016" itemID="1725007" price="50" vip="1" gold="1" type="-1"/>	
+	<item name="2023暑假尊享特权月卡" productID="200035" itemID="1725374" price="50" vip="1" gold="1" type="-1"/>		
+	<item name="2024寒假尊享特权月卡" productID="200036" itemID="1725735" price="50" vip="1" gold="1" type="-1"/>	
+	<item name="2024暑假尊享特权月卡" productID="200037" itemID="1726101" price="50" vip="1" gold="1" type="-1"/>		
+	<item name="2025寒假尊享特权月卡" productID="200041" itemID="1726804" price="50" vip="1" gold="1" type="-1"/>		
+	
+	<item name="购买进阶版战令" productID="200031" itemID="1725143" price="68" vip="1" gold="1" type="-1"/>		
+	<item name="购买至尊版战令" productID="200032" itemID="1725144" price="128" vip="1" gold="1" type="-1"/>		
+	<!-- <item name="EXP" productID="200033" itemID="1725145" price="1" vip="1" gold="1" type="-1"/>			 -->
+	<item name="进阶版升级至尊版战令" productID="200034" itemID="1725158" price="60" vip="1" gold="1" type="-1"/>		
+	
+	<item name="升级进阶【星际通行证】" productID="200038" itemID="1726720" price="68" vip="1" gold="1" type="-1"/>	
+	<item name="升级至尊【星际通行证】" productID="200039" itemID="1726721" price="128" vip="1" gold="1" type="-1"/>	
+	<item name="优惠升级至尊【星际通行证】" productID="200040" itemID="1726722" price="60" vip="1" gold="1" type="-1"/>		
+	
+	<!-- Unity商城礼包 -->
+	<item name="星际密令礼包" productID="200048" itemID="1726842" price="6" vip="1" gold="1" type="-1"/>	
+	<item name="抗性培养礼包" productID="200049" itemID="1726843" price="18" vip="1" gold="1" type="-1"/>		
+	<item name="精灵养成礼包" productID="200050" itemID="1726844" price="30" vip="1" gold="1" type="-1"/>		
+	
+	<!-- 充值中心 大闹天宫联动商品 -->
+	
+	<item name="赛尔号精灵：孙悟空" productID="200051" itemID="1726922" price="99.8" vip="1" gold="1" type="-1"/>	
+	<item name="赛尔号精灵：二郎神（特性升级版）" productID="200052" itemID="1726923" price="99.8" vip="1" gold="1" type="-1"/>		
+	<item name="赛尔号皮肤：齐天大圣·孙悟空" productID="200053" itemID="1726924" price="49.8" vip="1" gold="1" type="-1"/>			
+	<item name="赛尔号皮肤：降魔神君·二郎神" productID="200054" itemID="1726925" price="49.8" vip="1" gold="1" type="-1"/>		
+	
+	<!-- Unity新兵特权礼包 -->
+	<item name="新兵特权" productID="200055" itemID="1727062" price="6" vip="1" gold="1" type="-1"/>	
+	<item name="购买16周年精灵心愿单礼包（小）" productID="200056" itemID="1727132" price="5" vip="1" gold="1" type="-1"/>	
+	<item name="购买16周年精灵心愿单礼包（中）" productID="200057" itemID="1727133" price="10" vip="1" gold="1" type="-1"/>	
+	<item name="购买16周年精灵心愿单礼包（大）" productID="200058" itemID="1727134" price="35" vip="1" gold="1" type="-1"/>	
+	<item name="星际特权凭证" productID="200059" itemID="1727135" price="18" vip="1" gold="1" type="-1"/>	
+	<item name="尊享特权钻石月卡" productID="200060" itemID="1727260" price="50" vip="1" gold="1" type="-1"/> 
+
+
+	<item name="限时秒杀红莲之誓·安卡史诗皮肤" productID="200061" itemID="1727392" price="8.8" vip="1" gold="1" type="-1"/> 	
+	
+	<!-- <item name="废弃" productID="200061" itemID="" price="1" vip="1" gold="1" type="-1"/>	-->
+	<!-- <item name="废弃" productID="200062" itemID="" price="1" vip="1" gold="1" type="-1"/>	-->
+	<!-- <item name="废弃" productID="200063" itemID="" price="1" vip="1" gold="1" type="-1"/>	-->
+	<!-- <item name="废弃" productID="200064" itemID="" price="1" vip="1" gold="1" type="-1"/>	 -->
+	
+	<!--
+	<item name="机械师头灯" productID="200051" itemID="100020" price="2" vip="0.5" gold="0" type="-1"/>
+	<item name="机械师工具袋" productID="200052" itemID="100021" price="1" vip="0.5" gold="0" type="-1"/>	
+	<item name="机械师滑轮" productID="200053" itemID="100022" price="3" vip="0.5" gold="0" type="-1"/>
+	<item name="机械师帽檐" productID="200054" itemID="100023" price="1.6" vip="0.5" gold="0" type="-1"/>			
+	<item name="机械师装" productID="200055" itemID="100007|100020|100021|100022|100023" price="7.6" vip="0.5" gold="0" type="-1"/>	
+	<item name="训练师头罩" productID="200056" itemID="100036" price="2" vip="0.5" gold="0" type="-1"/>
+	<item name="训练师手臂" productID="200057" itemID="100037" price="3" vip="0.5" gold="0" type="-1"/>
+	<item name="训练师腰带" productID="200058" itemID="100038" price="1" vip="0.5" gold="0" type="-1"/>	
+	<item name="训练师板鞋" productID="200059" itemID="100039" price="2" vip="0.5" gold="0" type="-1"/>	
+	<item name="训练师装" productID="200060" itemID="100036|100037|100038|100039" price="8" vip="0.5" gold="0" type="-1"/>
+	<item name="黑焰头盔" productID="200061" itemID="100255" price="3" vip="0.5" gold="0" productType="0" type="21"/>				
+	<item name="黑焰动力臂" productID="200062" itemID="100256" price="2" vip="0.5" gold="0" productType="0" type="23"/>	
+	<item name="黑焰弹夹" productID="200063" itemID="100257" price="1" vip="0.5" gold="0" productType="0" type="24"/>
+	<item name="黑焰动力靴" productID="200064" itemID="100258" price="3" vip="0.5" gold="0" productType="0" type="25"/>	
+	<item name="黑焰面罩" productID="200065" itemID="100259" price="1" vip="0.5" gold="0" productType="0" type="22"/>	
+	<item name="黑焰使徒" productID="200066" itemID="100255|100256|100257|100258|100259" price="10" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="利爪重盔" productID="200067" itemID="100261" price="4" vip="0.5" gold="0" productType="0" type="21"/>
+	<item name="利爪手臂" productID="200068" itemID="100262" price="0.8" vip="0.5" gold="0" productType="0" type="23"/>
+	<item name="利爪腰带" productID="200069" itemID="100263" price="1.2" vip="0.5" gold="0" productType="0" type="24"/>
+	<item name="利爪重靴" productID="200070" itemID="100264" price="2.4" vip="0.5" gold="0" productType="0" type="25"/>
+	<item name="利爪面罩" productID="200071" itemID="100265" price="1.6" vip="0.5" gold="0" productType="0" type="22"/>
+	<item name="利爪机甲" productID="200072" itemID="100261|100262|100263|100264|100265" price="10" vip="0.5" gold="0" productType="0" type="26"/>	
+	<item name="侦查眼罩" productID="200073" itemID="100162" price="3" vip="0.5" gold="0" type="-1"/>	
+	<item name="暗能吸纳仪" productID="200074" itemID="100223" price="3" vip="0.5" gold="0" type="-1"/>	
+	<item name="寒流枪" productID="200075" itemID="100245" price="2.4" vip="0.5" gold="0" type="-1"/>
+	<item name="紫晶扭蛋机" productID="200077" itemID="500522" price="3" vip="0.5" gold="0" type="-1"/>
+	<item name="克洛斯基地" productID="200078" itemID="500003" price="5" vip="0.5" gold="0" type="-1"/>
+	<item name="桌上足球" productID="200079" itemID="500505" price="3" vip="0.5" gold="0" type="-1"/>
+	<item name="幻想椅" productID="200080" itemID="500506" price="2" vip="0.5" gold="0" type="-1"/>
+	<item name="悬浮桌" productID="200081" itemID="500507" price="3.2" vip="0.5" gold="0" type="-1"/>
+	<item name="战术研究台" productID="200082" itemID="500508" price="3.2" vip="0.5" gold="0" type="-1"/>	
+	<item name="凌光灯" productID="200083" itemID="500509" price="1.8" vip="0.5" gold="0" type="-1"/>	
+	<item name="重力篮筐" productID="200084" itemID="500523" price="3" vip="0.5" gold="0" type="-1"/>
+	<item name="电磁秋千" productID="200085" itemID="500516" price="2.8" vip="0.5" gold="0" type="-1"/>	
+	<item name="雷伊海报" productID="200086" itemID="500806" price="2" vip="0.5" gold="0" type="-1"/>		
+	<item name="护目镜" productID="200087" itemID="100087" price="1" vip="0.5" gold="0" type="-1"/>
+	<item name="防寒帽" productID="200088" itemID="100088" price="2" vip="0.5" gold="0" type="-1"/>
+	<item name="防寒腰带" productID="200089" itemID="100089" price="1.6" vip="0.5" gold="0" type="-1"/>	
+	<item name="极速滑雪杖" productID="200090" itemID="100090" price="2.4" vip="0.5" gold="0" type="-1"/>		
+	<item name="极速滑板" productID="200091" itemID="100091" price="3" vip="0.5" gold="0" type="-1"/>	
+	<item name="防寒装" productID="200092" itemID="100087|100088|100089|100090|100091" price="10" vip="0.5" gold="0" type="-1"/>			
+	<item name="卫兵腰带" productID="200093" itemID="100033" price="1.4" vip="0.5" gold="0" type="-1"/>		
+	<item name="卫兵帽子" productID="200094" itemID="100034" price="2.2" vip="0.5" gold="0" type="-1"/>	
+	<item name="卫兵鞋" productID="200095" itemID="100035" price="2.6" vip="0.5" gold="0" type="-1"/>		
+	<item name="卫兵装" productID="200096" itemID="100033|100034|100035" price="6.2" vip="0.5" gold="0" type="-1"/>	
+	<item name="钢特拉头盔" productID="200097" itemID="100306" price="3.6" vip="0.5" gold="0" productType="0" type="21"/>				
+	<item name="钢特拉面具" productID="200098" itemID="100307" price="1.2" vip="0.5" gold="0" productType="0" type="22"/>			
+	<item name="钢特拉铠甲" productID="200099" itemID="100308" price="3" vip="0.5" gold="0" productType="0" type="23"/>
+	<item name="钢特拉腰甲" productID="200100" itemID="100309" price="1.8" vip="0.5" gold="0" productType="0" type="24"/>				
+	<item name="钢特拉战靴" productID="200101" itemID="100310" price="2.4" vip="0.5" gold="0" productType="0" type="25"/>	
+	<item name="钢特拉" productID="200102" itemID="100306|100307|100308|100309|100310" price="12" vip="0.5" gold="0" productType="0" type="26"/>			
+	<item name="奥金兜帽" productID="200103" itemID="100311" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="奥金面甲" productID="200104" itemID="100312" price="1" vip="0.5" gold="0" productType="0" type="22"/>	
+	<item name="奥金护甲" productID="200105" itemID="100313" price="2.4" vip="0.5" gold="0" productType="0" type="23"/>	
+	<item name="奥金腰带" productID="200106" itemID="100314" price="2.2" vip="0.5" gold="0" productType="0" type="24"/>		
+	<item name="奥金战靴" productID="200107" itemID="100315" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>		
+	<item name="奥金之锤" productID="200108" itemID="100311|100312|100313|100314|100315" price="12" vip="0.5" gold="0" productType="0" type="26"/>		
+	<item name="塞西利亚基地" productID="200109" itemID="500002" price="5.8" vip="0.5" gold="0" type="-1"/>	
+	<item name="阿克希亚抱枕" productID="200110" itemID="500511" price="4" vip="0.5" gold="0" type="-1"/>	
+	<item name="急冻兽摇摆椅" productID="200111" itemID="500512" price="3" vip="0.5" gold="0" type="-1"/>		
+	<item name="索拉电视机" productID="200112" itemID="500513" price="3.2" vip="0.5" gold="0" type="-1"/>			
+	<item name="吞吞花灯" productID="200113" itemID="500515" price="2" vip="0.5" gold="0" type="-1"/>			
+	<item name="玄冰桌" productID="200114" itemID="500519" price="2.6" vip="0.5" gold="0" type="-1"/>		
+	<item name="玄冰凳" productID="200115" itemID="500520" price="1" vip="0.5" gold="0" type="-1"/>		
+	<item name="浮冰灯" productID="200116" itemID="500521" price="2" vip="0.5" gold="0" type="-1"/>		
+	<item name="船长画像" productID="200117" itemID="500803" price="2" vip="0.5" gold="0" type="-1"/>
+	<item name="光束兜帽" productID="200118" itemID="100329" price="3.2" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="光束重狙" productID="200119" itemID="100330" price="2.4" vip="0.5" gold="0" productType="0" type="23"/>	
+	<item name="光束护颚" productID="200120" itemID="100331" price="1.8" vip="0.5" gold="0" productType="0" type="24"/>		
+	<item name="战轮" productID="200121" itemID="100332" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>		
+	<item name="光束战轮" productID="200122" itemID="100329|100330|100331|100332" price="10" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="疾电重盔" productID="200123" itemID="100334" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="疾电护肩" productID="200124" itemID="100335" price="2.6" vip="0.5" gold="0" productType="0" type="23"/>	
+	<item name="疾电弹夹" productID="200125" itemID="100336" price="2.2" vip="0.5" gold="0" productType="0" type="24"/>		
+	<item name="疾电滚轮" productID="200126" itemID="100337" price="3.4" vip="0.5" gold="0" productType="0" type="25"/>		
+	<item name="疾电" productID="200127" itemID="100334|100335|100336|100337" price="12" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="银翼头盔" productID="200128" itemID="100338" price="4.2" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="银翼双剑" productID="200129" itemID="100339" price="3.2" vip="0.5" gold="0" productType="0" type="23"/>	
+	<item name="银翼腰带" productID="200130" itemID="100340" price="2" vip="0.5" gold="0" productType="0" type="24"/>		
+	<item name="银翼重靴" productID="200131" itemID="100341" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>		
+	<item name="银翼猎手" productID="200132" itemID="100338|100339|100340|100341" price="12" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="赤鹰兜帽" productID="200133" itemID="100378" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="赤鹰铁羽" productID="200134" itemID="100379" price="2.6" vip="0.5" gold="0" productType="0" type="23"/>	
+	<item name="赤鹰束腰" productID="200135" itemID="100380" price="2.4" vip="0.5" gold="0" productType="0" type="24"/>		
+	<item name="赤鹰钢爪" productID="200136" itemID="100381" price="3.2" vip="0.5" gold="0" productType="0" type="25"/>		
+	<item name="赤鹰" productID="200137" itemID="100378|100379|100380|100381" price="12" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="灰隼兜帽" productID="200138" itemID="100382" price="3.6" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="灰隼铁羽" productID="200139" itemID="100383" price="2.4" vip="0.5" gold="0" productType="0" type="23"/>	
+	<item name="灰隼束腰" productID="200140" itemID="100384" price="2.4" vip="0.5" gold="0" productType="0" type="24"/>		
+	<item name="灰隼钢爪" productID="200141" itemID="100385" price="3.6" vip="0.5" gold="0" productType="0" type="25"/>		
+	<item name="灰隼" productID="200142" itemID="100382|100383|100384|100385" price="12" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="诺曼底头盔" productID="200143" itemID="100387" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="诺曼底护手" productID="200144" itemID="100388" price="2.8" vip="0.5" gold="0" productType="0" type="23"/>	
+	<item name="诺曼底腰带" productID="200145" itemID="100389" price="2.6" vip="0.5" gold="0" productType="0" type="24"/>		
+	<item name="诺曼底护腿" productID="200146" itemID="100390" price="2.8" vip="0.5" gold="0" productType="0" type="25"/>		
+	<item name="诺曼底" productID="200147" itemID="100387|100388|100389|100390" price="12" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="碧蓝盔" productID="200148" itemID="100399" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="碧蓝翼" productID="200149" itemID="100400" price="2.8" vip="0.5" gold="0" productType="0" type="23"/>	
+	<item name="怒火束" productID="200150" itemID="100401" price="2.6" vip="0.5" gold="0" productType="0" type="24"/>		
+	<item name="怒火靴" productID="200151" itemID="100402" price="2.8" vip="0.5" gold="0" productType="0" type="25"/>		
+	<item name="碧蓝怒火" productID="200152" itemID="100399|100400|100401|100402" price="12" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="深雷头盔" productID="200153" itemID="100403" price="2.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="深雷护手" productID="200154" itemID="100404" price="3.8" vip="0.5" gold="0" productType="0" type="23"/>	
+	<item name="深雷腰带" productID="200155" itemID="100405" price="2.6" vip="0.5" gold="0" productType="0" type="24"/>		
+	<item name="深雷重靴" productID="200156" itemID="100406" price="2.8" vip="0.5" gold="0" productType="0" type="25"/>		
+	<item name="深雷" productID="200157" itemID="100403|100404|100405|100406" price="12" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="创世战盔" productID="200158" itemID="100431" price="2.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="创世战甲" productID="200159" itemID="100432" price="3.8" vip="0.5" gold="0" productType="0" type="23"/>	
+	<item name="创世腰带" productID="200160" itemID="100433" price="2.6" vip="0.5" gold="0" productType="0" type="24"/>		
+	<item name="创世战靴" productID="200161" itemID="100434" price="2.8" vip="0.5" gold="0" productType="0" type="25"/>		
+	<item name="创世纪" productID="200162" itemID="100431|100432|100433|100434" price="12" vip="0.5" gold="0" productType="0" type="26"/>	
+	<item name="迁跃战盔" productID="200163" itemID="100435" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="迁跃机甲" productID="200164" itemID="100436" price="2.8" vip="0.5" gold="0" productType="0" type="23"/>	
+	<item name="迁跃束腰" productID="200165" itemID="100437" price="1.6" vip="0.5" gold="0" productType="0" type="24"/>		
+	<item name="迁跃底座" productID="200166" itemID="100438" price="3.8" vip="0.5" gold="0" productType="0" type="25"/>		
+	<item name="迁跃者" productID="200167" itemID="100435|100436|100437|100438" price="12" vip="0.5" gold="0" productType="0" type="26"/>	
+	<item name="天命战盔" productID="200168" itemID="100453" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="天命面罩" productID="200169" itemID="100454" price="3" vip="0.5" gold="0" productType="0" type="22"/>	
+	<item name="天命机甲" productID="200170" itemID="100455" price="3.4" vip="0.5" gold="0" productType="0" type="23"/>		
+	<item name="天命束腰" productID="200171" itemID="100456" price="2.2" vip="0.5" gold="0" productType="0" type="24"/>
+	<item name="天命战靴" productID="200172" itemID="100457" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>			
+	<item name="天命" productID="200173" itemID="100453|100454|100455|100456|100457" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="不灭战盔" productID="200174" itemID="100458" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="不灭面罩" productID="200175" itemID="100459" price="3" vip="0.5" gold="0" productType="0" type="22"/>	
+	<item name="不灭机甲" productID="200176" itemID="100460" price="3.4" vip="0.5" gold="0" productType="0" type="23"/>		
+	<item name="不灭束腰" productID="200177" itemID="100461" price="2.2" vip="0.5" gold="0" productType="0" type="24"/>
+	<item name="不灭战靴" productID="200178" itemID="100462" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>			
+	<item name="不灭" productID="200179" itemID="100458|100459|100460|100461|100462" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="无双战盔" productID="200180" itemID="100484" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="无双面罩" productID="200181" itemID="100485" price="3" vip="0.5" gold="0" productType="0" type="22"/>	
+	<item name="无双机甲" productID="200182" itemID="100486" price="3.4" vip="0.5" gold="0" productType="0" type="23"/>		
+	<item name="无双束腰" productID="200183" itemID="100487" price="2.2" vip="0.5" gold="0" productType="0" type="24"/>
+	<item name="无双战靴" productID="200184" itemID="100488" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>			
+	<item name="无双" productID="200185" itemID="100484|100485|100486|100487|100488" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="大帝战盔" productID="200186" itemID="100489" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="大帝面罩" productID="200187" itemID="100490" price="3" vip="0.5" gold="0" productType="0" type="22"/>	
+	<item name="大帝机甲" productID="200188" itemID="100491" price="3.4" vip="0.5" gold="0" productType="0" type="23"/>		
+	<item name="大帝束腰" productID="200189" itemID="100492" price="2.2" vip="0.5" gold="0" productType="0" type="24"/>
+	<item name="大帝战靴" productID="200190" itemID="100493" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>			
+	<item name="大帝" productID="200191" itemID="100489|100490|100491|100492|100493" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="毒刺战盔" productID="200192" itemID="100494" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="毒刺面罩" productID="200193" itemID="100495" price="3" vip="0.5" gold="0" productType="0" type="22"/>	
+	<item name="毒刺机甲" productID="200194" itemID="100496" price="3.4" vip="0.5" gold="0" productType="0" type="23"/>		
+	<item name="毒刺束腰" productID="200195" itemID="100497" price="2.2" vip="0.5" gold="0" productType="0" type="24"/>
+	<item name="毒刺战靴" productID="200196" itemID="100498" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>			
+	<item name="毒刺" productID="200197" itemID="100494|100495|100496|100497|100498" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="龙炎战盔" productID="200198" itemID="100448" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="龙炎面罩" productID="200199" itemID="100449" price="3" vip="0.5" gold="0" productType="0" type="22"/>	
+	<item name="龙炎机甲" productID="200200" itemID="100450" price="3.4" vip="0.5" gold="0" productType="0" type="23"/>		
+	<item name="龙炎束腰" productID="200201" itemID="100451" price="2.2" vip="0.5" gold="0" productType="0" type="24"/>
+	<item name="龙炎战靴" productID="200202" itemID="100452" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>			
+	<item name="龙炎" productID="200203" itemID="100448|100449|100450|100451|100452" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="战虎头盔" productID="200204" itemID="100531" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="战虎面具" productID="200205" itemID="100532" price="3" vip="0.5" gold="0" productType="0" type="22"/>	
+	<item name="战虎机甲" productID="200206" itemID="100533" price="3.4" vip="0.5" gold="0" productType="0" type="23"/>		
+	<item name="战虎腰甲" productID="200207" itemID="100534" price="2.2" vip="0.5" gold="0" productType="0" type="24"/>
+	<item name="战虎战靴" productID="200208" itemID="100535" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>			
+	<item name="强袭战虎" productID="200209" itemID="100531|100532|100533|100534|100535" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="梦幻扭蛋牌" productID="200210" itemID="400505" price="1" vip="1" gold="0" type="-1"/>
+	<item name="派对琥珀" productID="200211" itemID="400685" price="2.6" vip="0.5" gold="0" type="-1"/>
+	<item name="黑月头盔" productID="200212" itemID="100549" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="黑月护具" productID="200213" itemID="100550" price="3" vip="0.5" gold="0" productType="0" type="22"/>	
+	<item name="黑月机甲" productID="200214" itemID="100551" price="3.4" vip="0.5" gold="0" productType="0" type="23"/>		
+	<item name="黑月腰带" productID="200215" itemID="100552" price="2.2" vip="0.5" gold="0" productType="0" type="24"/>
+	<item name="黑月重靴" productID="200216" itemID="100553" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>			
+	<item name="黑月" productID="200217" itemID="100549|100550|100551|100552|100553" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="遗忘者头盔" productID="200218" itemID="100554" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="遗忘者护具" productID="200219" itemID="100555" price="3" vip="0.5" gold="0" productType="0" type="22"/>	
+	<item name="遗忘者机甲" productID="200220" itemID="100556" price="3.4" vip="0.5" gold="0" productType="0" type="23"/>		
+	<item name="遗忘者腰带" productID="200221" itemID="100557" price="2.2" vip="0.5" gold="0" productType="0" type="24"/>
+	<item name="遗忘者重靴" productID="200222" itemID="100558" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>			
+	<item name="遗忘者" productID="200223" itemID="100554|100555|100556|100557|100558" price="15" vip="0.5" gold="0" productType="0" type="26"/>	
+	<item name="高热溶解弹" productID="200224" itemID="400072" price="1" vip="1" gold="0" type="-1"/>
+	<item name="中级攻防刻印" productID="200225" itemID="10019" price="2.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="中级防护刻印" productID="200226" itemID="10020" price="2.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="中级强攻刻印" productID="200227" itemID="10021" price="2.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="中级精神力刻印" productID="200228" itemID="10022" price="2.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="中级暴动刻印" productID="200229" itemID="10023" price="2.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="中级念力刻印" productID="200230" itemID="10024" price="2.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="中级护体刻印" productID="200231" itemID="10025" price="2.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="中级强化刻印" productID="200232" itemID="10026" price="2.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="寂灭的咆哮刻印" productID="200233" itemID="20058" price="5" vip="1" gold="0" productType="1" type="32"/>	
+	<item name="烈焰雷光闪刻印" productID="200234" itemID="20059" price="5" vip="1" gold="0" productType="1" type="32"/>
+	<item name="要害冲撞刻印" productID="200235" itemID="20060" price="6" vip="1" gold="0" productType="1" type="32"/>
+	<item name="魔光灭杀刻印" productID="200236" itemID="20061" price="5" vip="1" gold="0" productType="1" type="32"/>
+	<item name="光合作用刻印" productID="200237" itemID="20062" price="8" vip="1" gold="0" productType="1" type="32"/>
+	<item name="雪雷头盔" productID="200238" itemID="100570" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>	
+	<item name="雪雷护具" productID="200239" itemID="100571" price="3" vip="0.5" gold="0" productType="0" type="22"/>	
+	<item name="雪雷铠甲" productID="200240" itemID="100572" price="3.4" vip="0.5" gold="0" productType="0" type="23"/>		
+	<item name="雪雷腰带" productID="200241" itemID="100573" price="2.2" vip="0.5" gold="0" productType="0" type="24"/>
+	<item name="雪雷重靴" productID="200242" itemID="100574" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>			
+	<item name="雪雷" productID="200243" itemID="100570|100571|100572|100573|100574" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="雪球投射器" productID="200244" itemID="100575" price="3" vip="1" gold="0" type="-1"/>
+	<item name="能量钻石" productID="200245" itemID="400077" price="3" vip="1" gold="0" type="-1"/>
+	<item name="繁殖催化剂" productID="200246" itemID="400081" price="2" vip="1" gold="0" type="-1"/>
+	<item name="极速孵化剂" productID="200247" itemID="400082" price="2" vip="1" gold="0" type="-1"/>
+	<item name="2吨原质晶体" productID="200248" itemID="400076" price="2" vip="1" gold="0" type="-1"/>
+	<item name="强效熔炼剂" productID="200249" itemID="400085" price="1" vip="1" gold="0" type="-1"/>
+	<item name="超能捕捉程序" productID="200250" itemID="400087" price="3" vip="1" gold="0" type="-1"/>
+	<item name="精元转化剂" productID="200251" itemID="400088" price="2" vip="1" gold="0" type="-1"/>
+	<item name="基因优化剂" productID="200252" itemID="400089" price="2" vip="1" gold="0" type="-1"/>
+	<item name="派遣支付券A" productID="200253" itemID="400090" price="1" vip="1" gold="0" type="-1"/>
+	<item name="派遣支付券B" productID="200254" itemID="400091" price="2" vip="1" gold="0" type="-1"/>
+	<item name="派遣支付券C" productID="200255" itemID="400092" price="9" vip="1" gold="0" type="-1"/>
+	<item name="派遣支付券D" productID="200256" itemID="400093" price="15" vip="1" gold="0" type="-1"/>
+	<item name="谜之精元" productID="200257" itemID="400119" price="40" vip="1" gold="0" type="-1"/>
+	<item name="虎王坐骑芯片" productID="200258" itemID="400094" price="5" vip="1" gold="0" type="-1"/>
+	<item name="速爪刻印" productID="200259" itemID="20098" price="5" vip="1" gold="0" productType="1" type="32"/>
+	<item name="猛虎王跨年放送" productID="200260" icon="item/buy/money/" itemID="400119|400094|20098" price="50" vip="1" gold="0" type="-1"/>
+	<item name="猛虎王升级套餐" productID="200261" icon="item/buy/money/" itemID="400094|20098" price="10" vip="1" gold="0" type="-1"/>
+	<item name="元神转化剂" productID="200262" itemID="400095" price="2" vip="1" gold="0" type="-1"/>
+	<item name="礼袋抽取券" productID="200263" itemID="400710" price="1" vip="1" gold="0" type="-1"/>
+	<item name="透视放大镜" productID="200264" itemID="400711" price="8" vip="1" gold="0" type="-1"/>
+	<item name="礼袋激活锤（绿）" productID="200265" itemID="400712" price="10" vip="1" gold="0" type="-1"/>
+	<item name="礼袋激活锤（红）" productID="200266" itemID="400713" price="8" vip="1" gold="0" type="-1"/>
+	<item name="礼袋激活锤（银）" productID="200267" itemID="400714" price="12" vip="1" gold="0" type="-1"/>
+	<item name="礼袋激活锤（金）" productID="200268" itemID="400715" price="15" vip="1" gold="0" type="-1"/>	
+	<item name="鱼龙王套组" productID="200269" icon="item/buy/money/" itemID="400739|20131" price="39" vip="1" gold="0" type="-1"/>
+	<item name="鱼龙进化套件" productID="200270" icon="item/buy/money/" itemID="400740|20131" price="15" vip="1" gold="0" type="-1"/>
+	<item name="鱼龙王的精粹" productID="200271" itemID="400739" price="39" vip="1" gold="0" type="-1"/>
+	<item name="鱼龙王的鳞甲" productID="200272" itemID="400740" price="15" vip="1" gold="0" type="-1"/>
+	-->
+	<!--
+	<item name="远古审判刻印" productID="200273" itemID="20131" price="0" vip="1" gold="0" productType="0" type="32"/>
+    -->
+	<!--
+	<item name="4吨原质晶体" productID="200274" itemID="400802" price="4" vip="1" gold="0" type="-1"/>	
+	
+	<item name="撞击刻印" productID="200275" itemID="20001" price="3" vip="1" gold="0" productType="1" type="32"/>
+	<item name="电光火石刻印" productID="200276" itemID="20002" price="3" vip="1" gold="0" productType="1" type="32"/>
+	<item name="峰回路转刻印" productID="200277" itemID="20003" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="圣灵闪刻印" productID="200278" itemID="20004" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="风驰电掣刻印" productID="200279" itemID="20005" price="5" vip="1" gold="0" productType="1" type="32"/>
+	<item name="雷祭刻印" productID="200280" itemID="20006" price="5" vip="1" gold="0" productType="1" type="32"/>
+	<item name="破元闪刻印" productID="200281" itemID="20007" price="5" vip="1" gold="0" productType="1" type="32"/>
+	<item name="极光刻印" productID="200282" itemID="20008" price="10" vip="1" gold="0" productType="1" type="32"/>
+	<item name="碎心刺刻印" productID="200283" itemID="20009" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="快攻刻印" productID="200284" itemID="20010" price="3" vip="1" gold="0" productType="1" type="32"/>
+	<item name="贯穿水枪刻印" productID="200285" itemID="20011" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="千叶斩刻印" productID="200286" itemID="20012" price="3" vip="1" gold="0" productType="1" type="32"/>
+	<item name="火焰喷射刻印" productID="200287" itemID="20013" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="无限连抓刻印" productID="200288" itemID="20014" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="踏浪迎击刻印" productID="200289" itemID="20015" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="天罚刻印" productID="200290" itemID="20016" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="大地守护刻印" productID="200291" itemID="20017" price="5" vip="1" gold="0" productType="1" type="32"/>
+	<item name="敌我同伤刻印" productID="200292" itemID="20018" price="5" vip="1" gold="0" productType="1" type="32"/>
+	<item name="异界幻象刻印" productID="200293" itemID="20019" price="5" vip="1" gold="0" productType="1" type="32"/>
+	<item name="究极吸取刻印" productID="200294" itemID="20020" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="绝地反击刻印" productID="200295" itemID="20021" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="浪打千击刻印" productID="200296" itemID="20022" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="高压水枪刻印" productID="200297" itemID="20023" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="烈焰冲撞刻印" productID="200298" itemID="20024" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="飞叶风暴刻印" productID="200299" itemID="20025" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="克制刻印" productID="200300" itemID="20026" price="3" vip="1" gold="0" productType="1" type="32"/>
+	<item name="全力一击刻印" productID="200301" itemID="20027" price="3" vip="1" gold="0" productType="1" type="32"/>
+	<item name="手下留情刻印" productID="200302" itemID="20028" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="火箭头槌刻印" productID="200303" itemID="20029" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="光栅炮刻印" productID="200304" itemID="20030" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="光芒刺击刻印" productID="200305" itemID="20031" price="3" vip="1" gold="0" productType="1" type="32"/>
+	<item name="暗影冰锥刻印" productID="200306" itemID="20032" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="碎岩斩刻印" productID="200307" itemID="20033" price="3" vip="1" gold="0" productType="1" type="32"/>
+	<item name="光羽天翔刻印" productID="200308" itemID="20034" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="超能生长刻印" productID="200309" itemID="20035" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="爆炎波动阵刻印" productID="200310" itemID="20036" price="3" vip="1" gold="0" productType="1" type="32"/>
+	<item name="幻影冲刺刻印" productID="200311" itemID="20037" price="3" vip="1" gold="0" productType="1" type="32"/>
+	<item name="恐怖深渊刻印" productID="200312" itemID="20038" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="火焰流星刻印" productID="200313" itemID="20039" price="4" vip="1" gold="0" productType="1" type="32"/>
+	<item name="暗影护盾刻印" productID="200314" itemID="20040" price="3" vip="1" gold="0" productType="1" type="32"/>
+	<item name="微型攻击刻印" productID="200315" itemID="10001" price="1" vip="1" gold="0" productType="1" type="31"/>
+	<item name="微型防御刻印" productID="200316" itemID="10002" price="1" vip="1" gold="0" productType="1" type="31"/>
+	<item name="微型特攻刻印" productID="200317" itemID="10003" price="1" vip="1" gold="0" productType="1" type="31"/>
+	<item name="微型特防刻印" productID="200318" itemID="10004" price="1" vip="1" gold="0" productType="1" type="31"/>
+	<item name="微型速度刻印" productID="200319" itemID="10005" price="1" vip="1" gold="0" productType="1" type="31"/>
+	<item name="微型体力刻印" productID="200320" itemID="10006" price="1" vip="1" gold="0" productType="1" type="31"/>
+	<item name="小型攻击刻印" productID="200321" itemID="10007" price="1.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="小型防御刻印" productID="200322" itemID="10008" price="1.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="小型特攻刻印" productID="200323" itemID="10009" price="1.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="小型特防刻印" productID="200324" itemID="10010" price="1.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="小型速度刻印" productID="200325" itemID="10011" price="1.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="小型体力刻印" productID="200326" itemID="10012" price="1.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="中型攻击刻印" productID="200327" itemID="10013" price="2.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="中型防御刻印" productID="200328" itemID="10014" price="2.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="中型特攻刻印" productID="200329" itemID="10015" price="2.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="中型特防刻印" productID="200330" itemID="10016" price="2.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="中型速度刻印" productID="200331" itemID="10017" price="2.5" vip="1" gold="0" productType="1" type="31"/>
+	<item name="中型体力刻印" productID="200332" itemID="10018" price="2.5" vip="1" gold="0" productType="1" type="31"/>
+    <item name="炎魔强袭全套" productID="200333" icon="item/buy/money/" itemID="400804|20133" price="50" vip="1" gold="0" type="-1"/>
+	<item name="炎魔套件" productID="200334" icon="item/buy/money/" itemID="400805|20133" price="12" vip="1" gold="0" type="-1"/>
+	<item name="烈焰种子" productID="200335" itemID="400804" price="50" vip="1" gold="0" type="-1"/>
+	<item name="上古烈焰" productID="200336" itemID="400805" price="12" vip="1" gold="0" type="-1"/>
+	<item name="银质锄头" productID="200338" itemID="400807" price="1" vip="1" gold="0" type="-1"/>	
+	<item name="铂金大锄" productID="200339" itemID="400808" price="3" vip="1" gold="0" type="-1"/>	
+	<item name="鱼龙坐骑芯片" productID="200342" itemID="400814" price="5" vip="1" gold="0" type="-1"/>
+	<item name="炎魔坐骑芯片" productID="200343" itemID="400815" price="5" vip="1" gold="0" type="-1"/>
+	<item name="始祖灵兽精元" productID="200344" itemID="400207" price="35" vip="1" gold="0" type="-1"/> 
+	<item name="禁地圣泉结晶" productID="200345" itemID="400823" price="15" vip="1" gold="0" type="-1"/> 
+	<item name="始祖灵兽套组" productID="200346" icon="item/buy/money/" itemID="400207|400823" price="48" vip="1" gold="0" type="-1"/> 
+	<item name="显形能量块" productID="200347" itemID="400827" price="2" vip="1" gold="0" type="-1"/>
+	<item name="超级采集晶片" productID="200348" itemID="400837" price="1" vip="1" gold="0" type="-1"/>
+	<item name="泰坦达成长药剂" productID="200349" itemID="400838" price="35" vip="1" gold="0" type="-1"/>
+	<item name="泰坦达的精元" productID="200350" itemID="400214" price="0" vip="1" gold="0" type="-1"/>
+	<item name="通用刻印激活水晶" productID="200351" itemID="300066" price="0" vip="1" gold="0" type="-1"/>
+	<item name="静电刻印" productID="200352" itemID="20136" price="0" vip="1" gold="0" type="-1"/>
+	<item name="上等精灵强力礼包" productID="200353" icon="item/buy/money/" itemID="20136|300066|400214|400838" price="35" vip="1" gold="0" type="-1"/>
+	<item name="泰坦达快速孵化剂" productID="200354" itemID="400839" price="13" vip="1" gold="0" type="-1"/>
+	<item name="上等精灵超值礼包" productID="200355" icon="item/buy/money/" itemID="20136|400214|400839" price="13" vip="1" gold="0"  type="-1"/>
+	<item name="极速采集芯片" productID="200356" itemID="400840" price="3" vip="1" gold="0"  type="-1"/>
+	<item name="翱翔之翼" productID="200357" itemID="400844" price="39" vip="1" gold="0"  type="-1"/>
+	<item name="托鲁克精元" productID="200358" itemID="400215" price="0" vip="1" gold="0" type="-1"/>
+	<item name="飓风利袭刻印" productID="200359" itemID="20187" price="0" vip="1" gold="0" type="-1"/>
+	<item name="托鲁克战斗套组" productID="200360" icon="item/buy/money/" itemID="20187|400215|400844" price="39" vip="1" gold="0"  type="-1"/>
+	<item name="烈刃之心" productID="200361" itemID="400850" price="39" vip="1" gold="0"  type="-1"/>
+	<item name="炽焰能量" productID="200362" itemID="400851" price="12" vip="1" gold="0" type="-1"/>
+	<item name="爆燃之爪刻印" productID="200336" itemID="20189" price="0" vip="1" gold="0" type="-1"/>
+	<item name="炽焰之刃限量抢购套组" productID="200364" icon="item/buy/money/" itemID="400850|20189" price="39" vip="1" gold="0"  type="-1"/>
+	<item name="炽焰之刃进化套组" productID="200365" icon="item/buy/money/" itemID="400851|20189" price="12" vip="1" gold="0"  type="-1"/>
+	<item name="水晶卡牌" productID="200366" itemID="400855" price="1" vip="1" gold="0" type="-1"/>
+	<item name="黄金卡牌" productID="200367" itemID="400856" price="3" vip="1" gold="0" type="-1"/>
+	<item name="净化之光刻印" productID="200368" itemID="20193" price="0" vip="1" gold="0"  type="-1"/>
+	<item name="能源核心" productID="200369" itemID="400857" price="39" vip="1" gold="0"  type="-1"/>
+	<item name="赛伯斯特坐骑芯片" productID="200370" itemID="400858" price="0" vip="1" gold="0" type="-1"/>
+	<item name="白金尊享套组" productID="200371" icon="item/buy/money/" itemID="400857|20193|400858" price="39" vip="1" gold="0"  type="-1"/>
+	<item name="天晶宝石" productID="200372" itemID="400871" price="4" vip="1" gold="0"  type="-1"/>
+	<item name="闪冰战盔" productID="200373" itemID="100822" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>				
+	<item name="闪冰护镜" productID="200374" itemID="100823" price="3" vip="0.5" gold="0" productType="0" type="22"/>			
+	<item name="闪冰机甲" productID="200375" itemID="100824" price="3.4" vip="0.5" gold="0" productType="0" type="23"/>
+	<item name="闪冰腰带" productID="200376" itemID="100825" price="2.2" vip="0.5" gold="0" productType="0" type="24"/>				
+	<item name="闪冰战靴" productID="200377" itemID="100826" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>	
+	<item name="闪光冰蓝" productID="200378" itemID="100822|100823|100824|100825|100826" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="艾比的食物A" productID="200379" itemID="400885" price="1" vip="1" gold="0" type="-1"/>
+	<item name="艾比的食物B" productID="200380" itemID="400886" price="2" vip="1" gold="0" type="-1"/>
+	<item name="艾比的食物C" productID="200381" itemID="400887" price="9" vip="1" gold="0" type="-1"/>
+	<item name="艾比的食物D" productID="200382" itemID="400888" price="15" vip="1" gold="0" type="-1"/>
+	<item name="聚源氪金" productID="200383" itemID="400890" price="39" vip="1" gold="0" type="-1"/>
+	<item name="犄角突刺刻印" productID="200384" itemID="20194" price="0" vip="1" gold="0"  type="-1"/>
+	<item name="萨瑞卡豪华套组" productID="200385" icon="item/buy/money/" itemID="400890|20194|300066" price="39" vip="1" gold="0"  type="-1"/>
+	<item name="草莓精粹" productID="200386" itemID="300364" price="0" vip="1" gold="0" type="-1"/>
+	<item name="葡萄精粹" productID="200387" itemID="300365" price="0" vip="1" gold="0" type="-1"/>
+	<item name="蜜桃多精粹" productID="200388" itemID="300366" price="0" vip="1" gold="0" type="-1"/>
+	<item name="苹果精粹" productID="200389" itemID="300367" price="0" vip="1" gold="0" type="-1"/>	
+	<item name="蜜瓜多精粹" productID="200390" itemID="300368" price="0" vip="1" gold="0" type="-1"/>	
+	<item name="草莓精元" productID="200391" itemID="400552" price="0" vip="1" gold="0" type="-1"/>	
+	<item name="葡萄精元" productID="200392" itemID="400555" price="0" vip="1" gold="0" type="-1"/>	
+	<item name="蜜桃多精元" productID="200393" itemID="400553" price="0" vip="1" gold="0" type="-1"/>	
+	<item name="苹果精元" productID="200394" itemID="400554" price="0" vip="1" gold="0" type="-1"/>
+	<item name="蜜瓜多精元" productID="200394" itemID="400556" price="0" vip="1" gold="0" type="-1"/>
+	<item name="果然多单选套组A" productID="200396" icon="item/buy/money/" itemID="300364|400552" price="7" vip="1" gold="0"  type="-1"/>
+	<item name="果然多单选套组B" productID="200397" icon="item/buy/money/" itemID="300365|400555" price="7" vip="1" gold="0"  type="-1"/>
+	<item name="果然多单选套组C" productID="200398" icon="item/buy/money/" itemID="300366|400553" price="7" vip="1" gold="0"  type="-1"/>
+	<item name="果然多单选套组D" productID="200399" icon="item/buy/money/" itemID="300367|400554" price="7" vip="1" gold="0"  type="-1"/>
+	<item name="果然多单选套组E" productID="200400" icon="item/buy/money/" itemID="300368|400556" price="7" vip="1" gold="0"  type="-1"/>
+	<item name="果然多缤纷套组" productID="200401" icon="item/buy/money/" itemID="300364|400552|300365|400555|300366|400553|300367|400554|300368|400556" price="29" vip="1" gold="0"  type="-1"/>	
+	<item name="百宝袋(赫尔托克）" productID="200402" itemID="300382" price="12" vip="1" gold="0" type="-1"/>
+	<item name="百宝袋(艾伦）" productID="200403" itemID="300383" price="12" vip="1" gold="0" type="-1"/>
+	<item name="百宝袋(亨特）" productID="200404" itemID="300384" price="8" vip="1" gold="0" type="-1"/>
+	<item name="百宝袋(彼得）" productID="200405" itemID="300385" price="15" vip="1" gold="0" type="-1"/>
+	<item name="连弹冲射刻印" productID="200406" itemID="20192" price="0" vip="1" gold="0" type="-1"/>
+	<item name="机械系强者套组" productID="200407" icon="item/buy/money/" itemID="300385|20192" price="15" vip="1" gold="0"  type="-1"/>
+	<item name="能量增长剂A" productID="200408" itemID="300394" price="2" vip="1" gold="0" type="-1"/>
+	<item name="能量增长剂B" productID="200409" itemID="300395" price="3" vip="1" gold="0" type="-1"/>
+	<item name="能量增长剂C" productID="200410" itemID="300396" price="12" vip="1" gold="0" type="-1"/>
+	<item name="能量增长剂D" productID="200411" itemID="300397" price="20" vip="1" gold="0" type="-1"/>
+	<item name="净化之心" productID="200412" itemID="300412" price="29" vip="1" gold="0" type="-1"/>
+	<item name="心境迷惑刻印" productID="200413" itemID="20195" price="0" vip="1" gold="0" type="-1"/>
+	<item name="十万经验券" productID="200414" itemID="400063" price="0" vip="1" gold="0" type="-1"/>
+	<item name="超值豪华大礼包" productID="200415" icon="item/buy/money/" itemID="300412|20195|400063|400063" price="29" vip="1" gold="0"  type="-1"/>
+	<item name="神之碎片A" productID="200416" itemID="300418" price="0" vip="1" gold="0" type="-1"/>
+	<item name="神之碎片B" productID="200417" itemID="300419" price="0" vip="1" gold="0" type="-1"/>
+	<item name="神之碎片C" productID="200418" itemID="300420" price="0" vip="1" gold="0" type="-1"/>
+	<item name="神之碎片礼包A" productID="200419" icon="item/buy/money/" itemID="300418" price="1" vip="1" gold="0"  type="-1"/>
+	<item name="神之碎片礼包B" productID="200420" icon="item/buy/money/" itemID="300419" price="5" vip="1" gold="0"  type="-1"/>
+	<item name="神之碎片礼包C" productID="200421" icon="item/buy/money/" itemID="300420" price="10" vip="1" gold="0"  type="-1"/>
+	<item name="忠诚度提升A" productID="200422" itemID="300440" price="1" vip="1" gold="0"  type="-1"/>
+	<item name="忠诚度提升B" productID="200423" itemID="300441" price="2" vip="1" gold="0"  type="-1"/>
+	<item name="忠诚度提升C" productID="200424" itemID="300442" price="9" vip="1" gold="0"  type="-1"/>
+	<item name="忠诚度提升D" productID="200425" itemID="300443" price="15" vip="1" gold="0"  type="-1"/>
+	<item name="高级火焰徽章" productID="200426" itemID="300452" price="1" vip="1" gold="0"  type="-1"/>
+	<item name="高级火焰徽章" productID="200427" itemID="300453" price="2" vip="1" gold="0"  type="-1"/>
+	<item name="高级火焰徽章" productID="200428" itemID="300454" price="3" vip="1" gold="0"  type="-1"/>
+	<item name="高级火焰徽章" productID="200429" itemID="300455" price="4" vip="1" gold="0"  type="-1"/>
+	<item name="高级火焰徽章" productID="200430" itemID="300456" price="5" vip="1" gold="0"  type="-1"/>
+	<item name="高级火焰徽章" productID="200431" itemID="300457" price="6" vip="1" gold="0"  type="-1"/>
+	<item name="破晓头盔" productID="200432" itemID="100866" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>							
+	<item name="破晓铠甲" productID="200433" itemID="100867" price="3.4" vip="0.5" gold="0" productType="0" type="23"/>
+	<item name="破晓腰带" productID="200434" itemID="100868" price="2.2" vip="0.5" gold="0" productType="0" type="24"/>				
+	<item name="破晓重靴" productID="200435" itemID="100869" price="2.6" vip="0.5" gold="0" productType="0" type="25"/>	
+	<item name="黄金破晓套装" productID="200436" itemID="100866|100867|100868|100869" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="幸运九宫格A" productID="200437" itemID="400799" price="1" vip="1" gold="0" type="-1"/>
+	<item name="幸运九宫格B" productID="200438" itemID="400800" price="2" vip="1" gold="0" type="-1"/>
+	<item name="幸运九宫格C" productID="200439" itemID="400920" price="3" vip="1" gold="0" type="-1"/>
+	<item name="幸运九宫格D" productID="200440" itemID="400921" price="4" vip="1" gold="0" type="-1"/>
+	<item name="幸运九宫格E" productID="200441" itemID="400922" price="5" vip="1" gold="0" type="-1"/>
+	<item name="年兽进化道具" productID="200442" itemID="400924" price="2" vip="1" gold="0" type="-1"/>
+	<item name="猛虎王付费道具" productID="200443" itemID="400932" price="1" vip="1" gold="0" type="-1"/>
+	<item name="光能量Ω" productID="200444" itemID="400970" price="1" vip="1" gold="0" type="-1"/>
+	<item name="暗能量Ω" productID="200445" itemID="400971" price="1" vip="1" gold="0" type="-1"/>
+	<item name="光能量A" productID="200446" itemID="400975" price="10" vip="1" gold="0" type="-1"/>
+	<item name="暗能量A" productID="200447" itemID="400976" price="10" vip="1" gold="0" type="-1"/>
+	<item name="幸运九宫格豪华版A" productID="200448" itemID="400985" price="3" vip="1" gold="0" type="-1"/>
+	<item name="幸运九宫格豪华版B" productID="200449" itemID="400986" price="4" vip="1" gold="0" type="-1"/>
+	<item name="幸运九宫格豪华版C" productID="200450" itemID="400987" price="5" vip="1" gold="0" type="-1"/>
+	<item name="幸运九宫格豪华版D" productID="200451" itemID="400988" price="6" vip="1" gold="0" type="-1"/>
+	<item name="幸运九宫格豪华版E" productID="200452" itemID="400989" price="7" vip="1" gold="0" type="-1"/>
+	<item name="幸运九宫格豪华版F" productID="200453" itemID="400990" price="8" vip="1" gold="0" type="-1"/>
+	<item name="幸运九宫格豪华版G" productID="200454" itemID="400991" price="9" vip="1" gold="0" type="-1"/>
+	<item name="烈刃摇奖牌" productID="200455" itemID="400994" price="1" vip="1" gold="0" type="-1"/>
+	<item name="繁殖转化剂Ω" productID="200456" itemID="400995" price="1" vip="1" gold="0" type="-1"/>
+	<item name="虎之碎片A" productID="200457" itemID="400997" price="1" vip="1" gold="0" type="-1"/>
+	<item name="虎之碎片B" productID="200458" itemID="400998" price="10" vip="1" gold="0" type="-1"/>
+	<item name="炽焰之心A" productID="200459" itemID="400999" price="1" vip="1" gold="0" type="-1"/>
+	<item name="炽焰之心B" productID="200460" itemID="401000" price="2" vip="1" gold="0" type="-1"/>
+	<item name="炽焰之心C" productID="200461" itemID="1200001" price="5" vip="1" gold="0" type="-1"/>
+	<item name="年兽进化道具B" productID="200462" itemID="1200072" price="2" vip="1" gold="0" type="-1"/>
+	<item name="急速冷却道具" productID="200463" itemID="1200078" price="1" vip="1" gold="0" type="-1"/>
+	<item name="秘境元神A" productID="200464" itemID="1200079" price="1" vip="1" gold="0" type="-1"/>
+	<item name="秘境元神B" productID="200465" itemID="1200080" price="4" vip="1" gold="0" type="-1"/>
+	<item name="光元素A" productID="200466" itemID="1200087" price="1" vip="1" gold="0" type="-1"/>
+	<item name="光元素B" productID="200467" itemID="1200088" price="3" vip="1" gold="0" type="-1"/>
+	<item name="光元素C" productID="200468" itemID="1200089" price="5" vip="1" gold="0" type="-1"/>
+	<item name="光元素D" productID="200469" itemID="1200090" price="10" vip="1" gold="0" type="-1"/>
+	<item name="暗元素A" productID="200470" itemID="1200093" price="1" vip="1" gold="0" type="-1"/>
+	<item name="暗元素B" productID="200471" itemID="1200094" price="3" vip="1" gold="0" type="-1"/>
+	<item name="暗元素C" productID="200472" itemID="1200095" price="5" vip="1" gold="0" type="-1"/>
+	<item name="暗元素D" productID="200473" itemID="1200096" price="10" vip="1" gold="0" type="-1"/>
+	<item name="昼魔坐骑芯片" productID="200474" itemID="1200099" price="3" vip="1" gold="0" type="-1"/>
+	<item name="夜魔坐骑芯片" productID="200475" itemID="1200100" price="3" vip="1" gold="0" type="-1"/>
+	<item name="灵兽神石A" productID="200476" itemID="1200092" price="1" vip="1" gold="0" type="-1"/>
+	<item name="灵兽神石B" productID="200477" itemID="1200097" price="3" vip="1" gold="0" type="-1"/>
+	<item name="灵兽神石C" productID="200478" itemID="1200098" price="6" vip="1" gold="0" type="-1"/>
+	<item name="灵兽神石D" productID="200479" itemID="1200103" price="8" vip="1" gold="0" type="-1"/>
+	<item name="灵兽神石E" productID="200480" itemID="1200104" price="10" vip="1" gold="0" type="-1"/>
+	<item name="始祖灵兽坐骑芯片" productID="200481" itemID="1200106" price="5" vip="1" gold="0" type="-1"/>
+	<item name="白色天命战盔" productID="200482" itemID="1300041" price="0" vip="1" gold="0" type="-1"/>
+	<item name="白色天命面罩" productID="200483" itemID="1300042" price="0" vip="1" gold="0" type="-1"/>
+	<item name="白色天命机甲" productID="200484" itemID="1300043" price="0" vip="1" gold="0" type="-1"/>
+	<item name="白色天命束腰" productID="200485" itemID="1300044" price="0" vip="1" gold="0" type="-1"/>
+	<item name="白色天命战靴" productID="200486" itemID="1300045" price="0" vip="1" gold="0" type="-1"/>
+	<item name="一万经验券" productID="200487" itemID="400065" price="0" vip="1" gold="0" type="-1"/>
+	<item name="自动战斗器M型" productID="200488" itemID="300068" price="0" vip="1" gold="0" type="-1"/>
+	<item name="六一机甲超值套组" productID="200489" icon="item/buy/money/" itemID="400063|300068|1300041|1300042|1300043|1300044|1300045" price="10" vip="1" gold="0"  type="-1"/>
+	<item name="六一升级超值套组" productID="200490" icon="item/buy/money/" itemID="400065|300068|1300041" price="1" vip="1" gold="0"  type="-1"/>
+	<item name="天神战盔" productID="200491" itemID="1300046" price="2" vip="1" gold="0" type="-1"/>
+	<item name="天神战甲" productID="200492" itemID="1300047" price="2" vip="1" gold="0" type="-1"/>
+	<item name="天神腰带" productID="200493" itemID="1300048" price="2" vip="1" gold="0" type="-1"/>
+	<item name="天神战靴" productID="200494" itemID="1300049" price="2" vip="1" gold="0" type="-1"/>
+	<item name="天神套装" productID="200495" icon="item/buy/money/" itemID="1300046|1300047|1300048|1300049" price="8" vip="1" gold="0" type="-1"/>
+	<item name="命运裁决刻印A" productID="200496" itemID="1200113" price="5" vip="1" gold="0" type="-1"/>
+	<item name="圣洁泉水A" productID="200497" itemID="1200114" price="1" vip="1" gold="0" type="-1"/>
+	<item name="圣洁泉水B" productID="200498" itemID="1200115" price="2" vip="1" gold="0" type="-1"/>
+	<item name="圣洁泉水C" productID="200499" itemID="1200116" price="3" vip="1" gold="0" type="-1"/>
+	<item name="圣洁泉水D" productID="200500" itemID="1200117" price="4" vip="1" gold="0" type="-1"/>
+	<item name="圣洁泉水E" productID="200501" itemID="1200118" price="5" vip="1" gold="0" type="-1"/>
+	<item name="圣洁泉水F" productID="200502" itemID="1200119" price="6" vip="1" gold="0" type="-1"/>
+	<item name="火焰精华A" productID="200503" itemID="1200121" price="1" vip="1" gold="0" type="-1"/>
+	<item name="火焰精华B" productID="200504" itemID="1200122" price="3" vip="1" gold="0" type="-1"/>
+	<item name="火焰精华C" productID="200505" itemID="1200123" price="5" vip="1" gold="0" type="-1"/>
+	<item name="火焰精华D" productID="200506" itemID="1200124" price="6" vip="1" gold="0" type="-1"/>
+	<item name="火焰精华E" productID="200507" itemID="1200125" price="8" vip="1" gold="0" type="-1"/>
+	<item name="钢铁战侠战盔" productID="200508" itemID="1300058" price="2" vip="1" gold="0" type="-1"/>
+	<item name="钢铁战侠机甲" productID="200509" itemID="1300059" price="4" vip="1" gold="0" type="-1"/>
+	<item name="钢铁战侠腰带" productID="200510" itemID="1300060" price="2" vip="1" gold="0" type="-1"/>
+	<item name="钢铁战侠护靴" productID="200511" itemID="1300061" price="2" vip="1" gold="0" type="-1"/>
+	<item name="钢铁战侠套装" productID="200512" icon="item/buy/money/" itemID="1300058|1300059|1300060|1300061" price="10" vip="1" gold="0" type="-1"/>
+	<item name="机械队长战盔" productID="200513" itemID="1300063" price="2" vip="1" gold="0" type="-1"/>
+	<item name="机械队长护盾" productID="200514" itemID="1300064" price="4" vip="1" gold="0" type="-1"/>
+	<item name="机械队长护腰" productID="200515" itemID="1300065" price="2" vip="1" gold="0" type="-1"/>
+	<item name="机械队长护靴" productID="200516" itemID="1300066" price="2" vip="1" gold="0" type="-1"/>
+	<item name="机械队长套装" productID="200517" icon="item/buy/money/" itemID="1300063|1300064|1300065|1300066" price="10" vip="1" gold="0" type="-1"/>
+	<item name="禄存封印收费" productID="200518" itemID="1200137" price="1" vip="1" gold="0" type="-1"/>
+	<item name="闪电之怒战盔" productID="200519" itemID="1300073" price="2" vip="1" gold="0" type="-1"/>
+	<item name="闪电之怒电锤" productID="200520" itemID="1300074" price="4" vip="1" gold="0" type="-1"/>
+	<item name="闪电之怒腰带" productID="200521" itemID="1300075" price="2" vip="1" gold="0" type="-1"/>
+	<item name="闪电之怒护靴" productID="200522" itemID="1300076" price="2" vip="1" gold="0" type="-1"/>
+	<item name="闪电之怒套装" productID="200523" icon="item/buy/money/" itemID="1300073|1300074|1300075|1300076" price="10" vip="1" gold="0" type="-1"/>
+	<item name="幽灵碎片A" productID="200524" itemID="1200142" price="1" vip="1" gold="0" type="-1"/>
+	<item name="幽灵碎片B" productID="200525" itemID="1200143" price="10" vip="1" gold="0" type="-1"/>
+	<item name="挑战幽灵猛虎王道具" productID="200526" itemID="1200144" price="1" vip="1" gold="0" type="-1"/>
+	<item name="天幕飞龙进化道具" productID="200527" itemID="1200149" price="2" vip="1" gold="0" type="-1"/>
+	<item name="哪咤战盔" productID="200528" itemID="1300077" price="2" vip="1" gold="0" type="-1"/>
+	<item name="哪咤战臂" productID="200529" itemID="1300078" price="4" vip="1" gold="0" type="-1"/>
+	<item name="哪咤腰带" productID="200530" itemID="1300079" price="2" vip="1" gold="0" type="-1"/>
+	<item name="哪咤战靴" productID="200531" itemID="1300080" price="2" vip="1" gold="0" type="-1"/>
+	<item name="哪咤套装" productID="200532" icon="item/buy/money/" itemID="1300077|1300078|1300079|1300080" price="8" vip="1" gold="0" type="-1"/>
+	<item name="夏令营挑战道具" productID="200533" itemID="1200157" price="1" vip="1" gold="0" type="-1"/>
+	<item name="黄蜂战盔" productID="200534" itemID="1300083" price="2" vip="1" gold="0" type="-1"/>
+	<item name="黄蜂战臂" productID="200535" itemID="1300084" price="4" vip="1" gold="0" type="-1"/>
+	<item name="黄蜂腰带" productID="200536" itemID="1300085" price="2" vip="1" gold="0" type="-1"/>
+	<item name="黄蜂战靴" productID="200537" itemID="1300086" price="2" vip="1" gold="0" type="-1"/>
+	<item name="黄蜂套装" productID="200538" icon="item/buy/money/" itemID="1300083|1300084|1300085|1300086" price="10" vip="1" gold="0" type="-1"/>
+	<item name="夏令营挑战道具A" productID="200539" itemID="1200158" price="20" vip="1" gold="0" type="-1"/>
+	<item name="夏令营挑战道具B" productID="200540" itemID="1200159" price="5" vip="1" gold="0" type="-1"/>
+	<item name="夏令营挑战道具C" productID="200541" itemID="1200160" price="5" vip="1" gold="0" type="-1"/>
+	<item name="夏令营挑战道具D" productID="200542" itemID="1200161" price="5" vip="1" gold="0" type="-1"/>
+	<item name="守护者令牌A" productID="200543" itemID="1200167" price="1" vip="1" gold="0" type="-1"/>
+	<item name="守护者令牌B" productID="200544" itemID="1200168" price="10" vip="1" gold="0" type="-1"/>
+	<item name="伯爵战盔" productID="200545" itemID="1300087" price="2" vip="1" gold="0" type="-1"/>
+	<item name="伯爵战臂" productID="200546" itemID="1300088" price="4" vip="1" gold="0" type="-1"/>
+	<item name="伯爵腰带" productID="200547" itemID="1300089" price="2" vip="1" gold="0" type="-1"/>
+	<item name="伯爵战靴" productID="200548" itemID="1300090" price="2" vip="1" gold="0" type="-1"/>
+	<item name="伯爵战将套装" productID="200549" icon="item/buy/money/" itemID="1300087|1300088|1300089|1300090" price="10" vip="1" gold="0" type="-1"/>
+	<item name="极寒战盔" productID="200550" itemID="1300091" price="1" vip="1" gold="0" type="-1"/>
+	<item name="极寒面罩" productID="200551" itemID="1300092" price="1" vip="1" gold="0" type="-1"/>
+	<item name="极寒机甲" productID="200552" itemID="1300093" price="1" vip="1" gold="0" type="-1"/>
+	<item name="极寒束腰" productID="200553" itemID="1300094" price="1" vip="1" gold="0" type="-1"/>
+	<item name="极寒战靴" productID="200554" itemID="1300095" price="1" vip="1" gold="0" type="-1"/>
+	<item name="极寒幽魂套装" productID="200555" icon="item/buy/money/" itemID="1300091|1300092|1300093|1300094|1300095" price="5" vip="1" gold="0" type="-1"/>
+	<item name="零界神力A" productID="200556" itemID="1200185" price="1" vip="1" gold="0" type="-1"/>
+	<item name="零界神力B" productID="200557" itemID="1200186" price="3" vip="1" gold="0" type="-1"/>
+	<item name="零界神力C" productID="200558" itemID="1200187" price="5" vip="1" gold="0" type="-1"/>
+	<item name="零界神力D" productID="200559" itemID="1200188" price="6" vip="1" gold="0" type="-1"/>
+	<item name="零界神力E" productID="200560" itemID="1200189" price="8" vip="1" gold="0" type="-1"/>
+	<item name="猎虎七号升级道具" productID="200561" itemID="1200190" price="1" vip="1" gold="0" type="-1"/>
+	<item name="天虎战盔" productID="200562" itemID="1300109" price="2" vip="1" gold="0" type="-1"/>
+	<item name="天虎战臂" productID="200563" itemID="1300110" price="4" vip="1" gold="0" type="-1"/>
+	<item name="天虎腰带" productID="200564" itemID="1300111" price="2" vip="1" gold="0" type="-1"/>
+	<item name="天虎战靴" productID="200565" itemID="1300112" price="2" vip="1" gold="0" type="-1"/>
+	<item name="天虎战将套装" productID="200566" icon="item/buy/money/" itemID="1300109|1300110|1300111|1300112" price="10" vip="1" gold="0" type="-1"/>
+	<item name="付费洗礼道具" productID="200567" itemID="1200193" price="1" vip="1" gold="0" type="-1"/>
+	<item name="天使晶体A" productID="200568" itemID="1200196" price="1" vip="1" gold="0" type="-1"/>
+	<item name="天使晶体B" productID="200569" itemID="1200197" price="10" vip="1" gold="0" type="-1"/>
+	<item name="恶魔晶体A" productID="200570" itemID="1200198" price="1" vip="1" gold="0" type="-1"/>
+	<item name="恶魔晶体B" productID="200571" itemID="1200199" price="10" vip="1" gold="0" type="-1"/>
+	<item name="聚热溶解弹A" productID="200572" itemID="1200201" price="1" vip="1" gold="0" type="-1"/>
+	<item name="晶核培育剂" productID="200573" itemID="1200223" price="2" vip="1" gold="0" type="-1"/>
+	<item name="钢铁战侠套装A" productID="200574" icon="item/buy/money/" itemID="1300058|1300059|1300060|1300061" price="5" vip="1" gold="0" type="-1"/>
+	<item name="机械队长套装A" productID="200575" icon="item/buy/money/" itemID="1300063|1300064|1300065|1300066" price="5" vip="1" gold="0" type="-1"/>
+	<item name="闪电之怒套装A" productID="200576" icon="item/buy/money/" itemID="1300073|1300074|1300075|1300076" price="5" vip="1" gold="0" type="-1"/>
+	<item name="伯爵战将套装A" productID="200577" icon="item/buy/money/" itemID="1300087|1300088|1300089|1300090" price="5" vip="1" gold="0" type="-1"/>
+	<item name="天虎战将套装A" productID="200578" icon="item/buy/money/" itemID="1300109|1300110|1300111|1300112" price="5" vip="1" gold="0" type="-1"/>
+	<item name="黄蜂套装A" productID="200579" icon="item/buy/money/" itemID="1300083|1300084|1300085|1300086" price="5" vip="1" gold="0" type="-1"/>
+	<item name="蝙蝠战侠战盔" productID="200580" itemID="1300121" price="2" vip="1" gold="0" type="-1"/>
+	<item name="蝙蝠战侠战臂" productID="200581" itemID="1300122" price="4" vip="1" gold="0" type="-1"/>
+	<item name="蝙蝠战侠腰带" productID="200582" itemID="1300123" price="2" vip="1" gold="0" type="-1"/>
+	<item name="蝙蝠战侠战靴" productID="200583" itemID="1300124" price="2" vip="1" gold="0" type="-1"/>
+	<item name="蝙蝠战侠套装" productID="200584" icon="item/buy/money/" itemID="1300121|1300122|1300123|1300124" price="10" vip="1" gold="0" type="-1"/>
+	<item name="冰魄之力A" productID="200585" itemID="1200250" price="1" vip="1" gold="0" type="-1"/>
+	<item name="冰魄之力B" productID="200586" itemID="1200251" price="3" vip="1" gold="0" type="-1"/>
+	<item name="冰魄之力C" productID="200587" itemID="1200252" price="5" vip="1" gold="0" type="-1"/>
+	<item name="冰魄之力D" productID="200588" itemID="1200253" price="6" vip="1" gold="0" type="-1"/>
+	<item name="冰魄之力E" productID="200589" itemID="1200254" price="8" vip="1" gold="0" type="-1"/>
+	<item name="冰魄之力F" productID="200590" itemID="1200255" price="10" vip="1" gold="0" type="-1"/>
+	<item name="黄金使者" productID="200591" itemID="1300125" price="20" vip="1" gold="0" type="-1"/>
+	<item name="蜘蛛战侠战盔" productID="200592" itemID="1300126" price="2" vip="1" gold="0" type="-1"/>
+	<item name="蜘蛛战侠战臂" productID="200593" itemID="1300127" price="4" vip="1" gold="0" type="-1"/>
+	<item name="蜘蛛战侠腰带" productID="200594" itemID="1300128" price="2" vip="1" gold="0" type="-1"/>
+	<item name="蜘蛛战侠战靴" productID="200595" itemID="1300129" price="2" vip="1" gold="0" type="-1"/>
+	<item name="蜘蛛战侠套装" productID="200596" icon="item/buy/money/" itemID="1300126|1300127|1300128|1300129" price="10" vip="1" gold="0" type="-1"/>
+	<item name="乐园嘉年华道具 " productID="200597" itemID="1200265" price="1" vip="1" gold="0" type="-1"/>
+	<item name="机械核心A" productID="200598" itemID="1200281" price="1" vip="1" gold="0" type="-1"/>
+	<item name="机械核心B" productID="200599" itemID="1200282" price="8" vip="1" gold="0" type="-1"/>
+	<item name="超人战侠战盔" productID="200600" itemID="1300134" price="2" vip="1" gold="0" type="-1"/>
+	<item name="超人战侠战臂" productID="200601" itemID="1300135" price="4" vip="1" gold="0" type="-1"/>
+	<item name="超人战侠腰带" productID="200602" itemID="1300136" price="2" vip="1" gold="0" type="-1"/>
+	<item name="超人战侠战靴" productID="200603" itemID="1300137" price="2" vip="1" gold="0" type="-1"/>
+	<item name="超人战侠套装" productID="200604" icon="item/buy/money/" itemID="1300134|1300135|1300136|1300137" price="10" vip="1" gold="0" type="-1"/>
+	<item name="米币打造道具A" productID="200605" itemID="1200306" price="1" vip="1" gold="0" type="-1"/>
+	<item name="米币打造道具B" productID="200606" itemID="1200307" price="10" vip="1" gold="0" type="-1"/>
+	<item name="米币历练道具" productID="200607" itemID="1200308" price="1" vip="1" gold="0" type="-1"/>
+	<item name="塔克林坐骑芯片" productID="200608" itemID="1200312" price="5" vip="1" gold="0" type="-1"/>
+	<item name="代币铸造道具" productID="200609" itemID="1200304" price="1" vip="1" gold="0" type="-1"/>
+	<item name="米币打造道具C" productID="200610" itemID="1200305" price="1" vip="1" gold="0" type="-1"/>
+	<item name="米币打造道具D" productID="200611" itemID="1200324" price="10" vip="1" gold="0" type="-1"/>
+	<item name="地龙进化道具" productID="200612" itemID="1200325" price="1" vip="1" gold="0" type="-1"/>
+	<item name="月兔口粮兑换道具A" productID="200613" itemID="1200336" price="2" vip="1" gold="0" type="-1"/>
+	<item name="月兔口粮兑换道具B" productID="200614" itemID="1200337" price="10" vip="1" gold="0" type="-1"/>
+	<item name="基因改造道具Ω" productID="200615" itemID="300630" price="0.5" vip="1" gold="0" type="-1"/>
+	<item name="神经元再生道具Ω" productID="200616" itemID="300631" price="1" vip="1" gold="0" type="-1"/>
+	<item name="米币打造道具E" productID="200617" itemID="1200333" price="1" vip="1" gold="0" type="-1"/>
+	<item name="米币打造道具F" productID="200618" itemID="1200334" price="10" vip="1" gold="0" type="-1"/>
+	<item name="白热修行道具" productID="200619" itemID="1200343" price="1" vip="1" gold="0" type="-1"/>
+	<item name="极限修行道具" productID="200620" itemID="1200344" price="5" vip="1" gold="0" type="-1"/>
+	<item name="米币打造道具G" productID="200621" itemID="1200351" price="1" vip="1" gold="0" type="-1"/>
+	<item name="米币打造道具H" productID="200622" itemID="1200352" price="10" vip="1" gold="0" type="-1"/>
+	<item name="红色闪电兑换道具" productID="200623" itemID="1200361" price="10" vip="1" gold="0" type="-1"/>
+	<item name="闪光红色闪电兑换道具" productID="200624" itemID="1200362" price="10" vip="1" gold="0" type="-1"/>
+	<item name="旋风天使兑换道具" productID="200625" itemID="1200363" price="10" vip="1" gold="0" type="-1"/>
+	<item name="闪光旋风天使兑换道具" productID="200626" itemID="1200364" price="10" vip="1" gold="0" type="-1"/>
+	<item name="蝙蝠战侠套装1元版" productID="200627" itemID="1200366" price="1" vip="1" gold="0" type="-1"/>
+	<item name="蝙蝠战侠套装4元版" productID="200628" itemID="1200367" price="4" vip="1" gold="0" type="-1"/>
+	<item name="蝙蝠战侠套装7元版" productID="200629" itemID="1200368" price="7" vip="1" gold="0" type="-1"/>
+	<item name="净化收费中间道具" productID="200630" itemID="1200370" price="1" vip="1" gold="0" type="-1"/>
+	<item name="唤醒收费中间道具" productID="200631" itemID="1200371" price="10" vip="1" gold="0" type="-1"/>
+	<item name="米币快速完成道具" productID="200632" itemID="1200372" price="1" vip="1" gold="0" type="-1"/>
+	<item name="团战之王战盔" productID="200633" itemID="1300178" price="1" vip="1" gold="0" type="-1"/>
+	<item name="团战之王护手" productID="200634" itemID="1300179" price="1" vip="1" gold="0" type="-1"/>
+	<item name="团战之王腰带" productID="200635" itemID="1300180" price="1" vip="1" gold="0" type="-1"/>
+	<item name="团战之王战靴" productID="200636" itemID="1300181" price="1" vip="1" gold="0" type="-1"/>
+	<item name="团战之王萨瑞卡套装" productID="200637" icon="item/buy/money/" itemID="1300178|1300179|1300180|1300181" price="15" vip="1" gold="0" type="-1"/>
+	<item name="团战之王萨瑞卡套装（折扣）" productID="200638" itemID="1200386" price="8" vip="1" gold="0" type="-1"/>
+	<item name="治疗能量抽奖道具" productID="200639" itemID="1200400" price="5" vip="1" gold="0" type="-1"/>
+	<item name="祝福腰带（1级）" productID="200640" itemID="1300198" price="3" vip="1" gold="0" type="-1"/>
+	<item name="赦免腰带（1级）" productID="200641" itemID="1300203" price="3" vip="1" gold="0" type="-1"/>
+	<item name="2级腰带强化道具" productID="200642" itemID="1200411" price="3" vip="1" gold="0" type="-1"/>
+	<item name="3级腰带强化道具" productID="200643" itemID="1200412" price="5" vip="1" gold="0" type="-1"/>
+	<item name="4级腰带强化道具" productID="200644" itemID="1200413" price="8" vip="1" gold="0" type="-1"/>
+	<item name="5级腰带强化道具" productID="200645" itemID="1200414" price="10" vip="1" gold="0" type="-1"/>
+	<item name="进化道具1" productID="200646" itemID="1200415" price="3" vip="1" gold="0" type="-1"/>
+	<item name="进化道具2" productID="200647" itemID="1200416" price="5" vip="1" gold="0" type="-1"/>
+	<item name="进化道具3" productID="200648" itemID="1200417" price="6" vip="1" gold="0" type="-1"/>
+	<item name="进化道具4" productID="200649" itemID="1200418" price="7" vip="1" gold="0" type="-1"/>
+	<item name="进化道具5" productID="200650" itemID="1200419" price="9" vip="1" gold="0" type="-1"/>
+	<item name="进化道具6" productID="200651" itemID="1200420" price="10" vip="1" gold="0" type="-1"/>
+	<item name="10个王者之力" productID="200652" itemID="1200426" price="2" vip="1" gold="0" type="-1"/>
+	<item name="110个王者之力" productID="200653" itemID="1200427" price="20" vip="1" gold="0" type="-1"/>
+	<item name="6个和平之力" productID="200654" itemID="1200452" price="3" vip="1" gold="0" type="-1"/>
+	<item name="24个和平之力" productID="200655" itemID="1200453" price="10" vip="1" gold="0" type="-1"/>
+	<item name="托鲁克头盔" productID="200656" itemID="1300220" price="1" vip="1" gold="0" type="-1"/>
+	<item name="托鲁克护臂" productID="200657" itemID="1300221" price="2" vip="1" gold="0" type="-1"/>
+	<item name="托鲁克腰带" productID="200658" itemID="1300222" price="1" vip="1" gold="0" type="-1"/>
+	<item name="托鲁克战靴" productID="200659" itemID="1300223" price="1" vip="1" gold="0" type="-1"/>
+	<item name="托鲁克套装" productID="200660" icon="item/buy/money/" itemID="1300220|1300221|1300222|1300223" price="5" vip="1" gold="0" type="-1"/>
+	<item name="金色托鲁克头盔" productID="200661" itemID="1300224" price="3" vip="1" gold="0" type="-1"/>
+	<item name="金色托鲁克护臂" productID="200662" itemID="1300225" price="6" vip="1" gold="0" type="-1"/>
+	<item name="金色托鲁克腰带" productID="200663" itemID="1300226" price="3" vip="1" gold="0" type="-1"/>
+	<item name="金色托鲁克战靴" productID="200664" itemID="1300227" price="3" vip="1" gold="0" type="-1"/>
+	<item name="金色托鲁克套装" productID="200665" icon="item/buy/money/" itemID="1300224|1300225|1300226|1300227" price="15" vip="1" gold="0" type="-1"/>
+	<item name="和平之力" productID="200666" itemID="1200451" price="0" vip="1" gold="0" type="-1"/>
+	<item name="欢乐能量" productID="200667" itemID="1200457" price="1" vip="1" gold="0" type="-1"/>
+	<item name="欢乐能量初级套组" productID="200670" itemID="1200457" price="5" vip="1" gold="0" type="-1"/>
+	<item name="欢乐能量高级套组" productID="200671" itemID="1200457" price="10" vip="1" gold="0" type="-1"/>
+	<item name="善良种子" productID="200672" itemID="1200475" price="6" vip="1" gold="0" type="-1"/>
+	<item name="伙伴的认可" productID="200673" itemID="1200476" price="5" vip="1" gold="0" type="-1"/>
+	<item name="站长的考验" productID="200674" itemID="1200477" price="5" vip="1" gold="0" type="-1"/>
+	<item name="超能电磁炮刻印" productID="200675" itemID="20297" price="1" vip="1" gold="0" type="-1"/>
+	<item name="合金赛博思特的精元" productID="200676" itemID="400478" price="40" vip="1" gold="0" type="-1"/>
+	<item name="合金赛伯斯特礼包" productID="200677" icon="item/buy/money/" itemID="400478|300066|20193|20297" price="45" vip="1" gold="0" type="-1"/>
+	<item name="梦幻扭蛋牌礼盒" productID="200678" itemID="400505" price="40" vip="1" gold="0" type="-1"/>
+	<item name="驯鹿雪橇车" productID="200679" itemID="1300229" price="10" vip="1" gold="0" type="-1"/>
+	<item name="天使功勋" productID="200680" itemID="1200496" price="1" vip="1" gold="0" type="-1"/>
+	<item name="恶魔功勋" productID="200681" itemID="1200497" price="1" vip="1" gold="0" type="-1"/>
+	<item name="20点天使功勋" productID="200682" itemID="1200498" price="3" vip="1" gold="0" type="-1"/>
+	<item name="80点天使功勋" productID="200683" itemID="1200499" price="10" vip="1" gold="0" type="-1"/>
+	<item name="20点恶魔功勋" productID="200684" itemID="1200500" price="3" vip="1" gold="0" type="-1"/>
+	<item name="80点恶魔功勋" productID="200685" itemID="1200501" price="10" vip="1" gold="0" type="-1"/>
+	<item name="15个撞球奖杯" productID="200686" itemID="1200503" price="1" vip="1" gold="0" type="-1"/>
+	<item name="180个撞球奖杯" productID="200687" itemID="1200504" price="10" vip="1" gold="0" type="-1"/>
+	<item name="50点魔王声望" productID="200688" itemID="1200509" price="2" vip="1" gold="0" type="-1"/>
+	<item name="300点魔王声望" productID="200689" itemID="1200510" price="10" vip="1" gold="0" type="-1"/>
+	<item name="随机召唤" productID="200690" itemID="1200514" price="6" vip="1" gold="0" type="-1"/>
+	<item name="草之纹章A" productID="200691" itemID="1200515" price="6" vip="1" gold="0" type="-1"/>
+	<item name="火之纹章A" productID="200692" itemID="1200516" price="6" vip="1" gold="0" type="-1"/>
+	<item name="直接点亮" productID="200693" itemID="1200517" price="8" vip="1" gold="0" type="-1"/>
+	<item name="草之纹章B" productID="200694" itemID="1200518" price="8" vip="1" gold="0" type="-1"/>
+	<item name="火之纹章B" productID="200695" itemID="1200519" price="8" vip="1" gold="0" type="-1"/>
+	<item name="战队冷却消除道具" productID="200696" itemID="1200531" price="2" vip="1" gold="0" type="-1"/>
+	<item name="启动觅食林封印阵" productID="200697" itemID="1200532" price="6" vip="1" gold="0" type="-1"/>
+	<item name="尝试凝聚王者结界" productID="200698" itemID="1200538" price="8" vip="1" gold="0" type="-1"/>
+	<item name="尝试凝聚王者结界优惠" productID="200699" itemID="1200539" price="7" vip="1" gold="0" type="-1"/>
+	<item name="利用时间控制器获取精灵A" productID="200700" itemID="1200541" price="8" vip="1" gold="0" type="-1"/>
+	<item name="利用时间控制器获取精灵B" productID="200701" itemID="1200542" price="16" vip="1" gold="0" type="-1"/>
+	<item name="利用时间控制器获取精灵C" productID="200702" itemID="1200543" price="25" vip="1" gold="0" type="-1"/>
+	<item name="巨型攻击刻印" productID="200703" itemID="10035" price="5" vip="1" gold="0" type="-1"/>
+	<item name="巨型特攻刻印" productID="200704" itemID="10033" price="5" vip="1" gold="0" type="-1"/>
+	<item name="巨型速度刻印" productID="200705" itemID="10037" price="5" vip="1" gold="0" type="-1"/>
+	<item name="精灵刻印礼包" productID="200706" icon="item/buy/money/" itemID="300066|10035|10033|10037" price="35" vip="1" gold="0" type="-1"/>
+	<item name="圣光精灵调用技能库" productID="200707" itemID="1200548" price="1" vip="1" gold="0" type="-1"/>
+	<item name="购买补天石" productID="200708" itemID="1200551" price="8" vip="1" gold="0" type="-1"/>
+	<item name="麒麟赐福战盔" productID="200709" itemID="1300250" price="2" vip="1" gold="0" type="-1"/>
+	<item name="麒麟赐福战甲" productID="200710" itemID="1300251" price="4" vip="1" gold="0" type="-1"/>
+	<item name="麒麟赐福腰带" productID="200711" itemID="1300252" price="2" vip="1" gold="0" type="-1"/>
+	<item name="麒麟赐福战靴" productID="200712" itemID="1300253" price="2" vip="1" gold="0" type="-1"/>
+	<item name="麒麟赐福套装" productID="200713" icon="item/buy/money/" itemID="1300250|1300251|1300252|1300253" price="10" vip="1" gold="0" type="-1"/>
+	<item name="藏有约克的烟花" productID="200714" itemID="1200590" price="3" vip="1" gold="0" type="-1"/>
+	<item name="燃放特效烟花" productID="200715" itemID="1200591" price="1" vip="1" gold="0" type="-1"/>
+	<item name="蛟龙能量抽奖道具" productID="200716" itemID="1200596" price="5" vip="1" gold="0" type="-1"/>
+	<item name="蛟龙能量一键获得" productID="200717" itemID="1200597" price="39" vip="1" gold="0" type="-1"/>
+	<item name="天幕四龙将兑换道具" productID="200718" itemID="1200598" price="10" vip="1" gold="0" type="-1"/>
+	<item name="1块野性印记" productID="200719" itemID="1200601" price="1" vip="1" gold="0" type="-1"/>
+	<item name="8块野性印记" productID="200720" itemID="1200602" price="6" vip="1" gold="0" type="-1"/>
+	<item name="45块野性印记" productID="200721" itemID="1200603" price="30" vip="1" gold="0" type="-1"/>
+	<item name="一键获得极品无敌破坏王" productID="200723" itemID="1200605" price="8" vip="1" gold="0" type="-1"/>
+	
+	<item name="索要宝箱之灵的礼物A" productID="200724" itemID="1200613" price="1" vip="1" gold="0" type="-1"/>
+	<item name="索要宝箱之灵的礼物B" productID="200725" itemID="1200614" price="3" vip="1" gold="0" type="-1"/>
+	<item name="索要宝箱之灵的礼物C" productID="200726" itemID="1200615" price="5" vip="1" gold="0" type="-1"/>
+	<item name="10个圣灵石" productID="200727" itemID="1200617" price="5" vip="1" gold="0" type="-1"/>
+	<item name="100个圣灵石" productID="200728" itemID="1200618" price="40" vip="1" gold="0" type="-1"/>
+	<item name="购买精灵A" productID="200729" itemID="1200619" price="8" vip="1" gold="0" type="-1"/>
+	<item name="购买精灵B" productID="200730" itemID="1200620" price="8" vip="1" gold="0" type="-1"/>
+	<item name="圣炎法盔" productID="200731" itemID="1300254" price="2" vip="1" gold="0" type="-1"/>
+	<item name="圣炎面罩" productID="200732" itemID="1300255" price="2" vip="1" gold="0" type="-1"/>
+	<item name="圣炎法杖" productID="200733" itemID="1300256" price="2" vip="1" gold="0" type="-1"/>
+	<item name="圣炎灵带" productID="200734" itemID="1300257" price="2" vip="1" gold="0" type="-1"/>
+	<item name="圣炎法靴" productID="200735" itemID="1300258" price="2" vip="1" gold="0" type="-1"/>
+	<item name="圣炎法袍套装" productID="200736" icon="item/buy/money/" itemID="1300254|1300255|1300256|1300257|1300258" price="10" vip="1" gold="0" type="-1"/>
+	<item name="购买精灵C" productID="200737" itemID="1200623" price="3" vip="1" gold="0" type="-1"/>
+	<item name="瞬闪刻印兑换道具" productID="200738" itemID="1200629" price="5" vip="1" gold="0" type="-1"/>
+	<item name="寻找乐琪道具" productID="200739" itemID="1200630" price="1" vip="1" gold="0" type="-1"/>
+	<item name="购买绝版星吉拉" productID="200740" itemID="1200632" price="3" vip="1" gold="0" type="-1"/>
+	
+	<item name="一键获得极品飞行家普莱恩" productID="200741" itemID="1200635" price="16" vip="1" gold="0" type="-1"/>
+	<item name="启动骰子" productID="200742" itemID="1200636" price="3" vip="1" gold="0" type="-1"/>
+	<item name="召唤太阳之子A" productID="200743" itemID="1200637" price="3" vip="1" gold="0" type="-1"/>
+	<item name="召唤太阳之子B" productID="200744" itemID="1200638" price="5" vip="1" gold="0" type="-1"/>
+	<item name="召唤太阳之子C" productID="200745" itemID="1200639" price="8" vip="1" gold="0" type="-1"/>
+	<item name="召唤太阳之子D" productID="200746" itemID="1200640" price="10" vip="1" gold="0" type="-1"/>
+	<item name="极品精灵生成道具" productID="200747" itemID="1200641" price="12" vip="1" gold="0" type="-1"/>
+	<item name="一键获得太阳之子" productID="200748" itemID="1200645" price="35" vip="1" gold="0" type="-1"/>
+	
+	<item name="风影能量道具A" productID="200749" itemID="1200646" price="4" vip="1" gold="0" type="-1"/>
+	<item name="风影能量道具B" productID="200750" itemID="1200647" price="40" vip="1" gold="0" type="-1"/>
+	<item name="百变魔术帽" productID="200751" itemID="1300263" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>							
+	<item name="百变魔术手套" productID="200752" itemID="1300264" price="4.4" vip="0.5" gold="0" productType="0" type="23"/>
+	<item name="百变魔术腰带" productID="200753" itemID="1300265" price="3.2" vip="0.5" gold="0" productType="0" type="24"/>				
+	<item name="百变魔术喷射器" productID="200754" itemID="1300266" price="3.6" vip="0.5" gold="0" productType="0" type="25"/>	
+	<item name="百变魔术师套装" productID="200755" itemID="1300263|1300264|1300265|1300266" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	
+	<item name="友谊风筝一键充能" productID="200756" itemID="1200652" price="3" vip="1" gold="0" type="-1"/>
+	<item name="为风筝添加祝福" productID="200757" itemID="1200653" price="10" vip="1" gold="0" type="-1"/>
+	<item name="一键获得极品凯恩德" productID="200758" itemID="1200654" price="12" vip="1" gold="0" type="-1"/>
+	
+	<item name="10块雷电之力" productID="200759" itemID="1200659" price="5" vip="1" gold="0" type="-1"/>
+	<item name="50块雷电之力" productID="200760" itemID="1200660" price="20" vip="1" gold="0" type="-1"/>
+	<item name="格斯克一键提升至极品" productID="200761" itemID="1200661" price="12" vip="1" gold="0" type="-1"/>
+	<item name="特里奥一键提升至极品" productID="200762" itemID="1200662" price="12" vip="1" gold="0" type="-1"/>
+	<item name="伯桑克一键提升至极品" productID="200763" itemID="1200663" price="12" vip="1" gold="0" type="-1"/>
+	<item name="2个狮王怒气" productID="200764" itemID="1200664" price="1" vip="1" gold="0" type="-1"/>
+	<item name="15个狮王怒气" productID="200765" itemID="1200665" price="5" vip="1" gold="0" type="-1"/>
+	<item name="2个狮王利爪" productID="200766" itemID="1200666" price="1" vip="1" gold="0" type="-1"/>
+	<item name="15个狮王利爪" productID="200767" itemID="1200667" price="5" vip="1" gold="0" type="-1"/>
+	<item name="2个狮王皮革" productID="200768" itemID="1200668" price="1" vip="1" gold="0" type="-1"/>
+	<item name="15个狮王皮革" productID="200769" itemID="1200669" price="5" vip="1" gold="0" type="-1"/>
+	<item name="2个狮王宝石" productID="200770" itemID="1200670" price="1" vip="1" gold="0" type="-1"/>
+	<item name="15个狮王宝石" productID="200771" itemID="1200671" price="5" vip="1" gold="0" type="-1"/>
+	<item name="狮王一键获得" productID="200772" itemID="1200672" price="20" vip="1" gold="0" type="-1"/>
+	
+	<item name="8层泰姆斯封印" productID="200773" itemID="1200682" price="2" vip="1" gold="0" type="-1"/>
+	<item name="101层泰姆斯封印" productID="200774" itemID="1200683" price="20" vip="1" gold="0" type="-1"/>
+	<item name="一键获得极品泰姆斯" productID="200775" itemID="1200684" price="12" vip="1" gold="0" type="-1"/>
+	<item name="购买格利尔斯的精元" productID="200776" itemID="1200685" price="12" vip="1" gold="0" type="-1"/>
+	<item name="2根灵竹笋" productID="200777" itemID="1200688" price="4" vip="1" gold="0" type="-1"/>
+	<item name="24根灵竹笋" productID="200778" itemID="1200689" price="40" vip="1" gold="0" type="-1"/>
+	<item name="熊猫战将头盔" productID="200779" itemID="1300284" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>							
+	<item name="熊猫战将护手" productID="200780" itemID="1300285" price="4.4" vip="0.5" gold="0" productType="0" type="23"/>
+	<item name="熊猫战将胸甲" productID="200781" itemID="1300286" price="3.2" vip="0.5" gold="0" productType="0" type="24"/>				
+	<item name="熊猫战将皮靴" productID="200782" itemID="1300287" price="3.6" vip="0.5" gold="0" productType="0" type="25"/>	
+	<item name="熊猫战将套装" productID="200783" itemID="1300284|1300285|1300286|1300287" price="15" vip="1" gold="0" productType="0" type="26"/>
+	<item name="熊猫精元套组" productID="200784" itemID="1200690" price="40" vip="1" gold="0" type="-1"/>
+	
+	<item name="蒙奇克的精元M" productID="200785" itemID="1200702" price="30" vip="1" gold="0" type="-1"/>
+	<item name="加瑞尔的精元M" productID="200786" itemID="1200703" price="10" vip="1" gold="0" type="-1"/>
+	<item name="纳扎的精元M" productID="200787" itemID="1200704" price="30" vip="1" gold="0" type="-1"/>
+	<item name="露娜的精元M" productID="200788" itemID="1200705" price="10" vip="1" gold="0" type="-1"/>
+	<item name="布奥尼的精元M" productID="200789" itemID="1200706" price="30" vip="1" gold="0" type="-1"/>
+	<item name="金角大魔王的精元M" productID="200790" itemID="1200707" price="30" vip="1" gold="0" type="-1"/>
+	<item name="菲尔蓬格的精元M" productID="200791" itemID="1200708" price="40" vip="1" gold="0" type="-1"/>
+	<item name="尝试征服雪龙A" productID="200792" itemID="1200709" price="3" vip="1" gold="0" type="-1"/>
+	<item name="尝试征服雪龙B" productID="200793" itemID="1200710" price="5" vip="1" gold="0" type="-1"/>
+	<item name="尝试征服雪龙C" productID="200794" itemID="1200711" price="8" vip="1" gold="0" type="-1"/>
+	<item name="尝试征服雪龙D" productID="200795" itemID="1200712" price="10" vip="1" gold="0" type="-1"/>
+	<item name="100级隆米尔M" productID="200796" itemID="1200713" price="3" vip="1" gold="0" type="-1"/>
+	<item name="100级赫卡特M" productID="200797" itemID="1200714" price="2" vip="1" gold="0" type="-1"/>
+	<item name="100级艾蒂森M" productID="200798" itemID="1200715" price="2" vip="1" gold="0" type="-1"/>
+	<item name="100级罗伯斯M" productID="200799" itemID="1200716" price="2" vip="1" gold="0" type="-1"/>
+	<item name="100级罗伯特M" productID="200800" itemID="1200717" price="2" vip="1" gold="0" type="-1"/>
+	<item name="100级罗斯克M" productID="200801" itemID="1200718" price="2" vip="1" gold="0" type="-1"/>
+	<item name="一键合成精元" productID="200802" itemID="1200719" price="3" vip="1" gold="0" type="-1"/>
+	<item name="一键孵化恶灵兽" productID="200803" itemID="1200720" price="3" vip="1" gold="0" type="-1"/>
+	<item name="一键完成恶灵兽养成" productID="200804" itemID="1200721" price="30" vip="1" gold="0" type="-1"/>
+	<item name="机甲龙骑士头盔" productID="200805" itemID="1300288" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>							
+	<item name="机甲龙骑士护盾" productID="200806" itemID="1300289" price="4.4" vip="0.5" gold="0" productType="0" type="23"/>
+	<item name="机甲龙骑士腰带" productID="200807" itemID="1300290" price="3.2" vip="0.5" gold="0" productType="0" type="24"/>				
+	<item name="机甲龙骑士战靴" productID="200808" itemID="1300291" price="3.6" vip="0.5" gold="0" productType="0" type="25"/>	
+	<item name="机甲龙骑士套装" productID="200809" itemID="1300288|1300289|1300290|1300291" price="15" vip="1" gold="0" productType="0" type="26"/>
+	
+	<item name="精灵刻印普及礼包" productID="200811" itemID="1200730" price="50" vip="1" gold="0" type="-1"/>
+	<item name="随机养成水果精灵" productID="200812" itemID="1200731" price="3" vip="1" gold="0" type="-1"/>
+	<item name="一键获得水果精灵" productID="200813" itemID="1200732" price="4" vip="1" gold="0" type="-1"/>
+	<item name="恶灵战盔" productID="200814" itemID="1300296" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>							
+	<item name="恶灵护手" productID="200815" itemID="1300297" price="4.4" vip="0.5" gold="0" productType="0" type="23"/>
+	<item name="恶灵护甲" productID="200816" itemID="1300298" price="3.2" vip="0.5" gold="0" productType="0" type="24"/>				
+	<item name="恶灵战靴" productID="200817" itemID="1300299" price="3.6" vip="0.5" gold="0" productType="0" type="25"/>	
+	<item name="恶灵铠甲套装" productID="200818" itemID="1300296|1300297|1300298|1300299" price="15" vip="1" gold="0" productType="0" type="26"/>
+	
+	<item name="红色闪电" productID="200819" itemID="1300067" price="10" vip="1" gold="0" type="-1"/>
+	<item name="闪光红色闪电" productID="200820" itemID="1300081" price="15" vip="1" gold="0" type="-1"/>
+	<item name="战队荣耀机甲" productID="200821" itemID="1300068" price="15" vip="1" gold="0" type="-1"/>
+	<item name="闪光旋风天使" productID="200822" itemID="1300105" price="15" vip="1" gold="0" type="-1"/>
+	<item name="普通型猎虎七号" productID="200823" itemID="1300106" price="10" vip="1" gold="0" type="-1"/>
+	<item name="豪华型猎虎七号A" productID="200824" itemID="1300107" price="15" vip="1" gold="0" type="-1"/>
+	<item name="豪华型猎虎七号B" productID="200825" itemID="1300108" price="15" vip="1" gold="0" type="-1"/>
+	<item name="梦幻南瓜车" productID="200826" itemID="1300174" price="10" vip="1" gold="0" type="-1"/>
+	
+	<item name="托鲁克的精元M" productID="200827" itemID="1200738" price="40" vip="1" gold="0" type="-1"/>
+	<item name="金翅托鲁克的精元M" productID="200828" itemID="1200739" price="40" vip="1" gold="0" type="-1"/>
+	<item name="萨瑞卡的精元M" productID="200829" itemID="1200740" price="40" vip="1" gold="0" type="-1"/>
+	<item name="魔化萨瑞卡的精元M" productID="200830" itemID="1200741" price="40" vip="1" gold="0" type="-1"/>
+	<item name="赛伯斯特的精元M" productID="200831" itemID="1200742" price="40" vip="1" gold="0" type="-1"/>
+	<item name="合金赛伯斯特的精元M" productID="200832" itemID="1200743" price="40" vip="1" gold="0" type="-1"/>
+	<item name="5个火拳之力" productID="200833" itemID="1200744" price="3" vip="1" gold="0" type="-1"/>
+	<item name="50个火拳之力" productID="200834" itemID="1200745" price="30" vip="1" gold="0" type="-1"/>
+	<item name="5个冰雪之力" productID="200835" itemID="1200746" price="1" vip="1" gold="0" type="-1"/>
+	<item name="50个冰雪之力" productID="200836" itemID="1200747" price="10" vip="1" gold="0" type="-1"/>
+	<item name="烈焰火拳头盔" productID="200837" itemID="1300300" price="3.8" vip="0.5" gold="0" productType="0" type="21"/>							
+	<item name="烈焰火拳手套" productID="200838" itemID="1300301" price="4.4" vip="0.5" gold="0" productType="0" type="23"/>
+	<item name="烈焰火拳护甲" productID="200839" itemID="1300302" price="3.2" vip="0.5" gold="0" productType="0" type="24"/>				
+	<item name="烈焰火拳战靴" productID="200840" itemID="1300303" price="3.6" vip="0.5" gold="0" productType="0" type="25"/>	
+	<item name="火拳战士套装" productID="200841" itemID="1300300|1300301|1300302|1300303" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	<item name="增加1次大乱斗挑战" productID="200842" itemID="1200749" price="1" vip="1" gold="0" type="-1"/>
+	
+	<item name="8个高能矿石" productID="200843" itemID="1200750" price="3" vip="1" gold="0" type="-1"/>
+	<item name="50个高能矿石" productID="200844" itemID="1200751" price="15" vip="1" gold="0" type="-1"/>
+	<item name="8个聚能弹药" productID="200845" itemID="1200752" price="3" vip="1" gold="0" type="-1"/>
+	<item name="50个聚能弹药" productID="200846" itemID="1200753" price="15" vip="1" gold="0" type="-1"/>
+	<item name="火车侠智能芯片" productID="200847" itemID="1200754" price="10" vip="1" gold="0" type="-1"/>
+	<item name="一键完成小丑来袭任务" productID="200848" itemID="1200755" price="1" vip="1" gold="0" type="-1"/>
+	<item name="一键完成保卫飞船任务" productID="200849" itemID="1200756" price="6" vip="1" gold="0" type="-1"/>
+	<item name="一键完成封印小丑任务" productID="200850" itemID="1200757" price="12" vip="1" gold="0" type="-1"/>
+	<item name="一键完成等待英雄任务" productID="200851" itemID="1200758" price="1" vip="1" gold="0" type="-1"/>
+	<item name="机械战士大黄蜂" productID="200852" itemID="1300304" price="30" vip="1" gold="0" type="-1"/>
+	<item name="爱丽丝套装M" productID="200853" itemID="1200761" price="15" vip="1" gold="0" type="-1"/>
+	<item name="刺蜂套装M" productID="200854" itemID="1200762" price="15" vip="1" gold="0" type="-1"/>
+	<item name="锡蝶套装M" productID="200855" itemID="1200763" price="15" vip="1" gold="0" type="-1"/>
+	<item name="极品养成剂" productID="200856" itemID="1200764" price="25" vip="1" gold="0" type="-1"/>
+	<item name="一键获得勇气号" productID="200857" itemID="1200765" price="38" vip="1" gold="0" type="-1"/>
+	<item name="蝙蝠战警有效历练" productID="200858" itemID="1200771" price="3" vip="1" gold="0" type="-1"/>
+	<item name="蝙蝠战警高效历练" productID="200859" itemID="1200772" price="10" vip="1" gold="0" type="-1"/>
+	<item name="蝙蝠战警一键完成历练" productID="200860" itemID="1200773" price="40" vip="1" gold="0" type="-1"/>
+	<item name="蝙蝠战警座驾" productID="200861" itemID="1300305" price="15" vip="1" gold="0" type="-1"/>
+	
+	<item name="海魂漂流瓶" productID="200862" itemID="1200778" price="5" vip="1" gold="0" type="-1"/>
+	<item name="烈火雀漂流瓶" productID="200863" itemID="1200779" price="5" vip="1" gold="0" type="-1"/>
+	<item name="雪之魂漂流瓶" productID="200864" itemID="1200780" price="3" vip="1" gold="0" type="-1"/>
+	<item name="树灵精漂流瓶" productID="200865" itemID="1200781" price="3" vip="1" gold="0" type="-1"/>
+	<item name="巨岩怪漂流瓶" productID="200866" itemID="1200782" price="3" vip="1" gold="0" type="-1"/>
+	<item name="埃尔夫漂流瓶" productID="200867" itemID="1200783" price="5" vip="1" gold="0" type="-1"/>
+	<item name="拉斐尔漂流瓶" productID="200868" itemID="1200784" price="5" vip="1" gold="0" type="-1"/>
+	<item name="嘟嘟卡拉漂流瓶" productID="200869" itemID="1200785" price="1" vip="1" gold="0" type="-1"/>
+	<item name="贪食龙漂流瓶" productID="200870" itemID="1200786" price="1" vip="1" gold="0" type="-1"/>
+	<item name="塑造正义之盾A" productID="200871" itemID="1200789" price="3" vip="1" gold="0" type="-1"/>
+	<item name="塑造正义之盾B" productID="200872" itemID="1200790" price="5" vip="1" gold="0" type="-1"/>
+	<item name="塑造正义之盾C" productID="200873" itemID="1200791" price="8" vip="1" gold="0" type="-1"/>
+	<item name="塑造正义之盾D" productID="200874" itemID="1200792" price="10" vip="1" gold="0" type="-1"/>
+	<item name="一键获取凯普特的精元" productID="200875" itemID="1200793" price="40" vip="1" gold="0" type="-1"/>
+	<item name="X战队特惠一只" productID="200876" itemID="1200794" price="40" vip="1" gold="0" type="-1"/>
+	<item name="X战队特惠两只" productID="200877" itemID="1200795" price="72" vip="1" gold="0" type="-1"/>
+	<item name="X战队特惠三只" productID="200878" itemID="1200796" price="102" vip="1" gold="0" type="-1"/>
+	<item name="X战队特惠四只" productID="200879" itemID="1200797" price="128" vip="1" gold="0" type="-1"/>
+	<item name="X战队特惠五只" productID="200880" itemID="1200798" price="140" vip="1" gold="0" type="-1"/>
+	<item name="购买速射火球刻印" productID="200881" itemID="1200799" price="5" vip="1" gold="0" type="-1"/>
+	<item name="高级寻宝道具A" productID="200882" itemID="1200800" price="5" vip="1" gold="0" type="-1"/>
+	<item name="高级寻宝道具B" productID="200883" itemID="1200801" price="3" vip="1" gold="0" type="-1"/>
+	<item name="高级寻宝道具C" productID="200884" itemID="1200802" price="1" vip="1" gold="0" type="-1"/>
+	<item name="童年机器帽" productID="200885" itemID="1300306" price="2" vip="1" gold="0" type="-1"/>
+	<item name="童年机器手臂" productID="200886" itemID="1300307" price="2" vip="1" gold="0" type="-1"/>
+	<item name="童年机器外套" productID="200887" itemID="1300308" price="2" vip="1" gold="0" type="-1"/>
+	<item name="童年机器鞋" productID="200888" itemID="1300309" price="2" vip="1" gold="0" type="-1"/>
+	<item name="童年机器猫套装" productID="200889" itemID="1300306|1300307|1300308|1300309" price="8" vip="1" gold="0" productType="0" type="26"/>
+	
+	<item name="始祖灵兽的精元M" productID="200890" itemID="1200810" price="40" vip="1" gold="0" type="-1"/>
+	<item name="炎魔的精元M" productID="200891" itemID="1200811" price="40" vip="1" gold="0" type="-1"/>
+	<item name="鱼龙王的精元M" productID="200892" itemID="1200812" price="40" vip="1" gold="0" type="-1"/>
+	<item name="恢复水手精力" productID="200893" itemID="1200813" price="3" vip="1" gold="0" type="-1"/>
+	<item name="白鹰头盔" productID="200894" itemID="1300318" price="4" vip="1" gold="0" type="-1"/>
+	<item name="白鹰护甲" productID="200895" itemID="1300319" price="5" vip="1" gold="0" type="-1"/>
+	<item name="白鹰腰带" productID="200896" itemID="1300320" price="3" vip="1" gold="0" type="-1"/>
+	<item name="白鹰护靴" productID="200897" itemID="1300321" price="3" vip="1" gold="0" type="-1"/>
+	<item name="白鹰铠甲" productID="200898" itemID="1300318|1300319|1300320|1300321" price="15" vip="1" gold="0" productType="0" type="26"/>
+	<item name="大型攻击刻印" productID="200899" itemID="10027" price="4" vip="1" gold="0" type="-1"/>
+	<item name="大型防御刻印" productID="200900" itemID="10028" price="4" vip="1" gold="0" type="-1"/>
+	<item name="大型特攻刻印" productID="200901" itemID="10029" price="4" vip="1" gold="0" type="-1"/>
+	<item name="大型特防刻印" productID="200902" itemID="10030" price="4" vip="1" gold="0" type="-1"/>
+	<item name="大型速度刻印" productID="200903" itemID="10031" price="4" vip="1" gold="0" type="-1"/>
+	<item name="大型体力刻印" productID="200904" itemID="10032" price="4" vip="1" gold="0" type="-1"/>
+	<item name="精灵刻印特惠礼包" productID="200905" itemID="300066|10027|10028|10029|10030|10031|10032" price="50" vip="1" gold="0" productType="0" type="26"/>
+	<item name="一键获得100级粽小团" productID="200906" itemID="1200815" price="5" vip="1" gold="0" type="-1"/>
+	<item name="一键获得传奇水手奥利昂" productID="200907" itemID="1200819" price="20" vip="1" gold="0" type="-1"/>
+	
+	<item name="一键获得焰皇布雷兹礼包" productID="200908" itemID="1200829" price="40" vip="1" gold="0" type="-1"/>
+	<item name="1块熔岩能量" productID="200909" itemID="1200830" price="2" vip="1" gold="0" type="-1"/>
+	<item name="21块熔岩能量" productID="200910" itemID="1200831" price="40" vip="1" gold="0" type="-1"/>
+	<item name="30块熔岩能量" productID="200911" itemID="1200832" price="50" vip="1" gold="0" type="-1"/>
+	<item name="立即完成天枰平衡" productID="200912" itemID="1200833" price="1" vip="1" gold="0" type="-1"/>
+	<item name="一键获得艾伯特精元A" productID="200913" itemID="1200834" price="20" vip="1" gold="0" type="-1"/>
+	<item name="一键获得艾伯特精元B" productID="200914" itemID="1200835" price="10" vip="1" gold="0" type="-1"/>
+	<item name="降低金狮1星难度" productID="200915" itemID="1200836" price="1" vip="1" gold="0" type="-1"/>
+	<item name="降低金狮2星难度" productID="200916" itemID="1200837" price="2" vip="1" gold="0" type="-1"/>
+	<item name="降低金狮3星难度" productID="200917" itemID="1200838" price="3" vip="1" gold="0" type="-1"/>
+	<item name="降低金狮4星难度" productID="200918" itemID="1200839" price="4" vip="1" gold="0" type="-1"/>
+	<item name="金狮头盔" productID="200919" itemID="1300322" price="2" vip="1" gold="0" type="-1"/>
+	<item name="金狮圣甲" productID="200920" itemID="1300323" price="4" vip="1" gold="0" type="-1"/>
+	<item name="金狮腰恺" productID="200921" itemID="1300324" price="2" vip="1" gold="0" type="-1"/>
+	<item name="金狮圣靴" productID="200922" itemID="1300325" price="2" vip="1" gold="0" type="-1"/>
+	<item name="金狮圣甲套装" productID="200923" itemID="1300322|1300323|1300324|1300325" price="10" vip="1" gold="0" productType="0" type="26"/>
+	
+	<item name="尝试解除后羿封印A" productID="200924" itemID="1200842" price="5" vip="1" gold="0" type="-1"/>
+	<item name="尝试解除后羿封印B" productID="200925" itemID="1200843" price="8" vip="1" gold="0" type="-1"/>
+	<item name="尝试解除后羿封印C" productID="200926" itemID="1200844" price="10" vip="1" gold="0" type="-1"/>
+	<item name="一键获得后羿礼包" productID="200927" itemID="1200845" price="50" vip="1" gold="0" type="-1"/>
+	<item name="一键获得满级沃尔德" productID="200928" itemID="1200846" price="15" vip="1" gold="0" type="-1"/>
+	
+	<item name="后羿战盔" productID="200929" itemID="1300326" price="4" vip="1" gold="0" type="-1"/>
+	<item name="后羿胸甲" productID="200930" itemID="1300327" price="4" vip="1" gold="0" type="-1"/>
+	<item name="后羿手铠" productID="200931" itemID="1300328" price="3" vip="1" gold="0" type="-1"/>
+	<item name="后羿战靴" productID="200932" itemID="1300329" price="4" vip="1" gold="0" type="-1"/>
+	<item name="后羿战甲套装" productID="200933" itemID="1300326|1300327|1300328|1300329" price="15" vip="1" gold="0" productType="0" type="26"/>
+	
+	<item name="紫光战盔" productID="200934" itemID="1300330" price="4" vip="0.5" gold="0" type="-1"/>
+	<item name="紫光铁甲" productID="200935" itemID="1300331" price="4" vip="0.5" gold="0" type="-1"/>
+	<item name="紫光腰带" productID="200936" itemID="1300332" price="3" vip="0.5" gold="0" type="-1"/>
+	<item name="紫光战靴" productID="200937" itemID="1300333" price="4" vip="0.5" gold="0" type="-1"/>
+	<item name="紫光战甲套装" productID="200938" itemID="1300330|1300331|1300332|1300333" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	
+	
+	<item name="8个恒金" productID="200939" itemID="1200851" price="3" vip="1" gold="0" type="-1"/>
+	<item name="50个恒金" productID="200940" itemID="1200852" price="15" vip="1" gold="0" type="-1"/>
+	<item name="8个泰坦钢" productID="200941" itemID="1200853" price="3" vip="1" gold="0" type="-1"/>
+	<item name="50个泰坦钢" productID="200942" itemID="1200854" price="15" vip="1" gold="0" type="-1"/>
+	<item name="1个折戟碎片" productID="200943" itemID="1200855" price="1" vip="1" gold="0" type="-1"/>
+	<item name="12个折戟碎片" productID="200944" itemID="1200856" price="10" vip="1" gold="0" type="-1"/>
+	<item name="一键获得罗恩斯" productID="200945" itemID="1200857" price="40" vip="1" gold="0" type="-1"/>
+	<item name="一键提升满级" productID="200946" itemID="1200858" price="6" vip="1" gold="0" type="-1"/>
+	
+	<item name="大地战盔" productID="200947" itemID="1300342" price="4" vip="0.5" gold="0" type="-1"/>
+	<item name="大地战甲" productID="200948" itemID="1300343" price="4" vip="0.5" gold="0" type="-1"/>
+	<item name="大地战腰" productID="200949" itemID="1300344" price="3" vip="0.5" gold="0" type="-1"/>
+	<item name="大地战靴" productID="200950" itemID="1300345" price="4" vip="0.5" gold="0" type="-1"/>
+	<item name="大地铠甲套装" productID="200951" itemID="1300342|1300343|1300344|1300345" price="15" vip="0.5" gold="0" productType="0" type="26"/>
+	
+	<item name="暗晶战盔" productID="200952" itemID="1300346" price="2" vip="0.5" gold="0" type="-1"/>
+	<item name="暗晶战甲" productID="200953" itemID="1300347" price="4" vip="0.5" gold="0" type="-1"/>
+	<item name="暗晶腰带" productID="200954" itemID="1300348" price="2" vip="0.5" gold="0" type="-1"/>
+	<item name="暗晶战靴" productID="200955" itemID="1300349" price="2" vip="0.5" gold="0" type="-1"/>
+	<item name="暗晶战蝠套装" productID="200956" itemID="1300346|1300347|1300348|1300349" price="10" vip="0.5" gold="0" productType="0" type="26"/>
+	
+	<item name="一键跳过摩耶斯治疗" productID="200957" itemID="1200861" price="3" vip="1" gold="0" type="-1"/>
+	
+	<item name="购买补签卡" productID="200958" itemID="1200870" price="1" vip="1" gold="0" type="-1"/>
+	<item name="一键获得詹姆斯的精元" productID="200959" itemID="1200871" price="10" vip="1" gold="0" type="-1"/>
+	<item name="2块武装芯片" productID="200960" itemID="1200872" price="1" vip="1" gold="0" type="-1"/>
+	<item name="10块武装芯片" productID="200961" itemID="1200873" price="3" vip="1" gold="0" type="-1"/>
+	<item name="一键获得埃德蒙的精元" productID="200962" itemID="1200874" price="15" vip="1" gold="0" type="-1"/>
+	<item name="再次挑战埃德蒙" productID="200963" itemID="1200875" price="1" vip="1" gold="0" type="-1"/>
+	<item name="直接购买王者精灵" productID="200964" itemID="1200876" price="40" vip="1" gold="0" type="-1"/>
+	<item name="优惠购买王者精灵A" productID="200965" itemID="1200877" price="35" vip="1" gold="0" type="-1"/>
+	<item name="优惠购买王者精灵B" productID="200966" itemID="1200878" price="30" vip="1" gold="0" type="-1"/>
+	<item name="优惠购买王者精灵C" productID="200967" itemID="1200879" price="25" vip="1" gold="0" type="-1"/>
+	<item name="优惠购买王者精灵D" productID="200968" itemID="1200880" price="20" vip="1" gold="0" type="-1"/>
+	<item name="优惠购买王者精灵E" productID="200969" itemID="1200881" price="15" vip="1" gold="0" type="-1"/>
+	<item name="优惠购买王者精灵F" productID="200970" itemID="1200882" price="10" vip="1" gold="0" type="-1"/>
+	<item name="优惠购买王者精灵G" productID="200971" itemID="1200883" price="5" vip="1" gold="0" type="-1"/>
+	<item name="泰古拉的精元M" productID="200972" itemID="1200884" price="40" vip="1" gold="0" type="-1"/>
+	<item name="100个老兵勋章" productID="200973" itemID="1200885" price="1" vip="1" gold="0" type="-1"/>
+	<item name="巨尾灵狐" productID="200974" itemID="1200886" price="5" vip="1" gold="0" type="-1"/>
+	<item name="妖狐之力" productID="200975" itemID="1200887" price="40" vip="1" gold="0" type="-1"/>
+	<item name="超级历练" productID="200976" itemID="1200888" price="2" vip="1" gold="0" type="-1"/>
+	
+	<item name="坐骑精灵购买道具A" productID="200977" itemID="1200891" price="5" vip="1" gold="0" type="-1"/>
+	<item name="坐骑精灵购买道具B" productID="200978" itemID="1200892" price="10" vip="1" gold="0" type="-1"/>
+	<item name="坐骑精灵购买道具C" productID="200979" itemID="1200893" price="15" vip="1" gold="0" type="-1"/>
+	<item name="坐骑精灵购买道具D" productID="200980" itemID="1200894" price="30" vip="1" gold="0" type="-1"/>
+	<item name="坐骑精灵购买道具E" productID="200981" itemID="1200895" price="25" vip="1" gold="0" type="-1"/>
+	<item name="坐骑精灵购买道具F" productID="200982" itemID="1200896" price="50" vip="1" gold="0" type="-1"/>
+	<item name="坐骑精灵购买道具G" productID="200983" itemID="1200897" price="8" vip="1" gold="0" type="-1"/>
+	<item name="坐骑精灵购买道具H" productID="200984" itemID="1200898" price="20" vip="1" gold="0" type="-1"/>
+	<item name="坐骑精灵购买道具I" productID="200985" itemID="1200899" price="24" vip="1" gold="0" type="-1"/>
+	<item name="坐骑精灵购买道具J" productID="200986" itemID="1200900" price="32" vip="1" gold="0" type="-1"/>
+	<item name="一键获得迈尼斯" productID="200987" itemID="1200904" price="15" vip="1" gold="0" type="-1"/>
+	<item name="第二次召唤" productID="200988" itemID="1200905" price="2" vip="1" gold="0" type="-1"/>
+	<item name="第三次召唤" productID="200989" itemID="1200906" price="3" vip="1" gold="0" type="-1"/>
+	<item name="第四次召唤" productID="200990" itemID="1200907" price="5" vip="1" gold="0" type="-1"/>
+	<item name="第五次召唤" productID="200991" itemID="1200908" price="7" vip="1" gold="0" type="-1"/>
+	<item name="第六次召唤" productID="200992" itemID="1200909" price="10" vip="1" gold="0" type="-1"/>
+	<item name="第七次召唤" productID="200993" itemID="1200910" price="13" vip="1" gold="0" type="-1"/>
+	<item name="一键获得英普瑞斯" productID="200994" itemID="1200911" price="40" vip="1" gold="0" type="-1"/>
+	<item name="回馈价买X战队" productID="200995" itemID="1200912" price="32" vip="1" gold="0" type="-1"/>
+	<item name="回馈价买二只" productID="200996" itemID="1200913" price="64" vip="1" gold="0" type="-1"/>
+	<item name="回馈价买三只" productID="200997" itemID="1200914" price="96" vip="1" gold="0" type="-1"/>
+	<item name="回馈价买四只" productID="200998" itemID="1200915" price="128" vip="1" gold="0" type="-1"/>
+	<item name="回馈价买五只" productID="200999" itemID="1200916" price="160" vip="1" gold="0" type="-1"/>
+	<item name="回馈价买六只" productID="201000" itemID="1200917" price="192" vip="1" gold="0" type="-1"/>
+	
+	<item name="正义军团战机" productID="201001" itemID="1300370" price="20" vip="1" gold="0" type="-1"/> 
+	<item name="恶魔傀儡战机" productID="201002" itemID="1300371" price="20" vip="1" gold="0" type="-1"/> 
+	<item name="正义与恶魔战机" productID="201003" itemID="1200921" price="25" vip="1" gold="0" type="-1"/> 
+	<item name="强效修复铠甲" productID="201004" itemID="1200922" price="2" vip="1" gold="0" type="-1"/> 
+	<item name="一键获得萨图斯礼包" productID="201005" itemID="1200923" price="25" vip="1" gold="0" type="-1"/> 
+	<item name="1个光轮之力" productID="201006" itemID="1200926" price="2" vip="1" gold="0" type="-1"/> 
+	<item name="21个光轮之力" productID="201007" itemID="1200927" price="40" vip="1" gold="0" type="-1"/> 
+	<item name="30个光轮之力" productID="201008" itemID="1200928" price="50" vip="1" gold="0" type="-1"/> 
+	<item name="一键获得鲁伊斯礼包" productID="201009" itemID="1200929" price="40" vip="1" gold="0" type="-1"/> 
+	<item name="3次转动机会" productID="201010" itemID="1200934" price="1" vip="1" gold="0" type="-1"/>
+	
+	<item name="幻影剑客斗笠" productID="201011" itemID="1300372" price="4" vip="1" gold="0" type="-1"/>
+	<item name="幻影剑客战甲" productID="201012" itemID="1300373" price="2" vip="1" gold="0" type="-1"/>
+	<item name="幻影剑客束腰" productID="201013" itemID="1300374" price="2" vip="1" gold="0" type="-1"/>
+	<item name="幻影剑客轻靴" productID="201014" itemID="1300375" price="2" vip="1" gold="0" type="-1"/>
+	<item name="钢铁炮手战盔" productID="201015" itemID="1300376" price="4" vip="1" gold="0" type="-1"/>
+	<item name="钢铁炮手重甲" productID="201016" itemID="1300377" price="2" vip="1" gold="0" type="-1"/>
+	<item name="钢铁炮手腰带" productID="201017" itemID="1300378" price="2" vip="1" gold="0" type="-1"/>
+	<item name="钢铁炮手重靴" productID="201018" itemID="1300379" price="2" vip="1" gold="0" type="-1"/>
+	<item name="5次寻找龙珠机会" productID="201019" itemID="1200942" price="1" vip="1" gold="0" type="-1"/>
+	<item name="德莱坦付费修炼" productID="201020" itemID="1200946" price="2" vip="1" gold="0" type="-1"/>
+	<item name="一键获得德莱坦" productID="201021" itemID="1200947" price="35" vip="1" gold="0" type="-1"/>
+    <item name="幻影剑客套装" productID="201022" itemID="1300372|1300373|1300374|1300375" price="10" vip="1" gold="0" productType="0" type="26"/>
+	<item name="钢铁炮手套装" productID="201023" itemID="1300376|1300377|1300378|1300379" price="10" vip="1" gold="0" productType="0" type="26"/>
+	<item name="一键获得极品德莱坦" productID="201024" itemID="1200948" price="50" vip="1" gold="0" type="-1"/>
+	
+	<item name="吉米丽娅的精元M" productID="201025" itemID="1200949" price="30" vip="1" gold="0" type="-1"/>
+	<item name="斯特尔的精元M" productID="201026" itemID="1200950" price="30" vip="1" gold="0" type="-1"/>
+	<item name="艾克斯的精元M" productID="201027" itemID="1200951" price="30" vip="1" gold="0" type="-1"/>
+	<item name="桑诺特的精元M" productID="201028" itemID="1200952" price="15" vip="1" gold="0" type="-1"/>
+	<item name="威沃夫的精元M" productID="201029" itemID="1200953" price="10" vip="1" gold="0" type="-1"/>
+	<item name="威里特的精元M" productID="201030" itemID="1200954" price="10" vip="1" gold="0" type="-1"/>
+	<item name="购买熔炼机会" productID="201031" itemID="1200956" price="2" vip="1" gold="0" type="-1"/>
+	<item name="哈克萨斯超级历练" productID="201032" itemID="1200957" price="3" vip="1" gold="0" type="-1"/>
+	<item name="一键获得哈克萨斯" productID="201033" itemID="1200958" price="60" vip="1" gold="0" type="-1"/>
+	<item name="一键快速极品" productID="201034" itemID="1200959" price="25" vip="1" gold="0" type="-1"/>
+	<item name="一键获得厄齐尔" productID="201035" itemID="1200960" price="25" vip="1" gold="0" type="-1"/>
+	<item name="厄尔斯挑战次数" productID="201036" itemID="1200966" price="2" vip="1" gold="0" type="-1"/>
+	
+	<item name="特惠购买米宝精灵" productID="201037" itemID="1200967" price="1" vip="1" gold="0" type="-1"/> 
+	<item name="全价购买佐思德" productID="201038" itemID="1200968" price="8" vip="1" gold="0" type="-1"/> 
+	<item name="全价购买凯琳" productID="201039" itemID="1200969" price="5" vip="1" gold="0" type="-1"/> 
+	<item name="全价购买果然苹果多" productID="201040" itemID="1200970" price="7" vip="1" gold="0" type="-1"/> 
+	<item name="全价购买安吉拉" productID="201041" itemID="1200971" price="10" vip="1" gold="0" type="-1"/> 
+	<item name="全价购买萨姆" productID="201042" itemID="1200972" price="10" vip="1" gold="0" type="-1"/> 
+	<item name="全价购买伯桑克" productID="201043" itemID="1200973" price="10" vip="1" gold="0" type="-1"/> 
+	<item name="全价购买布鲁恩特" productID="201044" itemID="1200974" price="10" vip="1" gold="0" type="-1"/> 
+	<item name="全价购买闪光迈克瑞" productID="201045" itemID="1200975" price="10" vip="1" gold="0" type="-1"/> 
+	<item name="一键获得地狱魔蛛礼包" productID="201046" itemID="1200976" price="30" vip="1" gold="0" type="-1"/> 
+	<item name="万能徽章" productID="201047" itemID="1200984" price="2" vip="1" gold="0" type="-1"/> 
+	<item name="一键领取恶灵兽" productID="201048" itemID="1200985" price="30" vip="1" gold="0" type="-1"/> 
+	
+	<item name="购买神奇补签卡" productID="201049" itemID="1200992" price="2" vip="1" gold="0" type="-1"/> 
+	<item name="脱颖而出A" productID="201050" itemID="1200995" price="2" vip="1" gold="0" type="-1"/> 
+	<item name="脱颖而出B" productID="201051" itemID="1200996" price="5" vip="1" gold="0" type="-1"/> 
+	<item name="脱颖而出C" productID="201052" itemID="1200997" price="14" vip="1" gold="0" type="-1"/> 
+	<item name="超凡入圣" productID="201053" itemID="1200998" price="19" vip="1" gold="0" type="-1"/> 
+	<item name="一键获得撼地神牛礼包" productID="201054" itemID="1200999" price="40" vip="1" gold="0" type="-1"/> 
+	<item name="一键获得佩特礼包" productID="201055" itemID="1201000" price="30" vip="1" gold="0" type="-1"/> 
+	<item name="付费挑战佩特" productID="201056" itemID="1700003" price="2" vip="1" gold="0" type="-1"/> 
+	<item name="购买普No挑战暗黑武斗场次数" productID="201057" itemID="1700004" price="1" vip="1" gold="0" type="-1"/>
+	<item name="购买暗黑迷宫付费原地复活次数" productID="201058" itemID="1700005" price="5" vip="1" gold="0" type="-1"/>
+	
+	<item name="第二次召唤萨里奥" productID="201059" itemID="1700011" price="2" vip="1" gold="0" type="-1"/> 
+	<item name="第三次召唤萨里奥" productID="201060" itemID="1700012" price="3" vip="1" gold="0" type="-1"/> 
+	<item name="第四次召唤萨里奥" productID="201061" itemID="1700013" price="5" vip="1" gold="0" type="-1"/> 
+	<item name="第五次召唤萨里奥" productID="201062" itemID="1700014" price="7" vip="1" gold="0" type="-1"/> 
+	<item name="第六次召唤萨里奥" productID="201063" itemID="1700015" price="10" vip="1" gold="0" type="-1"/> 
+	<item name="第七次召唤萨里奥" productID="201064" itemID="1700016" price="13" vip="1" gold="0" type="-1"/> 
+	<item name="一键获得萨里奥礼包" productID="201065" itemID="1700017" price="40" vip="1" gold="0" type="-1"/> 
+	<item name="雷米勒超级提升" productID="201066" itemID="1700019" price="3" vip="1" gold="0" type="-1"/> 
+	<item name="一键获得雷米勒礼包" productID="201067" itemID="1700020" price="30" vip="1" gold="0" type="-1"/> 
+	
+	<item name="重新开始寻找战神联盟" productID="201068" itemID="1700023" price="1" vip="1" gold="0" type="-1"/>
+	<item name="第1次失败后继续寻找" productID="201069" itemID="1700024" price="1" vip="1" gold="0" type="-1"/>
+	<item name="第2次失败后继续寻找" productID="201070" itemID="1700025" price="8" vip="1" gold="0" type="-1"/>
+	<item name="第3次失败后继续寻找" productID="201071" itemID="1700026" price="16" vip="1" gold="0" type="-1"/>
+	<item name="第4次失败后继续寻找" productID="201072" itemID="1700027" price="32" vip="1" gold="0" type="-1"/>
+	<item name="购买雷米勒挑战次数" productID="201073" itemID="1700028" price="1" vip="1" gold="0" type="-1"/>
+	
+	<item name="半价获得鱼龙王礼包" productID="201074" itemID="1700030" price="20" vip="1" gold="0" type="-1"/>
+	<item name="半价获得炎魔礼包" productID="201075" itemID="1700031" price="20" vip="1" gold="0" type="-1"/>
+	<item name="半价获得始祖灵兽礼包" productID="201076" itemID="1700032" price="20" vip="1" gold="0" type="-1"/>
+	<item name="一键获得烈焰火拳劳伦斯" productID="201077" itemID="1700033" price="30" vip="1" gold="0" type="-1"/>
+	<item name="一键获得冰雪之力贝克特" productID="201078" itemID="1700034" price="10" vip="1" gold="0" type="-1"/>
+	<item name="御龙战将头盔" productID="201079" itemID="1300401" price="5" vip="0.5" gold="0" type="-1"/>
+	<item name="御龙战将护手" productID="201080" itemID="1300402" price="5" vip="0.5" gold="0" type="-1"/>
+	<item name="御龙战将腰带" productID="201081" itemID="1300403" price="5" vip="0.5" gold="0" type="-1"/>
+	<item name="御龙战将重靴" productID="201082" itemID="1300404" price="5" vip="0.5" gold="0" type="-1"/>
+	<item name="御龙战甲" productID="201083" itemID="1300401|1300402|1300403|1300404" price="20" vip="0.5" gold="0" type="-1"/>
+	<item name="50个塞伯坦能量块" productID="201084" itemID="1700042" price="5" vip="1" gold="0" type="-1"/>
+	<item name="200个塞伯坦能量块" productID="201085" itemID="1700043" price="18" vip="1" gold="0" type="-1"/>
+	<item name="500个塞伯坦能量块" productID="201086" itemID="1700044" price="40" vip="1" gold="0" type="-1"/>
+	<item name="一键获得科雷傲礼包" productID="201087" itemID="1700045" price="40" vip="1" gold="0" type="-1"/>
+	<item name="立即完成搜索能量块" productID="201088" itemID="1700046" price="1" vip="1" gold="0" type="-1"/>
+	<item name="全价购买鱼龙王礼包" productID="201089" itemID="1700047" price="40" vip="1" gold="0" type="-1"/> 
+	<item name="全价购买炎魔礼包" productID="201090" itemID="1700048" price="40" vip="1" gold="0" type="-1"/> 
+	<item name="全价购买始祖灵兽礼包" productID="201091" itemID="1700049" price="40" vip="1" gold="0" type="-1"/> 
+	
+	<item name="极品刻印礼包" productID="201092" itemID="10013|10014|10015|10016|10017|10018" price="10" vip="1" gold="0" type="-1"/>
+	<item name="第二个火焰之灵" productID="201093" itemID="1700059" price="1" vip="1" gold="0" type="-1"/>
+	<item name="第三个火焰之灵" productID="201094" itemID="1700060" price="3" vip="1" gold="0" type="-1"/>
+	<item name="第四个火焰之灵" productID="201095" itemID="1700061" price="4" vip="1" gold="0" type="-1"/>
+	<item name="第五个火焰之灵" productID="201096" itemID="1700062" price="8" vip="1" gold="0" type="-1"/>
+	<item name="第六个火焰之灵" productID="201097" itemID="1700063" price="10" vip="1" gold="0" type="-1"/>
+	<item name="第七个火焰之灵" productID="201098" itemID="1700064" price="12" vip="1" gold="0" type="-1"/>
+	<item name="第八个火焰之灵" productID="201099" itemID="1700065" price="12" vip="1" gold="0" type="-1"/>
+	<item name="5折获得吉米丽娅超进化礼包" productID="201100" itemID="1700066" price="40" vip="1" gold="0" type="-1"/>
+	<item name="吉米丽娅超进化礼包" productID="201101" itemID="1700067" price="50" vip="1" gold="0" type="-1"/>
+	<item name="赛克齐一键加满礼包" productID="201102" itemID="1700068" price="20" vip="1" gold="0" type="-1"/>
+	<item name="一键获得赛克齐礼包" productID="201103" itemID="1700069" price="20" vip="1" gold="0" type="-1"/>
+	<item name="付费进行赛克齐特训" productID="201104" itemID="1700070" price="1" vip="1" gold="0" type="-1"/>
+	
+	<item name="巴弗洛的精元M" productID="201105" itemID="1700072" price="10" vip="1" gold="0" type="-1"/>
+	<item name="布鲁克克的精元M" productID="201106" itemID="1700073" price="5" vip="1" gold="0" type="-1"/>
+	<item name="该隐的精元M" productID="201107" itemID="1700074" price="5" vip="1" gold="0" type="-1"/>
+	<item name="魔花仙子的精元M" productID="201108" itemID="1700075" price="5" vip="1" gold="0" type="-1"/>
+	<item name="索克斯的精元M" productID="201109" itemID="1700076" price="10" vip="1" gold="0" type="-1"/>
+	<item name="鲁比克的精元M" productID="201110" itemID="1700077" price="5" vip="1" gold="0" type="-1"/>
+	<item name="史密斯的精元M" productID="201111" itemID="1700078" price="10" vip="1" gold="0" type="-1"/>
+	<item name="格鲁奇高的精元M" productID="201112" itemID="1700079" price="5" vip="1" gold="0" type="-1"/>
+	<item name="凯恩德的精元M" productID="201113" itemID="1700080" price="10" vip="1" gold="0" type="-1"/>
+	<item name="可泰勒的精元M" productID="201114" itemID="1700081" price="10" vip="1" gold="0" type="-1"/>
+	<item name="阿哆啦的精元M" productID="201115" itemID="1700082" price="10" vip="1" gold="0" type="-1"/>
+	<item name="2个月光之石" productID="201116" itemID="1700087" price="4" vip="1" gold="0" type="-1"/>
+	<item name="24个月光之石" productID="201117" itemID="1700088" price="40" vip="1" gold="0" type="-1"/>
+	<item name="34个月光之石" productID="201118" itemID="1700089" price="55" vip="1" gold="0" type="-1"/>
+	<item name="一键获得泰兰德礼包" productID="201119" itemID="1700090" price="40" vip="1" gold="0" type="-1"/>
+	<item name="破月战盔" productID="201120" itemID="1300413" price="5" vip="1" gold="0" type="-1"/>
+	<item name="破月护手" productID="201121" itemID="1300414" price="5" vip="1" gold="0" type="-1"/>
+	<item name="破月胸甲" productID="201122" itemID="1300415" price="5" vip="1" gold="0" type="-1"/>
+	<item name="破月战靴" productID="201123" itemID="1300416" price="5" vip="1" gold="0" type="-1"/>
+	<item name="破月套装" productID="201124" itemID="1300413|1300414|1300415|1300416" price="20" vip="1" gold="0" type="-1"/>
+	<item name="保卫战购买布奥尼" productID="201125" itemID="1700099" price="30" vip="1" gold="0" type="-1"/>
+	<item name="保卫战购买纳扎" productID="201126" itemID="1700100" price="30" vip="1" gold="0" type="-1"/>
+	<item name="保卫战购买威沃夫" productID="201127" itemID="1700101" price="10" vip="1" gold="0" type="-1"/>
+	<item name="保卫战购买威里特" productID="201128" itemID="1700102" price="10" vip="1" gold="0" type="-1"/>
+	
+	<item name="阿德莱特的精元M" productID="201129" itemID="1700104" price="10" vip="1" gold="0" type="-1"/> 
+	<item name="阿德洛卡的精元M" productID="201130" itemID="1700105" price="10" vip="1" gold="0" type="-1"/> 
+	<item name="购买光影能量" productID="201131" itemID="1700110" price="1" vip="1" gold="0" type="-1"/> 
+	<item name="增加1次挑战玛维的机会" productID="201132" itemID="1700116" price="1" vip="1" gold="0" type="-1"/> 
+	<item name="一键获得玛维礼包" productID="201133" itemID="1700117" price="30" vip="1" gold="0" type="-1"/> 
+	
+	<item name="购买影魔礼包" productID="201134" itemID="1700118" price="40" vip="1" gold="0" type="-1"/>
+	<item name="魔神恐惧战盔" productID="201135" itemID="1300425" price="4" vip="1" gold="0" type="-1"/>
+	<item name="魔神恐惧护手" productID="201136" itemID="1300426" price="2" vip="1" gold="0" type="-1"/>
+	<item name="魔神恐惧胸甲" productID="201137" itemID="1300427" price="2" vip="1" gold="0" type="-1"/>
+	<item name="魔神恐惧战靴" productID="201138" itemID="1300428" price="2" vip="1" gold="0" type="-1"/>
+	<item name="魔神恐惧套装" productID="201139" itemID="1300425|1300426|1300427|1300428" price="10" vip="1" gold="0"  productType="1" type="-1"/>
+	<item name="第二次召唤珀修斯" productID="201140" itemID="1700123" price="2" vip="1" gold="0" type="-1"/>
+	<item name="第三次召唤珀修斯" productID="201141" itemID="1700124" price="3" vip="1" gold="0" type="-1"/>
+	<item name="第四次召唤珀修斯" productID="201142" itemID="1700125" price="5" vip="1" gold="0" type="-1"/>
+	<item name="第五次召唤珀修斯" productID="201143" itemID="1700126" price="7" vip="1" gold="0" type="-1"/>
+	<item name="第六次召唤珀修斯" productID="201144" itemID="1700127" price="10" vip="1" gold="0" type="-1"/>
+	<item name="第七次召唤珀修斯" productID="201145" itemID="1700128" price="13" vip="1" gold="0" type="-1"/>
+	<item name="一键获得珀修斯礼包" productID="201146" itemID="1700129" price="40" vip="1" gold="0" type="-1"/>
+	<item name="一键获得伯莱恩礼包" productID="201147" itemID="1700130" price="20" vip="1" gold="0" type="-1"/>
+	<item name="付费聚集伯莱恩的能量" productID="201148" itemID="1700131" price="1" vip="1" gold="0" type="-1"/>
+	<item name="一键极品普通回馈" productID="201149" itemID="1700132" price="20" vip="1" gold="0" type="-1"/>
+	<item name="一键极品中级回馈" productID="201150" itemID="1700133" price="18" vip="1" gold="0" type="-1"/>
+	<item name="一键极品超级回馈" productID="201151" itemID="1700134" price="16" vip="1" gold="0" type="-1"/>
+	<item name="一键极品至尊回馈" productID="201152" itemID="1700135" price="13" vip="1" gold="0" type="-1"/>
+	<item name="地球保卫者 流浪号" productID="201153" itemID="1300433" price="20" vip="1" gold="0" type="-1"/>
+	
+	<item name="戈登的精元M" productID="201154" itemID="1700137" price="10" vip="1" gold="0" type="-1"/> 
+	<item name="戈登的精元M特惠" productID="201155" itemID="1700138" price="5" vip="1" gold="0" type="-1"/> 
+	<item name="索克斯的精元M特惠" productID="201156" itemID="1700139" price="5" vip="1" gold="0" type="-1"/> 
+	<item name="史密斯的精元M特惠" productID="201157" itemID="1700140" price="5" vip="1" gold="0" type="-1"/> 
+	<item name="赫尔托克的精元M" productID="201158" itemID="1700141" price="30" vip="1" gold="0" type="-1"/> 
+	<item name="赫尔托克的精元M特惠" productID="201159" itemID="1700142" price="15" vip="1" gold="0" type="-1"/> 
+	<item name="启明兽的精元M" productID="201160" itemID="1700143" price="20" vip="1" gold="0" type="-1"/> 
+	<item name="启明兽的精元M特惠" productID="201161" itemID="1700144" price="10" vip="1" gold="0" type="-1"/> 
+	<item name="迪蒙的精元M" productID="201162" itemID="1700145" price="20" vip="1" gold="0" type="-1"/> 
+	<item name="迪蒙的精元M特惠" productID="201163" itemID="1700146" price="10" vip="1" gold="0" type="-1"/> 
+	<item name="解除战靴封印" productID="201164" itemID="1700152" price="1" vip="1" gold="0" type="-1"/> 
+	<item name="解除头盔封印" productID="201165" itemID="1700153" price="2" vip="1" gold="0" type="-1"/> 
+	<item name="解除胸甲封印" productID="201166" itemID="1700154" price="7" vip="1" gold="0" type="-1"/> 
+	<item name="解除盾牌封印" productID="201167" itemID="1700155" price="10" vip="1" gold="0" type="-1"/> 
+	<item name="解除利矛封印" productID="201168" itemID="1700156" price="10" vip="1" gold="0" type="-1"/> 
+	<item name="解除翅膀封印" productID="201169" itemID="1700157" price="10" vip="1" gold="0" type="-1"/> 
+	<item name="一键获得艾利尤斯礼包" productID="201170" itemID="1700158" price="40" vip="1" gold="0" type="-1"/> 
+	<item name="商城购买索克斯的精元M" productID="201171" itemID="1700163"  price="10" vip="1" gold="0" type="-1"/>
+	<item name="商城购买史密斯的精元M" productID="201172" itemID="1700164"  price="10" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201173" itemID="1700166" name="一键购买武尊礼包" price="15" vip="1" gold="0" type="-1"/> 
+	<item productID="201174" itemID="1700174" name="10个部落徽记" price="5" vip="1" gold="0" type="-1"/> 
+	<item productID="201175" itemID="1700175" name="40个部落徽记" price="18" vip="1" gold="0" type="-1"/> 
+	<item productID="201176" itemID="1700176" name="100个部落徽记" price="40" vip="1" gold="0" type="-1"/> 
+	<item productID="201177" itemID="1700177" name="1次试炼机会" price="1" vip="1" gold="0" type="-1"/> 
+	<item productID="201178" itemID="1700178" name="一键获得凯纳利斯礼包" price="40" vip="1" gold="0" type="-1"/> 
+	
+	<item productID="201179" itemID="1700187" name="米币打造神剑" price="1" vip="1" gold="0" type="-1"/> 
+	<item productID="201180" itemID="1700188" name="折上折购买无极剑圣礼包" price="8" vip="1" gold="0" type="-1"/> 
+	<item productID="201181" itemID="1700189" name="半价购买无极剑圣礼包" price="15" vip="1" gold="0" type="-1"/> 
+	<item productID="201182" itemID="1700199" name="一键获得海瑟尔礼包" price="30" vip="1" gold="0" type="-1"/> 
+	<item productID="201183" itemID="1700200" name="大地祝福" price="10" vip="1" gold="0" type="-1"/> 
+	<item productID="201184" itemID="1700201" name="天空祝福" price="10" vip="1" gold="0" type="-1"/> 
+	<item productID="201185" itemID="1700202" name="海洋祝福" price="10" vip="1" gold="0" type="-1"/> 
+	<item productID="201186" itemID="1700203" name="挑战1次海瑟尔" price="1" vip="1" gold="0" type="-1"/> 
+	
+	<item productID="201187" itemID="1700205" name="精灵刻印武装礼包" price="30" vip="1" gold="0" type="-1"/> 
+	<item productID="201188" itemID="1700210" name="开启第2个星座" price="2" vip="1" gold="0" type="-1"/> 
+	<item productID="201189" itemID="1700211" name="开启第3个星座" price="5" vip="1" gold="0" type="-1"/> 
+	<item productID="201190" itemID="1700212" name="开启第4个星座" price="5" vip="1" gold="0" type="-1"/> 
+	<item productID="201191" itemID="1700213" name="开启第5个星座" price="7" vip="1" gold="0" type="-1"/> 
+	<item productID="201192" itemID="1700214" name="开启第6个星座" price="7" vip="1" gold="0" type="-1"/> 
+	<item productID="201193" itemID="1700215" name="开启第7个星座" price="7" vip="1" gold="0" type="-1"/> 
+	<item productID="201194" itemID="1700216" name="开启第8个星座" price="7" vip="1" gold="0" type="-1"/> 
+	<item productID="201195" itemID="1700217" name="开启第9个星座" price="7" vip="1" gold="0" type="-1"/> 
+	<item productID="201196" itemID="1700218" name="开启第10个星座" price="7" vip="1" gold="0" type="-1"/> 
+	<item productID="201197" itemID="1700219" name="一键获得宙斯礼包" price="50" vip="1" gold="0" type="-1"/> 
+	
+	<item productID="201198" itemID="1700221" name="埃米斯抽奖机会" price="1" vip="1" gold="0" type="-1"/> 
+	<item productID="201199" itemID="1700222" name="一键购买埃米斯基础礼包" price="15" vip="1" gold="0" type="-1"/> 
+	<item productID="201200" itemID="1700223" name="一键购买埃米斯极品礼包" price="35" vip="1" gold="0" type="-1"/> 
+	<item productID="201201" itemID="1700234" name="付费获得仁之力量" price="10" vip="1" gold="0" type="-1"/> 
+	<item productID="201202" itemID="1700235" name="付费获得礼之力量" price="10" vip="1" gold="0" type="-1"/> 
+	<item productID="201203" itemID="1700236" name="付费获得义之力量" price="10" vip="1" gold="0" type="-1"/> 
+	<item productID="201204" itemID="1700237" name="付费获得智之力量" price="10" vip="1" gold="0" type="-1"/> 
+	<item productID="201205" itemID="1700238" name="付费获得信之力量" price="10" vip="1" gold="0" type="-1"/> 
+	<item productID="201206" itemID="1700239" name="修普诺斯挑战机会" price="1" vip="1" gold="0" type="-1"/> 
+	<item productID="201207" itemID="1700240" name="一键获得修普诺斯礼包" price="40" vip="1" gold="0" type="-1"/> 
+	
+	<item productID="201208" itemID="1300438" name="血狼王战盔" price="5" vip="1" gold="0" type="-1"/> 
+	<item productID="201209" itemID="1300439" name="血狼王护手" price="5" vip="1" gold="0" type="-1"/> 
+	<item productID="201210" itemID="1300440" name="血狼王胸甲" price="5" vip="1" gold="0" type="-1"/> 
+	<item productID="201211" itemID="1300441" name="血狼王战靴" price="5" vip="1" gold="0" type="-1"/> 
+	<item productID="201212" itemID="1300438|1300439|1300440|1300441" name="血狼王变形套装" price="20" vip="1" gold="0" type="-1"/> 
+	<item productID="201213" itemID="1700241" name="一键征服机械暴龙" price="30" vip="1" gold="0" type="-1"/> 
+	<item productID="201214" itemID="1700242" name="特价征服机械暴龙" price="10" vip="1" gold="0" type="-1"/> 
+	<item productID="201215" itemID="1700246" name="2个伽马能量" price="4" vip="1" gold="0" type="-1"/> 
+	<item productID="201216" itemID="1700247" name="24个伽马能量" price="40" vip="1" gold="0" type="-1"/> 
+	<item productID="201217" itemID="1700248" name="34个伽马能量" price="55" vip="1" gold="0" type="-1"/> 
+	<item productID="201218" itemID="1700249" name="一键获得无敌绿巨人礼包" price="40" vip="1" gold="0" type="-1"/> 
+	
+	<item productID="201219" itemID="1700250" name="购买感恩节额外抽奖机会" price="3" vip="1" gold="0" type="-1"/> 
+	<item productID="201220" itemID="1700251" name="一键获得三师礼包" price="40" vip="1" gold="0" type="-1"/> 
+	<item productID="201221" itemID="1700256" name="付费挑战普拉多" price="1" vip="1" gold="0" type="-1"/> 
+	<item productID="201222" itemID="1700257" name="提升普拉多历练值" price="5" vip="1" gold="0" type="-1"/> 
+	<item productID="201223" itemID="1700258" name="一键获得普拉多礼包" price="30" vip="1" gold="0" type="-1"/> 
+	
+	<item productID="201224" itemID="1700261" name="一键极品回馈礼包" price="100" vip="1" gold="0" type="-1"/> 
+	<item productID="201225" itemID="1700266" name="超能聚集10点神界之光" price="5" vip="1" gold="0" type="-1"/> 
+	<item productID="201226" itemID="1700267" name="一键获得赫拉礼包" price="50" vip="1" gold="0" type="-1"/> 
+	<item productID="201227" itemID="1700268" name="感恩节双神特惠礼包" price="88" vip="1" gold="0" type="-1"/> 
+	<item productID="201228" itemID="1700269" name="感恩节宙斯特惠礼包" price="38" vip="1" gold="0" type="-1"/> 
+	<item productID="201229" itemID="1700270" name="感恩节赫拉特惠礼包" price="38" vip="1" gold="0" type="-1"/> 
+	
+	<item productID="201230" itemID="1700272" name="5米币购买超No精灵" price="5" vip="1" gold="0" type="-1"/> 
+	<item productID="201231" itemID="1700273" name="10米币购买超No精灵" price="10" vip="1" gold="0" type="-1"/> 
+	<item productID="201232" itemID="1700274" name="20米币购买超No精灵" price="20" vip="1" gold="0" type="-1"/> 
+	<item productID="201233" itemID="1700275" name="15米币购买超No精灵" price="15" vip="1" gold="0" type="-1"/> 
+	<item productID="201234" itemID="1700276" name="30米币购买超No精灵" price="30" vip="1" gold="0" type="-1"/> 
+	<item productID="201235" itemID="1700282" name="再次挑战常胜将军" price="1" vip="1" gold="0" type="-1"/> 
+	<item productID="201236" itemID="1700283" name="直接跳过挑战常胜将军1" price="1" vip="1" gold="0" type="-1"/> 
+	<item productID="201237" itemID="1700284" name="直接跳过挑战常胜将军2" price="2" vip="1" gold="0" type="-1"/> 
+	<item productID="201238" itemID="1700285" name="直接跳过挑战常胜将军3" price="3" vip="1" gold="0" type="-1"/> 
+	<item productID="201239" itemID="1700286" name="直接跳过挑战常胜将军4" price="5" vip="1" gold="0" type="-1"/> 
+	<item productID="201240" itemID="1700287" name="直接跳过挑战常胜将军5" price="8" vip="1" gold="0" type="-1"/> 
+	<item productID="201241" itemID="1700288" name="直接跳过挑战常胜将军6" price="10" vip="1" gold="0" type="-1"/> 
+	<item productID="201242" itemID="1700289" name="直接跳过挑战常胜将军7" price="15" vip="1" gold="0" type="-1"/> 
+	<item productID="201243" itemID="1700290" name="一键获得普通版常胜将军礼包" price="40" vip="1" gold="0" type="-1"/> 
+	<item productID="201244" itemID="1700291" name="一键获得土豪版常胜将军礼包" price="60" vip="1" gold="0" type="-1"/> 
+	<item productID="201245" itemID="1700292" name="购买100个黑龙之印" price="1" vip="1" gold="0" type="-1"/> 
+	<item productID="201246" itemID="1700293" name="购买1000个黑龙之印" price="8" vip="1" gold="0" type="-1"/> 
+	<item productID="201247" itemID="1700294" name="购买100个暮色精华" price="1" vip="1" gold="0" type="-1"/> 
+	<item productID="201248" itemID="1700295" name="购买1000个暮色精华" price="8" vip="1" gold="0" type="-1"/> 
+	<item productID="201249" itemID="1700296" name="购买100个龙族之徽" price="1" vip="1" gold="0" type="-1"/> 
+	<item productID="201250" itemID="1700297" name="购买1000个龙族之徽" price="8" vip="1" gold="0" type="-1"/> 
+	<item productID="201251" itemID="1700298" name="10个影月碎片" price="6" vip="1" gold="0" type="-1"/> 
+	<item productID="201252" itemID="1700299" name="30个影月碎片" price="15" vip="1" gold="0" type="-1"/> 
+	<item productID="201253" itemID="1700300" name="60个影月碎片" price="29" vip="1" gold="0" type="-1"/> 
+	
+	<item productID="201254" itemID="1700301" name="5米币购买骑宠" price="5" vip="1" gold="0" type="-1"/> 
+	<item productID="201255" itemID="1700302" name="10米币购买骑宠" price="10" vip="1" gold="0" type="-1"/> 
+	<item productID="201256" itemID="1700303" name="15米币购买骑宠" price="15" vip="1" gold="0" type="-1"/> 
+	<item productID="201257" itemID="1700304" name="20米币购买骑宠" price="20" vip="1" gold="0" type="-1"/> 
+	<item productID="201258" itemID="1700305" name="30米币购买骑宠" price="30" vip="1" gold="0" type="-1"/> 
+	<item productID="201259" itemID="1700306" name="40米币购买骑宠" price="40" vip="1" gold="0" type="-1"/> 
+	<item productID="201260" itemID="1700308" name="付费邀请托鲁克协助" price="2" vip="1" gold="0" type="-1"/> 
+	<item productID="201261" itemID="1700311" name="跳过本次考试" price="1" vip="1" gold="0" type="-1"/> 
+	<item productID="201262" itemID="1700315" name="一键获得瑞德豪斯礼包" price="15" vip="1" gold="0" type="-1"/> 
+	<item productID="201263" itemID="1700316" name="付费增加驯服次数" price="1" vip="1" gold="0" type="-1"/> 
+	<item productID="201264" itemID="1700317" name="一键获得伊扎克礼包" price="40" vip="1" gold="0" type="-1"/> 
+	<item productID="201265" itemID="1700318" name="第2次召唤魔之尊者" price="1" vip="1" gold="0" type="-1"/> 
+	<item productID="201266" itemID="1700319" name="第3次召唤魔之尊者" price="2" vip="1" gold="0" type="-1"/> 
+	<item productID="201267" itemID="1700320" name="第4次召唤魔之尊者" price="3" vip="1" gold="0" type="-1"/> 
+	<item productID="201268" itemID="1700321" name="第5次召唤魔之尊者" price="8" vip="1" gold="0" type="-1"/> 
+	<item productID="201269" itemID="1700322" name="第6次召唤魔之尊者" price="10" vip="1" gold="0" type="-1"/> 
+	<item productID="201270" itemID="1700323" name="第7次召唤魔之尊者" price="16" vip="1" gold="0" type="-1"/> 
+	<item productID="201271" itemID="1700324" name="老兵回流特价礼包" price="1" vip="1" gold="0" type="-1"/> 
+	<item productID="201272" itemID="1700326" name="一键获得土豪版伊扎克礼包" price="60" vip="1" gold="0" type="-1"/> 
+	
+	<item productID="201273" itemID="1700331" name="购买邪恶祭祀乌普赛" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201274" itemID="1700332" name="购买大祭司木木" price="5" vip="1" gold="0" type="-1"/>
+	<item productID="201275" itemID="1700338" name="购买10个圣诞礼券" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201276" itemID="1700339" name="购买100个圣诞礼券" price="8" vip="1" gold="0" type="-1"/>
+	<item productID="201277" itemID="1700345" name="一键获得大力金刚极品礼包" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201278" itemID="1700346" name="第2次推动力士轮盘" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201279" itemID="1700347" name="第3次推动力士轮盘" price="3" vip="1" gold="0" type="-1"/>
+	<item productID="201280" itemID="1700348" name="第4次推动力士轮盘" price="5" vip="1" gold="0" type="-1"/>
+	<item productID="201281" itemID="1700349" name="第5次推动力士轮盘" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201282" itemID="1700350" name="第6次推动力士轮盘" price="12" vip="1" gold="0" type="-1"/>
+	<item productID="201283" itemID="1700351" name="第7次推动力士轮盘" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201284" itemID="1700353" name="西游战团圣诞折扣版A" price="8" vip="1" gold="0" type="-1"/>
+	<item productID="201285" itemID="1700354" name="西游战团圣诞折扣版B" price="24" vip="1" gold="0" type="-1"/>
+	<item productID="201286" itemID="1700355" name="西游战团圣诞折扣版C" price="32" vip="1" gold="0" type="-1"/>
+	<item productID="201287" itemID="1700356" name="付费邀请托鲁克协助（空之印）" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201288" itemID="1700357" name="一键获得大力金刚普通礼包" price="40" vip="1" gold="0" type="-1"/> 
+	
+	<item productID="201289" itemID="1700358" name="白马王子套装M" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201290" itemID="1700359" name="一键获得乌塔兰" price="8" vip="1" gold="0" type="-1"/>
+	<item productID="201291" itemID="1700363" name="一键获得暗黑托鲁克" price="40" vip="1" gold="0" type="-1"/>
+	<item productID="201292" itemID="1700370" name="购买5个金属锤" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201293" itemID="1700371" name="第2次开启暗黑封印" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201294" itemID="1700372" name="第3次开启暗黑封印" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201295" itemID="1700373" name="第4次开启暗黑封印" price="4" vip="1" gold="0" type="-1"/>
+	<item productID="201296" itemID="1700374" name="第5次开启暗黑封印" price="6" vip="1" gold="0" type="-1"/>
+	<item productID="201297" itemID="1700375" name="第6次开启暗黑封印" price="8" vip="1" gold="0" type="-1"/>
+	<item productID="201298" itemID="1700376" name="第7次开启暗黑封印" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201299" itemID="1700377" name="第8次开启暗黑封印" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201300" itemID="1700378" name="第9次开启暗黑封印" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201301" itemID="1700379" name="第10次开启暗黑封印" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201302" itemID="1700380" name="积蓄暗黑能量" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201303" itemID="1700381" name="一键获得普通地狱修罗礼包" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201304" itemID="1700382" name="一键获得极品地狱修罗礼包" price="80" vip="1" gold="0" type="-1"/>
+	<item productID="201305" itemID="1700392" name="付费邀请托鲁克协助（天之印）" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201306" itemID="1700393" name="暗黑托鲁克挑战次数" price="1" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201307" itemID="1700408" name="直接获取2013年兽" price="30" vip="1" gold="0" type="-1"/>
+	<item productID="201308" itemID="1700409" name="获取逆天狂战的精元" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201309" itemID="1700410" name="获取极品逆天狂战" price="30" vip="1" gold="0" type="-1"/>
+	<item productID="201310" itemID="1700413" name="超强注入" price="5" vip="1" gold="0" type="-1"/>
+	<item productID="201311" itemID="1700414" name="一键获得普通暗黑盖亚礼包" price="80" vip="1" gold="0" type="-1"/>
+	<item productID="201312" itemID="1700415" name="一键获得极品暗黑盖亚礼包" price="100" vip="1" gold="0" type="-1"/>
+	<item productID="201313" itemID="1700418" name="1个暗黑战魂" price="10" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201314" itemID="1700419" name="购买加奈恩的精元" price="20" vip="1" gold="0" type="-1"/>
+	<item productID="201315" itemID="1700420" name="优惠价购买加奈恩的精元" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201316" itemID="1700421" name="购买劳伦斯的精元" price="40" vip="1" gold="0" type="-1"/>
+	<item productID="201317" itemID="1700422" name="优惠价购买劳伦斯的精元" price="20" vip="1" gold="0" type="-1"/>
+	<item productID="201318" itemID="1700423" name="精灵个体一键提升至极品" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201319" itemID="1700424" name="精灵性格一键提升至极品" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201320" itemID="1700425" name="精灵学习力一键提升至极品" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201321" itemID="1700426" name="精灵一键附加特性" price="3" vip="1" gold="0" type="-1"/>
+	<item productID="201322" itemID="1700427" name="精灵一键提升永久体力上限" price="8" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201323" itemID="1700440" name="第5次开启图腾" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201324" itemID="1700441" name="第6次开启图腾" price="8" vip="1" gold="0" type="-1"/>
+	<item productID="201325" itemID="1700442" name="第7次开启图腾" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201326" itemID="1700443" name="第8次开启图腾" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201327" itemID="1700444" name="一键获得普通奇美拉礼包" price="40" vip="1" gold="0" type="-1"/>
+	<item productID="201328" itemID="1700445" name="一键获得极品奇美拉礼包" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201329" itemID="1700446" name="重置1次图腾" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201330" itemID="1700447" name="一键获得极品斯奈特礼包" price="25" vip="1" gold="0" type="-1"/>
+	<item productID="201331" itemID="1700448" name="快速获得众人之力" price="1" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201332" itemID="1700451" name="寒假补签卡" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201333" itemID="1700461" name="极品凯西恩礼包" price="25" vip="1" gold="0" type="-1"/>
+	<item productID="201334" itemID="1700462" name="8个刺客徽记" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201335" itemID="1700463" name="一键获得库贝萨礼包" price="100" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201336" itemID="1700478" name="一键获得星空之子礼包" price="30" vip="1" gold="0" type="-1"/>
+	<item productID="201337" itemID="1700479" name="快速获得10个星光之尘" price="3" vip="1" gold="0" type="-1"/>
+	<item productID="201338" itemID="1700480" name="一键获得普通雷德曼礼包" price="40" vip="1" gold="0" type="-1"/>
+	<item productID="201339" itemID="1700481" name="一键获得极品雷德曼礼包" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201340" itemID="1700482" name="第2次激活雷德曼" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201341" itemID="1700483" name="第3激活雷德曼" price="3" vip="1" gold="0" type="-1"/>
+	<item productID="201342" itemID="1700484" name="第4激活雷德曼" price="8" vip="1" gold="0" type="-1"/>
+	<item productID="201343" itemID="1700485" name="第5激活雷德曼" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201344" itemID="1700486" name="第6激活雷德曼" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201345" itemID="1700487" name="第7激活雷德曼" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201346" itemID="1700488" name="1次精灵王挑战机会" price="1" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201347" itemID="1700490" name="一键获得逆天者联盟满级精灵" price="20" vip="1" gold="0" type="-1"/>
+	<item productID="201348" itemID="1300454" name="火云战盔" price="4" vip="1" gold="0" type="-1"/>
+	<item productID="201349" itemID="1300455" name="火云护手" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201350" itemID="1300456" name="火云腰带" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201351" itemID="1300457" name="火云喷射器" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201352" itemID="1300454|1300455|1300456|1300457" name="火云" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201353" itemID="1300458" name="天霄" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201354" itemID="1700493" name="一键获得米宝" price="30" vip="1" gold="0" type="-1"/>
+	<item productID="201355" itemID="1700494" name="一键获得极品米宝" price="50" vip="1" gold="0" type="-1"/>
+	<item productID="201356" itemID="1700495" name="1米币购买友情点数" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201357" itemID="1700496" name="10米币购买友情点数" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201358" itemID="1700516" name="第2次开启魔法阵" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201359" itemID="1700517" name="第3次开启魔法阵" price="6" vip="1" gold="0" type="-1"/>
+	<item productID="201360" itemID="1700518" name="第4次开启魔法阵" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201361" itemID="1700519" name="第5次开启魔法阵" price="12" vip="1" gold="0" type="-1"/>
+	<item productID="201362" itemID="1700520" name="第6次开启魔法阵" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201363" itemID="1700521" name="一键获得阿波罗普通礼包" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201364" itemID="1700522" name="一键获得阿波罗极品礼包" price="80" vip="1" gold="0" type="-1"/>
+	<item productID="201365" itemID="1700523" name="第2次召唤吕布" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201366" itemID="1700524" name="第3次召唤吕布" price="4" vip="1" gold="0" type="-1"/>
+	<item productID="201367" itemID="1700525" name="第4次召唤吕布" price="8" vip="1" gold="0" type="-1"/>
+	<item productID="201368" itemID="1700526" name="第5次召唤吕布" price="12" vip="1" gold="0" type="-1"/>
+	<item productID="201369" itemID="1700527" name="第6次召唤吕布" price="16" vip="1" gold="0" type="-1"/>
+	<item productID="201370" itemID="1700528" name="第7次召唤吕布" price="18" vip="1" gold="0" type="-1"/>
+	<item productID="201371" itemID="1700529" name="一键获得吕布普通礼包" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201372" itemID="1700530" name="一键获得吕布极品礼包" price="80" vip="1" gold="0" type="-1"/>
+	<item productID="201373" itemID="1700531" name="贺新春普通版精灵" price="40" vip="1" gold="0" type="-1"/>
+	<item productID="201374" itemID="1700532" name="贺新春极品版精灵" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201375" itemID="1700533" name="10000泰坦之灵" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201376" itemID="1700534" name="第7次开启魔法阵" price="18" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201377" itemID="1700537" name="一键获得克斯莉" price="5" vip="1" gold="0" type="-1"/>
+	<item productID="201378" itemID="1700538" name="一键获得奈尼尔" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201379" itemID="1700539" name="元宵回馈 购买1只" price="40" vip="1" gold="0" type="-1"/>
+	<item productID="201380" itemID="1700540" name="元宵回馈 购买2只" price="72" vip="1" gold="0" type="-1"/>
+	<item productID="201381" itemID="1700541" name="元宵回馈 购买3只" price="102" vip="1" gold="0" type="-1"/>
+	<item productID="201382" itemID="1700542" name="元宵回馈 购买4只" price="128" vip="1" gold="0" type="-1"/>
+	<item productID="201383" itemID="1700543" name="元宵回馈 购买5只" price="150" vip="1" gold="0" type="-1"/>
+	<item productID="201384" itemID="1700544" name="元宵回馈 购买6只" price="168" vip="1" gold="0" type="-1"/>
+	<item productID="201385" itemID="1700545" name="元宵回馈 购买7只" price="182" vip="1" gold="0" type="-1"/>
+	<item productID="201386" itemID="1700546" name="第2次召唤狄安娜" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201387" itemID="1700547" name="第3次召唤狄安娜" price="6" vip="1" gold="0" type="-1"/>
+	<item productID="201388" itemID="1700548" name="第4次召唤狄安娜" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201389" itemID="1700549" name="第5次召唤狄安娜" price="12" vip="1" gold="0" type="-1"/>
+	<item productID="201390" itemID="1700550" name="第6次召唤狄安娜" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201391" itemID="1700551" name="第7次召唤狄安娜" price="18" vip="1" gold="0" type="-1"/>
+	<item productID="201392" itemID="1700552" name="一键获得普通狄安娜礼包" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201393" itemID="1700553" name="一键获得极品狄安娜礼包" price="80" vip="1" gold="0" type="-1"/>
+	<item productID="201394" itemID="1700557" name="泰坦之灵超值礼包" price="10" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201395" itemID="1700559" name="购买绝版超进化道具" price="30" vip="1" gold="0" type="-1"/>
+	<item productID="201396" itemID="1700560" name="购买绝版VIP精灵" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201397" itemID="1700561" name="购买绝版米币精灵" price="40" vip="1" gold="0" type="-1"/>
+	<item productID="201398" itemID="1700562" name="购买绝版米币精灵（五折）" price="20" vip="1" gold="0" type="-1"/>
+	<item productID="201399" itemID="1700563" name="购买回馈精灵专属刻印" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201400" itemID="1700565" name="第2次召唤尤格萨隆" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201401" itemID="1700566" name="第3次召唤尤格萨隆" price="6" vip="1" gold="0" type="-1"/>
+	<item productID="201402" itemID="1700567" name="第4次召唤尤格萨隆" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201403" itemID="1700568" name="第5次召唤尤格萨隆" price="12" vip="1" gold="0" type="-1"/>
+	<item productID="201404" itemID="1700569" name="第6次召唤尤格萨隆" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201405" itemID="1700570" name="第7次召唤尤格萨隆" price="18" vip="1" gold="0" type="-1"/>
+	<item productID="201406" itemID="1700571" name="一键获得普通尤格萨隆礼包" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201407" itemID="1700572" name="一键获得极品尤格萨隆礼包" price="80" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201408" itemID="1700577" name="一键购买5颗雪算珠" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201409" itemID="1700578" name="一键购买1颗神算珠" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201410" itemID="1700586" name="第2次召唤苏亚雷斯" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201411" itemID="1700587" name="第3次召唤苏亚雷斯" price="6" vip="1" gold="0" type="-1"/>
+	<item productID="201412" itemID="1700588" name="第4次召唤苏亚雷斯" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201413" itemID="1700589" name="第5次召唤苏亚雷斯" price="12" vip="1" gold="0" type="-1"/>
+	<item productID="201414" itemID="1700590" name="第6次召唤苏亚雷斯" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201415" itemID="1700591" name="第7次召唤苏亚雷斯" price="18" vip="1" gold="0" type="-1"/>
+	<item productID="201416" itemID="1700592" name="一键获得普通苏亚雷斯礼包" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201417" itemID="1700593" name="一键获得极品苏亚雷斯礼包" price="80" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201418" itemID="1700594" name="特价全能刻印" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201419" itemID="1700597" name="一键购买4颗光之碎片" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201420" itemID="1700598" name="一键购买4颗魔之精华" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201421" itemID="1700599" name="一键购买10颗光之碎片" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201422" itemID="1700600" name="一键购买10颗魔之精华" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201423" itemID="1700610" name="第2次激活烈焰号" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201424" itemID="1700611" name="第3次激活烈焰号" price="6" vip="1" gold="0" type="-1"/>
+	<item productID="201425" itemID="1700612" name="第4次激活烈焰号" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201426" itemID="1700613" name="第5次激活烈焰号" price="12" vip="1" gold="0" type="-1"/>
+	<item productID="201427" itemID="1700614" name="第6次激活烈焰号" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201428" itemID="1700615" name="第7次激活烈焰号" price="18" vip="1" gold="0" type="-1"/>
+	<item productID="201429" itemID="1700616" name="一键获得普通烈焰号礼包" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201430" itemID="1700617" name="一键获得极品烈焰号礼包" price="80" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201431" itemID="1700621" name="一键购买2颗正义使者勋章" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201432" itemID="1700622" name="一键购买10颗正义使者勋章" price="4" vip="1" gold="0" type="-1"/>
+	<item productID="201433" itemID="1700630" name="第2次激活炽天使" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201434" itemID="1700631" name="第3次激活炽天使" price="6" vip="1" gold="0" type="-1"/>
+	<item productID="201435" itemID="1700632" name="第4次激活炽天使" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201436" itemID="1700633" name="第5次激活炽天使" price="12" vip="1" gold="0" type="-1"/>
+	<item productID="201437" itemID="1700634" name="第6次激活炽天使" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201438" itemID="1700635" name="第7次激活炽天使" price="18" vip="1" gold="0" type="-1"/>
+	<item productID="201439" itemID="1700636" name="一键获得普通炽天使礼包" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201440" itemID="1700637" name="一键获得极品炽天使礼包" price="80" vip="1" gold="0" type="-1"/>
+	<item productID="201441" itemID="1700638" name="快速增加矩阵能量" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201442" itemID="1700640" name="一键获得暗影恶魔卡斯托尔礼包" price="38" vip="1" gold="0" type="-1"/>
+	<item productID="201443" itemID="1700641" name="一键获得光天使波拉克斯礼包" price="38" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201444" itemID="1700642" name="优惠购买精灵" price="5" vip="1" gold="0" type="-1"/>
+	<item productID="201445" itemID="1700643" name="直接购买精灵A" price="40" vip="1" gold="0" type="-1"/>
+	<item productID="201446" itemID="1700644" name="直接购买精灵B" price="30" vip="1" gold="0" type="-1"/>
+	<item productID="201447" itemID="1700646" name="一键购买2颗勇者灵石" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201448" itemID="1700647" name="一键购买10颗勇者灵石" price="4" vip="1" gold="0" type="-1"/>
+	<item productID="201449" itemID="1700654" name="第2次召唤奥拉夫" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201450" itemID="1700655" name="第3次召唤奥拉夫" price="6" vip="1" gold="0" type="-1"/>
+	<item productID="201451" itemID="1700656" name="第4次召唤奥拉夫" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201452" itemID="1700657" name="第5次召唤奥拉夫" price="12" vip="1" gold="0" type="-1"/>
+	<item productID="201453" itemID="1700658" name="第6次召唤奥拉夫" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201454" itemID="1700659" name="第7次召唤奥拉夫" price="18" vip="1" gold="0" type="-1"/>
+	<item productID="201455" itemID="1700660" name="一键获得普通奥拉夫礼包" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201456" itemID="1700661" name="一键获得极品奥拉夫礼包" price="80" vip="1" gold="0" type="-1"/>
+	<item productID="201457" itemID="1700663" name="优惠购买精灵B" price="3" vip="1" gold="0" type="-1"/>
+	<item productID="201458" itemID="1700665" name="战神联盟的祝福" price="1" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201459" itemID="1700681" name="第2次召唤马超" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201460" itemID="1700682" name="第3次召唤马超" price="6" vip="1" gold="0" type="-1"/>
+	<item productID="201461" itemID="1700683" name="第4次召唤马超" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201462" itemID="1700684" name="第5次召唤马超" price="12" vip="1" gold="0" type="-1"/>
+	<item productID="201463" itemID="1700685" name="第6次召唤马超" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201464" itemID="1700686" name="第7次召唤马超" price="18" vip="1" gold="0" type="-1"/>
+	<item productID="201465" itemID="1700687" name="一键获得普通马超礼包" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201466" itemID="1700688" name="一键获得极品马超礼包" price="80" vip="1" gold="0" type="-1"/>
+	<item productID="201467" itemID="1700697" name="三折特惠全能刻印强化礼包" price="12" vip="1" gold="0" type="-1"/>
+	<item productID="201468" itemID="1700698" name="四折特惠全能刻印强化礼包" price="16" vip="1" gold="0" type="-1"/>
+	<item productID="201469" itemID="1700699" name="五折特惠全能刻印强化礼包" price="20" vip="1" gold="0" type="-1"/>
+	<item productID="201470" itemID="1700700" name="六折特惠全能刻印强化礼包" price="24" vip="1" gold="0" type="-1"/>
+	<item productID="201471" itemID="1700702" name="立即完成悬赏任务" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201472" itemID="1700704" name="购买5个竞猜币" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201473" itemID="1700705" name="跳过拉奥斯挑战" price="40" vip="1" gold="0" type="-1"/>
+	<item productID="201474" itemID="1700706" name="跳过阿苏亚挑战" price="40" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201475" itemID="1700719" name="跳过博比特挑战" price="40" vip="1" gold="0" type="-1"/>
+	<item productID="201476" itemID="1700720" name="跳过雷诺西挑战" price="40" vip="1" gold="0" type="-1"/>
+	<item productID="201477" itemID="1700727" name="第2次召唤奈法利安" price="2" vip="1" gold="0" type="-1"/>
+	<item productID="201478" itemID="1700728" name="第3次召唤奈法利安" price="6" vip="1" gold="0" type="-1"/>
+	<item productID="201479" itemID="1700729" name="第4次召唤奈法利安" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201480" itemID="1700730" name="第5次召唤奈法利安" price="12" vip="1" gold="0" type="-1"/>
+	<item productID="201481" itemID="1700731" name="第6次召唤奈法利安" price="15" vip="1" gold="0" type="-1"/>
+	<item productID="201482" itemID="1700732" name="第7次召唤奈法利安" price="18" vip="1" gold="0" type="-1"/>
+	<item productID="201483" itemID="1700733" name="直接获得奈法利安" price="60" vip="1" gold="0" type="-1"/>
+	<item productID="201484" itemID="1700734" name="直接获得极品奈法利安" price="80" vip="1" gold="0" type="-1"/>
+	<item productID="201485" itemID="1700735" name="直接获得纳卡洛哈" price="20" vip="1" gold="0" type="-1"/>
+	<item productID="201486" itemID="1700736" name="直接获得加强型纳卡洛哈" price="30" vip="1" gold="0" type="-1"/>
+	<item productID="201487" itemID="1700737" name="开启纳卡洛哈坐骑形态" price="10" vip="1" gold="0" type="-1"/>
+	<item productID="201488" itemID="1700738" name="立即完成纳卡洛哈的特训" price="1" vip="1" gold="0" type="-1"/>
+	<item productID="201489" itemID="1700739" name="付费进行一次纳卡洛哈的特训" price="2" vip="1" gold="0" type="-1"/>
+	
+	<item productID="201490" itemID="1700746" name="跳过纳斯里挑战" price="40" vip="1" gold="0" type="-1" /> 
+    <item productID="201491" itemID="1700747" name="跳过加西亚挑战" price="40" vip="1" gold="0" type="-1" /> 
+    <item productID="201492" itemID="1700749" name="一键获得神兆之光*20" price="2" vip="1" gold="0" type="-1" /> 
+    <item productID="201493" itemID="1700752" name="一键获得暗夜冰狐超进化道具" price="5" vip="1" gold="0" type="-1" /> 
+    <item productID="201494" itemID="1700753" name="一键获得依乐之心*10" price="2" vip="1" gold="0" type="-1" /> 
+    <item productID="201495" itemID="1700754" name="一键获得50试炼值" price="3" vip="1" gold="0" type="-1" /> 
+    <item productID="201496" itemID="1700755" name="一键获得200试炼值" price="10" vip="1" gold="0" type="-1" /> 
+    <item productID="201497" itemID="1700758" name="第2次召唤罗迪克斯" price="2" vip="1" gold="0" type="-1" /> 
+    <item productID="201498" itemID="1700759" name="第3次召唤罗迪克斯" price="6" vip="1" gold="0" type="-1" /> 
+    <item productID="201499" itemID="1700760" name="第4次召唤罗迪克斯" price="10" vip="1" gold="0" type="-1" /> 
+    <item productID="201500" itemID="1700761" name="第5次召唤罗迪克斯" price="12" vip="1" gold="0" type="-1" /> 
+    <item productID="201501" itemID="1700762" name="第6次召唤罗迪克斯" price="15" vip="1" gold="0" type="-1" /> 
+    <item productID="201502" itemID="1700763" name="第7次召唤罗迪克斯" price="18" vip="1" gold="0" type="-1" /> 
+    <item productID="201503" itemID="1700764" name="直接获得罗迪克斯" price="60" vip="1" gold="0" type="-1" /> 
+    <item productID="201504" itemID="1700765" name="直接获得极品罗迪克斯" price="80" vip="1" gold="0" type="-1" />
+	-->
+	
+	
+	<!-- 
+	<item productID="" itemID="" name="" price="" vip="1" gold="0" type="-1"/>
+	-->
+	
+</root>

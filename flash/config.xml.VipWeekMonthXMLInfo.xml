@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+
+-->
+<root>
+    <!--VIP周礼包 -->
+	<WeekDes WeekId="1" soupDes1="上等体力药剂" soupDes2="高级活力药剂" soupDes3="全面提升药剂" soupDes4="激励模组"  soupDes5="特性重组剂Ω" soupDes6="十万经验券" />	   <!--VIP周礼包物品 -->
+	<WeekDes WeekId="2" soupDes1="3"      soupDes2="3"     soupDes3="无"    soupDes4="无"   soupDes5="无"   soupDes6="1" />	<!--普通用户 -->
+	<WeekDes WeekId="3" soupDes1="6"    	soupDes2="6"     soupDes3="4"     soupDes4="5"    soupDes5="1"   soupDes6="6" />	<!--VIP1 -->
+	<WeekDes WeekId="4" soupDes1="9"    	soupDes2="9"     soupDes3="6"     soupDes4="5"    soupDes5="1"   soupDes6="12" />	<!--VIP2 -->
+	<WeekDes WeekId="5" soupDes1="12"    soupDes2="12"     soupDes3="8"     soupDes4="8"    soupDes5="1"   soupDes6="18" />	<!--VIP3 -->
+	<WeekDes WeekId="6" soupDes1="15"    soupDes2="15"     soupDes3="10"     soupDes4="8"    soupDes5="1"   soupDes6="24" />	<!--VIP4 -->
+	<WeekDes WeekId="7" soupDes1="18"    soupDes2="18"     soupDes3="12"     soupDes4="12"    soupDes5="2"   soupDes6="30" />	<!--VIP5 -->
+	
+	 <!--VIP月礼包 -->
+	<MonthDes MonthId="1" soupDes1="低阶梦幻宝石" soupDes2="全能学习力遗忘药剂Ω"  soupDes3="超能胶囊"   soupDes4="S级技能石"  soupDes5="天赋改造药剂Ω" soupDes6="全能性格转化剂Ω"  soupDes7="原核碎片" />	   <!--VIP月礼包物品 -->
+	<MonthDes MonthId="2" soupDes1="无"      		soupDes2="无"         			soupDes3="无"   		soupDes4="无"   			soupDes5="无"   			soupDes6="无"   		soupDes7="无" />	<!--普通用户 -->
+	<MonthDes MonthId="3" soupDes1="3"       		soupDes2="3"         			soupDes3="1"    		soupDes4="1"   				soupDes5="3"   				soupDes6="1"   		soupDes7="20000" />	<!--VIP1 -->
+	<MonthDes MonthId="4" soupDes1="6"       		soupDes2="6"          			soupDes3="2"    		soupDes4="2"    			soupDes5="6"   				soupDes6="1"   		soupDes7="40000" />	<!--VIP2 -->
+	<MonthDes MonthId="5" soupDes1="9"       		soupDes2="9"          			soupDes3="3"    		soupDes4="3"    			soupDes5="9"   				soupDes6="1"   		soupDes7="60000" />	<!--VIP3 -->
+	<MonthDes MonthId="6" soupDes1="12"       		soupDes2="12"         			soupDes3="4"    		soupDes4="4"    			soupDes5="12"   				soupDes6="1"  		soupDes7="80000" />	<!--VIP4 -->
+	<MonthDes MonthId="7" soupDes1="15"       		soupDes2="15"         			soupDes3="5"    		soupDes4="5"    			soupDes5="15"   				soupDes6="1"   		soupDes7="100000" />	<!--VIP5 -->
+	
+</root>
+

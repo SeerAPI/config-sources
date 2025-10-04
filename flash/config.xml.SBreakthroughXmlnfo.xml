@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--S突破规则-->
+<!--BreakThrough定义突破规则-->
+<!--In 定义输入的规则 即扣除什么物品 用于消耗能量-->
+<!--SuccessOut 定义输出的精灵列表 与概率 -->
+<!--FailOut 定义取消突破时的输出-->
+
+<!--Rewards定义输出 同一系别的概率-->
+<!--MonID 精灵id-->
+<!--Type 系别-->
+<!--Star 星级-->
+<!--Card 定向卡 物品数量/ID -->
+<!--MiddleItem 中间物品 物品数量/ID -->
+<!---->
+<!--SuccStat 成功统计-->
+<!--FailStat 失败统计-->
+
+<!--<BreakThroughs>
+	<BreakThrough ID="2000000" Name="X全能精元"> 
+		<In Name="输入">
+			<Item ItemID="1" Count="1" Name="X能量" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率">
+			<Mon MonID="1342" Prob="20"/>
+			<Mon MonID="1342" Prob="20"/>
+			<Mon MonID="1342" Prob="20"/>
+			<Mon MonID="1342" Prob="20"/>
+			<Mon MonID="1342" Prob="20"/>
+		</SuccessOut>
+		<FailOut Name="失败输出">
+			<Item ID="1" Count="1" Name="XX定向卡"/>
+		</FailOut>
+	</BreakThrough>
+
+	<Rewards Name="成功输出">
+		<Reward  MonID="1342" Type="1" Star="2" Card="1/100000" MiddleItem="50/100000"/>
+		<Reward  MonID="1343" Type="1" Star="2" Card="1/100000" MiddleItem="50/100000"/>
+		<Reward  MonID="1344" Type="2" Star="3" Card="1/100000" MiddleItem="50/100000"/>
+		<Reward  MonID="1345" Type="2" Star="3" Card="1/100000" MiddleItem="50/100000"/>
+		<Reward  MonID="1346" Type="3" Star="4" Card="1/100000" MiddleItem="50/100000"/>
+		<Reward  MonID="1347" Type="4" Star="4" Card="1/100000" MiddleItem="50/100000"/>
+	</Rewards>
+
+</BreakThroughs>
+
+-->
+
+<BreakThroughs>
+    <!--水系精元觉醒-->
+	<BreakThrough ID="2000001" Name="水系S-全能精元1级"> 
+		<In Name="输入">
+			<Item ItemID="2100001" Count="6" Name="水系S-觉醒能量1级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="1 2">
+			
+			<Mon MonID="200" Prob="55" />
+			<Mon MonID="570" Prob="15" />
+			<Mon MonID="815" Prob="15" />
+			<Mon MonID="976" Prob="15" />
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="30">
+			<Item ID="2101000" Count="1" Name="水系DNA"/>
+		</FailOut>
+	</BreakThrough>
+	
+	<BreakThrough ID="2000002" Name="水系S-全能精元2级"> 
+		<In Name="输入">
+			<Item ItemID="2100002" Count="6" Name="水系S-觉醒能量2级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="1 2 3">
+			
+			<Mon MonID="200" Prob="20" />
+			<Mon MonID="570" Prob="25" />
+			<Mon MonID="815" Prob="25" />
+			<Mon MonID="976" Prob="20" />
+			<Mon MonID="1416" Prob="5" />
+			<Mon MonID="1876" Prob="5" />
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="40">
+			<Item ID="2101000" Count="1" Name="水系DNA"/>
+		</FailOut>
+	</BreakThrough>
+	
+	<BreakThrough ID="2000003" Name="水系S-全能精元3级"> 
+		<In Name="输入">
+			<Item ItemID="2100003" Count="6" Name="水系S-觉醒能量3级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="2 3">
+			
+			
+			<Mon MonID="570" Prob="30" />
+			<Mon MonID="815" Prob="25" />
+			<Mon MonID="976" Prob="25" />
+			<Mon MonID="1416" Prob="10" />
+			<Mon MonID="1876" Prob="10" />
+			
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="50">
+			<Item ID="2101000" Count="1" Name="水系DNA"/>
+		</FailOut>
+	</BreakThrough>
+	
+	
+	<BreakThrough ID="2000004" Name="水系S-全能精元4级"> 
+		<In Name="输入">
+			<Item ItemID="2100004" Count="6" Name="水系S-觉醒能量4级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="2 3 4">
+			
+			
+			<Mon MonID="570" Prob="25" />
+			<Mon MonID="815" Prob="20" />
+			<Mon MonID="976" Prob="20" />
+			<Mon MonID="1416" Prob="15" />
+			<Mon MonID="1876" Prob="14" />
+			<Mon MonID="867" Prob="5" />
+			<Mon MonID="2390" Prob="1" />
+			
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="70">
+			<Item ID="2101000" Count="1" Name="水系DNA"/>
+		</FailOut>
+	</BreakThrough>
+	
+
+
+ <!--火系精元觉醒-->
+	<BreakThrough ID="2000007" Name="火系S-全能精元1级"> 
+		<In Name="输入">
+			<Item ItemID="2100007" Count="6" Name="火系S-觉醒能量1级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="1 2">
+			
+			<Mon MonID="774" Prob="55" />
+			<Mon MonID="90" Prob="15" />
+			<Mon MonID="337" Prob="15" />
+			<Mon MonID="1486" Prob="15" />
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="30">
+			<Item ID="2101001" Count="1" Name="火系DNA"/>
+		</FailOut>
+	</BreakThrough>
+	
+	<BreakThrough ID="2000008" Name="火系S-全能精元2级"> 
+		<In Name="输入">
+			<Item ItemID="2100008" Count="6" Name="火系S-觉醒能量2级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="1 2 3">
+			
+			<Mon MonID="774" Prob="20" />
+			<Mon MonID="90" Prob="25" />
+			<Mon MonID="337" Prob="25" />
+			<Mon MonID="1486" Prob="20" />
+			<Mon MonID="1387" Prob="5" />
+			<Mon MonID="1095" Prob="5" />
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="40">
+			<Item ID="2101001" Count="1" Name="火系DNA"/>
+		</FailOut>
+	</BreakThrough>
+	
+	<BreakThrough ID="2000009" Name="火系S-全能精元3级"> 
+		<In Name="输入">
+			<Item ItemID="2100009" Count="6" Name="火系S-觉醒能量3级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="2 3">
+			
+			
+			<Mon MonID="90" Prob="30" />
+			<Mon MonID="337" Prob="25" />
+			<Mon MonID="1486" Prob="25" />
+			<Mon MonID="1387" Prob="10" />
+			<Mon MonID="1095" Prob="10" />
+			
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="50">
+			<Item ID="2101001" Count="1" Name="火系DNA"/>
+		</FailOut>
+	</BreakThrough>
+	
+	
+	<BreakThrough ID="2000010" Name="火系S-全能精元4级"> 
+		<In Name="输入">
+			<Item ItemID="2100010" Count="6" Name="火系S-觉醒能量4级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="2 3 4">
+			
+			
+			<Mon MonID="90" Prob="25" />
+			<Mon MonID="337" Prob="20" />
+			<Mon MonID="1486" Prob="20" />
+			<Mon MonID="1387" Prob="15" />
+			<Mon MonID="1095" Prob="14" />
+			<Mon MonID="636" Prob="5" />
+			<Mon MonID="2386" Prob="1" />
+			
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="70">
+			<Item ID="2101001" Count="1" Name="火系DNA"/>
+		</FailOut>
+	</BreakThrough>
+	
+	
+	
+	 <!--光系精元觉醒-->
+	<BreakThrough ID="2000013" Name="光系S-全能精元1级"> 
+		<In Name="输入">
+			<Item ItemID="2100013" Count="6" Name="光系S-觉醒能量1级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="1 2">
+			
+			<Mon MonID="733" Prob="55" />
+			<Mon MonID="666" Prob="15" />
+			<Mon MonID="1896" Prob="15" />
+			<Mon MonID="283" Prob="15" />
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="30">
+			<Item ID="2101002" Count="1" Name="光系DNA"/>
+		</FailOut>
+	</BreakThrough>
+	
+	<BreakThrough ID="2000014" Name="光系S-全能精元2级"> 
+		<In Name="输入">
+			<Item ItemID="2100014" Count="6" Name="光系S-觉醒能量2级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="1 2 3">
+			
+			<Mon MonID="733" Prob="20" />
+			<Mon MonID="666" Prob="25" />
+			<Mon MonID="1896" Prob="25" />
+			<Mon MonID="283" Prob="20" />
+			<Mon MonID="1066" Prob="5" />
+			<Mon MonID="1665" Prob="5" />
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="40">
+			<Item ID="2101002" Count="1" Name="光系DNA"/>
+		</FailOut>
+	</BreakThrough>
+	
+	<BreakThrough ID="2000015" Name="光系S-全能精元3级"> 
+		<In Name="输入">
+			<Item ItemID="2100015" Count="6" Name="光系S-觉醒能量3级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="2 3">
+			
+			
+			<Mon MonID="666" Prob="30" />
+			<Mon MonID="1896" Prob="25" />
+			<Mon MonID="283" Prob="25" />
+			<Mon MonID="1066" Prob="10" />
+			<Mon MonID="1665" Prob="10" />
+			
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="50">
+			<Item ID="2101002" Count="1" Name="光系DNA"/>
+		</FailOut>
+	</BreakThrough>
+	
+	
+	<BreakThrough ID="2000016" Name="光系S-全能精元4级"> 
+		<In Name="输入">
+			<Item ItemID="2100016" Count="6" Name="光系S-觉醒能量4级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="2 3 4">
+			
+			
+			<Mon MonID="666" Prob="25" />
+			<Mon MonID="1896" Prob="20" />
+			<Mon MonID="283" Prob="20" />
+			<Mon MonID="1066" Prob="15" />
+			<Mon MonID="1665" Prob="14" />
+			<Mon MonID="935" Prob="5" />
+			<Mon MonID="2333" Prob="1" />
+			
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="70">
+			<Item ID="2101002" Count="1" Name="光系DNA"/>
+		</FailOut>
+	</BreakThrough>
+
+<!--暗影系精元觉醒-->
+	<BreakThrough ID="2000019" Name="暗影系S-全能精元1级"> 
+		<In Name="输入">
+			<Item ItemID="2100019" Count="6" Name="暗影系S-觉醒能量1级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="1 2">
+			
+			<Mon MonID="280" Prob="55" />
+			<Mon MonID="728" Prob="15" />
+			<Mon MonID="968" Prob="15" />
+			<Mon MonID="1023" Prob="15" />
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="30">
+			<Item ID="2101003" Count="1" Name="暗影系DNA"/>
+		</FailOut>
+	</BreakThrough>
+	
+	<BreakThrough ID="2000020" Name="暗影系S-全能精元2级"> 
+		<In Name="输入">
+			<Item ItemID="2100020" Count="6" Name="暗影系S-觉醒能量2级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="1 2 3">
+			
+			<Mon MonID="280" Prob="20" />
+			<Mon MonID="728" Prob="25" />
+			<Mon MonID="968" Prob="25" />
+			<Mon MonID="1023" Prob="20" />
+			<Mon MonID="1059" Prob="5" />
+			<Mon MonID="1819" Prob="5" />
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="40">
+			<Item ID="2101003" Count="1" Name="暗影系DNA"/>
+		</FailOut>
+	</BreakThrough>
+	
+	<BreakThrough ID="2000021" Name="暗影系S-全能精元3级"> 
+		<In Name="输入">
+			<Item ItemID="2100021" Count="6" Name="暗影系S-觉醒能量3级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="2 3">			
+			
+			<Mon MonID="728" Prob="30" />
+			<Mon MonID="968" Prob="25" />
+			<Mon MonID="1023" Prob="25" />
+			<Mon MonID="1059" Prob="10" />
+			<Mon MonID="1819" Prob="10" />
+									
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="50">
+			<Item ID="2101003" Count="1" Name="暗影系DNA"/>
+		</FailOut>
+	</BreakThrough>	
+	
+	<BreakThrough ID="2000022" Name="暗影系S-全能精元4级"> 
+		<In Name="输入">
+			<Item ItemID="2100022" Count="6" Name="暗影系S-觉醒能量4级" />
+		</In>
+		<SuccessOut Name="成功输出精灵概率" StarIDs="2 3 4">			
+			
+			<Mon MonID="728" Prob="25" />
+			<Mon MonID="968" Prob="20" />
+			<Mon MonID="1023" Prob="20" />
+			<Mon MonID="1059" Prob="15" />
+			<Mon MonID="1819" Prob="14" />
+			<Mon MonID="750" Prob="5" />
+			<Mon MonID="2376" Prob="1" />			
+						
+		</SuccessOut>
+		<FailOut Name="失败输出" Prob="70">
+			<Item ID="2101003" Count="1" Name="暗影系DNA"/>
+		</FailOut>
+	</BreakThrough>
+
+
+
+
+	<Rewards Name="成功输出">	
+	
+		<!--水系精灵-->
+		<Reward  MonID="200" Name="鳞甲龙鱼" Type="2" Star="1" Card="1/2101000" MiddleItem="1/1701000" SuccStat="1405160321" FailStat="1405160295" />		
+		<Reward  MonID="570" Name="克拉肯" Type="2" Star="2" Card="4/2101000" MiddleItem="1/1701001" SuccStat="1405160322" FailStat="1405160296" />		
+		<Reward  MonID="815" Name="达瑞丽" Type="2" Star="2" Card="4/2101000" MiddleItem="1/1701001" SuccStat="1405160323" FailStat="1405160297" />
+		<Reward  MonID="976" Name="巴伯洛" Type="2" Star="2" Card="4/2101000" MiddleItem="1/1701001" SuccStat="1405160324" FailStat="1405160298" />
+		<Reward  MonID="1416" Name="珊克斯" Type="2" Star="3" Card="10/2101000" MiddleItem="1/1701002" SuccStat="1405160325" FailStat="1405160299" />		
+		<Reward  MonID="1876" Name="洛提斯" Type="2" Star="3" Card="10/2101000" MiddleItem="1/1701002" SuccStat="1405160326" FailStat="1405160300" />
+		<Reward  MonID="867" Name="阿蓝多" Type="2" Star="4" Card="20/2101000" MiddleItem="1/1701003" SuccStat="1405160327" FailStat="1405160301" />
+		
+
+		
+		<!--火系精灵-->
+		<Reward  MonID="774" Name="亚兰洛" Type="3" Star="1" Card="1/2101001" MiddleItem="1/1701000" SuccStat="1405160314" FailStat="1405160288" />		
+		<Reward  MonID="90" Name="迪尔克" Type="3" Star="2" Card="4/2101001" MiddleItem="1/1701001" SuccStat="1405160315" FailStat="1405160289" />		
+		<Reward  MonID="337" Name="赤西西比" Type="3" Star="2" Card="4/2101001" MiddleItem="1/1701001" SuccStat="1405160316" FailStat="1405160290" />
+		<Reward  MonID="1486" Name="火灵儿" Type="3" Star="2" Card="4/2101001" MiddleItem="1/1701001" SuccStat="1405160317" FailStat="1405160291" />
+		<Reward  MonID="1387" Name="加里斯" Type="3" Star="3" Card="10/2101001" MiddleItem="1/1701002" SuccStat="1405160318" FailStat="1405160292" />		
+		<Reward  MonID="1095" Name="拉列尼" Type="3" Star="3" Card="10/2101001" MiddleItem="1/1701002" SuccStat="1405160319" FailStat="1405160293" />
+		<Reward  MonID="636" Name="符拉迪诺" Type="3" Star="4" Card="20/2101001" MiddleItem="1/1701003" SuccStat="1405160320" FailStat="1405160294" />
+		<Reward  MonID="2386" Name="火灵儿S" Type="3" Star="4" Card="1/2101702" MiddleItem="1/1701003"/>
+		
+		
+		<!--光系精灵-->
+		<Reward  MonID="733" Name="艾里蒙特" Type="12" Star="1" Card="1/2101002" MiddleItem="1/1701000" SuccStat="1405160328" FailStat="1405160302" />		
+		<Reward  MonID="666" Name="古琪" Type="12" Star="2" Card="4/2101002" MiddleItem="1/1701001" SuccStat="1405160329" FailStat="1405160303" />		
+		<Reward  MonID="1896" Name="莫可可" Type="12" Star="2" Card="4/2101002" MiddleItem="1/1701001" SuccStat="1405160330" FailStat="1405160304" />
+		<Reward  MonID="283" Name="伶俐雕" Type="12" Star="2" Card="4/2101002" MiddleItem="1/1701001" SuccStat="1405160331" FailStat="1405160305" />
+		<Reward  MonID="1066" Name="卡瑞" Type="12" Star="3" Card="10/2101002" MiddleItem="1/1701002" SuccStat="1405160332" FailStat="1405160306" />		
+		<Reward  MonID="1665" Name="光之灵" Type="12" Star="3" Card="10/2101002" MiddleItem="1/1701002" SuccStat="1405160333" FailStat="1405160307" />
+		<Reward  MonID="935" Name="莱克瑞" Type="12" Star="4" Card="20/2101002" MiddleItem="1/1701003" SuccStat="1405160334" FailStat="1405160308" />
+		<Reward  MonID="2333" Name="光之灵S" Type="12" Star="4" Card="1/2101700" MiddleItem="1/1701003" SuccStat="1405160335" FailStat="1405160309" />
+		
+		<!--暗影系精灵-->
+		<Reward  MonID="280" Name="沙罗希瓦" Type="13" Star="1" Card="1/2101003" MiddleItem="1/1701000" SuccStat="1405300073" FailStat="1405300081"/>		
+		<Reward  MonID="728" Name="马力" Type="13" Star="2" Card="4/2101003" MiddleItem="1/1701001"  SuccStat="1405300074" FailStat="1405300082"/>		
+		<Reward  MonID="968" Name="哈尔威克" Type="13" Star="2" Card="4/2101003" MiddleItem="1/1701001" SuccStat="1405300075" FailStat="1405300083"/>
+		<Reward  MonID="1023" Name="黑布罗" Type="13" Star="2" Card="4/2101003" MiddleItem="1/1701001" SuccStat="1405300076" FailStat="1405300084"/>
+		<Reward  MonID="1059" Name="莫弗克" Type="13" Star="3" Card="10/2101003" MiddleItem="1/1701002" SuccStat="1405300077" FailStat="1405300085"/>		
+		<Reward  MonID="1819" Name="暗之灵" Type="13" Star="3" Card="10/2101003" MiddleItem="1/1701002" SuccStat="1405300078" FailStat="1405300086"/>
+		<Reward  MonID="750" Name="塔米多德" Type="13" Star="4" Card="20/2101003" MiddleItem="1/1701003" SuccStat="1405300079" FailStat="1405300087"/>
+		<Reward  MonID="2376" Name="暗之灵S" Type="13" Star="4" Card="1/2101701" MiddleItem="1/1701003" SuccStat="1405300080" FailStat="1405300088"/>
+		
+		<!--水暗影系精灵-->
+		<Reward  MonID="2390" Name="赛琳娜" Type="25" Star="4" Card="1/2101703" MiddleItem="1/1701003"/>
+		
+		
+	</Rewards>
+
+</BreakThroughs>
+

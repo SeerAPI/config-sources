@@ -1,0 +1,124 @@
+<!-- 标签页及每组精灵顺序根据配表顺序 依次排布 
+	TabName 每组的唯一标识，不能重复，不能为空 
+	标签页元件名称 Client/resource/forApp/petFriend/tab/tab_con.swf 
+	Art 精灵素材位置 Client/resource/forApp/petFriend
+	core 主体精灵 不填则表示子精灵必须全部拥有
+
+	-->
+
+	
+<PetFriendGroup>
+	<Group Name="三国神将" CoreId="2523" >
+		<Pet ID="2523" Name="卧龙诸葛" Go="" />
+		<Pet ID="2496" Name="将神·吕布" Go="luebu/LueBuSuperEvolution" Des="专属特性增加效果：满体力时50%概率免疫能力下降状态"/>
+		<Pet ID="2500" Name="神威·马超" Go="MachaoSuperEvolvePanel" Des="专属特性升级：登场首回合所有攻击先制+1，同时增加20%暴击率"/>
+		<Pet ID="2479" Name="貂蝉" Go="" Des="红颜殒命斩效果升级：若对手是雄性则威力提升25%，不是雄性则25%使对手害怕"/>
+		<Pet ID="2512" Name="昭烈帝刘备" Go="LiubeiSuperEvolvePanel" Des="刘备，关羽，张飞，诸葛同时存在背包中时，出战精灵每回合回血20点"/>
+		<Pet ID="2520" Name="武圣·关羽" Go="GuanYuEvolutionPanel" Des="刘备，关羽，张飞，诸葛同时存在背包中时，出战精灵每回合回血20点"/>
+		<Pet ID="2530" Name="万人敌张飞" Go="ZhangFeiEvolutionMainPanel" Des="刘备，关羽，张飞，诸葛同时存在背包中时，出战精灵每回合回血20点"/>
+		<Pet ID="2450" Name="陆逊" Go="" Des="神话终结者效果升级：10%概率3倍伤害"/>
+	</Group>
+	<Group Name="魔神" CoreId="2468">
+		<Pet ID="2468" Name="万魔天尊" NotCheckHas="true" Go=""/>
+		<Pet ID="2445" Name="毁灭魔神" NotCheckHas="true" Go="" Des="魔神惊天破效果升级：使对手命中-1；先出手时额外附加125点固定伤害"/>
+		<Pet ID="2436" Name="炼狱魔神" NotCheckHas="true" Go="" Des="黑水啸天破效果升级：2回合对手属性攻击命中下降35%"/>
+		<Pet ID="2422" Name="邪恶魔神" NotCheckHas="true" Go="" Des="焚神炽烈斩效果升级：未击败对手下3回合攻击必定致命"/>
+		<Pet ID="2457" Name="寂灭魔神" NotCheckHas="true" Go="" Des="妖刀胧村正效果升级：当回合未击败对手速度+1、防御+1、特防+1"/>
+	</Group>
+	<Group Name="火车侠" CoreId="2586">
+		<Pet ID="2586" Name="圣刃•神力号" Go="PowerPetEvolvePanel" />
+		<Pet ID="2594" Name="强袭•勇气号" Go="CouragePetEvolvePanel" Des="破世冲天震效果升级：若当回合未击败对手，则自身攻击+1、命中+1、速度+1"/>
+		<Pet ID="2606" Name="天火•烈焰号" Go="LieYanHaoEvolvePanel" Des="灰烬轰杀击效果升级：造成伤害的1/4恢复自身体力"/>
+	</Group>
+	<Group Name="天启军" CoreId="2615">
+		<Pet ID="2615" Name="克克" Go="ChloeComingFirstPanel" />
+		<Pet ID="2627" Name="耶尔" Go="JoinArmyMainPanel" Des="断壁流沙拳效果升级：若自身处于能力强化状态，附加110点固定伤害"/>
+	</Group>
+	<Group Name="冥王" CoreId="2517">
+		<Pet ID="2517" Name="冥帝•修罗" Go="map:1030" />
+		<Pet ID="2505" Name="冥王•苍月" Go="map:1028" Des="妖月连星闪增加效果：后出手时附加100点固定伤害"/>
+		<Pet ID="2503" Name="冥王•破天" Go="map:1027" Des="天罗破阵轰效果升级：3回合内使对手属性技能失效"/>
+		<Pet ID="2491" Name="冥王•断空" Go="map:1025" Des="千魂骨镰断效果升级：若对手处于能力强化状态则附加250点固定伤害"/>
+		<Pet ID="2487" Name="冥王•夜刃" Go="map:1022" Des="神鬼俱灭斩效果升级：若体力低于对手，附加已损失体力60%伤害"/>
+	</Group>
+	<Group Name="小伙伴" CoreId="2609">
+		<Pet ID="2609" Name="贝迪恩斯" Go="map:1048" />
+		<Pet ID="2603" Name="布鲁克林" Go="map:10774" Des="神浪迎天击效果升级：当回合未击败对手则减少对手当前体力1/3"/>
+		<Pet ID="2597" Name="格林奇" Go="map:10667" Des="万宇归尘斩效果升级：使对手速度-1、命中-1"/>
+	</Group>
+	<Group Name="三灵兽" CoreId="2662">
+		<Pet ID="2662" Name="神•始祖灵兽" Go="" />
+		<Pet ID="2485" Name="神·鱼龙王" Go="" Des="逆刃龙麟光效果升级：先出手时下回合特攻+1、防御+1"/>
+		<Pet ID="2464" Name="神·炎魔" Go="" Des="豪炎灼天破增加效果：后出手时速度+1"/>
+	</Group>
+	<Group Name="上古龙王" CoreId="2751">
+		<Pet ID="2751" Name="太玄木灵龙" Go="map:1084" />
+		<Pet ID="2717" Name="紫霄惊鸿龙" Go="map:1072" Des="傲世九重天效果升级：使对手命中-2"/>
+		<Pet ID="2722" Name="混沌青火龙" Go="AncientGreenDragonMainPanel" Des="龙神焚天咒效果升级：3回合内所有直接攻击都将有70%使对手烧伤"/>
+		<Pet ID="2726" Name="神宫雷霆龙" Go="AncientDragonThunderMainPanel" Des="极电狂龙祭效果升级：若对手不处于麻痹状态则附加对手已损失生命值50%的固定伤害"/>
+		<Pet ID="2745" Name="霸血星灵龙" Go="map:1082" Des="星风血煞击效果升级：70%令对手害怕"/>
+		<Pet ID="2756" Name="琉璃冰角龙" Go="DragonIcePanel" Des="冰龙暴风破效果升级：体力低于1/2时威力3倍"/>
+	</Group>
+	<Group Name="精灵王" CoreId="2787">
+		<Pet ID="2787" Name="光精灵王" Go="map:1089" />
+		<Pet ID="2739" Name="火精灵王" Go="map:1089" Des="焱皇烈焰增加效果：消除对手能力提升"/>
+	</Group>
+	<Group Name="天蛇七魔将" CoreId="2556">
+		<Pet ID="2556" Name="乾坤战神昆仑" Go="map:1084" />
+		<Pet ID="2533" Name="萨恩德斯" Go="map:1035" Des="无我逆沙舞效果升级：若对手处于流血状态，技能威力提升100%"/>
+		<Pet ID="2542" Name="摩耶斯特" Go="map:1035" Des="曙光冰裂破增加效果：20%使对手冻伤"/>
+		<Pet ID="2552" Name="兰帕德斯" Go="map:1035" Des="万神魂灭斩效果升级：附加100点固定伤害"/>
+		<Pet ID="2557" Name="杰洛里德" Go="map:1035" Des="万月千星箭效果升级：若当回合未击败对手则攻击+2"/>
+		<Pet ID="2565" Name="泽拉瑞尔" Go="map:1035" Des="凝神无双击效果升级：命中后50%使对手流血"/>
+		<Pet ID="2572" Name="吉亚克鲁" Go="map:1035" Des="绞心绕魂斩效果升级：后出手时攻击+2"/>
+	</Group>
+	<Group Name="幻天" CoreId="2516">
+		<Pet ID="2516" Name="影战·萨格罗斯" Go="" />
+		<Pet ID="2524" Name="幻天·萨格罗斯" Go="" Des="专属特性效果升级：致命一击伤害提升20%。需在面板开启"/>
+	</Group>
+	<Group Name="影战" CoreId="2524">
+		<Pet ID="2524" Name="幻天·萨格罗斯" Go="" />
+		<Pet ID="2516" Name="影战·萨格罗斯" Go="" Des="专属特性效果升级：受到先制伤害减少30%。需在面板开启"/>
+	</Group>
+	<Group Name="吕布" CoreId="2479">
+		<Pet ID="2479" Name="貂蝉" Go="" />
+		<Pet ID="2496" Name="将神·吕布" Go="luebu/LueBuSuperEvolution" Des="专属特性效果升级：满体力时必定免疫异常状态效果。需在面板开启"/>
+	</Group>
+	<Group Name="貂蝉" CoreId="2496">
+		<Pet ID="2496" Name="将神·吕布" Go="luebu/LueBuSuperEvolution" />
+		<Pet ID="2479" Name="貂蝉" Go="" Des="专属特性效果升级：减少25%来自雄性精灵的伤害。需在面板开启"/>
+	</Group>
+	<Group Name="九天" CoreId="2537">
+		<Pet ID="2537" Name="八部天龙" Go="map:1034" />
+		<Pet ID="2541" Name="九天圣龙" Go="map:1034" Des="真龙破天啸增加效果：10%令对手害怕"/>
+	</Group>
+	<Group Name="八部" CoreId="2541">
+		<Pet ID="2541" Name="九天圣龙" Go="map:1034" />
+		<Pet ID="2537" Name="八部天龙" Go="map:1034" Des="终焉颤魂吟效果升级：对手体力低于220直接秒杀"/>
+	</Group>
+	<Group Name="暗黑水草" CoreId="2625">
+		<Pet ID="2625" Name="暗黑鲁斯王" Go="map:1054" />
+		<Pet ID="2631" Name="暗黑蒙娜丽莎" Go="map:1054" Des="幽藤绞杀破效果升级：对手中毒使对手下3回合攻击MISS；后出手时恢复120Hp"/>
+	</Group>
+	<Group Name="暗黑水火" CoreId="2637">
+		<Pet ID="2637" Name="暗黑炽焰金刚" Go="map:1054" />
+		<Pet ID="2625" Name="暗黑鲁斯王" Go="map:1054" Des="沧浪破世击效果升级：对手体力不足320则秒杀"/>
+	</Group>
+	<Group Name="暗黑火草" CoreId="2631">
+		<Pet ID="2631" Name="暗黑蒙娜丽莎" Go="map:1054" />
+		<Pet ID="2637" Name="暗黑炽焰金刚" Go="map:1054" Des="万焰冲火拳效果升级：每次攻击提升10%致命，最高提升60%"/>
+	</Group>
+	<Group Name="三兄弟" CoreId="">
+		<Pet ID="2520" Name="武圣·关羽" Go="GuanYuEvolutionPanel" Des="三兄弟同时存在于背包中，每回合回血15点。需在面板开启。"/>
+		<Pet ID="2512" Name="昭烈帝刘备" Go="LiubeiSuperEvolvePanel" Des="三兄弟同时存在于背包中，每回合回血15点。需在面板开启。"/>
+		<Pet ID="2530" Name="张飞" Go="ZhangFeiEvolutionMainPanel" Des="三兄弟同时存在于背包中，每回合回血15点。需在面板开启。"/>
+	</Group>
+	<Group Name="创世圣兵" CoreId="">
+		<Pet ID="2489" Name="创世圣翼" Go="SaintArmorMainPanel" Des="创世六神兵同时存在于背包中，则体力+15，其余属性+10。需在面板开启。"/>
+		<Pet ID="2497" Name="创世圣戒" Go="SaintArmorMainPanel" Des="创世六神兵同时存在于背包中，则体力+15，其余属性+10。需在面板开启。"/>
+		<Pet ID="2510" Name="创世圣甲" Go="SaintArmorMainPanel" Des="创世六神兵同时存在于背包中，则体力+15，其余属性+10。需在面板开启。"/>
+		<Pet ID="2488" Name="创世圣弓" Go="SaintArmorMainPanel" Des="创世六神兵同时存在于背包中，则体力+15，其余属性+10。需在面板开启。"/>
+		<Pet ID="2525" Name="创世圣剑" Go="SaintArmorMainPanel" Des="创世六神兵同时存在于背包中，则体力+15，其余属性+10。需在面板开启。"/>
+		<Pet ID="2519" Name="创世圣盾" Go="SaintArmorMainPanel" Des="创世六神兵同时存在于背包中，则体力+15，其余属性+10。需在面板开启。"/>
+	</Group> 
+</PetFriendGroup>

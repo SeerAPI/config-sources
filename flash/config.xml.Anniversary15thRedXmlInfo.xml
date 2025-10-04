@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<Red ID="1" IsClick="0" UserInfo="0_0_0" HalfPos="0_0_0" HalfValue="0_0_0" Judge="0" tips="【山谷勘探】红点_绿字_已完成" From="shopcenter:1|icon:shopcenter_icon"/>
+	<Red ID="2" IsClick="0" UserInfo="0_121782_0" HalfPos="0_2_0" HalfValue="0_22_0" Judge="1" tips="【地下探险】红点_绿字_已完成" From="shopcenter:2|icon:shopcenter_icon"/>
+	<Red ID="3" IsClick="0" UserInfo="0_121782_0" HalfPos="0_3_0" HalfValue="0_22_0" Judge="0" tips="【栽培绒绒菊】红点_绿字_已完成" From="icon:SeerTrainLog_icon"/>
+	<Red ID="4" IsClick="1" UserInfo="0_0_0" HalfPos="0_0_0" HalfValue="0_0_0" Judge="0" tips="【世界BOSS】红点_绿字_已完成" From="icon:shengdianyingxiongtuan_icon"/>
+	<Red ID="5" IsClick="1" UserInfo="0_121782_0" HalfPos="0_4_0" HalfValue="0_3_0" Judge="0" tips="【遗迹石大鉴定】红点_绿字_已完成" From="icon:announcement_icon"/>
+	<Red ID="6" IsClick="1" UserInfo="121781_121782_0" HalfPos="0_0_0" HalfValue="111_23_0" Judge="0" tips="【荣誉挑战】红点_绿字_已完成" From="icon:markJackpot_icon"/>
+	<Red ID="7" IsClick="1" UserInfo="121781_121782_0" HalfPos="1_1_0" HalfValue="111_23_0" Judge="0" tips="【活动商店】红点_绿字_已完成" From="shopcenter:7|icon:shopcenter_icon"/>
+	<Red ID="8" IsClick="1" UserInfo="0_0_0" HalfPos="0_0_0" HalfValue="0_0_0" Judge="0" tips="【精灵蛋孵化】红点_绿字_已完成" From="shopcenter:8|icon:shopcenter_icon"/>
+	<Red ID="9" IsClick="1" UserInfo="0_121782_0" HalfPos="0_5_0" HalfValue="0_3_0" Judge="0" tips="【宇宙之声】红点_绿字_已完成" From="shopcenter:9|icon:shopcenter_icon"/>
+	<Red ID="10" IsClick="1" UserInfo="0_121782_0" HalfPos="0_6_0" HalfValue="0_3_0" Judge="0" tips="【派特的研究】红点_绿字_已完成" From="shopcenter:10|icon:shopcenter_icon"/>
+</root>

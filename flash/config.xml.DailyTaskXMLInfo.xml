@@ -1,0 +1,38 @@
+<tasks>
+	<type id="1" des="获得一只精灵">
+		<task id="1" name="获得一只精灵" type="map">10</task>
+	</type>
+	
+	<type id="2" des="许愿树">
+		<task id="1" name="许愿树" type="module">app/WishTreePanel201502</task>
+	</type>
+	
+	<type id="3" des="spt挑战">
+		<task id="1" name="spt挑战" type="module">app/SptChallengeChoicePanel</task>
+	</type>
+	
+	<type id="4" des="精灵改造">
+		<task id="1" name="个体改造" type="map" focus="SelectPetPracticePanel" arrow="110_230_30" >5</task>
+		<task id="2" name="精灵鉴定器" type="map" focus="AssessorChoicePanel2013" arrow="237_146_30">5</task>
+		
+	</type>
+	
+	<type id="5" des="挑战玩法">
+		<task id="1" name="勇者之塔" type="map" focus="500,10032,10034"  arrow="385_95_330">108</task>
+		<task id="2" name="精灵王之战" type="map" arrow="752_77_30">102</task>
+		<task id="3" name="精灵大乱斗" type="map" arrow="265_136_30">102</task>
+	</type>
+	
+	<type id="6" des="签到类">
+		<task id="1" name="商城签到" type="module">app/SupermarketPanel</task>
+	</type>
+	
+	<type id="7" des="机动类">
+		<task id="1" name="学习力训练室" type="map" focus="470,471,472,473,474,475,488,489,490,491,492,493">485</task>
+	</type>
+	
+	<type id="8" des="60分钟在线奖励">
+		<task id="1" name="60分钟在线奖励" type="module">app/TreasureNewPanel</task>
+	</type>
+	
+</tasks>

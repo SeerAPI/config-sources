@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<excavate ID="1" state="1" type="1" fightBossIndexes="1" depth="51" reward="1_1725939_675"/>
+	<excavate ID="2" state="1" type="1" fightBossIndexes="2" depth="139" reward="1_1725939_675"/>
+	<excavate ID="3" state="1" type="1" fightBossIndexes="3" depth="250" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="4" state="1" type="1" fightBossIndexes="1_2" depth="452" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="5" state="1" type="1" fightBossIndexes="2_3" depth="520" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="6" state="1" type="3" depth="680" reward="1_1725939_1125;1_540059_1"/>
+	<excavate ID="7" state="1" type="1" fightBossIndexes="3_4" depth="699" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="8" state="1" type="1" fightBossIndexes="4_2" depth="910" reward="1_1725939_675"/>
+	<excavate ID="9" state="1" type="2" fightBossIndexes="31" depth="1096" reward="1_1725939_1800;3_124276_30"/>
+	<excavate ID="10" state="1" type="1" fightBossIndexes="2_6" depth="1246" reward="1_1725939_675"/>
+	<excavate ID="11" state="1" type="1" fightBossIndexes="3_7" depth="1318" reward="1_1725939_675"/>
+	<excavate ID="12" state="1" type="1" fightBossIndexes="4_8" depth="1422" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="13" state="1" type="1" fightBossIndexes="1_5" depth="1521" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="14" state="1" type="1" fightBossIndexes="2_4_5" depth="1635" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="15" state="1" type="3" depth="1800" reward="1_1725939_1125;1_540060_1"/>
+	<excavate ID="16" state="1" type="1" fightBossIndexes="3_1_8" depth="1839" reward="1_1725939_675;3_124276_20"/>
+	<excavate ID="17" state="1" type="2" fightBossIndexes="32" depth="1913" reward="1_1725939_1800;3_124276_20"/>
+	<excavate ID="18" state="1" type="1" fightBossIndexes="1_2_7" depth="2075" reward="1_1725939_675"/>
+	<excavate ID="19" state="2" type="1" fightBossIndexes="4_6_9" depth="2132" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="20" state="2" type="1" fightBossIndexes="3_5_10" depth="2234" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="21" state="2" type="1" fightBossIndexes="1_8_12" depth="2334" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="22" state="2" type="1" fightBossIndexes="2_7_11" depth="2402" reward="1_1725939_675"/>
+	<excavate ID="23" state="2" type="2" fightBossIndexes="33" depth="2498" reward="1_1725939_1800;3_124276_20"/>
+	<excavate ID="24" state="2" type="3" depth="2575" reward="1_1725939_1125;1_540061_1"/>
+	<excavate ID="25" state="2" type="1" fightBossIndexes="6_8_10" depth="2590" reward="1_1725939_675"/>
+	<excavate ID="26" state="2" type="1" fightBossIndexes="5_7_12" depth="2709" reward="1_1725939_675"/>
+	<excavate ID="27" state="2" type="1" fightBossIndexes="7_8_11" depth="2770" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="28" state="2" type="1" fightBossIndexes="8_6_9" depth="2823" reward="1_1725939_675;3_124276_15"/>
+	<excavate ID="29" state="2" type="1" fightBossIndexes="5_9_12" depth="2903" reward="1_1725939_675;3_124276_15"/>
+	<excavate ID="30" state="2" type="2" fightBossIndexes="34" depth="3084" reward="1_1725939_1800;3_124276_30"/>
+	<excavate ID="31" state="2" type="1" fightBossIndexes="6_10_11" depth="3091" reward="1_1725939_675"/>
+	<excavate ID="32" state="2" type="1" fightBossIndexes="7_11_9" depth="3149" reward="1_1725939_675;3_124276_20"/>
+	<excavate ID="33" state="2" type="1" fightBossIndexes="8_12_10" depth="3193" reward="1_1725939_675;3_124276_20"/>
+	<excavate ID="34" state="2" type="1" fightBossIndexes="9_6_13" depth="3340" reward="1_1725939_675"/>
+	<excavate ID="35" state="2" type="2" fightBossIndexes="35" depth="3418" reward="1_1725939_1800;3_124276_20"/>
+	<excavate ID="36" state="2" type="3" depth="3472" reward="1_1725939_1125;1_540062_1"/>
+	<excavate ID="37" state="2" type="1" fightBossIndexes="10_5_16" depth="3601" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="38" state="2" type="1" fightBossIndexes="11_8_14" depth="3745" reward="1_1725939_675;3_124276_15"/>
+	<excavate ID="39" state="2" type="1" fightBossIndexes="12_7_15" depth="3929" reward="1_1725939_675;3_124276_15"/>
+	<excavate ID="40" state="3" type="2" fightBossIndexes="36" depth="4020" reward="1_1725939_1800;3_124276_20"/>
+	<excavate ID="41" state="3" type="1" fightBossIndexes="10_9_16" depth="4038" reward="1_1725939_675"/>
+	<excavate ID="42" state="3" type="1" fightBossIndexes="11_12_14" depth="4083" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="43" state="3" type="1" fightBossIndexes="9_11_15" depth="4262" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="44" state="3" type="1" fightBossIndexes="12_10_13" depth="4286" reward="1_1725939_675"/>
+	<excavate ID="45" state="3" type="3" depth="4334" reward="1_1725939_1125;1_540063_1"/>
+	<excavate ID="46" state="3" type="1" fightBossIndexes="15_14_19" depth="4496" reward="1_1725939_675"/>
+	<excavate ID="47" state="3" type="1" fightBossIndexes="13_16_18" depth="4560" reward="1_1725939_675;3_124276_20"/>
+	<excavate ID="48" state="3" type="1" fightBossIndexes="14_15_17" depth="4637" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="49" state="3" type="1" fightBossIndexes="16_13_20" depth="4808" reward="1_1725939_675"/>
+	<excavate ID="50" state="3" type="2" fightBossIndexes="37" depth="5041" reward="1_1725939_1800;3_124276_30"/>
+	<excavate ID="51" state="3" type="1" fightBossIndexes="17_18" depth="5189" reward="1_1725939_675;3_124276_15"/>
+	<excavate ID="52" state="3" type="1" fightBossIndexes="18_19" depth="5255" reward="1_1725939_675;3_124276_15"/>
+	<excavate ID="53" state="3" type="1" fightBossIndexes="19_20" depth="5333" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="54" state="3" type="1" fightBossIndexes="20_17" depth="5346" reward="1_1725939_675"/>
+	<excavate ID="55" state="3" type="3" depth="5500" reward="1_1725939_1125;1_540064_1"/>
+	<excavate ID="56" state="3" type="1" fightBossIndexes="17_18" depth="5561" reward="1_1725939_675"/>
+	<excavate ID="57" state="3" type="1" fightBossIndexes="18_19" depth="5782" reward="1_1725939_675;3_124276_20"/>
+	<excavate ID="58" state="3" type="1" fightBossIndexes="19_20" depth="5846" reward="1_1725939_675;3_124276_20"/>
+	<excavate ID="59" state="3" type="1" fightBossIndexes="20_17" depth="6107" reward="1_1725939_675;3_124276_20"/>
+	<excavate ID="60" state="4" type="2" fightBossIndexes="38" depth="6109" reward="1_1725939_1800;3_124276_30"/>
+	<excavate ID="61" state="4" type="1" fightBossIndexes="17_18" depth="6146" reward="1_1725939_675"/>
+	<excavate ID="62" state="4" type="1" fightBossIndexes="18_19" depth="6195" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="63" state="4" type="1" fightBossIndexes="19_20" depth="6367" reward="1_1725939_675;3_124276_20"/>
+	<excavate ID="64" state="4" type="1" fightBossIndexes="19_20" depth="6478" reward="1_1725939_675"/>
+	<excavate ID="65" state="4" type="1" fightBossIndexes="20_17" depth="6497" reward="1_1725939_675;3_124276_20"/>
+	<excavate ID="66" state="4" type="2" fightBossIndexes="39" depth="6649" reward="1_1725939_1800;3_124276_30"/>
+	<excavate ID="67" state="4" type="1" fightBossIndexes="20_17" depth="6743" reward="1_1725939_675"/>
+	<excavate ID="68" state="4" type="1" fightBossIndexes="17_18" depth="6878" reward="1_1725939_675;3_124276_20"/>
+	<excavate ID="69" state="4" type="3" depth="7028" reward="1_1725939_1125;1_540065_1"/>
+	<excavate ID="70" state="4" type="1" fightBossIndexes="18_19" depth="7153" reward="1_1725939_675;3_124276_10"/>
+	<excavate ID="71" state="4" type="1" fightBossIndexes="21_22" depth="7198" reward="1_1725939_675"/>
+	<excavate ID="72" state="4" type="2" fightBossIndexes="40" depth="7296" reward="1_1725939_1800;3_124276_50"/>
+	<excavate ID="73" state="4" type="1" fightBossIndexes="23_24" depth="7397" reward="1_1725939_675"/>
+	<excavate ID="74" state="4" type="1" fightBossIndexes="25_26" depth="7451" reward="1_1725939_675;3_124276_50"/>
+	<excavate ID="75" state="4" type="1" fightBossIndexes="23_24" depth="7512" reward="1_1725939_675"/>
+	<excavate ID="76" state="4" type="1" fightBossIndexes="29_30" depth="7650" reward="1_1725939_675;3_124276_50"/>
+	<excavate ID="77" state="4" type="1" fightBossIndexes="29_23" depth="7688" reward="1_1725939_675;3_124276_50"/>
+	<excavate ID="78" state="4" type="3" depth="7778" reward="1_1725939_1125;1_540066_1"/>
+	<excavate ID="79" state="4" type="1" fightBossIndexes="27_24" depth="7963" reward="1_1725939_675;3_124276_50"/>
+	<excavate ID="80" state="4" type="1" fightBossIndexes="28_25" depth="8172" reward="1_1725939_675"/>
+	<excavate ID="81" state="4" type="1" fightBossIndexes="29_30" depth="8217" reward="1_1725939_675;3_124276_50"/>
+	<excavate ID="82" state="4" type="2" fightBossIndexes="41" depth="8233" reward="1_1725939_1800;3_124276_100"/>
+	<excavate ID="83" state="5" type="1" fightBossIndexes="27_29" depth="8236" reward="1_1725939_675"/>
+	<excavate ID="84" state="5" type="1" fightBossIndexes="28_25" depth="8258" reward="1_1725939_675;3_124276_50"/>
+	<excavate ID="85" state="5" type="3" depth="8432" reward="1_1725939_1125;1_540067_1"/>
+	<excavate ID="86" state="5" type="2" fightBossIndexes="42" depth="8706" reward="1_1725939_1800;3_124276_100"/>
+	<excavate ID="87" state="5" type="1" fightBossIndexes="29_30" depth="8771" reward="1_1725939_675"/>
+	<excavate ID="88" state="5" type="1" fightBossIndexes="27_24" depth="8895" reward="1_1725939_675;3_124276_50"/>
+	<excavate ID="89" state="5" type="1" fightBossIndexes="30_28" depth="8900" reward="1_1725939_675"/>
+	<excavate ID="90" state="5" type="2" fightBossIndexes="28_27" depth="9077" reward="1_1725939_675"/>
+	<excavate ID="91" state="5" type="1" fightBossIndexes="29_30" depth="9258" reward="1_1725939_675"/>
+	<excavate ID="92" state="5" type="1" fightBossIndexes="43" depth="9306" reward="1_1725939_1800"/>
+	<excavate ID="93" state="5" type="1" fightBossIndexes="27_29" depth="9391" reward="1_1725939_675"/>
+	<excavate ID="94" state="5" type="1" fightBossIndexes="28_25" depth="9564" reward="1_1725939_675"/>
+	<excavate ID="95" state="5" type="1" fightBossIndexes="41_42" depth="9565" reward="1_1725939_675"/>
+	<excavate ID="96" state="5" type="2" fightBossIndexes="44" depth="9602" reward="1_1725939_1800"/>
+	<excavate ID="97" state="5" type="1" fightBossIndexes="42_40" depth="9697" reward="1_1725939_675"/>
+	<excavate ID="98" state="5" type="1" fightBossIndexes="43_42" depth="9752" reward="1_1725939_675"/>
+	<excavate ID="99" state="5" type="1" fightBossIndexes="44_41" depth="9853" reward="1_1725939_675"/>
+	<excavate ID="100" state="5" type="2" fightBossIndexes="45" depth="9911" reward="1_1725939_1800"/>
+	<excavate ID="101" state="5" type="3" depth="10000" reward="1_1725939_1575"/>
+</Root>

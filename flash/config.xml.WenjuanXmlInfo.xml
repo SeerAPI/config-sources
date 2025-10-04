@@ -1,0 +1,158 @@
+<!-- 
+	type 1单选2多选3问答 q问题  a选项文本 wb 0后面不带输入 1带  dir选择这个答案直接跳转第几个问题（跳题逻辑） skip 1可跳过 0必答
+-->
+<root>
+	<wj id="1" q="您的性别是" type="1" skip="0">
+		<item a="男" wb="0" />
+		<item a="女" wb="0"/>
+	</wj>
+	<wj id="2" q="您的年龄段是" type="1" skip="0">
+		<item a="18岁以下" wb="0" />
+		<item a="18~25" wb="0"/>
+		<item a="26~30" wb="0" />
+		<item a="31~40" wb="0"/>
+		<item a="41~50" wb="0" />
+		<item a="51~60 " wb="0" dir="23"/>
+		<item a="60以上" wb="0" dir="23"/>
+	</wj>
+
+	<wj id="3" q="请问您S2赛季的巅峰段位是" type="1" skip="0">
+		<item a="学徒" wb="0" />
+		<item a="猛将" wb="0"/>
+		<item a="天骄" wb="0" />
+		<item a="王者" wb="0"/>
+		<item a="圣皇" wb="0" />
+		<item a="我没有参加S2赛季巅峰对战 " wb="0" />
+	</wj>
+	<wj id="4" q="请问您S3赛季的巅峰段位是" type="1" skip="0">
+		<item a="学徒" wb="0" dir="6"/>
+		<item a="猛将" wb="0" dir="6"/>
+		<item a="天骄" wb="0" dir="6"/>
+		<item a="王者" wb="0" dir="6"/>
+		<item a="圣皇" wb="0" dir="6"/>
+		<item a="我没有参加S3赛季巅峰对战 " wb="0" dir="5"/>
+	</wj>
+	<wj id="5" q="您没有参与S3巅峰赛季对战的原因是" type="1" skip="0">
+		<item a="不喜欢当前巅峰环境" wb="0" dir="7"/>
+		<item a="段位上升过于困难" wb="0" dir="7"/>
+		<item a="错过了强力的精灵" wb="0" dir="7"/>
+		<item a="不喜欢" wb="0" dir="7"/>
+		<item a="其他，请详述" wb="1" dir="7"/>
+	</wj>
+	<wj id="6" q="请问您对目前巅峰对战的整体游戏感受如何" type="1" skip="0">
+		<item a="很不满意" wb="0" dir="7"/>
+		<item a="不满意" wb="0" dir="7"/>
+		<item a="一般" wb="0" dir="7"/>
+		<item a="满意" wb="0" dir="7"/>
+		<item a="非常满意" wb="0" dir="7"/>
+	</wj>
+	<wj id="7" q="请问您对目前巅峰匹配机制的满意度评价如何" type="1" skip="0">
+		<item a="很不满意" wb="0" dir="8"/>
+		<item a="不满意" wb="0" dir="8"/>
+		<item a="一般" wb="0" dir="10"/>
+		<item a="满意" wb="0" dir="10"/>
+		<item a="非常满意" wb="0" dir="10"/>
+	</wj>
+	<wj id="8" q="请问您对目前巅峰匹配机制评价不高的原因是" type="2" skip="0">
+		<item a="匹配等待时间过长" wb="0" dir="10"/>
+		<item a="匹配对手实力差距过大" wb="0" dir="10"/>
+		<item a="匹配模式过于单一" wb="0" dir="10"/>
+		<item a="巅峰圣战开启时间不合理" wb="0" dir="9"/>
+		<item a="其他，请详述" wb="1" dir="10"/>
+	</wj>
+	<wj id="9" q="您认为巅峰开启时间应如何调整" type="1" skip="0">
+		<item a="延长每日巅峰开启时间" wb="0" dir="10"/>
+		<item a="缩短每日巅峰开启时间" wb="0" dir="10"/>
+		<item a="每日巅峰开启时间不变，更换开启的时间段" wb="0" dir="10"/>
+		<item a="其他，请详述" wb="1" dir="10"/>
+	</wj>
+	<wj id="10" q="请问您对目前巅峰竞技池的满意度评价如何" type="1" skip="0">
+		<item a="很不满意" wb="0" dir="11"/>
+		<item a="不满意" wb="0" dir="11"/>
+		<item a="一般" wb="0" dir="16"/>
+		<item a="满意" wb="0" dir="16"/>
+		<item a="非常满意" wb="0" dir="16"/>
+	</wj>
+	<wj id="11" q="请问您对目前巅峰竞技池评价不高的原因是" type="2" skip="0">
+		<item a="竞技池内精灵数量不合理" wb="0" dir="13"/>
+		<item a="竞技池轮换时间不合理" wb="0" dir="12"/>
+		<item a="限制池与准限制池内精灵分配不合理" wb="0" dir="13"/>
+		<item a="竞技池投票规则不合理" wb="0" dir="15"/>
+		<item a="学徒猛将段位无竞技池限制" wb="0" dir="13"/>
+		<item a="其他，请详述" wb="1" dir="13"/>
+	</wj>
+	<wj id="12" q="您认为巅峰竞技池较为合适的轮换时间是" type="1" skip="0">
+		<item a="每周轮换" wb="0" dir="13"/>
+		<item a="每两周轮换" wb="0" dir="13"/>
+		<item a="每月轮换" wb="0" dir="13"/>
+		<item a="每两月轮换" wb="0" dir="13"/>
+		<item a="每三月轮换（即随赛季更新轮换）" wb="0" dir="13"/>
+	</wj>
+	<wj id="13" q="您认为巅峰竞技限制池（即限二）较为合适的精灵个数是" type="1" skip="0">
+		<item a="2-3个" wb="0" dir="14"/>
+		<item a="5-6个" wb="0" dir="14"/>
+		<item a="8-10个" wb="0" dir="14"/>
+		<item a="其他，请详述" wb="1" dir="14"/>
+	</wj>
+	<wj id="14" q="您认为巅峰竞技准限制池（即限三）较为合适的精灵个数是" type="1" skip="0">
+		<item a="5-6个" wb="0" dir="16"/>
+		<item a="8-10个" wb="0" dir="16"/>
+		<item a="11-20个" wb="0" dir="16"/>
+		<item a="20-30个" wb="0" dir="16"/>
+		<item a="其他，请详述" wb="1" dir="16"/>
+	</wj>
+	<wj id="15" q="您认为巅峰竞技池投票起始段位应该是" type="1" skip="0">
+		<item a="学徒（即无限制）" wb="0" dir="16"/>
+		<item a="猛将" wb="0" dir="16"/>
+		<item a="天骄" wb="0" dir="16"/>
+		<item a="王者" wb="0" dir="16"/>
+		<item a="圣皇" wb="0" dir="16"/>
+	</wj>
+	<wj id="16" q="请问您对目前巅峰段位机制的满意度评价如何" type="1" skip="0">
+		<item a="很不满意" wb="0" dir="17"/>
+		<item a="不满意" wb="0" dir="17"/>
+		<item a="一般" wb="0" dir="18"/>
+		<item a="满意" wb="0" dir="18"/>
+		<item a="非常满意" wb="0" dir="18"/>
+	</wj>
+	<wj id="17" q="请问您对目前巅峰段位机制评价不高的原因是" type="1" skip="0">
+		<item a="段位划分太少" wb="0" dir="18"/>
+		<item a="段位上升困难" wb="0" dir="18"/>
+		<item a="段位奖励过低" wb="0" dir="18"/>
+		<item a="学徒猛将段位无竞技池限制" wb="0" dir="18"/>
+		<item a="其他，请详述" wb="1" dir="18"/>
+	</wj>
+	<wj id="18" q="请问您对目前巅峰任务的满意度评价如何" type="1" skip="0">
+		<item a="很不满意" wb="0" dir="19"/>
+		<item a="不满意" wb="0" dir="19"/>
+		<item a="一般" wb="0" dir="20"/>
+		<item a="满意" wb="0" dir="20"/>
+		<item a="非常满意" wb="0" dir="20"/>
+	</wj>
+	<wj id="19" q="请问您对目前巅峰任务评价不高的原因是" type="1" skip="0">
+		<item a="任务过于困难" wb="0" dir="20"/>
+		<item a="任务奖励太少" wb="0" dir="20"/>
+		<item a="需完成的任务太多" wb="0" dir="20"/>
+		<item a="其他，请详述" wb="1" dir="20"/>
+	</wj>
+	<wj id="20" q="S4巅峰赛季开始时，您希望使用怎样的竞技池" type="1" skip="0">
+		<item a="使用S3赛季竞技池（即当前竞技池）" wb="0" dir="21"/>
+		<item a="开启竞技池玩家投票以决定新竞技池" wb="0" dir="21"/>
+		<item a="官方提供新竞技池" wb="0" dir="21"/>
+		<item a="其他，请详述" wb="1" dir="21"/>
+	</wj>
+	<wj id="21" q="您是否希望巅峰主场机制（即精灵限时巅峰对战加强）回归" type="1" skip="0">
+		<item a="希望回归" wb="0" dir="22"/>
+		<item a="不希望回归" wb="0" dir="22"/>
+		<item a="无所谓" wb="0" dir="22"/>
+	</wj>
+	<wj id="22" q="若巅峰主场机制回归，您认为出现在哪个模式更加合适" type="1" skip="0">
+		<item a="狂野模式" wb="0" dir="23"/>
+		<item a="竞技模式" wb="0" dir="23"/>
+		<item a="休闲模式" wb="0" dir="23"/>
+		<item a="所有模式均添加主场机制" wb="0" dir="23"/>
+	</wj>
+	<wj id="23" q="关于巅峰圣战，您还有哪些意见或想法想与我们分享？您可以在下方留言，感谢赛尔对我们的支持。" type="3" skip="1">
+		
+	</wj>
+</root>

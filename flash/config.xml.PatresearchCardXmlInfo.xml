@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Patresearchcards>
+	<Patresearchcard CardID="1" Souinfo="2" Tarinfo="2_2"/>
+	<Patresearchcard CardID="2" Souinfo="2" Tarinfo="1"/>
+	<Patresearchcard CardID="3" Souinfo="3" Tarinfo="2_3"/>
+	<Patresearchcard CardID="4" Souinfo="1_2" Tarinfo="3_3"/>
+	<Patresearchcard CardID="5" Souinfo="2" Tarinfo="3_3_3"/>
+	<Patresearchcard CardID="6" Souinfo="1" Tarinfo="2"/>
+	<Patresearchcard CardID="7" Souinfo="1" Tarinfo="3"/>
+	<Patresearchcard CardID="8" Souinfo="2" Tarinfo="1_2"/>
+	<Patresearchcard CardID="9" Souinfo="2" Tarinfo="3"/>
+	<Patresearchcard CardID="10" Souinfo="3" Tarinfo="1"/>
+	<Patresearchcard CardID="11" Souinfo="3" Tarinfo="2"/>
+	<Patresearchcard CardID="12" Souinfo="1" Tarinfo="3_3"/>
+	<Patresearchcard CardID="13" Souinfo="1" Tarinfo="3_3_3"/>
+	<Patresearchcard CardID="14" Souinfo="2" Tarinfo="2_3"/>
+	<Patresearchcard CardID="15" Souinfo="3_3_3" Tarinfo="3_3"/>
+	<Patresearchcard CardID="16" Souinfo="3_3_3" Tarinfo="3"/>
+	<Patresearchcard CardID="17" Souinfo="3_3" Tarinfo="3"/>
+	<Patresearchcard CardID="18" Souinfo="3" Tarinfo="1_2"/>
+	<Patresearchcard CardID="19" Souinfo="3" Tarinfo="1_3"/>
+	<Patresearchcard CardID="20" Souinfo="1_2" Tarinfo="3"/>
+	<Patresearchcard CardID="21" Souinfo="1_3" Tarinfo="2"/>
+	<Patresearchcard CardID="22" Souinfo="2_3" Tarinfo="1"/>
+	<Patresearchcard CardID="23" Souinfo="1" Tarinfo="1_2"/>
+	<Patresearchcard CardID="24" Souinfo="2_2" Tarinfo="2"/>
+	<Patresearchcard CardID="25" Souinfo="1_1" Tarinfo="1"/>
+	<Patresearchcard CardID="26" Souinfo="1" Tarinfo="1_3"/>
+	<Patresearchcard CardID="27" Souinfo="2_2_2" Tarinfo="2_2"/>
+	<Patresearchcard CardID="28" Souinfo="2_2_2" Tarinfo="2"/>
+	<Patresearchcard CardID="29" Souinfo="1_1_1" Tarinfo="1_1"/>
+	<Patresearchcard CardID="30" Souinfo="1_1_1" Tarinfo="1"/>
+
+	
+</Patresearchcards>

@@ -1,0 +1,20 @@
+
+<!--  
+策划表内的一二三级统计项
+<Stat title1 = "一级统计项" title2 = "二级统计项" title3 = "三级统计项" />   同一行内&&关系， 每一行间||关系
+-->
+
+<root>
+
+<Stat title2 = "2019新背包" />
+<Stat title2 = "普通地图"  />
+<Stat title2 = "新刻印系统" />
+<Stat title3 = "新刻印系统"  />
+<Stat title2 = "派拉比送大礼"  />
+<Stat title2 = "暗黑布莱克超进化"  />
+<Stat title2 = "暗黑诺伊尔超进化" />
+<Stat title2 = "影皇vs奥斯卡（影皇）"/>
+<Stat title2 = "武圣关羽" />
+
+
+</root>

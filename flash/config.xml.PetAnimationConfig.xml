@@ -1,0 +1,19 @@
+<!--
+精灵动画配置
+id         对应动画的编号
+title      动画的标题
+onlineDate 上线时间 例如:20100418
+-->
+<petAnimatios>
+	<animation id="1" title="冰系精灵争霸赛开幕" onlineDate="20100415"/>
+	<animation id="2" title="冰系精灵争霸赛闭幕" onlineDate="20100415"/>
+	<animation id="3" title="哈莫雷特登场" onlineDate="20100415"/>
+	<animation id="4" title="抓住巴尔克" onlineDate="20100415"/>
+	<animation id="5" title="布鲁与格林" onlineDate="20100415"/>
+	<animation id="6" title="英卡洛斯大显神威" onlineDate="20100420"/>
+	<animation id="7" title="吓唬查尔顿" onlineDate="20100420"/>
+	<animation id="8" title="塔克林登场" onlineDate="20100420"/>
+	<animation id="9" title="米隆诉苦" onlineDate="20100420"/>
+	<animation id="10" title="米鲁族的两兄妹" onlineDate="20100420"/>
+	<animation id="11" title="米鲁与家人们" onlineDate="20100420"/>
+</petAnimatios>

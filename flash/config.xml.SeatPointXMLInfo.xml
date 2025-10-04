@@ -1,0 +1,45 @@
+<!-- 地图上组队自动占点配置
+	 btn-为占好位后触发开始组队的按钮
+	secID-为服务器协定好的唯一ID 
+	pointID-为占位的ID,0为队长
+-->
+<seat>
+	<seat mapID="100" btn="toGroupBtn">
+		<sct id="1">
+			<point id="0" mc="seat_1_0" hitMC="hit_1_0" des="三人小队队长"/>
+			<point id="1" mc="seat_1_1" hitMC="hit_1_1" des="三人小队队员"/>
+			<point id="2" mc="seat_1_2" hitMC="hit_1_2" des="三人小队队员"/>
+		</sct>
+		
+		<sct id="2">
+			<point id="0" mc="seat_2_0" hitMC="hit_2_0" des="四人小队队长"/>
+			<point id="1" mc="seat_2_1" hitMC="hit_2_1" des="四人小队队员"/>
+			<point id="2" mc="seat_2_2" hitMC="hit_2_2" des="四人小队队员"/>
+			<point id="3" mc="seat_2_3" hitMC="hit_2_3" des="四人小队队员"/>
+		</sct>
+
+		<sct id="3">
+			<point id="0" mc="seat_3_0" hitMC="hit_3_0" des="五人小队队长"/>
+			<point id="1" mc="seat_3_1" hitMC="hit_3_1" des="五人小队队员"/>
+			<point id="2" mc="seat_3_2" hitMC="hit_3_2" des="五人小队队员"/>
+			<point id="3" mc="seat_3_3" hitMC="hit_3_3" des="五人小队队员"/>
+			<point id="4" mc="seat_3_4" hitMC="hit_3_4" des="五人小队队员"/>
+		</sct>
+	</seat>
+	<seat mapID="431" btn="">
+		<sct id="4">
+			<point id="0" mc="seat_1_0" hitMC="hit_1_0" des="二人小队队长"/>
+			<point id="1" mc="seat_1_1" hitMC="hit_1_1" des="二人小队队员"/>
+		</sct>
+		
+		<sct id="5">
+			<point id="0" mc="seat_2_0" hitMC="hit_2_0" des="二人小队队长"/>
+			<point id="1" mc="seat_2_1" hitMC="hit_2_1" des="二人小队队员"/>
+		</sct>
+
+		<sct id="6">
+			<point id="0" mc="seat_3_0" hitMC="hit_3_0" des="二人小队队长"/>
+			<point id="1" mc="seat_3_1" hitMC="hit_3_1" des="二人小队队员"/>
+		</sct>
+	</seat>
+</seat>

@@ -1,0 +1,92 @@
+<!-- 标签页及每组精灵顺序根据配表顺序 依次排布 
+	TabName 每组的唯一标识，不能重复，不能为空 
+	标签页元件名称 Client/resource/forApp/petFriend/tab/tab_con.swf 
+	Art 精灵素材位置 Client/resource/forApp/petFriend -->
+
+<PetFriendGroup>
+	<Group Name="三国神将" TabName="san_guo" Art="san_guo_shen_jiang">
+		<Pet ID="2523" Name="卧龙诸葛" Go="" />
+		<Pet ID="2496" Name="将神·吕布" Go="luebu/LueBuSuperEvolution" />
+		<Pet ID="2500" Name="神威·马超" Go="MachaoSuperEvolvePanel" />
+		<Pet ID="2479" Name="貂蝉" Go="" />
+		<Pet ID="2512" Name="昭烈帝刘备" Go="LiubeiSuperEvolvePanel"  />
+		<Pet ID="2520" Name="武圣·关羽" Go="GuanYuEvolutionPanel" />
+		<Pet ID="2450" Name="陆逊" Go="" />
+	</Group>
+	<Group Name="三兄弟" TabName="san_xiong_di" Art="san_xiong_di">
+		<Pet ID="2520" Name="武圣·关羽" Go="GuanYuEvolutionPanel" />
+		<Pet ID="2512" Name="昭烈帝刘备" Go="LiubeiSuperEvolvePanel" />
+		<Pet ID="2530" Name="张飞" Go="ZhangFeiEvolutionMainPanel" />
+	</Group>
+	<Group Name="吕布貂蝉" TabName="lv_bu_diao_chan" Art="lv_bu_diao_chan">
+		<Pet ID="2479" Name="貂蝉" Go="" />
+		<Pet ID="2496" Name="将神·吕布" Go="luebu/LueBuSuperEvolution" />
+	</Group>
+	<Group Name="萨格罗斯" TabName="sageluosi" Art="sageluosi">
+		<Pet ID="2516" Name="影战·萨格罗斯" Go="" />
+		<Pet ID="2524" Name="幻天·萨格罗斯" Go="" />
+	</Group>
+	<Group Name="创世圣兵" TabName="chuang_shi" Art="chuang_shi_sheng_bing">
+		<Pet ID="2489" Name="创世圣翼" Go="SaintArmorMainPanel" />
+		<Pet ID="2497" Name="创世圣戒" Go="SaintArmorMainPanel" />
+		<Pet ID="2510" Name="创世圣甲" Go="SaintArmorMainPanel" />
+		<Pet ID="2488" Name="创世圣弓" Go="SaintArmorMainPanel" />
+		<Pet ID="2525" Name="创世圣剑" Go="SaintArmorMainPanel" />
+		<Pet ID="2519" Name="创世圣盾" Go="SaintArmorMainPanel" />
+	</Group>
+	<Group Name="魔神系列" TabName="mo_shen_five" Art="mo_shen_xi_lie">
+		<Pet ID="2445" Name="毁灭魔神" NotCheckHas="true" Go="" />
+		<Pet ID="2436" Name="炼狱魔神" NotCheckHas="true" Go="" />
+		<Pet ID="2468" Name="万魔天尊" NotCheckHas="true" Go="" />
+		<Pet ID="2422" Name="邪恶魔神" NotCheckHas="true" Go="" />
+		<Pet ID="2457" Name="寂灭魔神" NotCheckHas="true" Go="" />
+	</Group>
+	<Group Name="火车侠系列" TabName="huo_che_three" Art="huo_che_xi_lie">
+		<Pet ID="2586" Name="圣刃•神力号" Go="PowerPetEvolvePanel" />
+		<Pet ID="2594" Name="强袭•勇气号" Go="CouragePetEvolvePanel" />
+		<Pet ID="2606" Name="天火•烈焰号" Go="LieYanHaoEvolvePanel" />
+	</Group>
+	<Group Name="天启军系列" TabName="tian_qi_jun" Art="tian_qi_jun_xi_lie">
+		<Pet ID="2615" Name="克克" Go="ChloeComingFirstPanel" />
+		<Pet ID="2627" Name="耶尔" Go="JoinArmyMainPanel" />
+	</Group>
+	<Group Name="暗黑主宠系列" TabName="dark_pet" Art="dark_pet_xi_lie">
+		<Pet ID="2625" Name="暗黑鲁斯王" Go="map:1054" />
+		<Pet ID="2631" Name="暗黑蒙娜丽莎" Go="map:1054" />
+		<Pet ID="2637" Name="暗黑炽焰金刚" Go="map:1054" />
+	</Group>
+	<Group Name="冥王系列" TabName="ming_wang" Art="ming_wang_xi_lie">
+		<Pet ID="2517" Name="冥帝•修罗" Go="map:1030" />
+		<Pet ID="2505" Name="冥王•苍月" Go="map:1028" />
+		<Pet ID="2503" Name="冥王•破天" Go="map:1027" />
+		<Pet ID="2491" Name="冥王•断空" Go="map:1025" />
+		<Pet ID="2487" Name="冥王•夜刃" Go="map:1022" />
+	</Group>
+	<Group Name="龙族系列" TabName="long_zu" Art="long_zu_xi_lie">
+		<Pet ID="2541" Name="九天圣龙" Go="map:1034" />
+		<Pet ID="2537" Name="八部天龙" Go="map:1034" />
+	</Group>
+	<Group Name="小伙伴系列" TabName="xiao_huo_ban" Art="xiao_huo_ban_xi_lie">
+		<Pet ID="2603" Name="布鲁克林" Go="map:10774" />
+		<Pet ID="2597" Name="格林奇" Go="map:10667" />
+		<Pet ID="2609" Name="贝迪恩斯" Go="map:1048" />
+	</Group>
+	<Group Name="三灵兽系列" TabName="san_ling_shou" Art="san_ling_shou_xi_lie">
+		<Pet ID="2662" Name="神•始祖灵兽" Go="" />
+		<Pet ID="2485" Name="神·鱼龙王" Go="" />
+		<Pet ID="2464" Name="神·炎魔" Go="" />
+	</Group>
+	<Group Name="上古龙王系列" TabName="qi_long_wang" Art="qi_long_wang_xi_lie">
+		<Pet ID="2717" Name="紫霄惊鸿龙" Go="map:1072" />
+		<Pet ID="2722" Name="混沌青火龙" Go="AncientGreenDragonMainPanel" />
+		<Pet ID="2726" Name="神宫雷霆龙" Go="AncientDragonThunderMainPanel" />
+		<Pet ID="2745" Name="霸血星灵龙" Go="map:1082" />
+		<Pet ID="2751" Name="太玄木灵龙" Go="map:1084" />
+		<Pet ID="2756" Name="琉璃冰角龙" Go="DragonIcePanel" />
+	</Group>
+	<Group Name="精灵王系列" TabName="jing_ling_wang" Art="jing_ling_wang_xi_lie">
+		<Pet ID="2739" Name="火精灵王" Go="map:1089" />
+		<Pet ID="2787" Name="光精灵王" Go="map:1089" />
+		<Pet ID="2844" Name="冰精灵王" Go="map:1089" />
+	</Group>
+</PetFriendGroup>

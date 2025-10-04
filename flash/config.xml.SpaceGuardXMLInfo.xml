@@ -1,0 +1,28 @@
+<!--
+太空精灵站卫兵配置
+-->
+
+<Guards>
+	<GuardMessages>
+		<Dialog String = "荣誉大厅的克罗和小克会推荐最适合的玩法给你!"/>
+		<Dialog String = "不知道该玩什么就去荣誉大厅问问克罗和小克!"/>
+		<Dialog String = "汇聚各种挑战难度的太空站是展现精灵能力的最佳场所!"/>
+		<Dialog String = "想了解军阶、徽章、成就等信息，快去荣誉大厅看看吧!"/>
+	</GuardMessages>
+	
+	<Guard ID="1" Map="108" PosiX = "360" PosiY = "490">
+	</Guard>
+	
+	<Guard ID="2" Map="465" PosiX = "325" PosiY = "208">
+	</Guard>
+	
+	<Guard ID="3" Map="111" PosiX = "688" PosiY = "222">
+	</Guard>
+	
+	<Guard ID="4" Map="405" PosiX = "330" PosiY = "450">
+	</Guard>
+	
+	<Guard ID="5" Map="503" PosiX = "710" PosiY = "435">
+	</Guard>
+</Guards>
+

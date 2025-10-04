@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+   <!-- recommend ID:主键ID-->
+   <!-- MonsterID:对应精灵ID-->
+   <!--ifshow：是否显示：（0：显示）；（1：不显示）-->
+   <!--Rarity：精灵稀有度标签：1：B；2：A；3：S；4：SS；-->
+   <!--pettype(页签分类):【1】：强力精灵，【2】：经典精灵; -->
+   <!--gainperiod(获取周期):【1】：较短，【2】中等，【3】较长；-->
+   <!--gaindifficulty(关卡难度)【1】：简单，【2】中等，【3】难；-->
+   <!--【强力精灵配置】characteristic(精灵类型):[1]_PVE;[2]_PVP;[3]_能力均衡-->
+   <!--【经典精灵配置】petseries_id:(经典系列id)-->
+   <!--【经典精灵配置】Des：精灵系列名称-->
+   <!--mouseClickFunc：点击前往跳转：格式为"app:panel","map:1","mapApp:1,panel"-->
+
+
+	<petseries id="1" Des="三主宠完全体"/>
+	<petseries id="2" Des="王之战联"/>
+	<petseries id="3" Des="圣化战联"/>
+	<petseries id="4" Des="机甲战联"/>
+	<petseries id="5" Des="神兽"/>
+	<petseries id="6" Des="龙族"/>
+	<petseries id="7" Des="光暗螳螂"/>
+	<petseries id="8" Des="光暗异能王"/>
+	<petseries id="9" Des="邪恶四灵"/>
+	<petseries id="10" Des="X战队"/>
+	<petseries id="11" Des="神域四天王"/>
+	<petseries id="12" Des="魔界"/>
+	<petseries id="13" Des="冥域"/>
+	<petseries id="14" Des="妖族"/>
+	<petseries id="15" Des="界皇系列"/>
+	<petseries id="16" Des="界神系列"/>
+	<petseries id="17" Des="初阶精灵王"/>
+	<petseries id="18" Des="进阶精灵王"/>
+	<petseries id="19" Des="合体精灵王"/>
+	<petseries id="20" Des="大暗黑天"/>
+	<petseries id="21" Des="魂塔"/>
+	<petseries id="22" Des="圣光联军"/>
+	<petseries id="23" Des="混沌教派"/>
+	<petseries id="24" Des="魔灵王与魔誓者"/>
+	<petseries id="25" Des="陨星议会"/>
+	<petseries id="26" Des="虫族"/>
+	<petseries id="27" Des="星魂"/>
+	<petseries id="28" Des="莱达宇宙星系守护者"/>
+	<petseries id="29" Des="黯灭四骑士"/>
+	<petseries id="30" Des="盖伦三杰"/>
+	<petseries id="31" Des="光暗三女神"/>
+	<petseries id="32" Des="莱达神谕"/>
+	<petseries id="33" Des="费尤领主"/>
+	<petseries id="34" Des="黑狱三人组"/>
+	<petseries id="35" Des="灰色爵刻"/>
+	<petseries id="36" Des="白金执法队"/>
+	<petseries id="37" Des="盟会长老"/>
+	
+	
+	
+	<recommend ID="1" MonsterID="2947" ifshow="0" Rarity="3" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="1" mouseClickFunc="app:LuciusCompleteBodyMainPanel"/>
+	<recommend ID="2" MonsterID="2958" ifshow="0" Rarity="2" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="1" mouseClickFunc="app:KingKongMainPanel"/>
+	<recommend ID="3" MonsterID="2966" ifshow="0" Rarity="2" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="1" mouseClickFunc="app:MonaLisaCompleteBodyMainPanel"/>
+	<recommend ID="4" MonsterID="3242" ifshow="0" Rarity="3" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="2" mouseClickFunc="app:GaiyaBeKingMainPanel"/>
+	<recommend ID="5" MonsterID="3170" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="2" mouseClickFunc="app:BeKingofCassiusPanel"/>
+	<recommend ID="6" MonsterID="3205" ifshow="0" Rarity="3" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="2" mouseClickFunc="app:MiusiBecomeAKingMainPanel"/>
+	<recommend ID="7" MonsterID="3142" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="2" mouseClickFunc="app:ElectricalKingPanel"/>
+	<recommend ID="8" MonsterID="3481" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="3" mouseClickFunc="app:ShengzhanGaiyaMainPanel"/>
+	<recommend ID="9" MonsterID="3539" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="3" mouseClickFunc="app:ChaosBlackEvolvedMianPanel"/>
+	<recommend ID="10" MonsterID="3568" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="3" petseries_id="3" mouseClickFunc="app:HolyLandCajasMainPanel"/>
+	<recommend ID="11" MonsterID="3465" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="3" mouseClickFunc="app:ShengtongmiusiMainPanel"/>
+	<recommend ID="12" MonsterID="3406" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="3" mouseClickFunc="app:ShengtingleiyiMainPanel"/>
+	<recommend ID="13" MonsterID="3079" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="3" petseries_id="4" mouseClickFunc="app:StAThunderousFullBodyMainPanel"/>
+	<recommend ID="14" MonsterID="3056" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="4" mouseClickFunc="app:HolyWarCompleteBodyMainPanel"/>
+	<recommend ID="15" MonsterID="3061" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="4" mouseClickFunc="app:StACrackFullBodyMainPanel"/>
+	<recommend ID="16" MonsterID="3075" ifshow="0" Rarity="2" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="4" mouseClickFunc="app:StAMagicHitomiFullBodyMainPanel"/>
+	<recommend ID="17" MonsterID="3067" ifshow="0" Rarity="2" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="4" mouseClickFunc="app:HolyArmorBlackCompleteMainPanel"/>
+	<recommend ID="18" MonsterID="3308" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="3" petseries_id="5" mouseClickFunc="app:BeiMingXuanwuCompleteMainPanel"/>
+	<recommend ID="19" MonsterID="3289" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="5" mouseClickFunc="app:QinglongCompleteBodyMainPanel"/>
+	<recommend ID="20" MonsterID="3301" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="3" petseries_id="5" mouseClickFunc="app:WhiteTigerCompMainPanel"/>
+	<recommend ID="21" MonsterID="3318" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="5" mouseClickFunc="app:YanhuangZhuqueCompleteBodyMainPanel"/>
+	<recommend ID="22" MonsterID="3315" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="5" mouseClickFunc="app:KylinOfLightMainPanel"/>
+	<recommend ID="23" MonsterID="2933" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="5" mouseClickFunc="app:LostSilentWarTitanMainPanel"/>
+	<recommend ID="24" MonsterID="3532" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="5" mouseClickFunc="app:DoluotaitanMainPanel"/>
+	<recommend ID="25" MonsterID="3022" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="1" petseries_id="6" mouseClickFunc="app:DragonFatePanel"/>
+	<recommend ID="26" MonsterID="3046" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="6" mouseClickFunc="app:HammerLongLingAwakeMainPanel"/>
+	<recommend ID="27" MonsterID="3809" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="6" mouseClickFunc="app:HamoretDragonFormMainPanel"/>
+	<recommend ID="28" MonsterID="3582" ifshow="0" Rarity="3" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="6" mouseClickFunc="app:PveRewardMallMainPanel"/>
+	<recommend ID="29" MonsterID="3577" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="7" mouseClickFunc="app:PunishFormYinCarlosMainPanel"/>
+	<recommend ID="30" MonsterID="3586" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="7" mouseClickFunc="app:CrazeYinCarlosMainPanel"/>
+	<recommend ID="31" MonsterID="3328" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="7" mouseClickFunc="app:WangSaCompleteMainPanel"/>
+	<recommend ID="32" MonsterID="3356" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="8" mouseClickFunc="app:ShengGuangAoErDeCompMainPanel"/>
+	<recommend ID="33" MonsterID="3358" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="1" petseries_id="8" mouseClickFunc="app:YinengwangCompleteBodySignInMianPanel"/>
+	<recommend ID="34" MonsterID="3642" ifshow="0" Rarity="4" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="10" mouseClickFunc="app:WingsOfTheSkyTolucMainPanel"/>
+	<recommend ID="35" MonsterID="3652" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="10" mouseClickFunc="app:CyberstallCompleteMainPanel"/>
+	<recommend ID="36" MonsterID="3637" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="10" mouseClickFunc="app:SarikaSuperEvoMainPanel"/>
+	<recommend ID="37" MonsterID="3632" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="1" petseries_id="10" mouseClickFunc="app:StiaCompleteMainPanel"/>
+	<recommend ID="38" MonsterID="3662" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="10" mouseClickFunc="app:CaptCompleteMainPanel"/>
+	<recommend ID="39" MonsterID="3657" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="10" mouseClickFunc="app:ShengYuTianXiangYingPriusMainPanel"/>
+	<recommend ID="40" MonsterID="3672" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="10" mouseClickFunc="app:XteamChimerismMainPanel"/>
+	<recommend ID="41" MonsterID="3420" ifshow="0" Rarity="2" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="11" mouseClickFunc="app:TheGodOfDreamsMainPanel"/>
+	<recommend ID="42" MonsterID="3439" ifshow="0" Rarity="2" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="11" mouseClickFunc="app:GodOffearMainPanel"/>
+	<recommend ID="43" MonsterID="3451" ifshow="0" Rarity="3" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="11" mouseClickFunc="app:MoDiXiSiCompMainPanel"/>
+	<recommend ID="44" MonsterID="3428" ifshow="0" Rarity="2" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="11" mouseClickFunc="app:AluonasiCompleteMainPanel"/>
+	<recommend ID="45" MonsterID="4001" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="12" mouseClickFunc="app:TheCompleteEvoOfWanMoTianZunMainPanel"/>
+	<recommend ID="46" MonsterID="3507" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="13" mouseClickFunc="app:CangyueCompleteMainPanel"/>
+	<recommend ID="47" MonsterID="3504" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="13" mouseClickFunc="app:MingwangpotianCompleteMainPanel"/>
+	<recommend ID="48" MonsterID="3496" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="13" mouseClickFunc="app:YeRenCompleteMainPanel"/>
+	<recommend ID="49" MonsterID="3492" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="13" mouseClickFunc="app:DuankongMainPanel"/>
+	<recommend ID="50" MonsterID="3515" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="13" mouseClickFunc="app:OranCompletelyBodyMianPanel"/>
+	<recommend ID="51" MonsterID="3251" ifshow="0" Rarity="2" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="14" mouseClickFunc="app:JiLuoDeComMainPanel"/>
+	<recommend ID="52" MonsterID="3686" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="14" mouseClickFunc="app:LandisStrongMainPanel"/>
+	<recommend ID="53" MonsterID="3329" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="15" mouseClickFunc="app:SixGodCompleteBodyMainPanel"/>
+	<recommend ID="54" MonsterID="3359" ifshow="0" Rarity="2" pettype="2" gainperiod="1" gaindifficulty="2" petseries_id="15" mouseClickFunc="app:TheBurialOfTheKingChaoEvolutionMainPanel"/>
+	<recommend ID="55" MonsterID="3367" ifshow="0" Rarity="2" pettype="2" gainperiod="1" gaindifficulty="2" petseries_id="15" mouseClickFunc="app:ChaosSectorWangChaoEvolutionMainPanel"/>
+	<recommend ID="56" MonsterID="3460" ifshow="0" Rarity="4" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="15" mouseClickFunc="app:JiewangGetPanel"/>
+	<recommend ID="57" MonsterID="3463" ifshow="0" Rarity="3" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="15" mouseClickFunc="app:JiewangGetPanel"/>
+	<recommend ID="58" MonsterID="4032" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="16" mouseClickFunc="app:S26SixRealmsGodKingPerfectMainPanel"/>
+	<recommend ID="59" MonsterID="4037" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="3" petseries_id="16" mouseClickFunc="app:S27TianXuanJieHuangEvoPanel"/>
+	<recommend ID="60" MonsterID="4030" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="16" mouseClickFunc="app:S25EvolutionOfTheEmperorOfTheVastSea"/>
+	<recommend ID="61" MonsterID="4024" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="16" mouseClickFunc="app:S22KingOfLandBurialSuperEvolution"/>
+	<recommend ID="62" MonsterID="4048" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="16" mouseClickFunc="app:S31GodOfPhantasmagoriaMainPanel"/>
+	<recommend ID="63" MonsterID="4050" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="16" mouseClickFunc="app:S30GodOfTimeAndSpaceMainPanel"/>
+	<recommend ID="64" MonsterID="4075" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="16" mouseClickFunc="app:S39ChaosWorldGodMainPanel"/>
+	<recommend ID="65" MonsterID="3322" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="66" MonsterID="3105" ifshow="0" Rarity="2" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="67" MonsterID="2739" ifshow="0" Rarity="2" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="68" MonsterID="2787" ifshow="0" Rarity="2" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="69" MonsterID="2844" ifshow="0" Rarity="2" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="70" MonsterID="3211" ifshow="0" Rarity="2" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="71" MonsterID="2959" ifshow="0" Rarity="2" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="72" MonsterID="2988" ifshow="0" Rarity="2" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="73" MonsterID="3174" ifshow="0" Rarity="2" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="74" MonsterID="3355" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="75" MonsterID="3200" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="76" MonsterID="3340" ifshow="0" Rarity="2" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="77" MonsterID="3240" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="78" MonsterID="3372" ifshow="0" Rarity="2" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="79" MonsterID="3082" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="80" MonsterID="3036" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="81" MonsterID="3223" ifshow="0" Rarity="2" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="82" MonsterID="3150" ifshow="0" Rarity="2" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:PveElvenKingTrialMainPanel"/>
+	<recommend ID="83" MonsterID="3390" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:HuimiejijiaMainPanel"/>
+	<recommend ID="84" MonsterID="3386" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:JianbijijiaMainpanel"/>
+	<recommend ID="85" MonsterID="4466" ifshow="0" Rarity="2" pettype="2" gainperiod="1" gaindifficulty="2" petseries_id="17" mouseClickFunc="app:SpetGeSiTaSiMainPanel"/>
+	<recommend ID="86" MonsterID="3613" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="1" petseries_id="18" mouseClickFunc="app:MoleculeIntensificationMainPanel"/>
+	<recommend ID="87" MonsterID="3740" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="18" mouseClickFunc="app:ChangLanCompleteMainPanel"/>
+	<recommend ID="88" MonsterID="3467" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="18" mouseClickFunc="app:AiensiMainPanel"/>
+	<recommend ID="89" MonsterID="3456" ifshow="0" Rarity="4" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="18" mouseClickFunc="app:HolyLightScarlettMainPanel"/>
+	<recommend ID="90" MonsterID="3886" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="18" mouseClickFunc="app:ColderEvolutionMainPanel"/>
+	<recommend ID="91" MonsterID="3529" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="18" mouseClickFunc="app:HaiseweiEvoMainPanel"/>
+	<recommend ID="92" MonsterID="3627" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="18" mouseClickFunc="app:CiYuanWangStrengthensMainPanel"/>
+	<recommend ID="93" MonsterID="3697" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="18" mouseClickFunc="app:FlyingKingVansStrongMainPanel"/>
+	<recommend ID="94" MonsterID="3734" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="18" mouseClickFunc="app:HundunFanersiMainPanel"/>
+	<recommend ID="95" MonsterID="3516" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="18" mouseClickFunc="app:HunDunDiWangMainPanel"/>
+	<recommend ID="96" MonsterID="3711" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="18" mouseClickFunc="app:NaturalKingHolySpriteMainPanel"/>
+	<recommend ID="97" MonsterID="3941" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="18" mouseClickFunc="app:ChaosShadowSpiritKingMainPanel"/>
+	<recommend ID="98" MonsterID="3807" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="18" mouseClickFunc="app:OudelineiMainPanel"/>
+	<recommend ID="99" MonsterID="3561" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="18" mouseClickFunc="app:EvilKingMorganMainPanel"/>
+	<recommend ID="100" MonsterID="4125" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="18" mouseClickFunc="app:S56LieAoNiDaEvoMainPanel"/>
+	<recommend ID="101" MonsterID="4186" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="18" mouseClickFunc="app:S75SGQTLDMainPanel"/>
+	<recommend ID="102" MonsterID="3994" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="18" mouseClickFunc="app:S15KingOfElectricityRiotForm"/>
+	<recommend ID="103" MonsterID="4004" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="18" mouseClickFunc="app:S17AvatarOfTheKingOfElectricity"/>
+	<recommend ID="104" MonsterID="4327" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="18" mouseClickFunc="app:SpetAErSiLanEvoPanel"/>
+	<recommend ID="105" MonsterID="4467" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="18" mouseClickFunc="app:SpetMQGeSiTaSiMainPanel"/>
+	<recommend ID="106" MonsterID="3393" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="1" petseries_id="17" mouseClickFunc="app:MachineELFKINGMainPanel"/>
+	<recommend ID="107" MonsterID="4287" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="18" mouseClickFunc="app:SPetHunlingLaiYinHaTePanel"/>
+	<recommend ID="108" MonsterID="3378" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="19" mouseClickFunc="app:MysteriousFightSpritePanel"/>
+	<recommend ID="109" MonsterID="3432" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="19" mouseClickFunc="app:IceShadowKingMainPanel"/>
+	<recommend ID="110" MonsterID="3407" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="19" mouseClickFunc="app:FireAndElectricityPetMainPanel"/>
+	<recommend ID="111" MonsterID="3524" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="19" mouseClickFunc="app:GetAncientdragonkingMainPanel"/>
+	<recommend ID="112" MonsterID="3575" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="20" mouseClickFunc="app:GodEvilDragonKingMainPanel"/>
+	<recommend ID="113" MonsterID="3673" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="20" mouseClickFunc="app:ChangLeaderMainPanel"/>
+	<recommend ID="114" MonsterID="3665" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="20" mouseClickFunc="app:ZakesCompleteMainPanel"/>
+	<recommend ID="115" MonsterID="3214" ifshow="0" Rarity="3" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="20" mouseClickFunc="app:WeisikeMainpanel"/>
+	<recommend ID="116" MonsterID="3667" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="20" mouseClickFunc="app:ChaosTianSheTiaZhuMainPanel"/>
+	<recommend ID="117" MonsterID="3592" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="20" mouseClickFunc="app:MingDiShuraCompletelyBodyMainPanel"/>
+	<recommend ID="118" MonsterID="3554" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="20" mouseClickFunc="app:FeiLiangCompleteMainPanel"/>
+	<recommend ID="119" MonsterID="3217" ifshow="0" Rarity="2" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="20" mouseClickFunc="app:EvilHadesMainPanel"/>
+	<recommend ID="120" MonsterID="3679" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="20" mouseClickFunc="app:FormerEldersMainPanel"/>
+	<recommend ID="121" MonsterID="3194" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="20" mouseClickFunc="app:ZhakesiSuperEvoMainPanel"/>
+	<recommend ID="122" MonsterID="3847" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="3" petseries_id="21" mouseClickFunc="app:HeavenlySoulSuperEvolutionMainPanel"/>
+	<recommend ID="123" MonsterID="3437" ifshow="0" Rarity="4" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="21" mouseClickFunc="app:AYaCompMainPanel"/>
+	<recommend ID="124" MonsterID="5000" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="22" mouseClickFunc="app:HolyPunnyMainPanel"/>
+	<recommend ID="125" MonsterID="3421" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="22" mouseClickFunc="app:ShenghunMaiersiEvoMainPanel"/>
+	<recommend ID="126" MonsterID="3425" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="22" mouseClickFunc="app:ShenglingAosikaMainPanel"/>
+	<recommend ID="127" MonsterID="3482" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="22" mouseClickFunc="app:ShengzhanRuiersiMainPanel"/>
+	<recommend ID="128" MonsterID="3759" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="22" mouseClickFunc="app:HolylightEvoMainPanel"/>
+	<recommend ID="129" MonsterID="3414" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="23" mouseClickFunc="app:SorensonCompleteMainPanel"/>
+	<recommend ID="130" MonsterID="3442" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="23" mouseClickFunc="app:HunDunAiLanMainPanel"/>
+	<recommend ID="131" MonsterID="3446" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="23" mouseClickFunc="app:ChaosTiasMainPanel"/>
+	<recommend ID="132" MonsterID="3683" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="3" petseries_id="23" mouseClickFunc="app:HundunmoshiEvoMainPanel"/>
+	<recommend ID="133" MonsterID="3391" ifshow="0" Rarity="2" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="23" mouseClickFunc="app:LifanteMainPanel"/>
+	<recommend ID="134" MonsterID="3388" ifshow="0" Rarity="4" pettype="2" gainperiod="1" gaindifficulty="1" petseries_id="23" mouseClickFunc="app:Villain1MainPanel"/>
+	<recommend ID="135" MonsterID="3797" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="3" petseries_id="23" mouseClickFunc="app:ChaosMagicEyeJerezMainPanel"/>
+	<recommend ID="136" MonsterID="3718" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="23" mouseClickFunc="app:HundunQyssMainPanel"/>
+	<recommend ID="137" MonsterID="3541" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="24" mouseClickFunc="app:DemonKingCompleteMainPanel"/>
+	<recommend ID="138" MonsterID="3518" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="24" mouseClickFunc="app:MolingwangEvoMainPanel"/>
+	<recommend ID="139" MonsterID="3490" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="1" petseries_id="24" mouseClickFunc="app:FightingEmperorCompleteMainPanel"/>
+	<recommend ID="140" MonsterID="3497" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="24" mouseClickFunc="app:ZhanHuangCompMainPanel"/>
+	<recommend ID="141" MonsterID="3502" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="24" mouseClickFunc="app:YingHuangCompleteBodyMianPanel"/>
+	<recommend ID="142" MonsterID="3510" ifshow="0" Rarity="3" pettype="2" gainperiod="1" gaindifficulty="2" petseries_id="24" mouseClickFunc="app:ShengHuangCompletelyBodyMianPanel"/>
+	<recommend ID="143" MonsterID="3514" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="1" petseries_id="24" mouseClickFunc="app:ShiShenLieHuangMainPanel"/>
+	<recommend ID="144" MonsterID="3647" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="25" mouseClickFunc="app:SweepRoadFrontMainPanel"/>
+	<recommend ID="145" MonsterID="3646" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="25" mouseClickFunc="app:BurialLotusMainPanel"/>
+	<recommend ID="146" MonsterID="3645" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="25" mouseClickFunc="app:BiteDreamMagicMainPanel"/>
+	<recommend ID="147" MonsterID="3648" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="25" mouseClickFunc="app:AotianzhishaMainPanel"/>
+	<recommend ID="148" MonsterID="3802" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="25" mouseClickFunc="app:SaodangzhifengEvoMainPanel"/>
+	<recommend ID="149" MonsterID="3806" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="25" mouseClickFunc="app:BurialLotusSuperMainPanel"/>
+	<recommend ID="150" MonsterID="3816" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="25" mouseClickFunc="app:EatDreamSpriteEvoMainPanel"/>
+	<recommend ID="151" MonsterID="3820" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="25" mouseClickFunc="app:AoTianZhiShaEvoMainPanel"/>
+	<recommend ID="152" MonsterID="3626" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="26" mouseClickFunc="app:GetAopeiyaMainPanel"/>
+	<recommend ID="153" MonsterID="3866" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="3" petseries_id="27" mouseClickFunc="app:YueZhaoXinghunMainPanel"/>
+	<recommend ID="154" MonsterID="3932" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="27" mouseClickFunc="app:InkShadowStarSoul190906MainPanel"/>
+	<recommend ID="155" MonsterID="4068" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="28" mouseClickFunc="app:S37HopeOfTheSkyAilisi"/>
+	<recommend ID="156" MonsterID="4219" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="28" mouseClickFunc="app:S86AnkaMainPanel"/>
+	<recommend ID="157" MonsterID="4239" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="28" mouseClickFunc="app:S91NuEnMainPanel"/>
+	<recommend ID="158" MonsterID="4354" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="28" mouseClickFunc="app:S105SaTeMainPanel"/>
+	<recommend ID="159" MonsterID="4364" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="28" mouseClickFunc="app:SpetYouLiMiTePanel"/>
+	<recommend ID="160" MonsterID="4208" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="29" mouseClickFunc="app:S82GLMJMainPanel"/>
+	<recommend ID="161" MonsterID="4189" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="29" mouseClickFunc="app:S77LingxueYinMainPanel"/>
+	<recommend ID="162" MonsterID="4163" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="3" petseries_id="29" mouseClickFunc="app:S67NihunPTFDMainPanel"/>
+	<recommend ID="163" MonsterID="4078" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="29" mouseClickFunc="app:S40AiYingJiFengMainPanel"/>
+	<recommend ID="164" MonsterID="4318" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="30" mouseClickFunc="app:S102BuLeiLiKeMainPanel"/>
+	<recommend ID="165" MonsterID="4332" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="30" mouseClickFunc="app:SpetBaoErSiPanel"/>
+	<recommend ID="166" MonsterID="4358" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="30" mouseClickFunc="app:SpetJieTeLuoPanel"/>
+	<recommend ID="167" MonsterID="4492" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:SpetSiDaLaiSiMainPanel"/>
+	<recommend ID="168" MonsterID="4301" ifshow="0" Rarity="3" pettype="2" gainperiod="1" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:SpetFengMoZhiHaiMainPanel"/>
+	<recommend ID="169" MonsterID="4345" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:SpetSXNHKaTuoNaPanel"/>
+	<recommend ID="170" MonsterID="4354" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:S105SaTeMainPanel"/>
+	<recommend ID="171" MonsterID="4395" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:SpetHTKHWMPanel"/>
+	<recommend ID="172" MonsterID="4261" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:SpetLingYuePanel"/>
+	<recommend ID="173" MonsterID="4194" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:S78LuMuLiYaMainPanel"/>
+	<recommend ID="174" MonsterID="4401" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:SpetTeLuoSiMainPanel"/>
+	<recommend ID="175" MonsterID="4167" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:S69ChameiluoEvoMainPanel"/>
+	<recommend ID="176" MonsterID="4275" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:SpetMoyiLaiPanel"/>
+	<recommend ID="177" MonsterID="4347" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:SpetCZMJSaiZeSiPanel"/>
+	<recommend ID="178" MonsterID="4333" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:S104AiLaBoKeMainPanel"/>
+	<recommend ID="179" MonsterID="4290" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:S97DaiMainPanel"/>
+	<recommend ID="180" MonsterID="4387" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:SpetTanPuRuiPanel"/>
+	<recommend ID="181" MonsterID="4392" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:SpetSiKaiPuPanel"/>
+	<recommend ID="182" MonsterID="4299" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:SPetTaWeiErPanel"/>
+	<recommend ID="183" MonsterID="4257" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:S94MuMainPanel"/>
+	<recommend ID="184" MonsterID="4407" ifshow="0" Rarity="3" pettype="2" gainperiod="1" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:SpetCHXFMainPanel"/>
+	<recommend ID="185" MonsterID="4330" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="32" mouseClickFunc="app:S103SPZHMainPanel"/>
+	<recommend ID="186" MonsterID="4422" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="33" mouseClickFunc="app:SpetTBLDongHuiMainPanel"/>
+	<recommend ID="187" MonsterID="4511" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="33" mouseClickFunc="app:SpetBPDNanShuangMainPanel"/>
+	<recommend ID="188" MonsterID="4553" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="33" mouseClickFunc="app:SpetWLCBeiNiaoMainPanel"/>
+	<recommend ID="189" MonsterID="4426" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="34" mouseClickFunc="app:SpetYNYSAoWeiNaMainPanel"/>
+	<recommend ID="190" MonsterID="4432" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="34" mouseClickFunc="app:SpetEZWSKeSaSiMainPanel"/>
+	<recommend ID="191" MonsterID="4435" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="34" mouseClickFunc="app:SpetMLZJHeBiDeMainPanel"/>
+	<recommend ID="192" MonsterID="4454" ifshow="0" Rarity="4" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="35" mouseClickFunc="app:SpetJKHeiODeMainPanel"/>
+	<recommend ID="193" MonsterID="4436" ifshow="0" Rarity="3" pettype="2" gainperiod="1" gaindifficulty="2" petseries_id="35" mouseClickFunc="app:SpetYHHaiDengMainPanel"/>
+	<recommend ID="194" MonsterID="4448" ifshow="0" Rarity="3" pettype="2" gainperiod="1" gaindifficulty="2" petseries_id="35" mouseClickFunc="app:SpetLYXMainPanel"/>
+	<recommend ID="195" MonsterID="4459" ifshow="0" Rarity="4" pettype="2" gainperiod="1" gaindifficulty="2" petseries_id="35" mouseClickFunc="app:SpetEGTuJiaMainPanel"/>
+	<recommend ID="196" MonsterID="4472" ifshow="0" Rarity="3" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="35" mouseClickFunc="app:SpetYLLiuCaiMainPanel"/>
+	<recommend ID="197" MonsterID="4476" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="35" mouseClickFunc="app:SpetCanXiaoXingWenMainPanel"/>
+	<recommend ID="198" MonsterID="4438" ifshow="0" Rarity="3" pettype="2" gainperiod="2" gaindifficulty="2" petseries_id="36" mouseClickFunc="app:SpetAoLeiMoDeMainPanel"/>
+	<recommend ID="199" MonsterID="4442" ifshow="0" Rarity="4" pettype="2" gainperiod="1" gaindifficulty="2" petseries_id="36" mouseClickFunc="app:SpetMJMaTiNaMainPanel"/>
+	<recommend ID="200" MonsterID="4461" ifshow="0" Rarity="3" pettype="2" gainperiod="1" gaindifficulty="2" petseries_id="36" mouseClickFunc="app:SpetZGLanKeMainPanel"/>
+	<recommend ID="201" MonsterID="4469" ifshow="0" Rarity="4" pettype="2" gainperiod="1" gaindifficulty="2" petseries_id="36" mouseClickFunc="app:SpetTaoTaoWanMainPanel"/>
+	<recommend ID="202" MonsterID="4481" ifshow="0" Rarity="3" pettype="2" gainperiod="1" gaindifficulty="2" petseries_id="36" mouseClickFunc="app:SpetWeiGuoErMainPanel"/>
+	<recommend ID="203" MonsterID="4499" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="37" mouseClickFunc="app:SpetDeBuBiTeMainPanel"/>
+	<recommend ID="204" MonsterID="4489" ifshow="0" Rarity="4" pettype="2" gainperiod="3" gaindifficulty="2" petseries_id="37" mouseClickFunc="app:SpetPuLuXiuTuoMainPanel" characteristic="3"/>
+	<recommend ID="205" MonsterID="5000" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:HolyPunnyMainPanel" characteristic="3"/>
+	<recommend ID="206" MonsterID="3414" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="3" mouseClickFunc="app:SorensonCompleteMainPanel" characteristic="3"/>
+	<recommend ID="207" MonsterID="3406" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="2" mouseClickFunc="app:ShengtingleiyiMainPanel" characteristic="3"/>
+	<recommend ID="208" MonsterID="3699" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="2" mouseClickFunc="app:AkexiyaEvoMainPanel" characteristic="3"/>
+	<recommend ID="209" MonsterID="3613" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="1" mouseClickFunc="app:MoleculeIntensificationMainPanel" characteristic="3"/>
+	<recommend ID="210" MonsterID="4442" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="2" mouseClickFunc="app:SpetMJMaTiNaMainPanel" characteristic="3"/>
+	<recommend ID="211" MonsterID="4487" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="2" mouseClickFunc="app:SpetXiKeLuoMainPanel" characteristic="3"/>
+	<recommend ID="212" MonsterID="3711" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="2" mouseClickFunc="app:NaturalKingHolySpriteMainPanel" characteristic="3"/>
+	<recommend ID="213" MonsterID="3328" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:WangSaCompleteMainPanel" characteristic="3"/>
+	<recommend ID="214" MonsterID="3866" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="3" mouseClickFunc="app:YueZhaoXinghunMainPanel" characteristic="3"/>
+	<recommend ID="215" MonsterID="3522" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="1" mouseClickFunc="app:CrazyKingOfSlimeMianPanel" characteristic="2"/>
+	<recommend ID="216" MonsterID="3577" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:PunishFormYinCarlosMainPanel" characteristic="2"/>
+	<recommend ID="217" MonsterID="4275" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:SpetMoyiLaiPanel" characteristic="2"/>
+	<recommend ID="218" MonsterID="3673" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="3" mouseClickFunc="app:ChangLeaderMainPanel" characteristic="2"/>
+	<recommend ID="219" MonsterID="4422" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:SpetTBLDongHuiMainPanel" characteristic="2"/>
+	<recommend ID="220" MonsterID="4553" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:SpetWLCBeiNiaoMainPanel" characteristic="2"/>
+	<recommend ID="221" MonsterID="4511" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:SpetBPDNanShuangMainPanel" characteristic="2"/>
+	<recommend ID="222" MonsterID="4163" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="3" mouseClickFunc="app:S67NihunPTFDMainPanel" characteristic="2"/>
+	<recommend ID="223" MonsterID="3697" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:FlyingKingVansStrongMainPanel" characteristic="2"/>
+	<recommend ID="224" MonsterID="3467" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:AiensiMainPanel" characteristic="2"/>
+	<recommend ID="225" MonsterID="4364" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:SpetYouLiMiTePanel" characteristic="2"/>
+	<recommend ID="226" MonsterID="3637" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:SarikaSuperEvoMainPanel" characteristic="2"/>
+	<recommend ID="227" MonsterID="4387" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="2" mouseClickFunc="app:SpetTanPuRuiPanel" characteristic="2"/>
+	<recommend ID="228" MonsterID="4454" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="2" mouseClickFunc="app:SpetJKHeiODeMainPanel" characteristic="2"/>
+	<recommend ID="229" MonsterID="4354" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="2" mouseClickFunc="app:S105SaTeMainPanel" characteristic="2"/>
+	<recommend ID="231" MonsterID="4001" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:TheCompleteEvoOfWanMoTianZunMainPanel" characteristic="2"/>
+	<recommend ID="232" MonsterID="3056" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:HolyWarCompleteBodyMainPanel" characteristic="2"/>
+	<recommend ID="234" MonsterID="4345" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="2" mouseClickFunc="app:SpetSXNHKaTuoNaPanel" characteristic="2"/>
+	<recommend ID="235" MonsterID="3670" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="1" mouseClickFunc="app:GoldenLightPegasusSuperEvolutionMainPanel" characteristic="2"/>
+	<recommend ID="236" MonsterID="3514" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="1" mouseClickFunc="app:ShiShenLieHuangMainPanel" characteristic="2"/>
+	<recommend ID="237" MonsterID="3507" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="1" mouseClickFunc="app:CangyueCompleteMainPanel" characteristic="2"/>
+	<recommend ID="238" MonsterID="4395" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="2" mouseClickFunc="app:SpetHTKHWMPanel" characteristic="2"/>
+	<recommend ID="239" MonsterID="4327" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:SpetAErSiLanEvoPanel" characteristic="2"/>
+	<recommend ID="240" MonsterID="4347" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:SpetCZMJSaiZeSiPanel" characteristic="2"/>
+	<recommend ID="241" MonsterID="4376" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:SpetSYZFLPanel" characteristic="2"/>
+	<recommend ID="242" MonsterID="3407" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:FireAndElectricityPetMainPanel" characteristic="2"/>
+	<recommend ID="243" MonsterID="3516" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="2" mouseClickFunc="app:HunDunDiWangMainPanel" characteristic="2"/>
+	<recommend ID="244" MonsterID="4445" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="2" mouseClickFunc="app:SpetGWPPMainPanel" characteristic="2"/>
+	<recommend ID="245" MonsterID="4239" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:S91NuEnMainPanel" characteristic="2"/>
+	<recommend ID="246" MonsterID="3932" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:InkShadowStarSoul190906MainPanel" characteristic="2"/>
+	<recommend ID="247" MonsterID="3289" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="3" mouseClickFunc="app:QinglongCompleteBodyMainPanel" characteristic="2"/>
+	<recommend ID="248" MonsterID="4489" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:SpetPuLuXiuTuoMainPanel" characteristic="2"/>
+	<recommend ID="249" MonsterID="4501" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="2" mouseClickFunc="app:SpetPuDaGeErMainPanel" characteristic="2"/>
+	<recommend ID="250" MonsterID="4208" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="2" mouseClickFunc="app:S82GLMJMainPanel" characteristic="2"/>
+	<recommend ID="251" MonsterID="3529" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:HaiseweiEvoMainPanel" characteristic="2"/>
+	<recommend ID="252" MonsterID="3740" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="2" mouseClickFunc="app:ChangLanCompleteMainPanel" characteristic="2"/>
+	<recommend ID="253" MonsterID="3665" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="3" mouseClickFunc="app:ZakesCompleteMainPanel" characteristic="2"/>
+	<recommend ID="254" MonsterID="3378" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="1" mouseClickFunc="app:MysteriousFightSpritePanel" characteristic="2"/>
+	<recommend ID="255" MonsterID="3142" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:ElectricalKingPanel" characteristic="2"/>
+	<recommend ID="256" MonsterID="4219" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="3" mouseClickFunc="app:S86AnkaMainPanel" characteristic="2"/>
+	<recommend ID="257" MonsterID="3541" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="1" mouseClickFunc="app:DemonKingCompleteMainPanel" characteristic="2"/>
+	<recommend ID="258" MonsterID="3539" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:ChaosBlackEvolvedMianPanel" characteristic="2"/>
+	<recommend ID="259" MonsterID="3994" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="3" mouseClickFunc="app:S15KingOfElectricityRiotForm" characteristic="2"/>
+	<recommend ID="260" MonsterID="4004" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:S17AvatarOfTheKingOfElectricity" characteristic="2"/>
+	<recommend ID="261" MonsterID="4068" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:S37HopeOfTheSkyAilisi" characteristic="2"/>
+	<recommend ID="262" MonsterID="4007" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="3" mouseClickFunc="app:S18MixueerSuperEvoMainPanel" characteristic="2"/>
+	<recommend ID="263" MonsterID="3809" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="3" mouseClickFunc="app:HamoretDragonFormMainPanel" characteristic="2"/>
+	<recommend ID="264" MonsterID="3686" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="3" mouseClickFunc="app:LandisStrongMainPanel" characteristic="2"/>
+	<recommend ID="265" MonsterID="3847" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="3" mouseClickFunc="app:HeavenlySoulSuperEvolutionMainPanel" characteristic="2"/>
+	<recommend ID="266" MonsterID="3421" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:ShenghunMaiersiEvoMainPanel" characteristic="2"/>
+	<recommend ID="267" MonsterID="4305" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:SpetShiZhongZhuJiPanel" characteristic="2"/>
+	<recommend ID="268" MonsterID="3886" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="2" mouseClickFunc="app:ColderEvolutionMainPanel" characteristic="2"/>
+	<recommend ID="269" MonsterID="3627" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="2" mouseClickFunc="app:CiYuanWangStrengthensMainPanel" characteristic="2"/>
+	<recommend ID="270" MonsterID="4032" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="3" mouseClickFunc="app:S26SixRealmsGodKingPerfectMainPanel" characteristic="2"/>
+	<recommend ID="271" MonsterID="3568" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="3" mouseClickFunc="app:HolyLandCajasMainPanel" characteristic="2"/>
+	<recommend ID="272" MonsterID="4495" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="2" mouseClickFunc="app:SpetBiErDeMainPanel" characteristic="2"/>
+	<recommend ID="273" MonsterID="4408" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="2" mouseClickFunc="app:SpetPLEMainPanel" characteristic="2"/>
+	<recommend ID="274" MonsterID="4505" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="2" mouseClickFunc="app:SpeJieKeLaDeMainPanel" characteristic="2"/>
+	<recommend ID="275" MonsterID="4050" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="3" mouseClickFunc="app:S30GodOfTimeAndSpaceMainPanel" characteristic="2"/>
+	<recommend ID="276" MonsterID="3806" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:BurialLotusSuperMainPanel" characteristic="2"/>
+	<recommend ID="277" MonsterID="3355" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="1" mouseClickFunc="app:PveElvenKingTrialMainPanel" characteristic="1"/>
+	<recommend ID="278" MonsterID="3437" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="1" mouseClickFunc="app:AYaCompMainPanel" characteristic="1"/>
+	<recommend ID="279" MonsterID="3022" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="1" mouseClickFunc="app:DragonKingMainPanel" characteristic="1"/>
+	<recommend ID="280" MonsterID="3460" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="1" mouseClickFunc="app:JiewangGetPanel" characteristic="1"/>
+	<recommend ID="281" MonsterID="3329" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:SixGodCompleteBodyMainPanel" characteristic="1"/>
+	<recommend ID="282" MonsterID="3322" ifshow="0" Rarity="3" pettype="1" gainperiod="2" gaindifficulty="1" mouseClickFunc="app:PveElvenKingTrialMainPanel" characteristic="1"/>
+	<recommend ID="283" MonsterID="3644" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="1" mouseClickFunc="app:LanLuEvoMainPanel" characteristic="1"/>
+	<recommend ID="284" MonsterID="3894" ifshow="0" Rarity="4" pettype="1" gainperiod="2" gaindifficulty="2" mouseClickFunc="app:GammaNightShattersThousandsOfClothesMainPanel" characteristic="1"/>
+	<recommend ID="285" MonsterID="3844" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="2" mouseClickFunc="app:EvelySuperEvolutionMainPanel" characteristic="1"/>
+	<recommend ID="286" MonsterID="3561" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:EvilKingMorganMainPanel" characteristic="1"/>
+	<recommend ID="287" MonsterID="3573" ifshow="0" Rarity="3" pettype="1" gainperiod="1" gaindifficulty="1" mouseClickFunc="app:EmilisaOutputMianPanel" characteristic="1"/>
+	<recommend ID="288" MonsterID="3463" ifshow="0" Rarity="3" pettype="1" gainperiod="1" gaindifficulty="1" mouseClickFunc="app:JiewangGetPanel" characteristic="1"/>
+	<recommend ID="289" MonsterID="4532" ifshow="0" Rarity="4" pettype="1" gainperiod="3" gaindifficulty="2" mouseClickFunc="app:SpetDXJiMainPanel" characteristic="2"/>
+	<recommend ID="290" MonsterID="4521" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="2" mouseClickFunc="app:SpetWoFengMainPanel" characteristic="2"/>
+	<recommend ID="291" MonsterID="4516" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="2" mouseClickFunc="app:SpetPaNiSiMainPanel" characteristic="2"/>
+	<recommend ID="292" MonsterID="4547" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="2" mouseClickFunc="app:SpetKuLaTaKeMainPanel" characteristic="1"/>
+	<recommend ID="293" MonsterID="4569" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="2" mouseClickFunc="app:SpetTZYMLuoKuMainPanel" characteristic="2"/>
+	<recommend ID="294" MonsterID="4572" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="2" mouseClickFunc="app:SpetFeiYuQiShiMainPanel" characteristic="1"/>
+	<recommend ID="295" MonsterID="4647" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="1" mouseClickFunc="app:StarlightHiddenMainPanel" characteristic="3"/>
+	<recommend ID="296" MonsterID="4648" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="1" mouseClickFunc="app:StarlightHiddenMainPanel" characteristic="3"/>
+	<recommend ID="297" MonsterID="4649" ifshow="0" Rarity="4" pettype="1" gainperiod="1" gaindifficulty="1" mouseClickFunc="app:StarlightHiddenMainPanel" characteristic="3"/>
+
+
+</Root>

@@ -1,0 +1,189 @@
+<!--
+参数释义
+	titanlode ID：主键ID，唯一，按顺序递增
+	mode：难度。1-简单模式、2-普通模式、3-困难模式...可新增
+	step：阶段。1-第一阶段、2-第二阶段、3-第三阶段、4-第四阶段
+	sebossid：后台BossID
+	passtype：完成当前阶段的条件。可新增
+				1 击败Boss，第一次尝试即胜利还会发放额外奖励，否则只发放基础奖励
+				2 在X回合内击败Y个Boss，每击败1个Boss发放1份基础奖励，战胜全部Y个Boss还会发放额外奖励
+				3 完成X次行走
+				4 在与Boss对战中坚持X回合，若在X回合击败Boss则发放基础奖励和额外奖励，若在X回合内未击败Boss则只发放基础奖励，若在X回合内被Boss击败，则不发放此阶段的任何奖励
+	passarg：条件参数，对应passtype
+	bsrewardid：基础奖励ID，可配置多个。用&代表一同输出；用|代表从多项中随机输出其中1项	
+	exrewardid：额外奖励ID，可配置多个。用&代表一同输出；用|代表从多项中随机输出其中1项	
+	map 第三阶段使用配置，每个map最多配置15种奖励，即Show id不得超过15
+	maxcnt：地图格子总数
+	colcnt：地图总列数目
+	Show id：每个地图中奖励条目
+	randomcnt：奖励在地图中的出现的上限，所有randomcnt之和不得超过maxcnt
+	rewardid： 对应rewards配置id
+
+前端屏蔽字段：
+	titan.mode
+	titan.sebossid
+	titan.passtype
+	titan.passarg
+	titan.bsrewardid
+	titan.exrewardid
+	map.maxcnt
+	map.colcnt
+	map.show.randomcnt
+	
+-->
+<root>
+
+<!-- 每种难度都有4个阶段，下面为简单模式的4个阶段 -->
+<titanlode ID="1" mode="1" step="1" cltboss="2536 2281" sebossid="17577" passtype="1" passarg="1" bsrewardid="1" exrewardid="2|3|4|5">
+</titanlode>
+
+<titanlode ID="2" mode="1" step="2" cltboss="3384" sebossid="18466" passtype="2" passarg="15 6" bsrewardid="6" exrewardid="7|8|9|10"> 
+</titanlode>
+
+<titanlode ID="3" mode="1" step="3" passtype="3" passarg="25" mapid="1" desc="第三阶段">
+</titanlode>
+
+<titanlode ID="4" mode="1" step="4" cltboss="3448" sebossid="17579" passtype="4" passarg="10" bsrewardid="11" exrewardid="12|13|14"> 
+</titanlode>
+
+<!-- 每种难度都有4个阶段，下面为普通模式的4个阶段 -->
+<titanlode ID="5" mode="2" step="1" cltboss="2536 2281" sebossid="17580" passtype="1" passarg="1" bsrewardid="15" exrewardid="16|17|18|19">
+</titanlode>
+
+<titanlode ID="6" mode="2" step="2" cltboss="3384" sebossid="18467" passtype="2" passarg="12 6" bsrewardid="20" exrewardid="21|22|23|24"> 
+</titanlode>
+
+<titanlode ID="7" mode="2" step="3" passtype="3" passarg="35" mapid="2" desc="第三阶段">
+</titanlode>
+
+<titanlode ID="8" mode="2" step="4" cltboss="3448" sebossid="17582" passtype="4" passarg="10" bsrewardid="25" exrewardid="26|27|28|29"> 
+</titanlode>
+
+<!-- 每种难度都有4个阶段，下面为困难模式的4个阶段 -->
+<titanlode ID="9" mode="3" step="1" cltboss="2536 2281" sebossid="17583" passtype="1" passarg="1" bsrewardid="30" exrewardid="31|32|33|34">
+</titanlode>
+
+<titanlode ID="10" mode="3" step="2" cltboss="3384" sebossid="18468" passtype="2" passarg="9 6" bsrewardid="35" exrewardid="36|37|38|39"> 
+</titanlode>
+
+<titanlode ID="11" mode="3" step="3" passtype="3" passarg="48" mapid="3" desc="第三阶段">
+</titanlode>
+
+<titanlode ID="12" mode="3" step="4" cltboss="3448" sebossid="17585" passtype="4" passarg="10" bsrewardid="40" exrewardid="41|42|43|44"> 
+</titanlode>
+
+
+<map id="1" maxcnt="30" colcnt="6">
+	<Show id="1" randomcnt="14" rewardid="45"/>
+	<Show id="2" randomcnt="1" rewardid="46"/>
+	<Show id="3" randomcnt="1" rewardid="47"/>
+	<Show id="4" randomcnt="1" rewardid="48"/>
+	<Show id="5" randomcnt="1" rewardid="49"/>
+	<Show id="6" randomcnt="1" rewardid="50"/>
+</map>
+<map id="2" maxcnt="40" colcnt="8">
+	<Show id="1" randomcnt="22" rewardid="51"/>
+	<Show id="2" randomcnt="2" rewardid="52"/>
+	<Show id="3" randomcnt="1" rewardid="53"/>
+	<Show id="4" randomcnt="1" rewardid="54"/>
+	<Show id="5" randomcnt="1" rewardid="55"/>
+	<Show id="6" randomcnt="1" rewardid="56"/>
+	<Show id="7" randomcnt="1" rewardid="57"/>
+	<Show id="8" randomcnt="1" rewardid="58"/>
+</map>
+<map id="3" maxcnt="55" colcnt="11">
+	<Show id="1" randomcnt="28" rewardid="59"/>
+	<Show id="2" randomcnt="2" rewardid="60"/>
+	<Show id="3" randomcnt="2" rewardid="61"/>
+	<Show id="4" randomcnt="2" rewardid="62"/>
+	<Show id="5" randomcnt="2" rewardid="63"/>
+	<Show id="6" randomcnt="2" rewardid="64"/>
+	<Show id="7" randomcnt="2" rewardid="65"/>
+	<Show id="8" randomcnt="2" rewardid="66"/>
+	<Show id="9" randomcnt="2" rewardid="67"/>
+</map>
+
+<!-- 
+bsrewardid 、exrewardid、rewardid对应的rewardID
+type：奖励类型。1-item、2-mintmark...可新增
+realID:实际ID
+realcnt：输出数量
+
+-->
+<rewards>
+	<reward id="1" type="1" realid="1400352" realcnt="160000"/>
+	<reward id="2" type="2" realid="40911" realcnt="2"/>
+	<reward id="3" type="2" realid="40914" realcnt="2"/>
+	<reward id="4" type="2" realid="40999" realcnt="2"/>
+	<reward id="5" type="2" realid="41000" realcnt="2"/>
+	<reward id="6" type="1" realid="1400352" realcnt="40000"/>
+	<reward id="7" type="2" realid="41793" realcnt="2"/>
+	<reward id="8" type="2" realid="41794" realcnt="2"/>
+	<reward id="9" type="2" realid="41795" realcnt="2"/>
+	<reward id="10" type="2" realid="41796" realcnt="2"/>
+	<reward id="11" type="1" realid="1400352" realcnt="220000"/>
+	<reward id="12" type="2" realid="40912" realcnt="2"/>
+	<reward id="13" type="2" realid="40915" realcnt="2"/>
+	<reward id="14" type="2" realid="40918" realcnt="2"/>
+	
+	<reward id="15" type="1" realid="1400352" realcnt="200000"/>
+	<reward id="16" type="2" realid="40910" realcnt="2"/>
+	<reward id="17" type="2" realid="40913" realcnt="2"/>
+	<reward id="18" type="2" realid="40997" realcnt="2"/>
+	<reward id="19" type="2" realid="40998" realcnt="2"/>
+	<reward id="20" type="1" realid="1400352" realcnt="60000"/>
+	<reward id="21" type="2" realid="40922" realcnt="2"/>
+	<reward id="22" type="2" realid="40923" realcnt="2"/>
+	<reward id="23" type="2" realid="40924" realcnt="2"/>
+	<reward id="24" type="2" realid="40925" realcnt="2"/>
+	<reward id="25" type="1" realid="1400352" realcnt="300000"/>
+	<reward id="26" type="2" realid="40802" realcnt="2"/>
+	<reward id="27" type="2" realid="40803" realcnt="2"/>
+	<reward id="28" type="2" realid="40804" realcnt="2"/>
+	<reward id="29" type="2" realid="40805" realcnt="2"/>
+	
+	<reward id="30" type="1" realid="1400352" realcnt="240000"/>
+	<reward id="31" type="2" realid="40916" realcnt="2"/>
+	<reward id="32" type="2" realid="40917" realcnt="2"/>
+	<reward id="33" type="2" realid="40919" realcnt="2"/>
+	<reward id="34" type="2" realid="40920" realcnt="2"/>
+	<reward id="35" type="1" realid="1400352" realcnt="80000"/>
+	<reward id="36" type="2" realid="41050" realcnt="2"/>
+	<reward id="37" type="2" realid="41051" realcnt="2"/>
+	<reward id="38" type="2" realid="41052" realcnt="2"/>
+	<reward id="39" type="2" realid="41053" realcnt="2"/>
+	<reward id="40" type="1" realid="1400352" realcnt="400000"/>
+	<reward id="41" type="2" realid="40861" realcnt="2"/>
+	<reward id="42" type="2" realid="40862" realcnt="2"/>
+	<reward id="43" type="2" realid="40863" realcnt="2"/>
+	<reward id="44" type="2" realid="40864" realcnt="2"/>
+	
+	<!-- map 使用奖励-->
+	<reward id="45" type="1" realid="1400352" realcnt="60000"/>
+	<reward id="46" type="1" realid="1800001" realcnt="2"/>
+	<reward id="47" type="1" realid="1800011" realcnt="2"/>
+	<reward id="48" type="1" realid="1800021" realcnt="2"/>
+	<reward id="49" type="1" realid="1800081" realcnt="2"/>
+	<reward id="50" type="1" realid="1800091" realcnt="2"/>
+	
+	<reward id="51" type="1" realid="1400352" realcnt="60000"/>
+	<reward id="52" type="1" realid="1800002" realcnt="2"/>
+	<reward id="53" type="1" realid="1800012" realcnt="2"/>
+	<reward id="54" type="1" realid="1800022" realcnt="2"/>
+	<reward id="55" type="1" realid="1800082" realcnt="2"/>
+	<reward id="56" type="1" realid="1800092" realcnt="2"/>
+	<reward id="57" type="1" realid="1800102" realcnt="2"/>
+	<reward id="58" type="1" realid="1800112" realcnt="2"/>
+	
+	<reward id="59" type="1" realid="1400352" realcnt="80000"/>
+	<reward id="60" type="1" realid="1800003" realcnt="2"/>
+	<reward id="61" type="1" realid="1800013" realcnt="2"/>
+	<reward id="62" type="1" realid="1800023" realcnt="2"/>
+	<reward id="63" type="1" realid="1800083" realcnt="2"/>
+	<reward id="64" type="1" realid="1800093" realcnt="2"/>
+	<reward id="65" type="1" realid="1800103" realcnt="2"/>
+	<reward id="66" type="1" realid="1800113" realcnt="2"/>
+	<reward id="67" type="1" realid="1800123" realcnt="2"/>
+</rewards>
+
+</root>

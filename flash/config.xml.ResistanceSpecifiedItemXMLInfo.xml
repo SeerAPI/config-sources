@@ -1,0 +1,32 @@
+<!--
+控制和弱化类异常的id
+0麻痹 6害怕 7疲惫 8睡眠 9石化 15冰封 19瘫痪 22焚烬 23诅咒 27感染
+1感染 2烧伤 5冻伤 13易燃 16流血 20失明 28束缚 29失神 30沉默 4寄生 10混乱 11衰弱 31臣服
+	ExchangeCtrlCnt 可更换的 当前控制类 数量
+	ExchangeCtrlSp  可更换的 当前控制类 条件   默认为空" "（空格）
+	TargetCtrlCnt   可指定的 控制类 数量
+	TargetCtrlSp    可指定的 控制类 条件       默认为空" "（空格）
+	ExchangeWeakCnt 可更换的 当前异常类 数量
+	ExchangeWeakSp  可更换的 当前异常类 条件   默认为空" "（空格）
+	TargetWeakCnt   可指定的 异常类 数量
+	TargetWeakSp    可指定的 异常类 条件       默认为空" "（空格）
+	
+	ID 道具id
+	无指定条件和数量则直接使用
+	有指定条件或数量会出详细面板指定
+-->
+
+<root>
+
+	<item ID = "300913" Name="害怕异常抗性转化剂" ExchangeCtrlCnt="0" ExchangeCtrlSp=" " TargetCtrlCnt="0" TargetCtrlSp=" " ExchangeWeakCnt="0" ExchangeWeakSp=" " TargetWeakCnt="0" TargetWeakSp=" " />
+	<item ID = "300914" Name="疲惫异常抗性转化剂" ExchangeCtrlCnt="0" ExchangeCtrlSp=" " TargetCtrlCnt="0" TargetCtrlSp=" " ExchangeWeakCnt="0" ExchangeWeakSp=" " TargetWeakCnt="0" TargetWeakSp=" " />
+	<item ID = "300915" Name="麻痹异常抗性转化剂" ExchangeCtrlCnt="0" ExchangeCtrlSp=" " TargetCtrlCnt="0" TargetCtrlSp=" " ExchangeWeakCnt="0" ExchangeWeakSp=" " TargetWeakCnt="0" TargetWeakSp=" " />
+	<item ID = "300916" Name="全能抗性转化晶石青" ExchangeCtrlCnt="1" ExchangeCtrlSp=" " TargetCtrlCnt="1" TargetCtrlSp=" " ExchangeWeakCnt="1" ExchangeWeakSp=" " TargetWeakCnt="1" TargetWeakSp=" " />
+	<item ID = "300917" Name="全能抗性转化晶石橙" ExchangeCtrlCnt="3" ExchangeCtrlSp=" " TargetCtrlCnt="3" TargetCtrlSp=" " ExchangeWeakCnt="3" ExchangeWeakSp=" " TargetWeakCnt="3" TargetWeakSp=" " />
+	<item ID = "300921" Name="冰封异常抗性转化剂" ExchangeCtrlCnt="0" ExchangeCtrlSp=" " TargetCtrlCnt="0" TargetCtrlSp=" " ExchangeWeakCnt="0" ExchangeWeakSp=" " TargetWeakCnt="0" TargetWeakSp=" " />
+    <item ID = "300922" Name="石化异常抗性转化剂" ExchangeCtrlCnt="0" ExchangeCtrlSp=" " TargetCtrlCnt="0" TargetCtrlSp=" " ExchangeWeakCnt="0" ExchangeWeakSp=" " TargetWeakCnt="0" TargetWeakSp=" " />
+	<item ID = "300923" Name="焚烬异常抗性转化剂" ExchangeCtrlCnt="0" ExchangeCtrlSp=" " TargetCtrlCnt="0" TargetCtrlSp=" " ExchangeWeakCnt="0" ExchangeWeakSp=" " TargetWeakCnt="0" TargetWeakSp=" " />
+	<item ID = "300924" Name="睡眠异常抗性转化剂" ExchangeCtrlCnt="0" ExchangeCtrlSp=" " TargetCtrlCnt="0" TargetCtrlSp=" " ExchangeWeakCnt="0" ExchangeWeakSp=" " TargetWeakCnt="0" TargetWeakSp=" " />
+
+
+</root>

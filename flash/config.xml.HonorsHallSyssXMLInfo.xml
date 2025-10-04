@@ -1,0 +1,253 @@
+<!--
+	Hard 为玩法难度指数
+	Ach 是玩法推荐成就
+	Con 为玩法参与条件
+	Kind 0pve 1pvp
+	Frame 为玩法所在面板帧数
+	Map 为玩法所在地图
+	
+	Rule为对应等级档次的推荐程度
+	 * 1 最高1-29
+	 * 2 最高30-49
+	 * 3 最高50-69
+	 * 4 最高70-89
+	 * 5 最高90-99
+	 * 6 单只100
+	 * 7 2-3只100
+	 * 8 4-5只100
+	 * 9 全部100
+	 Rec为对应精灵等级时候该玩法的推荐程度
+-->
+<Systems>
+	<System ID="1" Name="试炼之塔" Hard="1" Ach="试炼之塔10层 试炼之塔30层" Con="多精灵/50级以下" Kind="0" Frame="1" Map="108" ArrowX = "521" ArrowY = "261" Rotation = "-45">
+			<Rule Lv="1" Rec="3"/>
+			<Rule Lv="2" Rec="3"/>
+			<Rule Lv="3" Rec="0"/>
+			<Rule Lv="4" Rec="0"/>
+			<Rule Lv="5" Rec="0"/>
+			<Rule Lv="6" Rec="0"/>
+			<Rule Lv="7" Rec="0"/>
+			<Rule Lv="8" Rec="0"/>
+			<Rule Lv="9" Rec="0"/>		
+	</System>
+	<System ID="2" Name="训练师之门" Hard="1" Ach="击败草系擂主 击败勇者模式草系擂主" Con="多精灵/35级以上" Kind="0" Frame="2" Map="503" ArrowX = "410" ArrowY = "191" Rotation = "60">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="1"/>
+			<Rule Lv="3" Rec="2"/>
+			<Rule Lv="4" Rec="2"/>
+			<Rule Lv="5" Rec="2"/>
+			<Rule Lv="6" Rec="2"/>
+			<Rule Lv="7" Rec="3"/>
+			<Rule Lv="8" Rec="3"/>
+			<Rule Lv="9" Rec="3"/>		
+	</System>
+	<System ID="3" Name="勇者之塔" Hard="2" Ach="勇者之塔10层 勇者之塔30层" Con="多精灵/30级以上" Kind="0" Frame="3" Map="108" ArrowX = "505" ArrowY = "184" Rotation = "135">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="1"/>
+			<Rule Lv="4" Rec="1"/>
+			<Rule Lv="5" Rec="1"/>
+			<Rule Lv="6" Rec="2"/>
+			<Rule Lv="7" Rec="2"/>
+			<Rule Lv="8" Rec="3"/>
+			<Rule Lv="9" Rec="3"/>		
+	</System>
+	<System ID="4" Name="战斗阶梯" Hard="1" Ach="恐怖的深渊 魔火战斗家" Con="单精灵/ 50级以上" Kind="0" Frame="4" Map="405" ArrowX = "250" ArrowY = "185" Rotation = "140">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="1"/>
+			<Rule Lv="4" Rec="1"/>
+			<Rule Lv="5" Rec="2"/>
+			<Rule Lv="6" Rec="3"/>
+			<Rule Lv="7" Rec="0"/>
+			<Rule Lv="8" Rec="0"/>
+			<Rule Lv="9" Rec="0"/>		
+	</System>
+	<System ID="5" Name="命运之轮" Hard="1" Ach="战斗切割者 火焰魔法师" Con="多精灵/40级以上" Kind="0" Frame="5" Map="405" ArrowX = "601" ArrowY = "122" Rotation = "150">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="1"/>
+			<Rule Lv="4" Rec="1"/>
+			<Rule Lv="5" Rec="2"/>
+			<Rule Lv="6" Rec="3"/>
+			<Rule Lv="7" Rec="3"/>
+			<Rule Lv="8" Rec="2"/>
+			<Rule Lv="9" Rec="2"/>		
+	</System>
+	<System ID="6" Name="王者之塔" Hard="3" Ach="王者之塔10层 王者之塔20层" Con="多精灵/至少1只满级" Kind="0" Frame="6" Map="465" ArrowX = "400" ArrowY = "318" Rotation = "-135">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="0"/>
+			<Rule Lv="4" Rec="0"/>
+			<Rule Lv="5" Rec="0"/>
+			<Rule Lv="6" Rec="0"/>
+			<Rule Lv="7" Rec="1"/>
+			<Rule Lv="8" Rec="2"/>
+			<Rule Lv="9" Rec="3"/>		
+	</System>
+	<System ID="7" Name="高阶战斗试炼" Hard="2" Ach="高阶战斗试炼10层 高阶战斗试炼20层" Con="多精灵/至少1只满级" Kind="0" Frame="7" Map="503" ArrowX = "563" ArrowY = "174" Rotation = "-45">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="0"/>
+			<Rule Lv="4" Rec="0"/>
+			<Rule Lv="5" Rec="0"/>
+			<Rule Lv="6" Rec="0"/>
+			<Rule Lv="7" Rec="1"/>
+			<Rule Lv="8" Rec="2"/>
+			<Rule Lv="9" Rec="3"/>		
+	</System>
+	<System ID="8" Name="镜像空间" Hard="2" Ach="获得1场胜利 获得10场胜利" Con="6只精灵/任意等级" Kind="0" Frame="8" Map="14" ArrowX = "605" ArrowY = "200" Rotation = "-105">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="0"/>
+			<Rule Lv="4" Rec="1"/>
+			<Rule Lv="5" Rec="2"/>
+			<Rule Lv="6" Rec="2"/>
+			<Rule Lv="7" Rec="3"/>
+			<Rule Lv="8" Rec="3"/>
+			<Rule Lv="9" Rec="3"/>		
+	</System>
+	<System ID="9" Name="谱尼八大封印" Hard="3" Ach="传说中的谱尼" Con="多精灵/必须6只满级" Kind="0" Frame="9" Map="108" ArrowX = "505" ArrowY = "184" Rotation = "135">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="0"/>
+			<Rule Lv="4" Rec="0"/>
+			<Rule Lv="5" Rec="0"/>
+			<Rule Lv="6" Rec="0"/>
+			<Rule Lv="7" Rec="0"/>
+			<Rule Lv="8" Rec="0"/>
+			<Rule Lv="9" Rec="3"/>		
+	</System>
+	<System ID="10" Name="异能王六道轮回" Hard="3" Ach="暂无" Con="多精灵/必须6只满级" Kind="0" Frame="10" Map="677" ArrowX = "380" ArrowY = "180" Rotation = "-45">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="0"/>
+			<Rule Lv="4" Rec="0"/>
+			<Rule Lv="5" Rec="0"/>
+			<Rule Lv="6" Rec="0"/>
+			<Rule Lv="7" Rec="0"/>
+			<Rule Lv="8" Rec="0"/>
+			<Rule Lv="9" Rec="3"/>		
+	</System>
+	<System ID="11" Name="精灵王之战" Hard="0" Ach="精灵王之战1胜 精灵王之战10胜" Con="单精灵+多精灵/任意等级" Kind="1" Frame="1" Map="102" ArrowX = "742" ArrowY = "132" Rotation = "120">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="1"/>
+			<Rule Lv="4" Rec="1"/>
+			<Rule Lv="5" Rec="2"/>
+			<Rule Lv="6" Rec="3"/>
+			<Rule Lv="7" Rec="1"/>
+			<Rule Lv="8" Rec="2"/>
+			<Rule Lv="9" Rec="3"/>		
+	</System>
+	<System ID="12" Name="巅峰之战" Hard="0" Ach="获得10场胜利 获得30场胜利" Con="单精灵+多精灵/1只满级和6只满级" Kind="1" Frame="2" Map="1011" ArrowX = "600" ArrowY = "143" Rotation = "75">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="0"/>
+			<Rule Lv="4" Rec="0"/>
+			<Rule Lv="5" Rec="0"/>
+			<Rule Lv="6" Rec="1"/>
+			<Rule Lv="7" Rec="1"/>
+			<Rule Lv="8" Rec="1"/>
+			<Rule Lv="9" Rec="3"/>		
+	</System>
+	<System ID="13" Name="梦幻大乱斗" Hard="0" Ach="获得10场胜利 获得20场胜利" Con="单精灵/任意等级" Kind="1" Frame="9" Map="793" ArrowX = "227" ArrowY = "283" Rotation = "-40">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="1"/>
+			<Rule Lv="4" Rec="3"/>
+			<Rule Lv="5" Rec="3"/>
+			<Rule Lv="6" Rec="2"/>
+			<Rule Lv="7" Rec="0"/>
+			<Rule Lv="8" Rec="0"/>
+			<Rule Lv="9" Rec="0"/>		
+	</System>
+	<System ID="14" Name="精灵大逃杀" Hard="0" Ach="获得1次冠军 获得5次冠军" Con="单精灵/满级" Kind="1" Frame="3" Map="405" ArrowX = "785" ArrowY = "276" Rotation = "-45">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="0"/>
+			<Rule Lv="4" Rec="0"/>
+			<Rule Lv="5" Rec="0"/>
+			<Rule Lv="6" Rec="2"/>
+			<Rule Lv="7" Rec="2"/>
+			<Rule Lv="8" Rec="2"/>
+			<Rule Lv="9" Rec="3"/>		
+	</System>
+	<System ID="15" Name="元素之战" Hard="0" Ach="战胜元素精灵" Con="单精灵/任意等级" Kind="1" Frame="4" Map="405" ArrowX = "455" ArrowY = "362" Rotation = "45">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="0"/>
+			<Rule Lv="4" Rec="0"/>
+			<Rule Lv="5" Rec="1"/>
+			<Rule Lv="6" Rec="2"/>
+			<Rule Lv="7" Rec="0"/>
+			<Rule Lv="8" Rec="0"/>
+			<Rule Lv="9" Rec="0"/>		
+	</System>
+	<System ID="16" Name="精灵大师杯" Hard="0" Ach="暂无" Con="单精灵/任意等级" Kind="1" Frame="5" Map="111" ArrowX = "200" ArrowY = "177" Rotation = "30">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="0"/>
+			<Rule Lv="4" Rec="0"/>
+			<Rule Lv="5" Rec="1"/>
+			<Rule Lv="6" Rec="2"/>
+			<Rule Lv="7" Rec="1"/>
+			<Rule Lv="8" Rec="0"/>
+			<Rule Lv="9" Rec="0"/>	
+	</System>
+	<System ID="17" Name="精灵大乱斗" Hard="0" Ach="精灵大乱斗1胜 精灵大乱斗10胜" Con="多精灵/3只任意等级" Kind="1" Frame="6" Map="102" ArrowX = "220" ArrowY = "128" Rotation = "-15">
+			<Rule Lv="1" Rec="1"/>
+			<Rule Lv="2" Rec="1"/>
+			<Rule Lv="3" Rec="2"/>
+			<Rule Lv="4" Rec="2"/>
+			<Rule Lv="5" Rec="3"/>
+			<Rule Lv="6" Rec="3"/>
+			<Rule Lv="7" Rec="2"/>
+			<Rule Lv="8" Rec="2"/>
+			<Rule Lv="9" Rec="1"/>		
+	</System>
+	<System ID="18" Name="星空擂台" Hard="0" Ach="星空等级到达200 星空等级到达500" Con="多精灵/3只任意等级" Kind="1" Frame="7" Map="108" ArrowX = "692" ArrowY = "144" Rotation = "135">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="0"/>
+			<Rule Lv="4" Rec="0"/>
+			<Rule Lv="5" Rec="0"/>
+			<Rule Lv="6" Rec="1"/>
+			<Rule Lv="7" Rec="2"/>
+			<Rule Lv="8" Rec="3"/>
+			<Rule Lv="9" Rec="1"/>		
+	</System>
+	<System ID="19" Name="圣地决斗场" Hard="0" Ach="" Con="" Kind="1" Frame="" Map="19" ArrowX = "348" ArrowY = "295" Rotation = "-37">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="0"/>
+			<Rule Lv="4" Rec="0"/>
+			<Rule Lv="5" Rec="0"/>
+			<Rule Lv="6" Rec="0"/>
+			<Rule Lv="7" Rec="0"/>
+			<Rule Lv="8" Rec="0"/>
+			<Rule Lv="9" Rec="0"/>		
+	</System>
+	<System ID="20" Name="星际擂台" Hard="0" Ach="" Con="" Kind="1" Frame="10" Map="102" ArrowX = "315" ArrowY = "85" Rotation = "300">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="0"/>
+			<Rule Lv="4" Rec="1"/>
+			<Rule Lv="5" Rec="2"/>
+			<Rule Lv="6" Rec="3"/>
+			<Rule Lv="7" Rec="1"/>
+			<Rule Lv="8" Rec="1"/>
+			<Rule Lv="9" Rec="1"/>
+	</System>
+	<System ID="21" Name="作战实验室" Hard="0" Ach="" Con="" Kind="1" Frame="8" Map="503" ArrowX = "195" ArrowY = "153" Rotation = "-50">
+			<Rule Lv="1" Rec="0"/>
+			<Rule Lv="2" Rec="0"/>
+			<Rule Lv="3" Rec="1"/>
+			<Rule Lv="4" Rec="1"/>
+			<Rule Lv="5" Rec="1"/>
+			<Rule Lv="6" Rec="2"/>
+			<Rule Lv="7" Rec="1"/>
+			<Rule Lv="8" Rec="0"/>
+			<Rule Lv="9" Rec="0"/>		
+	</System>
+</Systems>

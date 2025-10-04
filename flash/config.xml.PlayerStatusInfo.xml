@@ -1,0 +1,33 @@
+<root>
+	<play id="1" name="勇者之塔" mapId="108" arrow_x="501" arrow_y="82" arrow_angle="45" arrow_visible="1"/>
+	<play id="2" name="暗黑武斗场" mapId="102" arrow_x="711" arrow_y="329" arrow_angle="45" arrow_visible="1"/>
+	<play id="3" name="试炼之塔" mapId="108" arrow_x="526" arrow_y="260" arrow_angle="315" arrow_visible="1"/>
+	<play id="4" name="战斗阶梯" mapId="405" arrow_x="172" arrow_y="67" arrow_angle="270" arrow_visible="1"/>
+	<play id="5" name="命运之轮" mapId="405" arrow_x="530" arrow_y="57" arrow_angle="270" arrow_visible="1"/>
+	<play id="6" name="神秘领域" mapId="108" arrow_x="501" arrow_y="82" arrow_angle="45" arrow_visible="1"/>
+	<play id="7" name="组队勇者塔" mapId="108" arrow_x="501" arrow_y="82" arrow_angle="45" arrow_visible="0"/>
+	<play id="8" name="组队勇者塔列表" mapId="108" arrow_x="501" arrow_y="82" arrow_angle="45" arrow_visible="0"/>
+	<play id="9" name="王者之塔" mapId="465" arrow_x="353" arrow_y="278" arrow_angle="225" arrow_visible="1"/>
+	<play id="10" name="伏魔空间" mapId="14" arrow_x="438" arrow_y="94" arrow_angle="135" arrow_visible="1"/>
+	<play id="11" name="炫彩山神秘山洞" mapId="108" arrow_x="501" arrow_y="82" arrow_angle="45" arrow_visible="0"/>
+	<play id="12" name="作战实验室" mapId="503" arrow_x="150" arrow_y="149" arrow_angle="315" arrow_visible="1"/>
+	<play id="13" name="猎人战斗" mapId="503" arrow_x="150" arrow_y="149" arrow_angle="315" arrow_visible="0"/>
+	<play id="14" name="远古迷宫" mapId="14" arrow_x="603" arrow_y="53" arrow_angle="45" arrow_visible="1"/>
+	<play id="15" name="罗格杯" mapId="14" arrow_x="603" arrow_y="53" arrow_angle="45" arrow_visible="0"/>
+	<play id="16" name="空中列车" mapId="14" arrow_x="697" arrow_y="332" arrow_angle="315" arrow_visible="1"/>
+	<play id="17" name="训练师之门" mapId="503" arrow_x="403" arrow_y="187" arrow_angle="45" arrow_visible="1"/>
+	<play id="18" name="平行空间" mapId="14" arrow_x="628" arrow_y="190" arrow_angle="270" arrow_visible="1"/>
+	<play id="19" name="高阶战斗试炼" mapId="503" arrow_x="595" arrow_y="164" arrow_angle="315" arrow_visible="1"/>
+	<play id="20" name="青龙空间" mapId="503" arrow_x="595" arrow_y="164" arrow_angle="315" arrow_visible="0"/>
+	<play id="21" name="黄金十二宫" mapId="14" arrow_x="296" arrow_y="85" arrow_angle="45" arrow_visible="0"/>
+	
+	<play id="33" name="精灵大乱斗" mapId="102" arrow_x="228" arrow_y="123" arrow_angle="0" arrow_visible="1"/>
+	<play id="34" name="精灵王之战" mapId="102" arrow_x="665" arrow_y="113" arrow_angle="225" arrow_visible="1"/>
+	<play id="35" name="星际挑战擂台" mapId="102" arrow_x="342" arrow_y="83" arrow_angle="315" arrow_visible="1"/>
+	<play id="36" name="巅峰之战" mapId="102" arrow_x="120" arrow_y="120" arrow_angle="45" arrow_visible="1"/>
+	<play id="37" name="幸运大作战" mapId="503" arrow_x="797" arrow_y="109" arrow_angle="45" arrow_visible="1"/>
+	<play id="38" name="星空擂台" mapId="108" arrow_x="570" arrow_y="37" arrow_angle="315" arrow_visible="1"/>
+	<play id="39" name="精灵大师杯" mapId="111" arrow_x="71" arrow_y="246" arrow_angle="315" arrow_visible="1"/>
+	<play id="40" name="精灵大逃杀" mapId="405" arrow_x="801" arrow_y="301" arrow_angle="315" arrow_visible="1"/>
+	<play id="41" name="元素之战" mapId="405" arrow_x="455" arrow_y="388" arrow_angle="45" arrow_visible="1"/>
+</root>

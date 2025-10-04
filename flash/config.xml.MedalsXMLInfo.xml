@@ -1,0 +1,27 @@
+<!-- title: 称号 -->
+<!-- achievepoint: 成就点 -->
+<!-- award: 奖励 -->
+<!-- medalicon: 勋章 -->
+<!-- provise 军饷 -->
+<!-- hide 隐藏显示 H5使用-->
+<medals>
+	<medal id="0" title="船员" achievepoint="0" award="" medalicon="0" provise="500" rankeffect="effect0" titleeffect="title0" />
+	<medal id="1" title="新兵" achievepoint="50" award="" medalicon="1" provise="800" rankeffect="effect1" titleeffect="title1"/>
+	<medal id="2" title="下士" achievepoint="100" award="" medalicon="2" provise="1200" rankeffect="effect2" titleeffect="title2"/>
+	<medal id="3" title="中士" achievepoint="200" award="" medalicon="3" provise="1600" rankeffect="effect3" titleeffect="title3"/>
+	<medal id="4" title="上士" achievepoint="400" award="" medalicon="4" provise="2000" rankeffect="effect4" titleeffect="title4"/>
+	<medal id="5" title="准尉" achievepoint="600" award="118" medalicon="5" provise="2500" rankeffect="effect5" titleeffect="title5"/>
+	<medal id="6" title="少尉" achievepoint="1000" award="122" medalicon="6" provise="3000" rankeffect="effect6" titleeffect="title6"/>
+	<medal id="7" title="中尉" achievepoint="1800" award="139" medalicon="7" provise="3500" rankeffect="effect7" titleeffect="title7"/>
+	<medal id="8" title="上尉" achievepoint="3000" award="167" medalicon="8" provise="4000" rankeffect="effect8" titleeffect="title8"/>
+	<medal id="9" title="少校" achievepoint="4200" award="210" medalicon="9" provise="" rankeffect="effect9" titleeffect="title9"/>
+	<medal id="10" title="中校" achievepoint="6000" award="395" medalicon="10" provise="" rankeffect="effect10" titleeffect="title10"/>
+	<medal id="11" title="上校" achievepoint="8100" award="396" medalicon="11" provise="" rankeffect="effect11" titleeffect="title11"/>
+	<medal id="12" title="大校" achievepoint="10500" award="397" medalicon="12" provise="" rankeffect="effect12" titleeffect="title12"/>
+	<medal id="13" title="准将" achievepoint="12000" award="441" medalicon="13" provise="" rankeffect="effect13" titleeffect="title13"/>
+	<medal id="14" title="少将" achievepoint="100000000" award="" medalicon="14" provise="" rankeffect="effect14" titleeffect="title14" hide="1"/>
+	<medal id="15" title="中将" achievepoint="100000000" award="" medalicon="15" provise="" rankeffect="effect15" titleeffect="title15" hide="1"/>
+	<medal id="16" title="上将" achievepoint="100000000" award="" medalicon="16" provise="" rankeffect="effect16" titleeffect="title16" hide="1"/>
+	<medal id="17" title="副元帅" achievepoint="100000000" award="" medalicon="" provise="" rankeffect="effect0" hide="1"/>
+	<medal id="18" title="元帅" achievepoint="100000000" award="" medalicon="" provise="" rankeffect="effect0" hide="1"/>
+</medals>

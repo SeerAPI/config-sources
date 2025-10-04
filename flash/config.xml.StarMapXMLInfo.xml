@@ -1,0 +1,60 @@
+<!-- 
+	星球地图XML表
+-->
+
+<root>
+	
+	<scene id="1" name="流沙地洞"/>
+	<scene id="4" name="雾气石林"/>
+	<scene id="5" name="盘树天堂"/>
+	<scene id="6" name="千藤洞窟"/>
+	<scene id="7" name="云层之径"/>
+	<scene id="8" name="上古龙殿"/>
+	<scene id="9" name="星辰龙径"/>
+	<scene id="101" name="蘑草绿洲"/>
+	<scene id="103" name="食草林"/>
+	<scene id="107" name="蘑菇洞"/>
+	<scene id="332" name="冰火绝命崖"/>
+	<scene id="698" name="米娜村落"/>
+
+	<scene id="702" name="巨石岛"/>
+	<scene id="703" name="石塔禁地"/>
+	<scene id="704" name="熔岩大地"/>
+	<scene id="705" name="熔岩地心"/>
+	<scene id="706" name="石源密林"/>
+	<scene id="708" name="黑风崖"/>
+	<scene id="709" name="巨石营地"/>
+	<scene id="29" name="浅滩海岛"/>
+	<scene id="710" name="珊瑚海礁"/>
+	<scene id="712" name="水月洞壁"/>
+	<scene id="713" name="烟水迷阵"/>
+	<scene id="38" name="麦田村"/>
+	<scene id="718" name="翡翠山谷"/>
+	<scene id="715" name="幽暗洞穴"/>
+	<scene id="716" name="流沙地洞"/>
+	<scene id="717" name="雾气石林"/>
+	<scene id="720" name="盘树天堂"/>
+	<scene id="39" name="千藤洞窟"/>
+	<scene id="721" name="云层之径"/>
+	<scene id="724" name="上古龙殿"/>
+	<scene id="722" name="星辰龙径"/>
+	<scene id="726" name="蘑草绿洲"/>
+	<scene id="725" name="蘑菇洞"/>
+	<scene id="728" name="食草林"/>
+	<scene id="727" name="冰火绝命崖"/>
+	<scene id="731" name="米娜村落"/>
+	<scene id="730" name="上古遗迹"/>
+	<scene id="732" name="海盗集中营"/>
+	<scene id="735" name="海盗研究基地"/>
+	<scene id="734" name="海盗决斗场"/>
+	
+	<scene id="102" name="精灵太空站"/>
+	<scene id="503" name="作战实验室"/>
+	<scene id="108" name="太空站左翼"/>
+	<scene id="465" name="太空站扩展"/>
+	<scene id="499" name="星空擂台"/>
+	<scene id="433" name="巅峰之战"/>
+	<scene id="111" name="大师杯赛场"/>
+	<scene id="405" name="太空站扩展"/>
+	<scene id="14" name="空间裂缝"/>
+</root>

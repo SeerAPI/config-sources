@@ -1,0 +1,395 @@
+<!-- 
+	射击效果XML表
+	id 序号，
+	type 类型（1：激光轨迹，2：有轨迹动画效果，3：无轨迹动画效果）
+	cloths 需要装备id列表，
+	tranId 击中变身效果，
+-->
+
+<root>
+
+	<!--激光-->
+	<item id="10000" type="1" cloths="" state="10000"/>
+	<!--火弹-->
+	<item id="10001" type="2" cloths="100044" state="10001"/>
+	<!--水枪-->
+	<item id="10002" type="2" cloths="100052"/>
+	<!--闪电-->
+	<item id="10003" type="3" cloths="100056" state="10001"/>
+	<!--泡泡-->
+	<item id="10004" type="2" cloths="100029"/>
+	<!--喷雾剂-->
+	<item id="10005" type="2" cloths="100040"/>
+	<!--狮子座-->
+	<item id="10006" type="2" cloths="100104"/>
+	<!--绿光队-->
+	<item id="10007" type="3" cloths="100111"/>
+	<!--海啸队-->
+	<item id="10008" type="3" cloths="100114"/>
+	<!--烈焰队-->
+	<item id="10009" type="3" cloths="100117"/>
+	<!--布布花粉-->
+	<item id="10010" type="3" cloths="100138"/>
+	<!--光能射线-->
+	<item id="10011" type="3" cloths="100151"/>
+	<!--水晶激光-->
+	<item id="10012" type="2" cloths="100219"/>
+	<!--战神射线-->
+	<item id="10013" type="2" cloths="100701"/>
+	<!--将军激光-->
+	<item id="10014" type="1" cloths="100705" state="10000"/>
+	<!--武士-->
+	<item id="10015" type="2" cloths="100709"/>
+	<!--炫光-->
+	<item id="10016" type="2" cloths="100713"/>
+	<!--RX-78-->
+	<item id="10017" type="3" cloths="100718"/>
+	<!--MS-06A-->
+	<item id="10018" type="2" cloths="100722"/>
+	<!--天枰魔光-->
+	<item id="10019" type="2" cloths="100159"/>
+	<!--南瓜-->
+	<item id="10020" type="2" cloths="100182"/>
+	<!--幽灵-->
+	<item id="10021" type="2" cloths="100224"/>
+	<!--闇灵-->
+	<item id="10022" type="2" cloths="100726"/>
+	<!--暗金-->
+	<item id="10023" type="2" cloths="100727"/>
+	<!--冰掌-->
+	<item id="10024" type="2" cloths="100731"/>
+	<!--火蜂-->
+	<item id="10025" type="2" cloths="100735"/>
+	<!--魔刀-->
+	<item id="10026" type="2" cloths="100739"/>
+	<!--陀螺-->
+	<item id="10027" type="2" cloths="100743"/>
+	<!--蓝激光-->
+	<item id="10028" type="1" cloths="100233" state="10000"/>
+	<!--红激光-->
+	<item id="10029" type="1" cloths="100747" state="10000"/>
+	<!--圣堂激光-->
+	<item id="10030" type="2" cloths="100241"/>
+	<!--寒流-->
+	<item id="10031" type="2" cloths="100245"/>
+	<!--冰晶-->
+	<item id="10032" type="2" cloths="100751"/>
+	<!--刻蹄-->
+	<item id="10033" type="2" cloths="100755"/>
+	<!--迦玛炮-->
+	<item id="10034" type="2" cloths="100759"/>
+	<!--黑焰机枪-->
+	<item id="10036" type="2" cloths="100255"/>
+	<!--利爪榴弹炮-->
+	<item id="10037" type="2" cloths="100261" state="10001"/>
+	<!--雪球-->
+	<item id="10038" type="2" cloths="100273"/>
+	<!--紫荆飞刺-->
+	<item id="10039" type="2" cloths="100764"/>
+	<!--飞翅回力-->
+	<item id="10040" type="2" cloths="100772"/>
+	<!--电流激光炮-->
+	<item id="10041" type="2" cloths="100768"/>
+	<!--米鲁射线-->
+	<item id="10042" type="2" cloths="100269"/>
+	<!--橙色聚光束-->
+	<item id="10043" type="2" cloths="100282"/>
+	<!--交叉飞爪-->
+	<item id="10044" type="2" cloths="100286"/>
+	<!--火焰喷射-->
+	<item id="10045" type="2" cloths="100776" state="10001"/>
+	<!--冰晶锁链-->
+	<item id="10046" type="2" cloths="100290"/>
+	<!--坦克炮-->
+	<item id="10048" type="2" cloths="100306"/>
+	<!--米加离子炮-->
+	<item id="10049" type="1" cloths="100311" state="10000"/>
+	<!--导弹-->
+	<item id="10051" type="2" cloths="100785" state="10001"/>
+	<!--虎头射线-->
+	<item id="10052" type="2" cloths="100789"/>
+	<!--落雷-->
+	<item id="10053" type="3" cloths="100320" state="10001"/>
+	<!--龙王波-->
+	<item id="10054" type="2" cloths="100329"/>
+	<!--绿色光束-->
+	<item id="10055" type="2" cloths="100793"/>
+	<!--三色疾电-->
+	<item id="10056" type="2" cloths="100334"/>
+	<!--挥剑-->
+	<item id="10057" type="2" cloths="100338"/>
+	<!--刺锋-->
+	<item id="10058" type="2" cloths="100346|100350" state="10058"/>
+	<!--赤鹰-->
+	<item id="10059" type="2" cloths="100378"/>
+	<!--灰隼-->
+	<item id="10060" type="2" cloths="100382"/>
+	<!--文字-->
+	<item id="10061" type="3" cloths="100386"/>
+	<!--诺曼底射线-->
+	<item id="10062" type="2" cloths="100387"/>
+	<!--夜枭-->
+	<item id="10063" type="2" cloths="100797|100801|100805"/>
+	<!--碧蓝怒火射线-->
+	<item id="10064" type="2" cloths="100399"/>
+	<!--深雷射线-->
+	<item id="10065" type="2" cloths="100403"/>
+	<!--副能射线-->
+	<item id="10066" type="2" cloths="100412"/>
+	<!--加农炮射线-->
+	<item id="10067" type="2" cloths="100421"/>
+	<!--合金钻头射线-->
+	<item id="10068" type="2" cloths="100422"/>
+	<!--创世纪射线-->
+	<item id="10069" type="2" cloths="100431" state="10001"/>
+	<!--迁跃者射线-->
+	<item id="10070" type="2" cloths="100435" state="10001"/>
+	<!--迷你芽射线-->
+	<item id="10071" type="2" cloths="100427"/>
+	<!--绿激光-->
+	<item id="10072" type="1" cloths="100440" state="10000"/>
+	<!--不灭射线-->
+	<item id="10073" type="2" cloths="100458"/>
+	<!--天命射线-->
+	<item id="10074" type="2" cloths="100453"/>
+	<!--黑卡射线-->
+	<item id="10075" type="2" cloths="100463" state="10001"/>
+	<!--焰岩射线-->
+	<item id="10076" type="2" cloths="100467" state="10001"/>
+	<!--龙炎射线-->
+	<item id="10077" type="2" cloths="100448"/>
+	<!--炎碎射线-->
+	<item id="10078" type="2" cloths="100471"/>
+	<!--烈焰-->
+	<item id="10079" type="3" cloths="100475"/>
+	<!--绿光-->
+	<item id="10080" type="3" cloths="100478"/>
+	<!--海啸-->
+	<item id="10081" type="3" cloths="100481"/>
+	<!--无双射线-->
+	<item id="10082" type="2" cloths="100484"/>
+	<!--大帝射线-->
+	<item id="10083" type="2" cloths="100489"/>
+	<!--毒刺射线-->
+	<item id="10084" type="2" cloths="100494"/>
+	<!--新手导弹射线-->
+	<item id="10085" type="2" cloths="100499"/>
+	<!--招募官射线-->
+	<item id="10086" type="2" cloths="100500"/>
+	<!--激撞射线-->
+	<item id="10087" type="2" cloths="100504" state="10001"/>
+	<!--海盗射线-->
+	<item id="10088" type="1" cloths="100508" state="10000"/>
+	<!--中尉射线-->
+	<item id="10089" type="2" cloths="100512"/>
+	<!--超能新兵射线-->
+	<item id="10090" type="2" cloths="100516"/>
+	<!--超能士官射线-->
+	<item id="10091" type="2" cloths="100520"/>
+	<!--犄角路霸射线-->
+	<item id="10092" type="2" cloths="100527" state="10001"/>
+	<!--强袭战虎射线-->
+	<item id="10093" type="2" cloths="100531" state="10001"/>
+	<!--扫荡者射线-->
+	<item id="10094" type="2" cloths="100809" state="10001"/>
+	<!--万圣黑翼射线-->
+	<item id="10095" type="2" cloths="100536" state="10001"/>
+	<!--黑月射线-->
+	<item id="10096" type="2" cloths="100549" state="10001"/>
+	<!--遗忘者射线-->
+	<item id="10097" type="2" cloths="100554" state="10001"/>
+	<!--强固射线-->
+	<item id="10098" type="2" cloths="100545"/>
+	<!--深寒射线-->
+	<item id="10099" type="2" cloths="100559"/>
+	<!--圣诞老者射线-->
+	<item id="10100" type="2" cloths="100565"/>
+	<!--雪雷射线-->
+	<item id="10101" type="2" cloths="100570" state="10001"/>
+	<!--雪球射线-->
+	<item id="10102" type="2" cloths="100575"/>		
+	<!--黑卡射线-->
+	<item id="10103" type="2" cloths="100577"/>	
+	<!--狡兔射线-->
+	<item id="10104" type="2" cloths="100582"/>	
+	<!--王者射线-->
+	<item id="10105" type="2" cloths="100587" state="10001"/>	
+	<!--光明射线-->
+	<item id="10106" type="2" cloths="100591"/>
+	<!--忍魂-->
+	<item id="10107" type="2" cloths="100813"/>																	
+	<!--星校-->
+	<item id="10108" type="2" cloths="100596"/>
+	<!--勇者学员-->
+	<item id="10109" type="2" cloths="100616" state="10001"/>
+	<!--龙之心-->
+	<item id="10110" type="2" cloths="100620"/>	
+	<!--胶囊弹射炮-->
+	<item id="10111" type="2" cloths="100624" state="10111"/>
+	<!--兔子装-->
+	<item id="10112" type="2" cloths="100582"/>
+	<!--彩迪虎-->
+	<item id="10113" type="2" cloths="100630"/>
+	<!--激斗武士-->
+	<item id="10114" type="2" cloths="100634"/>
+	<!--赛尔号大电影（蓝）-->
+	<item id="10115" type="2" cloths="100639|100640|100641"/>
+	<!--彗星套装-->
+	<item id="10116" type="2" cloths="100644"/>
+	<!--奇幻果-->
+	<item id="10117" type="2" cloths="100600"/>
+	<!--果灵仙-->
+	<item id="10118" type="2" cloths="100603"/>
+	<!--海魂装-->
+	<item id="10119" type="2" cloths="100649"/>
+	<!--赛尔号大电影（黄）-->
+	<item id="10120" type="2" cloths="100642|100643"/>
+	<!--上尉战盔-->
+	<item id="10121" type="2" cloths="100653" state="10001"/>
+	<!--烈焰战盔-->
+	<item id="10122" type="2" cloths="100657"/>
+	<!--绿光战盔-->
+	<item id="10123" type="2" cloths="100660"/>
+	<!--海啸战盔-->
+	<item id="10124" type="2" cloths="100663"/>
+	<!--龙神战盔-->
+	<item id="10125" type="2" cloths="100666"/>
+	<!--未来星帽-->
+	<item id="10126" type="2" cloths="100818"/>
+	<!--闪冰战盔-->
+	<item id="10127" type="2" cloths="100822"/>
+	<!--古尔勇士帽-->
+	<item id="10128" type="2" cloths="100827"/>
+	<!--银河头盔-->
+	<item id="10129" type="2" cloths="100827"/>
+	<!--蝠王头盔-->
+	<item id="10130" type="2" cloths="100830"/>
+	<!--绿色旋风-->
+	<item id="10131" type="2" cloths="100835"/>
+	<!--星光魔法帽-->
+	<item id="10132" type="2" cloths="100839"/>
+	<!--红色旋风-->
+	<item id="10133" type="2" cloths="100840"/>
+	<!--暗影突袭-->
+	<item id="10134" type="2" cloths="100844"/>
+	<!--紫色旋风-->
+	<item id="10135" type="2" cloths="100852"/>
+	<!--闪耀突袭-->
+	<item id="10136" type="2" cloths="100848"/>
+	<!--无双射线-->
+	<item id="10137" type="2" cloths="100856"/>
+	<!--大帝射线-->
+	<item id="10138" type="2" cloths="100861"/>
+	<!--天命射线-->
+	<item id="10139" type="2" cloths="100870"/>
+	<!--军衔头盔-->
+	<item id="10140" type="2" cloths="100879" state="10001"/>
+	<!--军衔头盔-->
+	<item id="10141" type="2" cloths="100880" state="10001"/>
+	<!--军衔头盔-->
+	<item id="10142" type="2" cloths="100881" state="10001"/>
+	<!--军衔头盔-->
+	<item id="10143" type="2" cloths="100882" state="10001"/>
+	<!--军衔头盔-->
+	<item id="10144" type="2" cloths="100883" state="10001"/>
+	<!--军衔头盔-->
+	<item id="10145" type="2" cloths="100884" state="10001"/>
+	<!--军衔头盔-->
+	<item id="10146" type="2" cloths="100885" state="10001"/>
+	<!--军衔头盔-->
+	<item id="10147" type="2" cloths="100886" state="10001"/>
+	<!--黄金破晓-->
+	<item id="10148" type="2" cloths="100866" state="10001"/>
+	<!--蓝色旋风-->
+	<item id="10149" type="2" cloths="100875"/>
+	<!--圣诞真红-->
+	<item id="10150" type="2" cloths="100892" state="10001"/>
+	<!--龙炎射线-->
+	<item id="10151" type="2" cloths="100887"/>
+	<!--不灭射线-->
+	<item id="10152" type="2" cloths="100901"/>	
+	<!--青旋风射线-->
+	<item id="10153" type="2" cloths="100909"/>
+	<!--铁打射线-->
+	<item id="10154" type="2" cloths="100917"/>
+	<!--露露射线-->
+	<item id="10155" type="2" cloths="100922"/>
+	<!--小息射线-->
+	<item id="10156" type="2" cloths="100896"/>
+	<!--炫龙射线-->
+	<item id="10157" type="2" cloths="100913"/>
+	<!--焰龙圣甲-->
+	<item id="10158" type="2" cloths="100936"/>
+	<!--红卡套装-->
+	<item id="10159" type="2" cloths="100927"/>
+	<!--褐色旋风-->
+	<item id="10160" type="2" cloths="100932"/>
+	<!--银色旋风-->
+	<item id="10161" type="2" cloths="100945"/>
+	<!--米咔射线-->
+	<item id="10162" type="2" cloths="100940"/>
+	<!--冰旋风-->
+	<item id="10163" type="2" cloths="100945"/>
+	<!--暗色旋风-->
+	<item id="10164" type="2" cloths="100949"/>
+	<!--黄金水瓶-->
+	<item id="10165" type="2" cloths="100957" state="10001"/>
+	<!--白银水瓶-->
+	<item id="10166" type="2" cloths="100961" state="10001"/>
+	<!--光旋风-->
+	<item id="10167" type="2" cloths="100965"/>
+	<!--青龙守卫-->
+	<item id="10168" type="2" cloths="100969"/>
+	<!--青龙先锋-->
+	<item id="10169" type="2" cloths="100973"/>
+	<!--龙旋风-->
+	<item id="10170" type="2" cloths="100981"/>
+	<!--小丑-->
+	<item id="10171" type="2" cloths="100985"/>
+	<!--劲旋风-->
+	<item id="10172" type="2" cloths="100989"/>
+	<!--黄金青龙-->
+	<item id="10173" type="2" cloths="100977"/>
+	<!--少校-->
+	<item id="10174" type="2" cloths="100993" state="10001"/>
+	<!--蓝卡-->
+	<item id="10175" type="2" cloths="1300001"/>
+	<!--黄金双鱼-->
+	<item id="10176" type="2" cloths="1300006" state="10001"/>
+	<!--白银双鱼-->
+	<item id="10177" type="2" cloths="1300010" state="10001"/>
+	<!--斗旋风-->
+	<item id="10178" type="2" cloths="1300014"/>
+	<!--影袭-->
+	<item id="10179" type="2" cloths="1300018"/>
+	<!--暗金-->
+	<item id="10180" type="2" cloths="1300022"/>
+	<!--机智-->
+	<item id="10181" type="2" cloths="1300025" state="10001"/>
+	<!--黄金白羊-->
+	<item id="10182" type="2" cloths="1300029" state="10001"/>
+	<!--白银白羊-->
+	<item id="10183" type="2" cloths="1300033" state="10001"/>
+	<!--雷旋风-->
+	<item id="10184" type="2" cloths="1300037"/>
+	<!--白色天命-->
+	<item id="10185" type="2" cloths="1300041"/>
+	<!--天神-->
+	<item id="10186" type="2" cloths="1300046" state="10001"/>
+	<!--萨菲罗-->
+	<item id="10187" type="2" cloths="1300050"/>
+	<!--圣灵守护-->
+	<item id="10188" type="2" cloths="1300054"/>
+	<!--钢铁战侠-->
+	<item id="10189" type="2" cloths="1300058"/>
+	<!--深海氧气头套-->
+	<item id="10190" type="2" cloths="1300062"/>
+	<!--机械队长头套-->
+	<item id="10191" type="2" cloths="1300063"/>
+	<!--战队荣耀头盔-->
+	<item id="10192" type="2" cloths="1300069" state="10001"/>
+	<!--闪电之怒战盔-->
+	<item id="10193" type="2" cloths="1300073"/>
+	<!--比巴卜套装 爆炸水球-->
+	<item id="10194" type="2" cloths="1300388|1300389|1300390|1300391|1300392"/>
+</root>

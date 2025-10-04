@@ -1,0 +1,332 @@
+<!--
+chapter 章节 id ( 1 初夏     2 惊雷    3 爽风)——未来可定义章节
+dialogs 剧情对话内容  id  ques 剧情框文本    answer des  对话选项框  goto 跳转剧情id（——tasktype=1时的跳转文本）
+q 问题 type类型：1找黑影 2 找技能  des 问题描述    right  正确的答案多个用|隔开  answer  des答案  frame :黑影第几针 petid 找技能对应的petid
+tasktype 跳转任务 id（1对话 2.进入小游戏 4.跳转地图 5.对战 6.结局） 
+end 结局（——tasktype=6时的跳转文本） id （1~8：BD1~BD8；9~11：通关chapter1、2、3）
+mapid任务相关的地图 （——tasktype=4时的目标地图id）
+ 
+ 没有的都可以不填  
+ 
+ -->
+ <root>
+	<dialogs>
+		<dialog id="1" ques="暑意渐渐充斥着空气，仿佛整个毛孔都被浸泡在温水里（虽然小赛尔的并不能感觉到），但很多精灵已经受不了了。你远远的看见毛毛理正趁着夏夜的爽风在月色下乘凉：这个圆咚咚的小东西是最近才来到这里的，要前去和他搭话吗？">
+			<answer des="前去搭话！" tasktype="1" goto="2" end="" mapid=""/>
+			<answer des="不想打扰他" tasktype="6" goto="" end="1" mapid=""/>
+		</dialog>
+		
+		<dialog id="2" ques="你悄步上前，来到他的背后，准备戏弄一下这个自称兔子的奇妙生物。！">
+			<answer des="揪住他的耳朵。" tasktype="1" goto="3" end="" mapid=""/>
+			<answer des="大力拍一巴掌。" tasktype="1" goto="3" end="" mapid=""/>
+		</dialog>
+		
+		<dialog id="3" ques="“哇~好痛。”毛毛理生气了！他朝你打了一拳，打到了铁皮上——“哇~好痛。”毛毛理委屈的要哭了。你该怎么办呢？">
+			<answer des="翻出口袋里的胡萝卜。" tasktype="1" goto="4" end="" mapid=""/>
+			<answer des="翻出口袋里的毛仔QQ糖。" tasktype="1" goto="5" end="" mapid=""/>
+		</dialog>
+		
+		<dialog id="4" ques="毛毛理对此毫无兴趣，因为他很强调的说：自己其实并不不是很喜欢吃胡萝卜，而且吃了会腹泻！！">
+			<answer des="你把胡萝卜的叶子揪下来给他。" tasktype="1" goto="6" end="" mapid=""/>
+			<answer des="你看他已经生龙活虎了，收起了胡萝卜。。" tasktype="1" goto="7" end="" mapid=""/>
+		</dialog>
+		
+		<dialog id="5" ques="毛毛理把你的手咬住了，等到你把手抽出来后，糖消失了，只有满手的口水。而他已经瘫在地上开始打嗝。">
+			<answer des="把口水蹭到他的后背上。" tasktype="1" goto="9" end="" mapid=""/>
+			<answer des="举起自己的手闻一闻。" tasktype="1" goto="8" end="" mapid=""/>
+		</dialog>
+		
+		<dialog id="6" ques="毛毛理不吃胡萝卜却勉强接受了胡萝卜叶子，吧唧吧唧地吃掉了。一些口水沾到了你的手上。">
+			<answer des="把口水蹭到他的后背上。" tasktype="1" goto="9" end="" mapid=""/>
+			<answer des="举起自己的手闻一闻。" tasktype="1" goto="8" end="" mapid=""/>
+		</dialog>
+		
+		<dialog id="7" ques="毛毛理有点惊讶——你竟然啥都没给他，他开始盯着你看。盯————盯————（整个过程持续了3分14秒）">
+			<answer des="翻出口袋里的胡萝卜。" tasktype="1" goto="5" end="" mapid=""/>
+			<answer des="翻出口袋里的毛仔QQ糖。" tasktype="1" goto="4" end="" mapid=""/>
+		</dialog>
+		
+		<dialog id="8" ques="哇，你吐了。当场失去意识，被抬回了家。">
+			<answer des="。。。" tasktype="6" goto="" end="2" mapid=""/>
+		</dialog>
+		
+		<dialog id="9" ques="   毛毛理很嫌弃的往远处挪了挪，却被你的双手钳住，你之后又狠狠地蹭了好久才放开，毕竟软软的非常舒服。而且出乎意料的是，并不会感到很热，反而有点凉爽的，非常神奇，这真的是兔子吗？不一会儿，吃饱的毛毛理睡着了，你该拿他怎么办呢？">
+			<answer des="丢在野外不太合适，你把他拖了回去。" tasktype="1" goto="10" end="" mapid=""/>
+			<answer des="嘛，放在这里也没事吧？你最后偷偷溜走了。。" tasktype="6" goto="" end="3" mapid=""/>
+		</dialog>
+		
+		<dialog id="10" ques="晚上，躺在床上，感觉腰酸背痛。“今天可被这个东西坑惨了~哪天一定找他好好算帐。”你心里想着，不一会就沉沉睡去。">
+			<answer des="。。。" tasktype="6" goto="" end="9" mapid="" />
+		</dialog>
+		
+		<dialog id="11" ques="当清晨的第一缕阳光洒到你的脸上，你眯了一眼闹钟——才不到7点！！夏天的确就是这样子呢。你决定——">
+			<answer des="蒙上被子，继续睡觉。。" tasktype="1" goto="13" end="" mapid=""/>
+			<answer des="已经很难安稳睡觉了，干脆挣扎着起床。" tasktype="1" goto="12" end="" mapid=""/>
+		</dialog>
+		
+		<dialog id="12" ques="一来到舱室，迎面走来一个卫兵，向你传达了一则通知：紧急情况，速去船长室~">
+			<answer des="通过地图速速前往船长室场景。（点击接受委托）。" tasktype="4" goto="" end="" mapid="4"/>
+		</dialog>
+		
+		<dialog id="13" ques="船舱外吵吵嚷嚷的，把你吵醒了。你睁眼一看已经11点了！出了舱门，你发现今天的大家仿佛都很慌张：貌似是附近游荡的海盗在作祟。不过罗杰船长已经派人去应对了，你渐渐放下心来，一切都会好起来的吧？">
+			<answer des="。。。" tasktype="1" goto="15" end="" mapid=""/>
+		</dialog>
+		
+		<!-- *指定map弹出的通用对话框*  <"罗杰船长：刚刚得知消息：附近游荡的海盗劫持了毛毛理，听说你的和他很熟，所以派你去营救他是最好不过的了。"> -->
+		<!-- *点击弹回活动面板，剧情对话从16开始，goto="16"*  <接受任务（结束委托状态）> -->
+		
+		
+		<dialog id="15" ques=" 作为一种可爱的精灵：毛毛理的种族常常在黑市上被作为有钱人的宠物而遭到劫持、拘禁、贩卖。游荡的海盗就是看中了这一点，才铤而走险的。罗杰船长的进攻成功击溃了海盗，但没能阻止他们中途对毛毛理的交易。">
+			<answer des="。。。" tasktype="1" goto="30" end="" mapid=""/>
+		</dialog>
+		
+		<dialog id="16" ques="接下了营救任务，虽然时间紧迫，但是理性的思维与对精灵的熟悉度是必不可少的，你需要做一些准备。">
+			<answer des="点击进入答题小游戏。。" tasktype="2" goto="" end="" mapid=""/>
+		</dialog>
+		
+		<!-- <黑影题答对，进入技能题；黑影题答错。达成BD5 end="5"> -->
+		
+		<!-- <技能题答对，跳转剧情19，goto="19"；技能题答错。达成BD6 end="6"> -->
+		
+		<dialog id="19" ques="你已做好了前去营救毛毛理的准备，还打听到海盗们的所在地在在艾迪星的【暮色之城】，前往对应的场景吧。">
+			<answer des="通过地图速速前往【暮色之城】场景。（点击接受委托）。" tasktype="4" goto="" end="" mapid="96"/>
+		</dialog>
+		
+		<!-- *指定map弹出的通用对话框*  <"来到了【暮色之城】，你立马着手开始搜寻与侦察，毛毛理等着我！"> -->
+		<!-- *点击弹回活动面板，剧情对话从21开始，goto="21"*  <"接受任务（结束委托状态）"> -->
+		
+		<dialog id="21" ques="你几经打听与潜伏，终于找到了海盗们的藏身之地，貌似他们在进行什么秘密交易。大战将至，将这伙流匪，一起拿下了吧。（失败则《惊雷》章节需要重新攻略）">
+			<answer des="准备迎战（点击进入对战）。" tasktype="5" goto="" end="" mapid=""/>
+		</dialog>
+		
+		<!-- <*进入对战 * 对战胜利：跳转剧情23 ，goto="23"；对战失败：达成BD7 end="7">-->
+		
+		<dialog id="23" ques="你打败了听命于海盗的精灵，获得了胜利。">
+			<answer des="。。。" tasktype="6" goto="" end="10" mapid=""/>
+		</dialog>
+		
+		<dialog id="24" ques="你获得了胜利！这一小队海盗流寇交代了开展精灵绑架及贩卖的犯罪事实，受到了执法人员的逮捕。毛毛理及一众受到绑架的精灵被解救了出来。">
+			<answer des="快去找找看毛毛理怎么样了吧。。" tasktype="1" goto="25" end="" mapid=""/>
+			<answer des="咕，战斗完又累又饿，先去找吃的吧" tasktype="1" goto="26" end="" mapid=""/>
+		</dialog>
+		
+		<dialog id="25" ques="哇，你在洞窟里找到了毛毛理，看上去没有大碍，而且！！他的身旁不知什么时候还跟着一只雌性精灵。嗬！这家伙可以呀。不过起码安全的回来了，你心里松了一大口气。">
+			<answer des="向毛毛理发出询问。" tasktype="1" goto="27" end="" mapid=""/>
+		</dialog>
+		
+		<dialog id="26" ques="回过头来，你仍旧找不到毛毛理，后来才听说毛毛理被一只美丽的雌性精灵拐跑了。你在心里默默的祝福着他，毕竟没事就好。“以后也要照看好自己呀。”空巢老赛尔的孤寂涌上心头。">
+			<answer des="。。。" tasktype="6" goto="" end="8" mapid=""/>
+		</dialog>
+		
+		<dialog id="27" ques="毛毛理主动介绍他身旁的精灵，原来她叫毛毛比，之前也被海盗们绑架了，在被囚禁的日子里，他们共度难关，成为了患难与共的好朋友。">
+			<answer des="摸摸毛毛比。" tasktype="1" goto="28" end="" mapid=""/>
+			<answer des="和毛毛比打招呼。" tasktype="1" goto="28" end="" mapid=""/>
+		</dialog>
+		
+		<dialog id="28" ques="毛毛比似乎也很不讨厌你呢，只不过刚刚才脱离险境的她，比较怕生。做些什么来减轻她的紧张感吧。">
+			<answer des="面带微笑盯着她，不说话。" tasktype="1" goto="29" end="" mapid=""/>
+			<answer des="因为过于心疼而哭喊着抱紧她" tasktype="1" goto="29" end="" mapid=""/>
+		</dialog>
+		
+		<dialog id="29" ques="毛毛比似乎更加紧张了，她被你吓的脸色惨白了。看来和她进一步加深羁绊的路途任重而道远呀。不过总之大家都没事真的是太好了。">
+			<answer des="一起回家吧。。" tasktype="6" goto="" end="11" mapid=""/>
+		</dialog>
+		
+		<dialog id="30" ques="几天后，在知晓了这一切后，你沉默了，一切希望被寄托于长期的搜救流程中。你把拳头攥紧：自己为什么没有帮上一点忙呢？">
+			<answer des="。。。" tasktype="6" goto="" end="4" mapid=""/>
+		</dialog>
+	</dialogs>
+	<ques>
+        <q id="1" type="1" des=""  right="2" frame = "1">
+			<answer id="1" des="黑翼天马·克萨雷恩"/>
+			<answer id="2" des="火炎巨鹿·里奥斯"/>
+			<answer id="3" des="无治奇"/>
+			<answer id="4" des="冰晶麒麟"/>
+		</q>
+		
+		<q id="2" type="1" des=""  right="4" frame = "2">
+			<answer id="1" des="炫羽"/>
+			<answer id="2" des="智慧女神·雅典娜"/>
+			<answer id="3" des="梦·赫尔墨斯"/>
+			<answer id="4" des="天羽"/>
+		</q>
+		<q id="3" type="1" des=""  right="4" frame = "3">
+			<answer id="1" des="暴君史莱姆"/>
+			<answer id="2" des="黄金史莱姆"/>
+			<answer id="3" des="攻击史莱姆"/>
+			<answer id="4" des="体力史莱姆"/>
+		</q>
+		
+		<q id="4" type="1" des=""  right="3" frame = "4">
+			<answer id="1" des="太玄·九天圣龙"/>
+			<answer id="2" des="帝龙邪尊"/>
+			<answer id="3" des="邪冥龙帝"/>
+			<answer id="4" des="天尊龙帝"/>
+		</q>
+		
+		<q id="5" type="1" des=""  right="4" frame = "5">
+			<answer id="1" des="圣光·奥尔德"/>
+			<answer id="2" des="神·阿波罗"/>
+			<answer id="3" des="圣瞳·天蛇太祖"/>
+			<answer id="4" des="鬼才司马懿"/>
+		</q>
+		
+		<q id="6" type="1" des=""  right="2" frame = "6">
+			<answer id="1" des="凯西恩"/>
+			<answer id="2" des="提普斯"/>
+			<answer id="3" des="莱奥拉多"/>
+			<answer id="4" des="拉法耶尔"/>
+		</q>
+		
+		<q id="7" type="1" des=""  right="2" frame = "7">
+			<answer id="1" des="伊芙丽"/>
+			<answer id="2" des="千裳"/>
+			<answer id="3" des="腊梅·花信"/>
+			<answer id="4" des="牌灵·发"/>
+		</q>
+		
+		<q id="8" type="1" des=""  right="4" frame = "8">
+			<answer id="1" des="大威势明王"/>
+			<answer id="2" des="卡恩特"/>
+			<answer id="3" des="愤怒之灵"/>
+			<answer id="4" des="冥王·苍月影"/>
+		</q>
+		
+		<q id="9" type="1" des=""  right="2" frame = "9">
+			<answer id="1" des="冠绝神龙"/>
+			<answer id="2" des="极影魔兽"/>
+			<answer id="3" des="魂王·暗翼影"/>
+			<answer id="4" des="黯穹影皇"/>
+		</q>
+		
+		<q id="10" type="1" des=""  right="4" frame = "10">
+			<answer id="1" des="哈恩特"/>
+			<answer id="2" des="蒙琪"/>
+			<answer id="3" des="风翼飞镰"/>
+			<answer id="4" des="塔兰度斯"/>
+		</q>
+		
+		<q id="11" type="2" des=""  right="4|7|9" petid="3241">
+			<answer id="1" des="凌天剑道"/>
+			<answer id="2" des="光剑幻影"/>
+			<answer id="3" des="无影光剑破"/>
+			<answer id="4" des="红莲剑光"/>
+			<answer id="5" des="凛锋剑气"/>
+			<answer id="6" des="极锋钧天剑"/>
+			<answer id="7" des="无华剑道"/>
+			<answer id="8" des="剑刃长击"/>
+			<answer id="9" des="天罗斩"/>
+		</q>
+		<q id="12" type="2" des=""  right="3|4|5" petid="2851">
+			<answer id="1" des="无影旋风翅"/>
+			<answer id="2" des="疾风气流"/>
+			<answer id="3" des="风暴之翼"/>
+			<answer id="4" des="风舞耀世决"/>
+			<answer id="5" des="风岚狂舞"/>
+			<answer id="6" des="羽翼遮云斩"/>
+			<answer id="7" des="飞旋光火"/>
+			<answer id="8" des="凌风长鸣"/>
+			<answer id="9" des="风云光舞"/>
+		</q>
+		
+		<q id="13" type="2" des=""  right="3|6|8" petid="3847">
+			<answer id="1" des="亘古夺魄斩"/>
+			<answer id="2" des="聚邪秘咒"/>
+			<answer id="3" des="铸魂之心"/>
+			<answer id="4" des="铸魂之灾"/>
+			<answer id="5" des="亘古魄命罚"/>
+			<answer id="6" des="天道契约"/>
+			<answer id="7" des="绝望镰刀"/>
+			<answer id="8" des="魂·罪恶解脱"/>
+			<answer id="9" des="极龙破音嚎"/>
+		</q>
+		
+		<q id="14" type="2" des=""  right="4|5|6" petid="3626">
+			<answer id="1" des="剧毒之翼"/>
+			<answer id="2" des="幻影毒尾刺"/>
+			<answer id="3" des="花蜜之舞"/>
+			<answer id="4" des="烈毒蔓延"/>
+			<answer id="5" des="万里绝息"/>
+			<answer id="6" des="天毒摄魂煞"/>
+			<answer id="7" des="魔虫血杀阵"/>
+			<answer id="8" des="毒液腐蚀"/>
+			<answer id="9" des="刺耳虫鸣"/>
+		</q>
+		
+		<q id="15" type="2" des=""  right="3|5|7" petid="3803">
+			<answer id="1" des="幽冥地脉"/>
+			<answer id="2" des="绝地飞岩"/>
+			<answer id="3" des="地元摧"/>
+			<answer id="4" des="极尘崩坏"/>
+			<answer id="5" des="永恒咒印"/>
+			<answer id="6" des="拔地摇山破"/>
+			<answer id="7" des="灵魂审判"/>
+			<answer id="8" des="暗影猛击"/>
+			<answer id="9" des="巨石震颤"/>
+		</q>
+		
+		<q id="16" type="2" des=""  right="1|2|7" petid="3463">
+			<answer id="1" des="诸界混一击"/>
+			<answer id="2" des="不朽空间"/>
+			<answer id="3" des="光翼魂天破"/>
+			<answer id="4" des="光灵耀世"/>
+			<answer id="5" des="万仞极光破"/>
+			<answer id="6" des="天辉斩魔剑"/>
+			<answer id="7" des="光之穿行"/>
+			<answer id="8" des="夺天闪耀"/>
+			<answer id="9" des="神羽灵威"/>
+		</q>
+		
+		<q id="17" type="2" des=""  right="4|5|9" petid="2535">
+			<answer id="1" des="真龙觉醒"/>
+			<answer id="2" des="狂龙出击"/>
+			<answer id="3" des="天威龙甲"/>
+			<answer id="4" des="天灵龙霸闪"/>
+			<answer id="5" des="狂怒龙牙弹"/>
+			<answer id="6" des="龙魂觉醒"/>
+			<answer id="7" des="镇魂龙吼"/>
+			<answer id="8" des="龙扬九州"/>
+			<answer id="9" des="破灭龙息"/>
+		</q>
+		
+		<q id="18" type="2" des=""  right="2|6|7" petid="2828">
+			<answer id="1" des="战甲之心"/>
+			<answer id="2" des="音波攻击"/>
+			<answer id="3" des="冲击光波"/>
+			<answer id="4" des="光荣牺牲"/>
+			<answer id="5" des="无尽希望"/>
+			<answer id="6" des="充能装甲"/>
+			<answer id="7" des="导力光束"/>
+			<answer id="8" des="能量核心"/>
+			<answer id="9" des="量子护盾"/>
+		</q>
+		
+		<q id="19" type="2" des=""  right="4|7|9" petid="3839">
+			<answer id="1" des="虚空突袭"/>
+			<answer id="2" des="幽冥夜刃"/>
+			<answer id="3" des="恶灵摄魂"/>
+			<answer id="4" des="颤栗诅咒"/>
+			<answer id="5" des="灵魂燃烬"/>
+			<answer id="6" des="生命剥离"/>
+			<answer id="7" des="暗黑操控"/>
+			<answer id="8" des="冥魂之夜"/>
+			<answer id="9" des="冥魂之躯"/>
+		</q>
+		<q id="20" type="2" des=""  right="3|4|5" petid="3780">
+			<answer id="1" des="寒冰瓦解"/>
+			<answer id="2" des="冰霜诅咒"/>
+			<answer id="3" des="飞雪碎冰袭"/>
+			<answer id="4" des="冰晶魔法"/>
+			<answer id="5" des="霜冻利爪"/>
+			<answer id="6" des="冰魄寒刃"/>
+			<answer id="7" des="寒风之境"/>
+			<answer id="8" des="寒影冰心"/>
+			<answer id="9" des="千年冰封"/>
+		</q>
+		
+		
+		</ques>
+	<task timefail="任务超时，请重新接取任务！">
+		<task id="1036" type="5" taskdes="升星5" start="58" over="61" fail="60" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+	</task>
+</root>

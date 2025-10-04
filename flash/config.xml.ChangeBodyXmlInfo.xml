@@ -1,0 +1,32 @@
+<lists>
+	<list itemId="400673" changePetId="506"/>
+	<list itemId="400674" changePetId="70"/>
+	<list itemId="400675" changePetId="261"/>
+	<list itemId="400676" changePetId="215"/>
+	<list itemId="400677" changePetId="62"/>
+	<list itemId="400678" changePetId="108"/>
+	<list itemId="400679" changePetId="128"/>
+	<list itemId="400680" changePetId="307"/>
+	<list itemId="400681" changePetId="304"/>
+	<list itemId="400682" changePetId="301"/>
+	<list itemId="400683" changePetId="19"/>
+	
+	<list itemId="400703" changePetId="10000" des="卡酷兔"/>
+	<list itemId="300406" changePetId="10001" des="南瓜稻草人"/>
+	<list itemId="1200338" changePetId="10004" des="中秋变身卡"/>
+	<list itemId="1200373" changePetId="10005" des="小南瓜变身卡"/>
+	<list itemId="600053" changePetId="10006" des="魔焰猩猩变身卡"/>
+	<list itemId="600054" changePetId="10007" des="泰瑞变身卡"/>
+	
+	<!-- 
+		下面的不是变身卡，仅仅作为资源说明，此注释不能删除
+		
+		<list itemId="0" changePetId="20000" des="精灵胶囊"/>
+		<list itemId="0" changePetId="20001" des="巡逻卫兵"/>
+		<list itemId="0" changePetId="20002" des="万圣节南瓜"/>
+		<list itemId="0" changePetId="20003" des="万圣节幽灵"/>
+		<list itemId="0" changePetId="201401" des="2014年圣诞雪球变身1"/>
+		<list itemId="0" changePetId="201402" des="2014年圣诞雪球变身1"/>
+		<list itemId="0" changePetId="201403" des="2014年圣诞雪球变身1"/>
+	-->
+</lists>

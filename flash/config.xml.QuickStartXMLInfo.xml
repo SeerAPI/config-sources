@@ -1,0 +1,250 @@
+<QuickStart>
+
+	<Types>
+		<Type ID="1" Name="星球任务" GrowthValue="1"/>
+		<Type ID="2" Name="精灵捕捉" GrowthValue="1"/>
+		<Type ID="3" Name="精灵对战" GrowthValue="1"/>
+		<Type ID="4" Name="能源采集" GrowthValue="1"/>
+		<Type ID="5" Name="挑战BOSS" GrowthValue="2"/>
+		<Type ID="6" Name="系统" GrowthValue="2"/>
+		<Type ID="7" Name="玩法" GrowthValue="2"/>
+	</Types>
+
+	<Titles>
+		<Title ID="1" Name="见习列兵" NeedGrowthValue="0" CoinsBonus="5000" IconId="1" ItemType="2_4" Reward="见习列兵帽" Intro="探索旅途正式开启，希望你会爱上这艘飞船！"/>
+		<Title ID="2" Name="高等列兵" NeedGrowthValue="20" CoinsBonus="10000" IconId="2" ItemType="2_4" Reward="高等列兵帽" Intro="初出茅庐的赛尔，再接再厉吧！"/>
+		<Title ID="3" Name="星际列兵" NeedGrowthValue="40" CoinsBonus="15000" IconId="3" ItemType="2_4" Reward="星际列兵帽" Intro="好的开始是成功的一半！"/>
+		<Title ID="4" Name="列兵长" NeedGrowthValue="60" CoinsBonus="25000" IconId="4" ItemType="2_4" Reward="列兵长帽" Intro="责任与义务并重，希望你成为一名合格的领导者！"/>
+		<Title ID="5" Name="见习统领" NeedGrowthValue="80" CoinsBonus="30000" IconId="5" ItemType="2_4" Reward="见习统领帽" Intro="新的领域，新的挑战！你一定行！"/>
+		<Title ID="6" Name="高等统领" NeedGrowthValue="90" CoinsBonus="35000" IconId="6" ItemType="2_4" Reward="高等统领帽" Intro="你的目标一定不止这样！努力吧！"/>
+		<Title ID="7" Name="星际统领" NeedGrowthValue="100" CoinsBonus="40000" IconId="7" ItemType="2_4" Reward="星际统领帽" Intro="略有所成的赛尔，加油吧！"/>
+		<Title ID="8" Name="见习船长" NeedGrowthValue="132" CoinsBonus="50000" IconId="8" ItemType="2_4" Reward="见习船长帽" Intro="最终目标—罗杰的左右手！"/>
+	</Titles>
+
+	<StarUnlocks ItemType="1_1">
+		<StarUnlock ID="1" GalaxyID="1" StarID="1" Name="克洛斯星" NeedGrowthValue="0" ItemType="2_1"/>
+        <StarUnlock ID="2" GalaxyID="1" StarID="2" Name="海洋星" NeedGrowthValue="3" ItemType="2_1"/>
+        <StarUnlock ID="3" GalaxyID="1" StarID="3" Name="赫尔卡星" NeedGrowthValue="6" ItemType="2_1"/>
+        <StarUnlock ID="4" GalaxyID="1" StarID="4" Name="火山星" NeedGrowthValue="8" ItemType="2_1"/>
+        <StarUnlock ID="5" GalaxyID="1" StarID="5" Name="云霄星" NeedGrowthValue="13" ItemType="2_1"/>
+        <StarUnlock ID="6" GalaxyID="1" StarID="6" Name="双子阿尔法星" NeedGrowthValue="16" ItemType="2_1"/>
+        <StarUnlock ID="7" GalaxyID="1" StarID="7" Name="塞西利亚星" NeedGrowthValue="19" ItemType="2_1"/>
+        <StarUnlock ID="8" GalaxyID="1" StarID="8" Name="双子贝塔星" NeedGrowthValue="24" ItemType="2_1"/>
+        <StarUnlock ID="9" GalaxyID="1" StarID="9" Name="拜伦号" NeedGrowthValue="25" ItemType="2_1"/>
+        <StarUnlock ID="10" GalaxyID="1" StarID="10" Name="露希欧星" NeedGrowthValue="28" ItemType="2_1"/>
+        <StarUnlock ID="11" GalaxyID="1" StarID="11" Name="斯诺星" NeedGrowthValue="32" ItemType="2_1"/>
+
+        <StarUnlock ID="12" GalaxyID="2" StarID="1" Name="尼古尔星" NeedGrowthValue="45" ItemType="2_1"/>
+        <StarUnlock ID="13" GalaxyID="2" StarID="2" Name="塔克星" NeedGrowthValue="48" ItemType="2_1"/>
+        <StarUnlock ID="14" GalaxyID="2" StarID="3" Name="艾迪星" NeedGrowthValue="50" ItemType="2_1"/>
+        <StarUnlock ID="15" GalaxyID="2" StarID="4" Name="斯科尔星" NeedGrowthValue="53" ItemType="2_1"/>
+        <StarUnlock ID="16" GalaxyID="2" StarID="5" Name="普雷空间站" NeedGrowthValue="57" ItemType="2_1"/>
+        <StarUnlock ID="17" GalaxyID="2" StarID="6" Name="哈莫星" NeedGrowthValue="62" ItemType="2_1"/>
+
+        <StarUnlock ID="18" GalaxyID="3" StarID="1" Name="比格星" NeedGrowthValue="73" ItemType="2_1"/>
+        <StarUnlock ID="19" GalaxyID="3" StarID="2" Name="拓梯星" NeedGrowthValue="76" ItemType="2_1"/>
+        <StarUnlock ID="20" GalaxyID="3" StarID="3" Name="墨杜萨" NeedGrowthValue="78" ItemType="2_1"/>
+        <StarUnlock ID="21" GalaxyID="3" StarID="4" Name="海兹尔星" NeedGrowthValue="80" ItemType="2_1"/>
+        <StarUnlock ID="22" GalaxyID="3" StarID="5" Name="拉铂尔星" NeedGrowthValue="81" ItemType="2_1"/>
+
+        <StarUnlock ID="23" GalaxyID="4" StarID="1" Name="怀特星" NeedGrowthValue="89" ItemType="2_1"/>
+        <StarUnlock ID="24" GalaxyID="4" StarID="2" Name="SUN星" NeedGrowthValue="91" ItemType="2_1"/>
+        <StarUnlock ID="25" GalaxyID="4" StarID="3" Name="格雷斯星" NeedGrowthValue="95" ItemType="2_1"/>
+        <StarUnlock ID="26" GalaxyID="4" StarID="4" Name="未来星" NeedGrowthValue="99" ItemType="2_1"/>
+	</StarUnlocks>
+
+	<GalaxyExploration>
+		<Galaxy ID="1" Name="帕诺星系">
+			<Star ID="1" StoreID="1" ExpBonus="3000" Name="克洛斯星">
+                <Target ID="1" Name="战胜3次皮皮" Type="3" Map="10" MonID="10" Value="3" />
+				<Target ID="2" Name="战胜3次仙人球" Type="3" Map="11" MonID="16" Value="3" />
+                <Target ID="3" Name="捕捉1只皮皮" Type="2" Map="10" MonID="10" />
+                <Target ID="4" Name="挑战1次蘑菇怪" Type="5" Map="12" Region="0" TaskID="301" />
+            </Star>
+			<Star ID="2" StoreID="2" ExpBonus="3000" Name="海洋星">
+                <Target ID="1" Name="战胜3次贝尔" Type="3" Map="20" MonID="30" Value="3" />
+                <Target ID="2" Name="战胜3次利牙鱼" Type="3" Map="21" MonID="33" Value="3" />
+                <Target ID="3" Name="战胜3次小鳍鱼" Type="3" Map="22" MonID="198" Value="3" />
+				<Target ID="4" Name="挑战1次钢牙鲨" Type="5" Map="22" Region="0" TaskID="302" />
+            </Star>
+			<Star ID="3" StoreID="3" ExpBonus="3000" Name="赫尔卡星">
+                <Target ID="1" Name="战胜3次比比鼠" Type="3" Map="30" MonID="13" Value="3" />
+                <Target ID="2" Name="战胜3次罗奇" Type="3" Map="31" MonID="43" Value="3" />
+            </Star>
+			<Star ID="4" StoreID="4" ExpBonus="3000" Name="火山星">
+				<Target ID="1" Name="战胜3次火炎贝" Type="3" Map="15" MonID="38" Value="3" />
+				<Target ID="2" Name="战胜3次吉尔" Type="3" Map="16" MonID="35" Value="3" />
+                <Target ID="3" Name="战胜3次赤甲虫" Type="3" Map="17" MonID="335" Value="3" />
+                <Target ID="4" Name="挑战1次里奥斯" Type="5" Map="17" Region="0" TaskID="303" />
+            </Star>
+			<Star ID="5" StoreID="5" ExpBonus="3000" Name="云霄星">
+				<Target ID="1" Name="战胜3次毛毛" Type="3" Map="25" MonID="22" Value="3" />
+                <Target ID="2" Name="战胜3次幽浮" Type="3" Map="26" MonID="25" Value="3" />
+                <Target ID="3" Name="战胜3次浮空苗" Type="3" Map="27" MonID="249" Value="3" />
+                <Target ID="4" Name="挑战1次提亚斯" Type="5" Map="27" Region="0" TaskID="305" />
+            </Star>
+			<Star ID="6" StoreID="6" ExpBonus="3000" Name="双子阿尔法星">
+                <Target ID="1" Name="战胜3次加格" Type="3" Map="106" MonID="188" Value="3" />
+                <Target ID="2" Name="战胜3次迪达" Type="3" Map="105" MonID="89" Value="3" />
+                <Target ID="3" Name="战胜3次鲁克" Type="3" Map="46" MonID="97" Value="3" />
+                <Target ID="4" Name="挑战1次纳多雷" Type="5" Map="106" Region="0" TaskID="307" />
+            </Star>
+			<Star ID="7" StoreID="7" ExpBonus="3000" Name="塞西利亚星">
+				<Target ID="1" Name="战胜3次卡卡" Type="3" Map="40" MonID="116" Value="3" />
+                <Target ID="2" Name="战胜3次玄冰兽" Type="3" Map="43" MonID="51" Value="3" />
+                <Target ID="3" Name="捕捉1只卡卡" Type="2" Map="40" MonID="116" />
+                <Target ID="4" Name="挑战1次阿克希亚" Type="5" Map="40" Region="0" TaskID="304" />
+            </Star>
+			<Star ID="8" StoreID="8" ExpBonus="3000" Name="双子贝塔星">
+                <Target ID="1" Name="战胜3次莱尼" Type="3" Map="47" MonID="119" Value="3" />
+                <Target ID="2" Name="战胜3次丁格" Type="3" Map="49" MonID="105" Value="3" />
+                <Target ID="3" Name="挑战1次雷纳多" Type="5" Map="49" Region="0" TaskID="308" />
+            </Star>
+			<Star ID="9" StoreID="9" ExpBonus="3000" Name="拜伦号">
+                <Target ID="1" Name="挑战1次尤纳斯" Type="5" Map="314" Region="0" TaskID="309" />
+            </Star>
+			<Star ID="10" StoreID="10" ExpBonus="3000" Name="露希欧星">
+                <Target ID="1" Name="捕捉1只瑞特" Type="2" Map="54" MonID="699" />
+                <Target ID="2" Name="战胜3次瑞特" Type="3" Map="54" MonID="699" Value="3" />
+                <Target ID="3" Name="挑战1次克莱芬" Type="5" Map="54" Region="6" TaskID="328" />
+            </Star>
+			<Star ID="11" StoreID="11" ExpBonus="3000" Name="斯诺星">
+                <Target ID="1" Name="捕捉1只达比拉" Type="2" Map="53" IsBoss="1" Region="0" />
+                <Target ID="2" Name="挑战1次魔狮迪露" Type="5" Map="53" Region="1" TaskID="310" />
+            </Star>
+		</Galaxy>
+
+		<Galaxy ID="2" Name="卡兰星系">
+            <Star ID="1" StoreID="12" ExpBonus="4000" Name="尼古尔星">
+                <Target ID="1" Name="守候宿命的追随者" Type="1" Map="5" TaskID="81" />
+                <Target ID="2" Name="战胜3次米隆" Type="3" Map="57" MonID="235" Value="3" />
+                <Target ID="3" Name="战胜3次查斯" Type="3" Map="58" MonID="228" Value="3" />
+                <Target ID="4" Name="挑战1次阿克奥斯" Type="5" Map="58" Region="1" TaskID="785" />
+            </Star> 
+            <Star ID="2" StoreID="13" ExpBonus="4000" Name="塔克星">
+                <Target ID="1" Name="战胜3次伊娃" Type="3" Map="60" MonID="232" Value="3" />
+                <Target ID="2" Name="战胜3次海德拉" Type="3" Map="62" MonID="242" Value="3" />
+                <Target ID="3" Name="战胜3次吉娜斯" Type="3" Map="61" MonID="239" Value="3" />
+                <Target ID="4" Name="挑战1次厄尔塞拉" Type="5" Map="61" Region="0" TaskID="316" />
+            </Star>
+            <Star ID="3" StoreID="14" ExpBonus="4000" Name="艾迪星">
+                <Target ID="1" Name="战胜3次帕尼" Type="3" Map="325" MonID="265" Value="3" />
+                <Target ID="2" Name="战胜3次乌凯" Type="3" Map="326" MonID="267" Value="3" />
+				<Target ID="3" Name="战胜3次沙顿" Type="3" Map="327" MonID="278" Value="3" />
+                <Target ID="4" Name="挑战1次奈尼芬多" Type="5" Map="325" Region="0" TaskID="312" />
+            </Star>
+            <Star ID="4" StoreID="15" ExpBonus="4000" Name="斯科尔星">
+                <Target ID="1" Name="高空塔之战" Type="1" Map="4" TaskID="115" />
+				<Target ID="2" Name="战胜3次迷你芽" Type="3" Map="330" MonID="293" Value="3" />
+                <Target ID="3" Name="战胜3次弗曼" Type="3" Map="328" MonID="291" Value="3" />
+                <Target ID="4" Name="战胜3次幼镰鸟" Type="3" Map="331" MonID="344" Value="3" />
+            </Star>
+            <Star ID="5" StoreID="16" ExpBonus="4000" Name="普雷空间站">
+                <Target ID="1" Name="战胜3次莫顿" Type="3" Map="334" MonID="373" Value="3" />
+                <Target ID="2" Name="战胜3次古利安" Type="3" Map="334" MonID="374" Value="3" />
+                <Target ID="3" Name="战胜3次隆米尔" Type="3" Map="334" MonID="375" Value="3" />
+            </Star>
+            <Star ID="6" StoreID="17" ExpBonus="4000" Name="哈莫星">
+                <Target ID="1" Name="战胜3次萨拉" Type="3" Map="338" MonID="399" Value="3" />
+                <Target ID="2" Name="捕捉1只乌鲁" Type="2" Map="342" IsBoss="1" Region="0" />
+                <Target ID="3" Name="挑战1次塔西亚" Type="5" Map="348" Region="1" TaskID="314" />
+                <Target ID="4" Name="挑战1次哈莫雷特" Type="5" Map="348" Region="2" TaskID="311" />
+            </Star>
+        </Galaxy>
+
+		<Galaxy ID="3" Name="罗格星系">
+            <Star ID="1" StoreID="18" ExpBonus="5000" Name="比格星">
+                <Target ID="1" Name="盖亚的险情" Type="1" Map="5" TaskID="618" />
+                <Target ID="2" Name="捕捉1只霹雳兽" Type="2" Map="404" IsBoss="1" Region="0" />
+                <Target ID="3" Name="战胜3次洛洛斯" Type="3" Map="404" MonID="491" Value="3" />
+                <Target ID="4" Name="挑战1次劳克蒙德" Type="5" Map="423" Region="0" TaskID="317" />
+            </Star>
+            <Star ID="2" StoreID="19"  ExpBonus="5000" Name="拓梯星">
+                <Target ID="1" Name="战胜3次咕咕芽" Type="3" Map="429" MonID="523" Value="3" />
+                <Target ID="2" Name="挑战1次亚伦斯" Type="5" Map="430" Region="0" TaskID="322" />
+            </Star>
+            <Star ID="3" StoreID="20"  ExpBonus="5000" Name="墨杜萨星">
+                <Target ID="1" Name="战胜3次丫丫" Type="3" Map="437" MonID="553" Value="3" />
+                <Target ID="2" Name="挑战1次墨杜沙" Type="5" Map="438" Region="0" TaskID="320" />
+            </Star>
+            <Star ID="4" StoreID="21"  ExpBonus="5000" Name="海兹尔星">
+                <Target ID="1" Name="捕捉1只沃特" Type="2" Map="439" MonID="560" Tips="周五，周六，周日的20点-21点才有可能在那边遇到它哦！"/>
+                <Target ID="2" Name="战胜3次波伦" Type="3" Map="439" MonID="557" Value="3" />
+            </Star>
+            <Star ID="5" StoreID="22"  ExpBonus="5000" Name="拉铂尔星">
+				<Target ID="1" Name="前往动力室兑换能源" Type="4" Map="6" />
+                <Target ID="2" Name="挑战1次肯佩德" Type="5" Map="441" Region="0" TaskID="321" />
+            </Star>
+        </Galaxy>
+
+		<Galaxy ID="4" Name="裂空星系">
+            <Star ID="1" StoreID="23" ExpBonus="6000" Name="怀特星">
+                <Target ID="1" Name="战胜3次拉利" Type="3" Map="484" MonID="706" Value="3" />
+                <Target ID="2" Name="战胜3次康康" Type="3" Map="486" MonID="716" Value="3" />
+                <Target ID="3" Name="挑战1次德拉萨" Type="5" Map="486" Region="0" TaskID="323" />
+                <Target ID="4" Name="挑战1次卡修斯" Type="5" Map="484" Region="1" TaskID="325" />
+            </Star>
+            <Star ID="2" StoreID="24" ExpBonus="6000" Name="SUN星">
+                <Target ID="1" Name="猜拳大人本竺" Type="1" Map="497" TaskID="643" />
+                <Target ID="2" Name="捕捉1只文文" Type="2" Map="476" IsBoss="1" Region="0" />
+                <Target ID="3" Name="战胜3次莱克" Type="3" Map="476"  MonID="742" Value="3" />
+				<Target ID="4" Name="战胜3次哈喽" Type="3" Map="497" MonID="738" Value="3" />
+            </Star>
+            <Star ID="3" StoreID="25" ExpBonus="6000" Name="格雷斯星">
+                <Target ID="1" Name="战胜3次吉嘟" Type="3" Map="451" MonID="805" Value="3" />
+                <Target ID="2" Name="战胜3次小蜘蛛" Type="3" Map="453" MonID="822" Value="3" />
+                <Target ID="3" Name="战胜3次尖嘴乌" Type="3" Map="454" MonID="827" Value="3" />
+                <Target ID="4" Name="挑战1次布莱克" Type="5" Map="507" Region="0" TaskID="329" />
+            </Star>
+            <Star ID="4" StoreID="26" ExpBonus="6000" Name="未来星">
+                <Target ID="1" Name="捕捉1只牛牛" Type="2" Map="356" MonID="840" />
+                <Target ID="2" Name="战胜3次牛牛" Type="3" Map="356" MonID="840" Value="3" />
+                <Target ID="3" Name="战胜3次妙妙" Type="3" Map="667" MonID="852" Value="3" />
+                <Target ID="4" Name="战胜3次克米尔" Type="3" Map="670" MonID="891" Value="3" />
+            </Star>
+        </Galaxy>
+	</GalaxyExploration>
+
+	<Systems ItemType="1_2">
+		<System ID="1" StoreID="1" ExpBonus="7000" Name="融合系统" ItemType="2_2">
+			<Target ID="1" Name="进行1次融合操作" Type="6" Map="5" NeedLv="50" PosX="630" PosY="156" Rotation="225" Intro="前往实验室，点击融合转生仓，选择1只融合公式里的最高形态精灵作为主宠，和比它等级低的对应副宠进行融合操作。"/>
+		</System>
+		<System ID="2" StoreID="2" ExpBonus="7000" Name="繁殖系统" ItemType="2_2">
+            <Target ID="1" Name="进行1次繁殖操作" Type="6" Map="5" NeedLv="50" PosX="830" PosY="420" Rotation="45" Intro="前往实验室，点击精灵培育仓，选择2只50级以上且符合繁殖条件的雌雄精灵进行繁殖操作。"/>
+        </System>
+		<System ID="3" StoreID="3" ExpBonus="7000" Name="变异系统" ItemType="2_2">
+            <Target ID="1" Name="进行1次变异操作" Type="6" Map="5" NeedLv="100" PosX="750" PosY="198" Rotation="225" Intro="前往实验室，点击精灵变异仓，选择1只50级以上且符合变异条件的精灵进行变异操作。"/>
+        </System>
+		<System ID="4" StoreID="4" ExpBonus="7000" Name="技能石系统" ItemType="2_2">
+            <Target ID="1" Name="合成1个C级技能石" Type="6" Map="5" NeedLv="100" PosX="1000" PosY="1000" Rotation="0" Intro="打开精灵背包，点击技能石背包按钮，将4个D级技能石合成1个C级技能石。"/>
+        </System>
+	</Systems>
+
+	<Fightings ItemType="1_3">
+		<Fighting ID="1" StoreID="1" ExpBonus="7000" Name="试炼之塔" BattleMode="13" ItemType="2_3">
+			<Target ID="1" Name="通过试炼之塔第5层" Type="7" Map="108" Value="5" NeedLv="20" PosX="518" PosY="236" Rotation="315" Intro="前往精灵太空站，点击试炼之塔，选择楼层后即可开始挑战。好的开始是成功的一半，准备接受挑战吧！"/>
+		</Fighting>
+		<Fighting ID="2" StoreID="2" ExpBonus="7000" Name="勇者之塔" BattleMode="7" ItemType="2_3">
+            <Target ID="1" Name="通过勇者之塔第10层" Type="7" Map="108" Value="10"  NeedLv="40" PosX="523" PosY="199" Rotation="135" Intro="前往精灵太空站，点击勇者之塔，选择楼层后即可开始挑战。经典的PVE模式，让你享受对战的无尽乐趣！"/>
+        </Fighting>
+		<Fighting ID="3" StoreID="3" ExpBonus="7000" Name="命运之轮" BattleMode="17" ItemType="2_3">
+            <Target ID="1" Name="通过命运之轮第5层" Type="7" Map="405" Value="5" NeedLv="50" PosX="620" PosY="152" Rotation="135" Intro="前往精灵太空站，点击命运之轮，选择楼层后即可开始挑战。转动的命运卡牌会翻出怎样的提示呢？期待吧！"/>
+        </Fighting>
+        <Fighting ID="4" StoreID="4" ExpBonus="7000" Name="战斗阶梯" BattleMode="16" ItemType="2_3">
+            <Target ID="1" Name="通过战斗阶梯第10层" Type="7" Map="405" Value="10" NeedLv="60" PosX="260" PosY="220" Rotation="180" Intro="前往精灵太空站，点击战斗阶梯，选择楼层后即可开始挑战。单精灵挑战极限的领域，你能做到一夫当关吗？"/>
+        </Fighting>
+		<Fighting ID="5" StoreID="5" ExpBonus="7000" Name="精灵王之战" BattleMode="5" ItemType="2_3">
+            <Target ID="1" Name="赢得5场精灵王之战" Type="7" Map="102" Value="5" NeedLv="60" PosX="756" PosY="192" Rotation="135" Intro="前往精灵太空站，点击精灵王之战，选择对战方式后即可寻找对手！见证实力的时候，加油吧！"/>
+        </Fighting>
+		<Fighting ID="6" StoreID="6" ExpBonus="7000" Name="精灵大乱斗" BattleMode="14" ItemType="2_3">
+            <Target ID="1" Name="赢得5场精灵大乱斗" Type="7" Map="102" Value="5" NeedLv="60" PosX="296" PosY="323" Rotation="135" Intro="前往精灵太空站，点击精灵大乱斗即可寻找对手！互换精灵的快感相信能让你酣畅淋漓的进行战斗！"/>
+        </Fighting>
+		<Fighting ID="7" StoreID="7" ExpBonus="7000" Name="幸运大作战" BattleMode="39" ItemType="2_3">
+            <Target ID="1" Name="赢得5场幸运大作战" Type="7" Map="503" Value="5" NeedLv="60" PosX="762" PosY="333" Rotation="180" Intro="前往精灵太空站，点击幸运大作战即可寻找对手！等级都是浮云，在这个特殊空间，一切都以运气决定！"/>
+        </Fighting>
+		<Fighting ID="8" StoreID="8" ExpBonus="7000" Name="训练师之门" BattleMode="43" ItemType="2_3">
+            <Target ID="1" Name="通过草系之门普通模式" Type="7" Map="503" NeedLv="30" PosX="485" PosY="309" Rotation="180" Intro="前往精灵太空站，点击训练师之门，选择草系之门普通模式进行挑战！"/>
+        </Fighting>
+	</Fightings>
+	
+</QuickStart>

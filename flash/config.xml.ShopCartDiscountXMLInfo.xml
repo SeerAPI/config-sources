@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	discounts_typ
+		1, 满amount打折number
+		2, 满amount立减number
+		3, 满amount赠送物品 
+ -->
+<discounts>
+  <version start_time="1421769600" end_time="1421855940">
+    <discount discounts_type="1" amount="1000" number="90" discounts_id="1"/>
+    <discount discounts_type="1" amount="2000" number="1" discounts_id="2"/>
+  </version>
+  <version start_time="1421856000" end_time="1421942340">
+    <discount discounts_type="2" amount="2000" number="500" discounts_id="1"/>
+    <discount discounts_type="2" amount="1000" number="250" discounts_id="2"/>
+  </version>
+  <version start_time="1423756800" end_time="1425571200">
+    <discount discounts_type="3" amount="300" discounts_id="1">
+      <item item_id="1" count="500000"/>
+    </discount>
+    <discount discounts_type="3" amount="600" discounts_id="2">
+      <item item_id="300700" count="1"/>
+      <item item_id="1" count="500000"/>
+    </discount>
+    <discount discounts_type="3" amount="1000" discounts_id="3">
+      <item item_id="1800094" count="1"/>
+      <item item_id="300700" count="1"/>
+      <item item_id="1" count="500000"/>
+    </discount>
+  </version>
+  <version start_time="1426176000" end_time="1426780800">
+    <discount discounts_type="3" amount="100" discounts_id="1">
+      <item item_id="300673" count="3"/>
+    </discount>
+    <discount discounts_type="3" amount="300" discounts_id="2">
+      <item item_id="300673" count="3"/>
+      <item item_id="1400352" count="50000"/>
+    </discount>
+    <discount discounts_type="3" amount="600" discounts_id="3">
+      <item item_id="300673" count="3"/>
+      <item item_id="1400352" count="50000"/>
+      <item item_id="300700" count="1"/>
+    </discount>
+  </version>
+</discounts>

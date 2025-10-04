@@ -1,0 +1,45 @@
+<tasks>
+	<type id="1" des="打野怪">
+		<task id="1" name="打败一只皮皮" map="10" frame="1"/>
+		<task id="2" name="打败一只毛毛" map="25" frame="2"/>
+		<task id="3" name="打败一只贝尔" map="20" frame="3"/>
+		<task id="4" name="打败一只比比鼠" map="30" frame="4"/>
+		<task id="5" name="打败一只莱尼" map="47" frame="5"/>
+		<task id="6" name="打败一只火炎贝" map="15" frame="6"/>
+		<task id="7" name="打败一只克洛亚" map="40" frame="7"/>
+	</type>
+	
+	<type id="2" des="获得一只精灵">
+		<task id="1" name="获得一只精灵" map="10" frame="8"/>
+	</type>
+	
+	<type id="3" des="挑战一次SPT">
+		<task id="1" name="挑战一次蘑菇怪" map="12" frame="9"/>
+		<task id="2" name="挑战一次钢牙鲨" map="22" frame="10"/>
+		<task id="3" name="挑战一次提亚斯" map="27" frame="11"/>
+		<task id="4" name="挑战一次里奥斯" map="17" frame="12"/>
+		<task id="5" name="挑战一次蘑菇怪" map="12" frame="9"/>
+		<task id="6" name="挑战一次钢牙鲨" map="22" frame="10"/>
+		<task id="7" name="挑战一次提亚斯" map="27" frame="11"/>
+	</type>
+	
+	<type id="4" des="打一次玩法">
+		<task id="1" name="打一次试炼之塔" map="108" frame="13"/>
+		<task id="2" name="打一次勇者之塔" map="108" frame="14"/>
+		<task id="3" name="打一次训练师之门" map="503" frame="15"/>
+		<task id="4" name="打一次精灵大乱斗" map="102" frame="16"/>
+		<task id="5" name="打一次命运之轮" map="405" frame="17"/>
+		<task id="6" name="打一次战斗阶梯" map="405" frame="18"/>
+		<task id="7" name="打一次精灵王之战" map="102" frame="19"/>
+	</type>
+	
+	<type id="5" des="玩小游戏">
+		<task id="1" name="玩一次星际攀爬" map="747" frame="20"/>
+		<task id="2" name="玩一次鬼屋大作战" map="743" frame="21"/>
+		<task id="3" name="玩一次米咔站稳" map="743" frame="22"/>
+		<task id="4" name="玩一次粽仔祖玛" map="739" frame="23"/>
+		<task id="5" name="玩一次石门迷阵" map="731" frame="24"/>
+		<task id="6" name="玩一次翻越障碍物" map="498" frame="25"/>
+		<task id="7" name="玩一次套圈" map="51" frame="26"/>
+	</type>
+</tasks>

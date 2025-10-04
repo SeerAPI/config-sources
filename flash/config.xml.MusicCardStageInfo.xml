@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MusicDreamWorldStageInfos>
+	<MusicDreamWorldStageInfo StageID="1" StageSubID="1" MapName="富饶田野" StageName="飞虫兄弟" Pos1BossInfo="3_1_2_1" Pos2BossInfo="3_1_2_1"/>
+	<MusicDreamWorldStageInfo StageID="1" StageSubID="2" MapName="富饶田野" StageName="熔钳蟹姐妹" Pos1BossInfo="7_1_1_2" Pos2BossInfo="7_1_1_2"/>
+	<MusicDreamWorldStageInfo StageID="2" StageSubID="1" MapName="富饶田野" StageName="暴走的飞虫" Pos1BossInfo="3_1_3_1" Pos2BossInfo="7_1_2_2" Pos3BossInfo="3_1_3_2"/>
+	<MusicDreamWorldStageInfo StageID="2" StageSubID="2" MapName="富饶田野" StageName="毛茸茸小队" Pos1BossInfo="31_1_1_1" Pos2BossInfo="31_1_2_2" Pos3BossInfo="31_2_3_3"/>
+	<MusicDreamWorldStageInfo StageID="3" StageSubID="1" MapName="富饶田野" StageName="迷路的汀汀" Pos1BossInfo="20_2_5_8"/>
+	<MusicDreamWorldStageInfo StageID="3" StageSubID="2" MapName="富饶田野" StageName="热心的麻普" Pos1BossInfo="32_2_3_10"/>
+	<MusicDreamWorldStageInfo StageID="4" StageSubID="1" MapName="富饶田野" StageName="毛茸茸军团" Pos1BossInfo="31_1_1_1" Pos2BossInfo="31_1_1_1" Pos3BossInfo="31_1_2_2" Pos4BossInfo="31_1_2_2" Pos5BossInfo="31_2_3_3"/>
+	<MusicDreamWorldStageInfo StageID="4" StageSubID="2" MapName="富饶田野" StageName="飞虫大队" Pos1BossInfo="3_1_2_1" Pos2BossInfo="3_1_3_2" Pos3BossInfo="3_2_4_3" Pos4BossInfo="3_2_3_3"/>
+	<MusicDreamWorldStageInfo StageID="5" StageSubID="1" MapName="富饶田野" StageName="尼亚和玛格" Pos1BossInfo="15_2_3_2" Pos2BossInfo="14_1_2_1" Pos3BossInfo="15_1_1_2" Pos4BossInfo="14_1_2_2"/>
+	<MusicDreamWorldStageInfo StageID="5" StageSubID="2" MapName="富饶田野" StageName="玛格和尼亚" Pos1BossInfo="14_1_1_1" Pos2BossInfo="15_1_1_1" Pos3BossInfo="14_1_1_1" Pos4BossInfo="15_2_3_3"/>
+	<MusicDreamWorldStageInfo StageID="6" StageSubID="1" MapName="富饶田野" StageName="闪耀的魔王" Pos1BossInfo="41_1_3_3" Pos2BossInfo="41_1_3_3" Pos3BossInfo="19_1_5_6" Pos4BossInfo="12_1_2_2" Pos5BossInfo="42_1_8_8"/>
+	<MusicDreamWorldStageInfo StageID="6" StageSubID="2" MapName="富饶田野" StageName="荆棘的魔王" Pos1BossInfo="41_2_4_4" Pos2BossInfo="7_2_3_3" Pos3BossInfo="41_2_4_4" Pos4BossInfo="36_1_3_3" Pos5BossInfo="42_1_8_8"/>
+	<MusicDreamWorldStageInfo StageID="7" StageSubID="1" MapName="暗夜森林" StageName="洞穴蝙蝠" Pos1BossInfo="6_2_2_6" Pos2BossInfo="6_3_4_9"/>
+	<MusicDreamWorldStageInfo StageID="7" StageSubID="2" MapName="暗夜森林" StageName="洞穴龙崽" Pos1BossInfo="5_2_3_3" Pos2BossInfo="5_3_5_5" Pos3BossInfo="5_3_6_6"/>
+	<MusicDreamWorldStageInfo StageID="8" StageSubID="1" MapName="暗夜森林" StageName="夜色挑战者" Pos1BossInfo="14_3_4_4" Pos2BossInfo="15_1_2_2" Pos3BossInfo="15_2_3_3" Pos4BossInfo="15_3_4_5" Pos5BossInfo="13_3_2_10"/>
+	<MusicDreamWorldStageInfo StageID="8" StageSubID="2" MapName="暗夜森林" StageName="暗焰游荡者" Pos1BossInfo="16_1_3_2" Pos2BossInfo="16_2_4_3" Pos3BossInfo="16_3_6_4" Pos4BossInfo="9_3_3_10"/>
+	<MusicDreamWorldStageInfo StageID="9" StageSubID="1" MapName="暗夜森林" StageName="狂浪的山贼" Pos1BossInfo="22_4_4_18"/>
+	<MusicDreamWorldStageInfo StageID="9" StageSubID="2" MapName="暗夜森林" StageName="亡魂铠甲" Pos1BossInfo="24_4_10_10"/>
+	<MusicDreamWorldStageInfo StageID="10" StageSubID="1" MapName="暗夜森林" StageName="诡异山魂" Pos1BossInfo="27_2_3_2" Pos2BossInfo="9_3_4_8" Pos3BossInfo="24_4_8_8"/>
+	<MusicDreamWorldStageInfo StageID="10" StageSubID="2" MapName="暗夜森林" StageName="夜色突袭者" Pos1BossInfo="36_2_3_3" Pos2BossInfo="30_3_5_3" Pos3BossInfo="30_3_5_3" Pos4BossInfo="22_3_2_10"/>
+	<MusicDreamWorldStageInfo StageID="11" StageSubID="1" MapName="暗夜森林" StageName="暮色飞影" Pos1BossInfo="3_3_5_2" Pos2BossInfo="6_3_3_8" Pos3BossInfo="3_3_5_2" Pos4BossInfo="6_3_6_12"/>
+	<MusicDreamWorldStageInfo StageID="11" StageSubID="2" MapName="暗夜森林" StageName="龙息之徒" Pos1BossInfo="23_3_6_4" Pos2BossInfo="5_3_5_4" Pos3BossInfo="5_3_6_5" Pos4BossInfo="38_3_8_8"/>
+	<MusicDreamWorldStageInfo StageID="12" StageSubID="1" MapName="暗夜森林" StageName="山贼小队" Pos1BossInfo="22_3_4_12" Pos2BossInfo="24_3_6_6" Pos3BossInfo="22_4_8_12"/>
+	<MusicDreamWorldStageInfo StageID="12" StageSubID="2" MapName="暗夜森林" StageName="碑文守护者" Pos1BossInfo="36_3_6_4" Pos2BossInfo="27_2_3_2" Pos3BossInfo="23_3_6_4" Pos4BossInfo="3_3_7_4" Pos5BossInfo="16_3_4_3"/>
+	<MusicDreamWorldStageInfo StageID="13" StageSubID="1" MapName="暗夜森林" StageName="鬼焰的魔王" Pos1BossInfo="24_3_6_6" Pos2BossInfo="27_3_5_2" Pos3BossInfo="22_3_10_10" Pos4BossInfo="13_3_4_8" Pos5BossInfo="42_3_15_15"/>
+	<MusicDreamWorldStageInfo StageID="13" StageSubID="2" MapName="暗夜森林" StageName="疾驰的魔王" Pos1BossInfo="30_3_5_4" Pos2BossInfo="30_3_5_4" Pos3BossInfo="6_4_6_12" Pos4BossInfo="9_3_10_10" Pos5BossInfo="42_3_15_15"/>
+	<MusicDreamWorldStageInfo StageID="14" StageSubID="1" MapName="腐化城镇" StageName="次元使者" Pos1BossInfo="37_5_20_20"/>
+	<MusicDreamWorldStageInfo StageID="14" StageSubID="2" MapName="腐化城镇" StageName="拦路玩偶" Pos1BossInfo="29_5_10_25"/>
+	<MusicDreamWorldStageInfo StageID="15" StageSubID="1" MapName="腐化城镇" StageName="危险机械" Pos1BossInfo="24_5_7_7" Pos2BossInfo="28_4_8_12" Pos3BossInfo="28_5_15_15"/>
+	<MusicDreamWorldStageInfo StageID="15" StageSubID="2" MapName="腐化城镇" StageName="街道巡逻者" Pos1BossInfo="33_4_10_6" Pos2BossInfo="26_5_8_20" Pos3BossInfo="17_5_8_8"/>
+	<MusicDreamWorldStageInfo StageID="16" StageSubID="1" MapName="腐化城镇" StageName="夜袭小队" Pos1BossInfo="6_5_7_12" Pos2BossInfo="6_5_10_15" Pos3BossInfo="24_5_10_10" Pos4BossInfo="30_5_8_8"/>
+	<MusicDreamWorldStageInfo StageID="16" StageSubID="2" MapName="腐化城镇" StageName="燃焰小队" Pos1BossInfo="16_4_4_1" Pos2BossInfo="16_5_6_4" Pos3BossInfo="16_5_8_7" Pos4BossInfo="26_5_10_20" Pos5BossInfo="29_5_15_15"/>
+	<MusicDreamWorldStageInfo StageID="17" StageSubID="1" MapName="腐化城镇" StageName="魔王的试炼" Pos1BossInfo="41_4_8_5" Pos2BossInfo="41_5_10_8" Pos3BossInfo="42_4_10_10" Pos4BossInfo="42_5_15_15" Pos5BossInfo="41_3_6_6"/>
+	<MusicDreamWorldStageInfo StageID="18" StageSubID="1" MapName="腐化城镇" StageName="战甲军团" Pos1BossInfo="24_5_10_10" Pos2BossInfo="28_5_12_12" Pos3BossInfo="34_5_15_5" Pos4BossInfo="17_5_10_10" Pos5BossInfo="18_5_10_10"/>
+	<MusicDreamWorldStageInfo StageID="18" StageSubID="2" MapName="腐化城镇" StageName="黑暗军团" Pos1BossInfo="41_5_8_8" Pos2BossInfo="41_5_10_10" Pos3BossInfo="41_5_10_10" Pos4BossInfo="41_5_15_15" Pos5BossInfo="41_5_25_25"/>
+	<MusicDreamWorldStageInfo StageID="19" StageSubID="1" MapName="腐化城镇" StageName="巡逻队" Pos1BossInfo="33_5_12_12" Pos2BossInfo="26_5_8_18" Pos3BossInfo="26_5_8_18" Pos4BossInfo="28_5_15_15"/>
+	<MusicDreamWorldStageInfo StageID="19" StageSubID="2" MapName="腐化城镇" StageName="战略队" Pos1BossInfo="18_5_8_8" Pos2BossInfo="28_5_10_10" Pos3BossInfo="34_5_20_10" Pos4BossInfo="38_5_15_15"/>
+	<MusicDreamWorldStageInfo StageID="20" StageSubID="1" MapName="腐化城镇" StageName="特种作战队" Pos1BossInfo="24_5_10_10" Pos2BossInfo="34_5_20_15" Pos3BossInfo="22_5_15_15" Pos4BossInfo="30_5_12_12" Pos5BossInfo="38_5_15_15"/>
+	<MusicDreamWorldStageInfo StageID="20" StageSubID="2" MapName="腐化城镇" StageName="次元穿梭者" Pos1BossInfo="17_5_12_12" Pos2BossInfo="26_5_15_20" Pos3BossInfo="18_5_10_10" Pos4BossInfo="27_5_8_8" Pos5BossInfo="37_5_20_20"/>
+	<MusicDreamWorldStageInfo StageID="21" StageSubID="1" MapName="腐化城镇" StageName="乐符大魔王" Pos1BossInfo="33_5_15_5" Pos2BossInfo="27_5_7_7" Pos3BossInfo="41_5_15_15" Pos4BossInfo="42_5_25_25" Pos5BossInfo="43_5_50_50"/>
+	<MusicDreamWorldStageInfo StageID="21" StageSubID="2" MapName="腐化城镇" StageName="乐符大魔王" Pos1BossInfo="33_5_15_5" Pos2BossInfo="26_5_10_20" Pos3BossInfo="41_5_15_15" Pos4BossInfo="42_5_25_25" Pos5BossInfo="43_5_50_50"/>
+	<MusicDreamWorldStageInfo StageID="21" StageSubID="3" MapName="腐化城镇" StageName="乐符大魔王" Pos1BossInfo="33_5_15_5" Pos2BossInfo="28_5_15_10" Pos3BossInfo="41_5_15_15" Pos4BossInfo="42_5_25_25" Pos5BossInfo="43_5_50_50"/>
+</MusicDreamWorldStageInfos>

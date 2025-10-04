@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>	
+		<!--mapid值表示地图ID-->
+		<!--point能量球出现的点-->
+		<!--id 点ID-->
+		<!--xpos x坐标-->
+		<!--ypos y坐标-->
+		<item mapid="57">
+			<point id="0" xpos="153" ypos="147"/>
+			<point id="1" xpos="595" ypos="219"/>
+            <point id="2" xpos="627" ypos="384"/>
+			<point id="3" xpos="763" ypos="358"/>
+		</item>
+		<item mapid="60">
+			<point id="0" xpos="462" ypos="159"/>
+			<point id="1" xpos="38" ypos="328"/>
+            <point id="2" xpos="569" ypos="374 "/>
+			<point id="3" xpos="563" ypos="434 "/>
+            <point id="4" xpos="850" ypos="172"/>
+		</item>
+		<item mapid="325">
+			<point id="0" xpos="134" ypos="338"/>
+			<point id="1" xpos="71" ypos="455"/>
+            <point id="2" xpos="421" ypos="349 "/>
+			<point id="3" xpos="606" ypos="370"/>
+		</item>
+		<item mapid="328">
+			<point id="0" xpos="36" ypos="355"/>
+			<point id="1" xpos="94" ypos="471"/>
+            <point id="2" xpos="301" ypos="467"/>
+            <point id="3" xpos="461" ypos="339"/>
+            <point id="4" xpos="833" ypos="363"/>
+		</item>
+		<item mapid="338">
+			<point id="0" xpos="196" ypos="372"/>
+			<point id="1" xpos="196" ypos="473"/>
+            <point id="2" xpos="437" ypos="442"/>
+            <point id="3" xpos="722" ypos="410"/>
+		</item>
+		
+</root>

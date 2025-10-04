@@ -1,0 +1,85 @@
+<!-- 
+	Quality：种子的品质
+	NeedPlantingLv：需要的种植等级，解锁等级
+	FertilizerConsumed：消耗肥料数量
+	WaterConsumed：消耗水数量
+	MatureTime：成长时间
+	PlantingExp：种植获得的精灵值
+	YieldingFruit：成熟后果实对应的物品Id，用于成熟之后显示对应的Icon和名称
+	YiledingPlant: 成熟后的植株Id，植株路径——appRes/system/greenhouse/plant
+	EradicateCoins：铲除给予的金币数量
+	note：果实描述
+	
+	STPoint：当前科技点的上限
+	LandQuantity：当前科技等级解锁的土地数量
+	MaxFertilizer：肥料存储最大数量
+	MaxWater：水分存储最大数量
+	WaterCost：补水花费赛尔豆数量
+-->
+<GreenHouse>
+	<SpaceSeeds>
+		<Seed ID="1" ItemID="401101" Quality="1" NeedPlantingLv="1" FertilizerConsumed="100" WaterConsumed="100" MatureTime="3" PlantingExp="2" YieldingFruit="402001" YiledingPlant="1"
+		  EradicateCoins="1" note="经验储备+5000"/>
+		<Seed ID="2" ItemID="401102" Quality="1" NeedPlantingLv="2" FertilizerConsumed="100" WaterConsumed="100" MatureTime="6" PlantingExp="8" YieldingFruit="402002" YiledingPlant="2"
+		  EradicateCoins="1" note="经验储备随机+10000~30000"/>
+		<Seed ID="3" ItemID="401103" Quality="1" NeedPlantingLv="2" FertilizerConsumed="100" WaterConsumed="100" MatureTime="10" PlantingExp="12" YieldingFruit="402003" YiledingPlant="3"
+		  EradicateCoins="1" note="经验储备+20000"/> 
+		<Seed ID="4" ItemID="401104" Quality="1" NeedPlantingLv="1" FertilizerConsumed="100" WaterConsumed="100" MatureTime="18" PlantingExp="16" YieldingFruit="300212" YiledingPlant="4"
+		  EradicateCoins="1" note="随机任意性格"/>
+		<Seed ID="5" ItemID="401105" Quality="2" NeedPlantingLv="3" FertilizerConsumed="100" WaterConsumed="100" MatureTime="36" PlantingExp="4" YieldingFruit="300213" YiledingPlant="5"
+		  EradicateCoins="1" note="随机性格：固执、调皮、勇敢、孤独"/>
+		<Seed ID="6" ItemID="401106" Quality="2" NeedPlantingLv="3" FertilizerConsumed="100" WaterConsumed="100" MatureTime="36" PlantingExp="6" YieldingFruit="300214" YiledingPlant="6"
+		  EradicateCoins="1" note="随机性格：保守、马虎、稳重、冷静"/>
+		<Seed ID="7" ItemID="401107" Quality="2" NeedPlantingLv="2" FertilizerConsumed="100" WaterConsumed="100" MatureTime="36" PlantingExp="6" YieldingFruit="300215" YiledingPlant="7"
+		  EradicateCoins="1" note="随机性格：大胆、无虑、休闲、顽皮"/>
+		<Seed ID="8" ItemID="401108" Quality="2" NeedPlantingLv="2" FertilizerConsumed="100" WaterConsumed="100" MatureTime="36" PlantingExp="6" YieldingFruit="300216" YiledingPlant="8"
+		  EradicateCoins="1" note="随机性格：沉着、狂妄、温顺、慎重"/>
+		<Seed ID="9" ItemID="401109" Quality="2" NeedPlantingLv="3" FertilizerConsumed="100" WaterConsumed="100" MatureTime="36" PlantingExp="6" YieldingFruit="300217" YiledingPlant="9"
+		  EradicateCoins="1" note="随机性格：胆小、急躁、天真、开朗"/>
+		<Seed ID="10" ItemID="401110" Quality="2" NeedPlantingLv="2" FertilizerConsumed="100" WaterConsumed="100" MatureTime="36" PlantingExp="6" YieldingFruit="300218" YiledingPlant="10"
+		  EradicateCoins="1" note="随机性格：认真、坦率、实干、害羞、浮躁"/>
+		<Seed ID="11" ItemID="401111" Quality="1" NeedPlantingLv="2" FertilizerConsumed="100" WaterConsumed="100" MatureTime="12" PlantingExp="6" YieldingFruit="402004" YiledingPlant="11"
+		  EradicateCoins="1" note="普通能量珠5选1"/>
+		<Seed ID="12" ItemID="401112" Quality="1" NeedPlantingLv="3" FertilizerConsumed="100" WaterConsumed="100" MatureTime="14" PlantingExp="6" YieldingFruit="402005" YiledingPlant="12"
+		  EradicateCoins="1" note="强效能量珠5选1，概率额外获得瞬、减、致"/>
+		<Seed ID="13" ItemID="401113" Quality="2" NeedPlantingLv="3" FertilizerConsumed="100" WaterConsumed="100" MatureTime="16" PlantingExp="10" YieldingFruit="402006" YiledingPlant="13"
+		  EradicateCoins="1" note="特效能量珠5选1，概率额外获得瞬、减、致"/>
+		<Seed ID="14" ItemID="401114" Quality="3" NeedPlantingLv="3" FertilizerConsumed="100" WaterConsumed="100" MatureTime="20" PlantingExp="10" YieldingFruit="402007" YiledingPlant="14"
+		  EradicateCoins="1" note="瞬杀能量珠、5万赛尔豆、5万经验三随1"/>
+		<Seed ID="15" ItemID="401115" Quality="3" NeedPlantingLv="3" FertilizerConsumed="100" WaterConsumed="100" MatureTime="20" PlantingExp="10" YieldingFruit="402008" YiledingPlant="15"
+		  EradicateCoins="1" note="减伤能量珠、5万赛尔豆、5万经验三随1"/>
+		<Seed ID="16" ItemID="401116" Quality="3" NeedPlantingLv="3" FertilizerConsumed="100" WaterConsumed="100" MatureTime="20" PlantingExp="10" YieldingFruit="402009" YiledingPlant="16"
+		  EradicateCoins="1" note="致命能量珠、5万赛尔豆、5万经验三随1"/>
+		<Seed ID="17" ItemID="401117" Quality="3" NeedPlantingLv="4" FertilizerConsumed="100" WaterConsumed="100" MatureTime="36" PlantingExp="10" YieldingFruit="402010" YiledingPlant="17"
+		  EradicateCoins="1" note="瞬杀、减伤、致命，三选1"/>
+	</SpaceSeeds>
+	
+	
+	
+	<ScienceTecnology>
+		<ST Level="1" STPoint="60" LandQuantity="2" MaxFertilizer="500" MaxWater="500" WaterCost="100000" UpgradeCost="1000000" />
+		<ST Level="2" STPoint="200" LandQuantity="3" MaxFertilizer="500" MaxWater="500" WaterCost="100000" UpgradeCost="1000000" />
+		<ST Level="3" STPoint="525" LandQuantity="4" MaxFertilizer="500" MaxWater="500" WaterCost="100000" UpgradeCost="1000000" />
+		<ST Level="4" STPoint="1200" LandQuantity="5" MaxFertilizer="500" MaxWater="500" WaterCost="100000" UpgradeCost="1000000" />
+		<ST Level="5" STPoint="full" LandQuantity="6" MaxFertilizer="500" MaxWater="500" WaterCost="100000" UpgradeCost="1000000" />
+	</ScienceTecnology>
+	
+	<CareTips>
+		<CareTip1>
+			<Tip ID="1" tip="小绿快长高、长高、长高…长长长…" />
+			<Tip ID="2" tip="放声歌唱：在赛尔号的太空温室里有一株小绿绿~就是我的小绿绿~" />
+			<Tip ID="3" tip="最好的关爱可能是陪伴，在它旁边絮絮叨叨了一半天，它一定感受到了我的关爱！" />
+			<Tip ID="4" tip="细心擦拭它的绿叶，轻抚它的枝条，饱含关爱的目光久久不肯移去…" />
+			<Tip ID="5" tip="通风、加水、施肥、松土，只要能做的都做了！" />
+			<Tip ID="6" tip="啦啦啦，又是美好的一天呐" />
+		</CareTip1>
+		<CareTip2>
+			<Tip ID="1" tip="叶儿弯弯，枝干挺挺，植株毫无变化。" />
+			<Tip ID="2" tip="= - =？？？" />
+			<Tip ID="3" tip="植株感觉很糟糕，下降了$点品质" />
+			<Tip ID="4" tip="植物：我当时害怕极了！下降了$点品质" />
+			<Tip ID="5" tip="在你悉心呵护下，植株提高了$点品质" />
+			<Tip ID="6" tip="真是美妙的声音呀，植株提高了$点品质" />
+		</CareTip2>
+	</CareTips>
+</GreenHouse>

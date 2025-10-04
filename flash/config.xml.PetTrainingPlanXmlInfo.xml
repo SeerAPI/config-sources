@@ -1,0 +1,74 @@
+<Plans>
+	<Plan ID="1" MonId="303">
+		<Condition ID="1" Lv="1" UserInfoId="304" UserInfoBitPos="1" BonusTaskId="5470" BonusTaskOutId="1"/>
+		<Condition ID="2" Lv="50" UserInfoId="304" UserInfoBitPos="2" BonusTaskId="5470" BonusTaskOutId="2"/>
+		<Condition ID="3" Lv="100" UserInfoId="304" UserInfoBitPos="3" BonusTaskId="5470" BonusTaskOutId="3"/>
+		<Condition ID="4" TotalEv="510" UserInfoId="304" UserInfoBitPos="4" BonusTaskId="5473" BonusTaskOutId="1"/>
+		<Condition ID="5" Dv="31" UserInfoId="304" UserInfoBitPos="5" BonusTaskId="5470" BonusTaskOutId="4"/>
+	</Plan>
+	<Plan ID="2" MonId="306">
+		<Condition ID="1" Lv="1" UserInfoId="304" UserInfoBitPos="6" BonusTaskId="5470" BonusTaskOutId="1"/>
+		<Condition ID="2" Lv="50" UserInfoId="304" UserInfoBitPos="7" BonusTaskId="5470" BonusTaskOutId="2"/>
+		<Condition ID="3" Lv="100" UserInfoId="304" UserInfoBitPos="8" BonusTaskId="5470" BonusTaskOutId="3"/>
+		<Condition ID="4" TotalEv="510" UserInfoId="304" UserInfoBitPos="9" BonusTaskId="5473" BonusTaskOutId="1"/>
+		<Condition ID="5" Dv="31" UserInfoId="304" UserInfoBitPos="10" BonusTaskId="5470" BonusTaskOutId="4"/>
+	</Plan>
+	<Plan ID="3" MonId="309">
+		<Condition ID="1" Lv="1" UserInfoId="304" UserInfoBitPos="11" BonusTaskId="5470" BonusTaskOutId="1"/>
+		<Condition ID="2" Lv="50" UserInfoId="304" UserInfoBitPos="12" BonusTaskId="5470" BonusTaskOutId="2"/>
+		<Condition ID="3" Lv="100" UserInfoId="304" UserInfoBitPos="13" BonusTaskId="5470" BonusTaskOutId="3"/>
+		<Condition ID="4" TotalEv="510" UserInfoId="304" UserInfoBitPos="14" BonusTaskId="5473" BonusTaskOutId="1"/>
+		<Condition ID="5" Dv="31" UserInfoId="304" UserInfoBitPos="15" BonusTaskId="5470" BonusTaskOutId="4"/>
+	</Plan>
+	<Plan ID="4" MonId="3968">
+		<Condition ID="1" Lv="50" UserInfoId="10251" UserInfoBitPos="1" BonusTaskId="5470" BonusTaskOutId="5"/>
+		<Condition ID="2" Lv="100" UserInfoId="10251" UserInfoBitPos="2" BonusTaskId="5470" BonusTaskOutId="6"/>
+		<Condition ID="3" Dv="31" UserInfoId="10251" UserInfoBitPos="3" BonusTaskId="5470" BonusTaskOutId="1"/>
+	</Plan>
+	<Plan ID="5" MonId="3969">
+		<Condition ID="1" Lv="50" UserInfoId="10251" UserInfoBitPos="4" BonusTaskId="5470" BonusTaskOutId="5"/>
+		<Condition ID="2" Lv="100" UserInfoId="10251" UserInfoBitPos="5" BonusTaskId="5470" BonusTaskOutId="6"/>
+		<Condition ID="3" Dv="31" UserInfoId="10251" UserInfoBitPos="6" BonusTaskId="5470" BonusTaskOutId="1"/>
+	</Plan>
+	
+	<!--Plan ID="6" MonId="2547">
+		<Condition ID="1" Lv="50" UserInfoId="10251" UserInfoBitPos="7" BonusTaskId="5470" BonusTaskOutId="5"/>
+		<Condition ID="2" Lv="100" UserInfoId="10251" UserInfoBitPos="8" BonusTaskId="5470" BonusTaskOutId="6"/>
+		<Condition ID="3" Dv="31" UserInfoId="10251" UserInfoBitPos="9" BonusTaskId="5470" BonusTaskOutId="1"/>
+	</Plan>
+	<!Plan ID="7" MonId="1876">
+		<Condition ID="1" Lv="50" UserInfoId="10251" UserInfoBitPos="16" BonusTaskId="5470" BonusTaskOutId="5"/>
+		<Condition ID="2" Lv="100" UserInfoId="10251" UserInfoBitPos="17" BonusTaskId="5470" BonusTaskOutId="6"/>
+		<Condition ID="3" Dv="31" UserInfoId="10251" UserInfoBitPos="18" BonusTaskId="5470" BonusTaskOutId="1"/>
+	</Plan>
+	<Plan ID="8" MonId="1855">
+		<Condition ID="1" Lv="50" UserInfoId="10251" UserInfoBitPos="19" BonusTaskId="5470" BonusTaskOutId="5"/>
+		<Condition ID="2" Lv="100" UserInfoId="10251" UserInfoBitPos="20" BonusTaskId="5470" BonusTaskOutId="6"/>
+		<Condition ID="3" Dv="31" UserInfoId="10251" UserInfoBitPos="21" BonusTaskId="5470" BonusTaskOutId="1"/>
+	</Plan>
+	<Plan ID="9" MonId="1857">
+		<Condition ID="1" Lv="50" UserInfoId="10251" UserInfoBitPos="10" BonusTaskId="5470" BonusTaskOutId="5"/>
+		<Condition ID="2" Lv="100" UserInfoId="10251" UserInfoBitPos="11" BonusTaskId="5470" BonusTaskOutId="6"/>
+		<Condition ID="3" Dv="31" UserInfoId="10251" UserInfoBitPos="12" BonusTaskId="5470" BonusTaskOutId="1"/>
+	</Plan>
+	<Plan ID="10" MonId="1862">
+		<Condition ID="1" Lv="50" UserInfoId="10251" UserInfoBitPos="13" BonusTaskId="5470" BonusTaskOutId="5"/>
+		<Condition ID="2" Lv="100" UserInfoId="10251" UserInfoBitPos="14" BonusTaskId="5470" BonusTaskOutId="6"/>
+		<Condition ID="3" Dv="31" UserInfoId="10251" UserInfoBitPos="15" BonusTaskId="5470" BonusTaskOutId="1"/>
+	</Plan>
+	<Plan ID="11" MonId="1863">
+		<Condition ID="1" Lv="50" UserInfoId="10251" UserInfoBitPos="22" BonusTaskId="5470" BonusTaskOutId="5"/>
+		<Condition ID="2" Lv="100" UserInfoId="10251" UserInfoBitPos="23" BonusTaskId="5470" BonusTaskOutId="6"/>
+		<Condition ID="3" Dv="31" UserInfoId="10251" UserInfoBitPos="24" BonusTaskId="5470" BonusTaskOutId="1"/>
+	</Plan>
+	<Plan ID="12" MonId="1867">
+		<Condition ID="1" Lv="50" UserInfoId="10251" UserInfoBitPos="25" BonusTaskId="5470" BonusTaskOutId="5"/>
+		<Condition ID="2" Lv="100" UserInfoId="10251" UserInfoBitPos="26" BonusTaskId="5470" BonusTaskOutId="6"/>
+		<Condition ID="3" Dv="31" UserInfoId="10251" UserInfoBitPos="27" BonusTaskId="5470" BonusTaskOutId="1"/>
+	</Plan>
+	<Plan ID="13" MonId="1853">
+		<Condition ID="1" Lv="50" UserInfoId="10251" UserInfoBitPos="28" BonusTaskId="5470" BonusTaskOutId="5"/>
+		<Condition ID="2" Lv="100" UserInfoId="10251" UserInfoBitPos="29" BonusTaskId="5470" BonusTaskOutId="6"/>
+		<Condition ID="3" Dv="31" UserInfoId="10251" UserInfoBitPos="30" BonusTaskId="5470" BonusTaskOutId="1"/>
+	</Plan-->
+</Plans>

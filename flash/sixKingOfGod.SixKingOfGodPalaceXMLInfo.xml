@@ -1,0 +1,29 @@
+<!-- 
+	Task属性：
+		difficult：难度
+		difficultName：难度的中文名称
+		reward：每成功完成1位界王的三星认可则获得的奖励数量
+		extraReward：当天完成所有界王的三星认可额外获得的奖励数量
+		rewardDes：关卡产出
+		userRecommend：用户推荐
+ -->
+<Root>
+	<Task>
+		<Module id="1" difficult="2" difficultName="简单" reward="5" extraReward="15" rewardDes="每日可得50个界神印记" userRecommend="新手玩家、老兵回归玩家" />
+		<Module id="2" difficult="3" difficultName="中等" reward="10" extraReward="15" rewardDes="每日可得85个界神印记" userRecommend="对PVE对战有一定了解的玩家" />
+		<Module id="3" difficult="5" difficultName="困难" reward="15" extraReward="20" rewardDes="每日可得125个界神印记" userRecommend="对精灵队伍有一定的收集及PVE对战有深入了解的玩家" />
+	</Task>
+	
+	<Rule>
+		<Module id="1" des="最后一击使用物理攻击战胜" />
+		<Module id="2" des="最后一击使用特殊攻击战胜" />
+		<Module id="3" des="最后一击使用致命一击战胜" />
+		<Module id="4" des="最后一击使用先制攻击战胜" />
+		<Module id="5" des="最后一击使用必中攻击战胜" />
+		<Module id="6" des="处于满体力时战胜" />
+		<Module id="7" des="处于能力提升状态下战胜" />
+		<Module id="8" des="6个回合以后战胜" />
+		<Module id="9" des="3个回合以内战胜" />
+		<Module id="10" des="使用≤3个精灵战胜" />
+	</Rule>
+</Root>

@@ -1,0 +1,32 @@
+<root>
+	<MusicCardNameInfo id="1" start="潜行之" end="橙汁"/>
+	<MusicCardNameInfo id="2" start="暗影之" end="可乐"/>
+	<MusicCardNameInfo id="3" start="白银之" end="土豆"/>
+	<MusicCardNameInfo id="4" start="神话之" end="鸡腿"/>
+	<MusicCardNameInfo id="5" start="沉默之" end="饼干"/>
+	<MusicCardNameInfo id="6" start="闪亮之" end="鲜花"/>
+	<MusicCardNameInfo id="7" start="迷你之" end="鸭鸭"/>
+	<MusicCardNameInfo id="8" start="笨拙的" end="狗子"/>
+	<MusicCardNameInfo id="9" start="灼热的" end="猫猫"/>
+	<MusicCardNameInfo id="10" start="寒冷的" end="精灵"/>
+	<MusicCardNameInfo id="11" start="混乱的" end="忍者"/>
+	<MusicCardNameInfo id="12" start="飞翔的" end="战士"/>
+	<MusicCardNameInfo id="13" start="幸运的" end="恶魔"/>
+	<MusicCardNameInfo id="14" start="快乐的" end="骑兵"/>
+	<MusicCardNameInfo id="15" start="狡猾的" end="机器"/>
+	<MusicCardNameInfo id="16" start="华丽的" end="鲨鱼"/>
+	<MusicCardNameInfo id="17" start="美味的" end="法师"/>
+	<MusicCardNameInfo id="18" start="机智的" end="兔子"/>
+	<MusicCardNameInfo id="19" start="暴躁的" end="司机"/>
+	<MusicCardNameInfo id="20" start="传奇的" end="恐龙"/>
+	<MusicCardNameInfo id="21" start="致命的" end="钩子"/>
+	<MusicCardNameInfo id="22" start="悠闲的" end="豆腐"/>
+	<MusicCardNameInfo id="23" start="七彩的" end="瓶子"/>
+	<MusicCardNameInfo id="24" start="黑暗的" end="铁皮"/>
+	<MusicCardNameInfo id="25" start="永恒的" end="云朵"/>
+	<MusicCardNameInfo id="26" start="无情的" end="海浪"/>
+	<MusicCardNameInfo id="27" start="虚幻的" end="飓风"/>
+	<MusicCardNameInfo id="28" start="迅捷的" end="火球"/>
+	<MusicCardNameInfo id="29" start="强力的" end="雷电"/>
+	<MusicCardNameInfo id="30" start="损坏的" end="野兽"/>
+</root>

@@ -1,0 +1,52 @@
+<!--
+
+-->
+<root>
+	<title name="超级精灵胶囊" id="0" itemID="300004" coins= "1000">
+		<describe>
+			 <![CDATA[比高级精灵胶囊更容易捕捉到精灵<font color="#FF0000">(每日最多只能获得10个)</font>]]>
+		</describe>
+		<item name="高级精灵胶囊" itemID="300003" limit="2" tpye = "1" goOpen = "DrugBuyPanel"/>
+		<item name="黄晶矿" itemID="400001" limit="1" tpye = "2" goOpen = "15"/>
+		<item name="甲烷燃气" itemID="400002" limit="1" tpye = "2" goOpen = "20"/>
+	</title>
+	
+	<title name="异能精灵胶囊" id="1" itemID="300141" coins= "500">
+		<describe>
+			 <![CDATA[可以用来捕捉异能精灵]]>
+		</describe>
+		<item name="中级精灵胶囊" itemID="300002" limit="5" tpye = "1" goOpen = "DrugBuyPanel"/>
+	</title>
+		
+	<title name="高级异能胶囊" id="2" itemID="300142" coins= "1000">
+		<describe>
+			 <![CDATA[可以用来捕捉异能精灵，比异能精灵胶囊更加强大<font color="#FF0000">(每日最多只能获得10个)</font>]]>
+		</describe>
+		<item name="异能精灵胶囊" itemID="300141" limit="1"/>
+		<item name="超级精灵胶囊" itemID="300004" limit="1"/>
+		<item name="大地之核" itemID="400031" limit="3"/>
+		<item name="战斗晶体" itemID="400037" limit="3"/>
+	</title>
+	
+	<title name="暗黑异能胶囊" id="3" itemID="300143" coins= "2000">
+		<describe>
+			 <![CDATA[可以用来捕捉异能精灵，比高级异能胶囊更加强大<font color="#FF0000">(每日最多只能获得3个)</font>]]>
+		</describe>
+		<item name="高级异能胶囊" itemID="300003" limit="5"/>
+		<item name="超级精灵胶囊" itemID="300004" limit="1"/>
+		<item name="异能原石" itemID="400863" limit="1"/>
+		<item name="元素暗影" itemID="400039" limit="5"/>
+		<item name="空气结晶" itemID="400004" limit="10"/>
+	</title>
+	
+	<title name="炫彩精灵胶囊" id="4" itemID="?????" coins= "2000">
+		<describe>
+			 <![CDATA[比超级精灵胶囊更容易捕捉到精灵，闪耀着七彩光芒！<font color="#FF0000">(每日最多只能获得2个)</font>]]>
+		</describe>
+		<item name="特级精灵胶囊" itemID="300005" limit="3"/>
+		<item name="玄冰" itemID="400003" limit="3"/>
+		<item name="光合能量" itemID="400005" limit="3"/>
+		<item name="火焰元素" itemID="400007" limit="3"/>
+		<item name="电容球" itemID="400008" limit="3"/>
+	</title>
+</root>	

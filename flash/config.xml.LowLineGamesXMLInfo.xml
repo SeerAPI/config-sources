@@ -1,0 +1,8 @@
+<!-- id 对应面版的帧数-->
+<!-- name 游戏名-->
+<!-- ename 游戏连接名-->
+<!-- isApp 是否为APP游戏-->
+
+<root>
+	<item id="1" name="仓外回收员" ename="Miner" isApp="0"/>
+</root>

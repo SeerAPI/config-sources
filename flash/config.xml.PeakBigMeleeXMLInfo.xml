@@ -1,0 +1,254 @@
+<!--说明：
+	 20181228 巅峰乱斗模式 所有出战精灵配置
+	 规则：
+BattleRule: 
+	TotalTimes:每次更新规则后战斗场次(更新后 换值、换值、换值、换值)预留20个Forever（101727-101746）
+	WinTimes:  每次更新规则后胜利场次(更新后 换值、换值、换值、换值)预留20个Forever（101747-101766）
+	RewardMark：领取战斗胜利奖励     (更新后 换值、换值、换值、换值)预留20个Bitbuf （464-483）
+	NewSeIdxs为全局特性，最多添8个
+	EndTime:此次规则结束时间
+	CurRule：当前规则描述
+RandomMonsters:
+	每组精灵配置数量暂时不设上限
+	Moves:最多配置5个技能(包括第五技能)
+	NewSeIdxs：只能配置精灵专属特性，没有则不填
+备注： 如果扩展6v6 ，策划需配6组精灵,并通知后台修改
+	20190719 巅峰圣战优化
+	每个赛季更新一次，每周生效一个
+	OfficialBanMon： 官方ban位
+	HomeAdditionMon：主场精灵
+	NewSeIdxs 对应主场精灵加成特效,最多配3个
+-->
+<VirtualBattle>
+	<PeakBtGlobalRule>
+	    <!--20220602版-->
+		<WeeklyID ID="1" OfficialBanMon="" HomeAdditionMon="4330" NewSeIdxs="3314 3502 3335" NewSeIcon="在战斗中增加50点特攻值；回合开始时若对手处于异常状态则当回合攻击命中后附加300点固定伤害；回合开始时若对手不处于异常状态则自身当回合受到的攻击伤害减少20%"/>
+		<WeeklyID ID="2" OfficialBanMon="" HomeAdditionMon="4187" NewSeIdxs="3294 3285 3287" NewSeIcon="在战斗中增加100点体力值、增加50点特攻值；自身能力提升状态被消除则100%使对手害怕"/>
+        <WeeklyID ID="3" OfficialBanMon="" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="6" OfficialBanMon="" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		
+
+<!--
+	    <20220401版>
+		<WeeklyID ID="1" OfficialBanMon="3291" HomeAdditionMon="3910" NewSeIdxs="3269 3285 3591" NewSeIcon="在战斗中增加20点速度值；自身造成的伤害低于300则附加对手最大体力30%的固定伤害；回合开始时若对手处于能力下降状态则自身攻击造成的伤害随机提升50%-100%。"/>
+		<WeeklyID ID="2" OfficialBanMon="3414" HomeAdditionMon="3987" NewSeIdxs="3268 3084 3287" NewSeIcon="在战斗中增加20点速度值；在战斗中自身使用攻击技能时有50%的概率使对手疲惫，自身能力提升状态被消除则100%使对手害怕。"/>
+        <WeeklyID ID="3" OfficialBanMon="3550" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3788" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="0" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <20220304版>
+		<WeeklyID ID="1" OfficialBanMon="3291" HomeAdditionMon="3814" NewSeIdxs="3269 3310 3646" NewSeIcon="在战斗中增加20点速度值；自身受到的攻击伤害减少20%，若对手为自身天敌则效果翻倍；回合开始时，对手每处于1种异常状态则攻击命中后吸取对手150点体力"/>
+		<WeeklyID ID="2" OfficialBanMon="3414" HomeAdditionMon="3847" NewSeIdxs="3268 3269 3312" NewSeIcon="在战斗中增加200点体力值、增加20点速度值；自身攻击造成的伤害低于300则吸取对手300点体力"/>
+        <WeeklyID ID="3" OfficialBanMon="3550" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3788" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="0" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+        <20220128版>
+		<WeeklyID ID="1" OfficialBanMon="4169" HomeAdditionMon="3676" NewSeIdxs="3294 3285 3611" NewSeIcon="在战斗中增加100点体力值、增加50点攻击值；自身受到的攻击伤害低于300则回合结束时附加300点固定伤害"/>
+		<WeeklyID ID="2" OfficialBanMon="3788" HomeAdditionMon="3830" NewSeIdxs="3314 3269 3502" NewSeIcon="在战斗中增加50点特攻值、增加20点速度值；回合开始时若对手处于异常状态则当回合攻击命中后附加300点固定伤害"/>
+        <WeeklyID ID="3" OfficialBanMon="3291" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3577" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="5000" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <20221231版>
+		<WeeklyID ID="1" OfficialBanMon="3291" HomeAdditionMon="3763" NewSeIdxs="3294 3314 3648" NewSeIcon="在战斗中增加100点体力值、增加50点特攻值；自身造成的伤害低于300则附加对手最大体力25%的固定伤害"/>
+		<WeeklyID ID="2" OfficialBanMon="3788" HomeAdditionMon="3833" NewSeIdxs="3294 3269 3286" NewSeIcon="在战斗中增加100点体力值、增加20点速度值；每回合结束时恢复自身最大体力的1/4并造成等量固定伤害"/>
+        <WeeklyID ID="3" OfficialBanMon="3550" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3414" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <20211029版>
+		<WeeklyID ID="1" OfficialBanMon="3788" HomeAdditionMon="3741" NewSeIdxs="3294 3285 3647" NewSeIcon="在战斗中增加100点体力值、增加50点攻击值；自身攻击命中后附加最大体力10%的固定伤害，每次使用增加10%，最高30%"/>
+		<WeeklyID ID="2" OfficialBanMon="3414" HomeAdditionMon="3785" NewSeIdxs="3285 3269 146" NewSeIcon="在战斗中增加50点攻击值；增加20点速度值；自身体力低于500时攻击技能必定致命一击"/>
+        <WeeklyID ID="3" OfficialBanMon="3291" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="4275" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="5000" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<20211029版>
+		<WeeklyID ID="1" OfficialBanMon="3788" HomeAdditionMon="3718" NewSeIdxs="3269 3647 3287" NewSeIcon="在战斗中增加20点速度值；自身攻击命中后附加最大体力10%的固定伤害，每次使用增加10%，最高30%；自身能力提升状态被消除则100%使对手害怕"/>
+		<WeeklyID ID="2" OfficialBanMon="3577" HomeAdditionMon="3488" NewSeIdxs="3294 3269 3335" NewSeIcon="在战斗中增加50点体力值；增加20点速度值；回合开始时若对手不处于异常状态则自身当回合受到的攻击伤害减少20%"/>
+        <WeeklyID ID="3" OfficialBanMon="3291" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3414" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="0" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <20210924版>
+		<WeeklyID ID="1" OfficialBanMon="3788" HomeAdditionMon="3807" NewSeIdxs="3294 3285 3286" NewSeIcon="在战斗中增加100点体力值、增加50点攻击值；每回合结束时恢复自身最大体力的1/4并造成等量固定伤害"/>
+		<WeeklyID ID="2" OfficialBanMon="3986" HomeAdditionMon="3825" NewSeIdxs="3294 3314 3646" NewSeIcon="在战斗中增加100点体力值、增加50点特攻值；回合开始时，对手每处于1种异常状态则攻击命中后吸取对手150点体力"/>
+        <WeeklyID ID="3" OfficialBanMon="4169" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3414" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="5000" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <20210827版>
+		<WeeklyID ID="1" OfficialBanMon="3788" HomeAdditionMon="3461" NewSeIdxs="3314 3269 3287" NewSeIcon="在战斗中增加50点特攻值、增加20点速度值；自身能力提升状态被消除则100%使对手害怕"/>
+		<WeeklyID ID="2" OfficialBanMon="3577" HomeAdditionMon="3828" NewSeIdxs="3294 3269 3591" NewSeIcon="在战斗中增加100点体力值、20点速度值；回合开始时若对手处于能力下降状态则自身攻击造成的伤害随机提升50%-100%"/>
+        <WeeklyID ID="3" OfficialBanMon="3414" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3291" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="" HomeAdditionMon="" NewSeIdxs="" NewSeIcon=""/>
+	    <20210730版>
+		<WeeklyID ID="1" OfficialBanMon="3577" HomeAdditionMon="3626" NewSeIdxs="3294 3269 3640" NewSeIcon="在战斗中增加100点体力值、增加20点速度值；每回合开始时随机吸取对手2项属性-1，并将该属性附加给自己"/>
+		<WeeklyID ID="2" OfficialBanMon="3414" HomeAdditionMon="3510" NewSeIdxs="3285 3269 3312" NewSeIcon="在战斗中增加50点攻击值、增加20点速度值；自身攻击造成的伤害低于300则吸取对手300点体力"/>
+        <WeeklyID ID="3" OfficialBanMon="3788" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3986" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="" HomeAdditionMon="" NewSeIdxs="" NewSeIcon=""/>
+	    <20210702版>
+		<WeeklyID ID="1" OfficialBanMon="3291" HomeAdditionMon="3580" NewSeIdxs="3294 3269 3647" NewSeIcon="在战斗中增加100点体力值、增加20点速度值；自身攻击命中后附加最大体力20%的固定伤害，每次使用增加10%，最高40%"/>
+		<WeeklyID ID="2" OfficialBanMon="3788" HomeAdditionMon="3502" NewSeIdxs="3294 3314 3287" NewSeIcon="在战斗中增加100点体力值、增加50点特攻值；自身能力提升状态被消除则100%使对手害怕"/>
+        <WeeklyID ID="3" OfficialBanMon="3414" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3577" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="" HomeAdditionMon="" NewSeIdxs="" NewSeIcon=""/>
+	    <20210528版>
+		<WeeklyID ID="1" OfficialBanMon="3291" HomeAdditionMon="3724" NewSeIdxs="3294 3285 3589" NewSeIcon="在战斗中增加100点体力值、增加50点攻击值；自身造成的伤害低于300则附加对手最大体力30%的固定伤害"/>
+		<WeeklyID ID="2" OfficialBanMon="3414" HomeAdditionMon="3497" NewSeIdxs="3269 3299 146" NewSeIcon="在战斗中增加20点速度值；自身所有攻击无视对手伤害限制效果、无视对手免疫伤害效果；自身体力低于500时攻击技能必定致命一击"/>
+        <WeeklyID ID="3" OfficialBanMon="3788" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3986" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="5000" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<20210430版>
+		<WeeklyID ID="1" OfficialBanMon="3550" HomeAdditionMon="3515" NewSeIdxs="3294 3285 3561" NewSeIcon="在战斗中增加100点体力值、增加50点攻击值；自身受到的攻击伤害减少15%，若对手为自身天敌则效果翻倍"/>
+		<WeeklyID ID="2" OfficialBanMon="3414" HomeAdditionMon="3490" NewSeIdxs="3294 3269 3635" NewSeIcon="在战斗中增加100点体力值、增加20点速度值；回合结束时，若对手处于异常状态则下回合开始时100%令对手烧伤"/>
+        <WeeklyID ID="3" OfficialBanMon="3291" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3986" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="0" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<20210402版>
+		<WeeklyID ID="1" OfficialBanMon="3577" HomeAdditionMon="3393" NewSeIdxs="3294 3586" NewSeIcon="在战斗中增加100点体力值；自身造成的伤害低于300则附加对手最大体力30%的固定伤害"/>
+		<WeeklyID ID="2" OfficialBanMon="3550" HomeAdditionMon="3492" NewSeIdxs="3294 3269 3634" NewSeIcon="在战斗中增加100点体力值、增加20点速度值；攻击技能打出致命一击则吸取对手300点体力"/>
+        <WeeklyID ID="3" OfficialBanMon="3414" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3788" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="0" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<20210305版>
+		<WeeklyID ID="1" OfficialBanMon="3414" HomeAdditionMon="3668" NewSeIdxs="3285 3269 3287" NewSeIcon="在战斗中增加50点攻击值、增加20点速度值；自身能力提升状态被消除则100%使对手害怕"/>
+		<WeeklyID ID="2" OfficialBanMon="3550" HomeAdditionMon="3507" NewSeIdxs="3294 3269 3286" NewSeIcon="在战斗中增加100点体力值、增加20点速度值；每回合结束时恢复自身最大体力的1/4并造成等量固定伤害"/>
+        <WeeklyID ID="3" OfficialBanMon="3788" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3291" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="5000" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <20210129版>
+		<WeeklyID ID="1" OfficialBanMon="3577" HomeAdditionMon="3328" NewSeIdxs="3294 3269 3564" NewSeIcon="在战斗中增加100点体力值、增加20点速度值；回合开始时若自身体力高于对手则当回合受到的攻击伤害减少25%"/>
+		<WeeklyID ID="2" OfficialBanMon="3291" HomeAdditionMon="3496" NewSeIdxs="3285 3269 3631" NewSeIcon="在战斗中增加50点攻击值、增加20点速度值；回合开始时若对手处于异常状态则当回合攻击100%打出致命一击"/>
+        <WeeklyID ID="3" OfficialBanMon="3414" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3550" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="3788" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <20201225版>
+		<WeeklyID ID="1" OfficialBanMon="3291" HomeAdditionMon="3397" NewSeIdxs="3268 3269 3335" NewSeIcon="在战斗中增加200点体力值、增加20点速度值；回合开始时若对手不处于异常状态则自身当回合受到的攻击伤害减少20%"/>
+		<WeeklyID ID="2" OfficialBanMon="3414" HomeAdditionMon="3504" NewSeIdxs="3294 3269 3632" NewSeIcon="在战斗中增加50点体力值、增加20点速度值；自身受到的固定伤害和百分比伤害减少15%，回合开始时体力低于最大体力的1/2则效果转变为30%"/>
+        <WeeklyID ID="3" OfficialBanMon="3788" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="5000" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="3577" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <20201127版>
+		<WeeklyID ID="1" OfficialBanMon="3414" HomeAdditionMon="3471" NewSeIdxs="3294 3269 3620" NewSeIcon="在战斗中增加100点体力值、增加20点速度值；自身攻击命中后附加最大体力20%的固定伤害，每次使用增加10%，最高40%"/>
+		<WeeklyID ID="2" OfficialBanMon="3291" HomeAdditionMon="3632" NewSeIdxs="3333 3334 3621" NewSeIcon="在战斗中增加60点防御值、增加60点特防值；回合开始时若对手处于能力下降状态则自身攻击100%打出致命一击"/>
+        <WeeklyID ID="3" OfficialBanMon="3577" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="5000" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="" HomeAdditionMon="" NewSeIdxs="" NewSeIcon=""/>
+	    <20201030版>
+		<WeeklyID ID="1" OfficialBanMon="3291" HomeAdditionMon="3355" NewSeIdxs="3268 3314 3586" NewSeIcon="在战斗中增加200点体力值、增加50点特攻值；自身造成的伤害低于300则附加对手最大体力30%的固定伤害"/>
+		<WeeklyID ID="2" OfficialBanMon="3414" HomeAdditionMon="3642" NewSeIdxs="3268 3285 3335" NewSeIcon="在战斗中增加200点体力值、增加50点攻击值；回合开始时若对手不处于异常状态则自身当回合受到的攻击伤害减少20%"/>
+        <WeeklyID ID="3" OfficialBanMon="3577" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="4001" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="" HomeAdditionMon="" NewSeIdxs="" NewSeIcon=""/>
+	    <20200925版>
+		<WeeklyID ID="1" OfficialBanMon="3414" HomeAdditionMon="3406" NewSeIdxs="3294 3269 3502" NewSeIcon="在战斗中增加100点体力值、增加20点速度值；回合开始时若对手处于异常状态则当回合攻击命中后附加300点固定伤害"/>
+		<WeeklyID ID="2" OfficialBanMon="3291" HomeAdditionMon="3699" NewSeIdxs="3294 3610 3611" NewSeIcon="在战斗中增加100点体力值、增加100点特攻值；自身受到的攻击伤害低于300则回合结束时附加300点固定伤害"/>
+        <WeeklyID ID="3" OfficialBanMon="3986" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3550" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <WeeklyID ID="5" OfficialBanMon="3788" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <20200828版>
+		<WeeklyID ID="1" OfficialBanMon="3577" HomeAdditionMon="3516" NewSeIdxs="3294 3594" NewSeIcon="在战斗中增加100点体力值；自身处于护盾状态下50%免疫异常状态，未触发则下1次攻击先制+2且造成的伤害提升50%"/>
+		<WeeklyID ID="2" OfficialBanMon="3414" HomeAdditionMon="3652" NewSeIdxs="3294 3314 3270" NewSeIcon="在战斗中增加100点体力值、增加50点特攻值；攻击技能打出致命一击则吸取对手250点体力"/>
+        <WeeklyID ID="3" OfficialBanMon="3291" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3788" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <20200731版>
+		<WeeklyID ID="1" OfficialBanMon="3291" HomeAdditionMon="3305" NewSeIdxs="3294 3269 3299" NewSeIcon="在战斗中增加100点体力值、增加20点速度值；自身所有攻击无视对手伤害限制效果、无视对手免疫伤害效果"/>
+		<WeeklyID ID="2" OfficialBanMon="3414" HomeAdditionMon="3657" NewSeIdxs="3587 3591" NewSeIcon="在战斗中每回合使对手随机2项能力属性-1；回合开始时若对手处于能力下降状态则自身攻击造成的伤害随机提升50%-100%"/>
+        <WeeklyID ID="3" OfficialBanMon="3986" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="5000" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <!20200703版>
+		<WeeklyID ID="1" OfficialBanMon="3577" HomeAdditionMon="3592" NewSeIdxs="3588 3589" NewSeIcon="自身连续先出手则技能命中后附加对手最大体力25%的固定伤害，自身后出手则下回合所有技能先制+1"/>
+		<WeeklyID ID="2" OfficialBanMon="3291" HomeAdditionMon="3662" NewSeIdxs="3294 3285 3287" NewSeIcon="在战斗中增加100点体力值、增加50点攻击值；自身能力提升状态被消除则100%使对手害怕"/>
+        <WeeklyID ID="3" OfficialBanMon="3986" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="5000" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<20200605版>
+		<WeeklyID ID="1" OfficialBanMon="3414" HomeAdditionMon="3432" NewSeIdxs="3294 3269 3586" NewSeIcon="在战斗中增加100点体力值、增加20点速度值；自身造成的伤害低于300则附加对手最大体力30%的固定伤害"/>
+		<WeeklyID ID="2" OfficialBanMon="3577" HomeAdditionMon="3227" NewSeIdxs="3268 3314 3286" NewSeIcon="在战斗中增加200点体力值、增加50点特攻值；每回合结束时恢复自身最大体力的1/4并造成等量固定伤害"/>
+        <WeeklyID ID="3" OfficialBanMon="3986" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="5000" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<20200508版>
+		<WeeklyID ID="1" OfficialBanMon="3788" HomeAdditionMon="3554" NewSeIdxs="3294 3269 3310" NewSeIcon="在战斗中增加100点体力值、增加20点速度值；自身受到的攻击伤害减少20%，若对手为自身天敌则效果翻倍"/>
+		<WeeklyID ID="2" OfficialBanMon="3414" HomeAdditionMon="3617" NewSeIdxs="3314 3269 3574" NewSeIcon="在战斗中增加50点特攻值，20点速度值；自身当回合受到攻击则回合结束时附加对手最大体力1/4的固定伤害"/>
+        <WeeklyID ID="3" OfficialBanMon="3291" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3577" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<20200228版>
+		<WeeklyID ID="1" OfficialBanMon="3788" HomeAdditionMon="3529" NewSeIdxs="3562 3563" NewSeIcon="在战斗中增加10点速度值；回合开始时若自身不处于能力提升状态则当回合免疫异常状态"/>
+		<WeeklyID ID="2" OfficialBanMon="3056" HomeAdditionMon="3315" NewSeIdxs="3294 3562 3564" NewSeIcon="在战斗中增加100点体力值、增加10点速度值；回合开始时若自身体力高于对手则当回合受到的攻击伤害减少25%"/>
+        <WeeklyID ID="3" OfficialBanMon="3291" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3550" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <WeeklyID ID="5" OfficialBanMon="3414" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <20191129版>
+		<WeeklyID ID="1" OfficialBanMon="3414" HomeAdditionMon="3388" NewSeIdxs="3294 3269 3335" NewSeIcon="在战斗中增加100点体力值、增加20点速度值；回合开始时若对手不处于异常状态则自身当回合受到的攻击伤害减少20%"/>
+		<WeeklyID ID="2" OfficialBanMon="3788" HomeAdditionMon="3289" NewSeIdxs="3268 146" NewSeIcon="在战斗中增加200点体力值；自身体力低于500时攻击技能必定致命一击"/>
+        <WeeklyID ID="3" OfficialBanMon="3056" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="5000" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+	    <WeeklyID ID="5" OfficialBanMon="3788" HomeAdditionMon="3686" NewSeIdxs="3562 3561" NewSeIcon="在战斗中增加10点速度值；自身受到的攻击伤害减少15%，若对手为自身天敌则效果翻倍"/>
+	    <WeeklyID ID="6" OfficialBanMon="3673" HomeAdditionMon="3301" NewSeIdxs="3285 3269 3559" NewSeIcon="在战斗中增加50点攻击值、增加20点速度值；自身每使用一次攻击则本场战斗中造成的伤害提高20%，最高100%"/>
+	    <WeeklyID ID="7" OfficialBanMon="5000" HomeAdditionMon="3318" NewSeIdxs="3314 3294 3560" NewSeIcon="战斗中增加50点特攻值、增加100点体力值；自身能力提升状态被消除则100%使对手焚烬"/>
+	    <WeeklyID ID="8" OfficialBanMon="3056" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<20191129版>
+		<WeeklyID ID="1" OfficialBanMon="3434" HomeAdditionMon="3879" NewSeIdxs="3502 3503" NewSeIcon="回合开始时若对手处于异常状态则当回合攻击命中后附加300点固定伤害；回合开始时若对手能力下降状态则当回合造成的攻击伤害提升30%"/>
+		<WeeklyID ID="2" OfficialBanMon="3865" HomeAdditionMon="3875" NewSeIdxs="3299 3131" NewSeIcon="自身所有攻击无视对手伤害限制效果、无视对手免疫伤害效果；自身处于能力提升状态时受到的伤害减少30%"/>
+        <WeeklyID ID="3" OfficialBanMon="3414" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3788" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="5" OfficialBanMon="5000" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<20191101版>
+		<WeeklyID ID="1" OfficialBanMon="3414" HomeAdditionMon="3407" NewSeIdxs="3285 3269 3335" NewSeIcon="在战斗中增加50点攻击值，20点速度值；回合开始时若对手不处于异常状态则自身当回合受到的攻击伤害减少20%"/>
+		<WeeklyID ID="2" OfficialBanMon="3788" HomeAdditionMon="3888" NewSeIdxs="3333 3334 3286" NewSeIcon="在战斗中增加60点防御值、增加60点特防值；每回合结束时恢复自身最大体力的1/4并造成等量固定伤害"/>
+        <WeeklyID ID="3" OfficialBanMon="3291" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3865" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<20190927版>
+		<WeeklyID ID="1" OfficialBanMon="3414" HomeAdditionMon="3561" NewSeIdxs="3314 3315 3310" NewSeIcon="在战斗中增加50点特攻值，30点速度值；自身受到的攻击伤害减少20%，若对手为自身天敌则效果翻倍"/>
+		<WeeklyID ID="2" OfficialBanMon="3434" HomeAdditionMon="3667" NewSeIdxs="3311 3312" NewSeIcon="在战斗中自身造成的伤害高于300则附加300点固定伤害，造成的伤害低于300则吸取对手300点体力"/>
+        <WeeklyID ID="3" OfficialBanMon="2987" HomeAdditionMon="3336" NewSeIdxs="3294 3269 3313" NewSeIcon="在战斗中增加100点体力值，20点速度值；回合开始时，对手每处于1种异常状态则攻击命中后吸取对手100点体力"/>
+		<WeeklyID ID="4" OfficialBanMon="3577" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+        <WeeklyID ID="5" OfficialBanMon="5000" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<20190830版>
+		<WeeklyID ID="1" OfficialBanMon="3414" HomeAdditionMon="3465" NewSeIdxs="3268 3269 3298" NewSeIcon="在战斗中增加200点体力值、增加20点速度值；回合开始时若自身处于能力提升状态则当回合免疫异常状态"/>
+		<WeeklyID ID="2" OfficialBanMon="2987" HomeAdditionMon="3481" NewSeIdxs="3268 3285 3299" NewSeIcon="在战斗中增加200点体力值、增加50点攻击值；自身所有攻击无视对手伤害限制效果、无视对手免疫伤害效果"/>
+        <WeeklyID ID="3" OfficialBanMon="3291" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3788" HomeAdditionMon="0" NewSeIdxs="" NewSeIcon=""/>
+		<20190802版>
+		<WeeklyID ID="1" OfficialBanMon="3550" HomeAdditionMon="3311" NewSeIdxs="3084 3282" NewSeIcon="在战斗中自身使用攻击技能时有50%的概率使对手疲惫；天生免疫固定伤害和百分比伤害"/>
+		<WeeklyID ID="2" OfficialBanMon="3291" HomeAdditionMon="3613" NewSeIdxs="3283 3284 3286" NewSeIcon="在战斗中增加30点防御值、增加30点特防值；每回合结束时恢复自身最大体力的1/4并造成等量固定伤害"/>
+		<WeeklyID ID="3" OfficialBanMon="3865" HomeAdditionMon="3380" NewSeIdxs="3294 3269 3295" NewSeIcon="在战斗中增加100点体力值、增加20点速度值；自身攻击造成的伤害高于300则使自身获得1个300点的护盾"/>
+		<WeeklyID ID="4" OfficialBanMon="3434" HomeAdditionMon="3623" NewSeIdxs="3285 3287" NewSeIcon="在战斗中增加50点攻击值；自身能力提升状态被消除则100%使对手害怕"/>
+		<20190719版>
+		<WeeklyID ID="1" OfficialBanMon="0" HomeAdditionMon="0" NewSeIdxs="0" NewSeIcon=""/>
+		<WeeklyID ID="2" OfficialBanMon="0" HomeAdditionMon="0" NewSeIdxs="0" NewSeIcon=""/>
+		<WeeklyID ID="3" OfficialBanMon="0" HomeAdditionMon="0" NewSeIdxs="0" NewSeIcon=""/>
+		<WeeklyID ID="4" OfficialBanMon="3577" HomeAdditionMon="3482" NewSeIdxs="3268 3269 146" NewSeIcon="在战斗中增加200点体力值、增加20点速度值；自身体力低于500时攻击技能必定致命一击"/>
+		<WeeklyID ID="5" OfficialBanMon="5000" HomeAdditionMon="3783" NewSeIdxs="6 3270" NewSeIcon="在战斗中受到的攻击伤害减少25%；攻击技能打出致命一击则吸取对手250点体力"/>
+		-->
+	</PeakBtGlobalRule>
+	
+	<!--以下逻辑20190628已下架-->
+	<!--BattleRule ID="1" TotalTimes="101723" WinTimes="101722" RewardBitbuf="458" NewSeIdxs="" CurRule="" Desc=""-->
+	<!--<BattleRule ID="1" TotalTimes="101727" WinTimes="101747" RewardMark="464" NewSeIdxs="3139" CurRule="双方精灵体力每降低10%则造成的伤害提升20%" Desc="20190301版">-->
+	<!--<BattleRule ID="1" TotalTimes="101728" WinTimes="101748" RewardMark="465" NewSeIdxs="3178" CurRule="双方精灵攻击命中后50%随机使对手1个技能PP值归零" Desc="20190329版">-->
+	<!--<BattleRule ID="1" TotalTimes="101729" WinTimes="101749" RewardMark="466" NewSeIdxs="191" CurRule="双方精灵对战中体力低于100时将恢复所有体力值和技能PP值" Desc="20190426版">-->
+	<!--<BattleRule ID="1" TotalTimes="101730" WinTimes="101750" RewardMark="467" NewSeIdxs="1524" CurRule="双方精灵对战中每损失1/8体力则打出致命一击的几率提升1/8" Desc="20190531版">
+	</BattleRule>
+	
+	<RandomMonsters ID="1" Desc="3v3第1组">
+	    <Monster IndexID="1" ID="2500" Lv="100" Hp="566" Atk="365" Def="232" Spatk="180" Spdef="232" Spd="277" Moves="16260 16257 23452 23445 23444" NewSeIdxs="1747" NewSeIcon="首次登场所有攻击先制+1，并且增加10%致命一击概率" Name="神威·马超"/>
+		<Monster IndexID="2" ID="2485" Lv="100" Hp="603" Atk="180" Def="244" Spatk="374" Spdef="235" Spd="270" Moves="16205 16201 23414 23415 23421" NewSeIdxs="1741" NewSeIcon="首次出场时带有能抵挡150点伤害的护盾，该护盾持续3回合" Name="神·鱼龙王"/>
+		<Monster IndexID="3" ID="2662" Lv="100" Hp="645" Atk="180" Def="262" Spatk="350" Spdef="256" Spd="260" Moves="16935 16934 23823 11957 16932" NewSeIdxs="1847" NewSeIcon="每一次恢复体力都会使自身防御+1、特防+1" Name="神·始祖灵兽"/>
+		<Monster IndexID="4" ID="2347" Lv="100" Hp="655" Atk="356" Def="256" Spatk="160" Spdef="256" Spd="262" Moves="12902 23163 23162 21510 16968" NewSeIdxs="" NewSeIcon="" Name="圣迈尔斯"/>
+		<Monster IndexID="5" ID="2681" Lv="100" Hp="598" Atk="360" Def="246" Spatk="189" Spdef="234" Spd="274" Moves="17025 23871 23872 22875 17022" NewSeIdxs="1852" NewSeIcon="反弹对手给予的能力下降状态" Name="神·阿波罗"/>
+	</RandomMonsters>
+	<RandomMonsters ID="2" Desc="3v3第2组">
+		<Monster IndexID="1" ID="2518" Lv="100" Hp="561" Atk="199" Def="236" Spatk="372" Spdef="225" Spd="280" Moves="16326 23484 23482 16321 23483" NewSeIdxs="1758" NewSeIcon="当回合未受到攻击恢复自身100点体力" Name="潘多拉"/>
+		<Monster IndexID="2" ID="1730" Lv="100" Hp="680" Atk="350" Def="252" Spatk="192" Spdef="243" Spd="262" Moves="14107 14106 22195 22197" NewSeIdxs="" NewSeIcon="" Name="库贝萨"/>
+		<Monster IndexID="3" ID="2545" Lv="100" Hp="700" Atk="180" Def="248" Spatk="370" Spdef="251" Spd="260" Moves="16445 16442 23554 23555 23556" NewSeIdxs="1780" NewSeIcon="首次上场后前2回合使对手属性技能无效" Name="苍魂·青龙"/>
+		<Monster IndexID="4" ID="2821" Lv="100" Hp="642" Atk="355" Def="230" Spatk="167" Spdef="230" Spd="257" Moves="17685 24223 17683 24222" NewSeIdxs="1963" NewSeIcon="每次使用攻击技能有10%概率使对手害怕" Name="天石灵尊"/>
+		<Monster IndexID="5" ID="2496" Lv="100" Hp="559" Atk="380" Def="230" Spatk="172" Spdef="232" Spd="270" Moves="16243 16242 16240 23436 23435" NewSeIdxs="1742" NewSeIcon="满体力时50%概率免疫所有异常状态" Name="将神·吕布"/>
+	</RandomMonsters>
+	<RandomMonsters ID="3" Desc="3v3第3组">
+		<Monster IndexID="1" ID="2618" Lv="100" Hp="658" Atk="181" Def="252" Spatk="330" Spdef="250" Spd="258" Moves="16736 23710 23711 23712 16735" NewSeIdxs="1817" NewSeIcon="若击败中毒的对手，则下一个出场的对手也进入中毒状态" Name="幻草灵狮"/>
+        <Monster IndexID="2" ID="2464" Lv="100" Hp="592" Atk="378" Def="225" Spatk="180" Spdef="232" Spd="277" Moves="16121 16120 23369 23368 16118" NewSeIdxs="1736" NewSeIcon="当回合受到伤害高于350则对手烧伤" Name="神·炎魔"/>
+		<Monster IndexID="3" ID="1845" Lv="100" Hp="585" Atk="385" Def="228" Spatk="188" Spdef="236" Spd="279" Moves="10715 22376 22377 14427 15783" NewSeIdxs="" NewSeIcon="" Name="战神盖亚"/>
+		<Monster IndexID="4" ID="1910" Lv="100" Hp="571" Atk="371" Def="235" Spatk="180" Spdef="225" Spd="277" Moves="14600 14602 22484 22483" NewSeIdxs="1590" NewSeIcon="登场后每三回合，必定获得一次致命一击效果" Name="卢卡斯"/>
+	    <Monster IndexID="5" ID="2362" Lv="100" Hp="588" Atk="175" Def="242" Spatk="369" Spdef="238" Spd="279" Moves="15887 15885 23241 23240" NewSeIdxs="" NewSeIcon="" Name="妖王摩哥斯"/>
+	</RandomMonsters>
+	-->
+ </VirtualBattle>

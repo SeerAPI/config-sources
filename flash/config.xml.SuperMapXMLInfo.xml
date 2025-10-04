@@ -1,0 +1,99 @@
+<!--
+	多个地图ID归属于一个星球
+	此XML表主要配置一些各个星球有可能需要用到的共用信息，比如目前在世界地图上显示玩家所在位置
+	
+	*新增字段stat1，表示点击该星球小地图按钮人数
+	*新增字段stat2，表示点击该星地图版块点击总人数
+-->
+<superMaps>
+
+	<maps id="1" name="传送舱" x="" y="" stat1= "0x050E0AEA"/>
+	<maps id="4" name="船长室" x="" y="" stat1= "0x050E0AEA"/>
+	<maps id="5" name="实验室" x="" y="" stat1= "0x050E0AEA"/>
+	<maps id="6" name="动力室" x="" y="" stat1= "0x050E0AEA"/>
+	<maps id="7" name="瞭望舱" x="" y="" stat1= "0x050E0AEA"/>
+	<maps id="8" name="机械室" x="" y="" stat1= "0x050E0AEA"/>
+	<maps id="9" name="资料室" x="" y="" stat1= "0x050E0AEA"/>
+	<maps id="102" name="太空站" x="" y="" stat1= "0x050E0B3F"/>
+	<maps id="100" name="英佩恩堡垒" x="" y=""/>
+	<maps id="101" name="教官办公室" x="" y="" stat1= "0x050E0AEA"/>
+	<maps id="103" name="瞭望露台" x="" y="" stat1= "0x050E0AEA"/>
+	<maps id="107" name="发明室" x="" y="" stat1= "0x050E0AEA"/>
+	<maps id="332" name="荣誉大厅" x="" y="" stat1= "0x050E0AEA"/>
+	<maps id="485" name="精灵学院" x="" y=""/>
+	<maps id="698" name="放映厅" x="" y="" stat1= "0x050E0AEA"/>
+	
+	<!--星球-->
+	<maps id="10" name="克洛斯星" galaxy="1" x="233" y="94" />
+	<maps id="15" name="火山星" galaxy="1" x="346" y="56" />
+	<maps id="20" name="海洋星" galaxy="1" x="126" y="143" />
+	<maps id="25" name="云宵星" galaxy="1" x="464" y="47" />
+	<maps id="30" name="赫尔卡星" galaxy="1" x="40" y="232" />
+	<maps id="40" name="塞西利亚星" galaxy="1" x="783" y="189" />
+	<maps id="105" name="双子阿尔法星" galaxy="1" x="588" y="65" />
+	<maps id="47" name="双子贝塔星" galaxy="1" x="690" y="98" />
+	<maps id="54" name="露希欧星" galaxy="1" x="647" y="385" />
+	<maps id="51" name="斯诺星" galaxy="1" x="526" y="422" />
+	<maps id="314" name="拜伦号" galaxy="1" x="751" y="318" />
+	<maps id="463" name="卡酷星" galaxy="1" x="387" y="457" />
+	
+	<maps id="57" name="尼古尔星" galaxy="2" x="97" y="192" />
+	<maps id="60" name="塔克星" galaxy="2" x="224" y="106" />
+	<maps id="325" name="艾迪星" galaxy="2" x="360" y="64" />
+	<maps id="328" name="斯科尔星" galaxy="2" x="521" y="64" />
+	<maps id="333" name="普雷空间站" galaxy="2" x="681" y="84" />
+	<maps id="338" name="哈莫星" galaxy="2" x="794" y="211" />
+	<maps id="688" name="推特星" galaxy="2" x="763" y="348" />
+	<maps id="699" name="诺可撒斯星" galaxy="2" x="643" y="409" />
+	<maps id="82" name="米斯特瑞星" galaxy="2" x="486" y="450" />
+	<maps id="929" name="普罗特星" galaxy="2" x="358" y="465" />
+	<maps id="95" name="天蛇星" galaxy="2" x="384" y="488" />
+	<maps id="948" name="索伦森星" galaxy="2" x="600" y="400" />
+	
+	<maps id="404" name="比格星" galaxy="3" x="50" y="227" />
+	<maps id="411" name="陨石地带" galaxy="3" x="145" y="141" />
+	<maps id="424" name="空间补给站" galaxy="3" x="275" y="76" />
+	<maps id="429" name="拓梯星" galaxy="3" x="419" y="49" />
+	<maps id="435" name="戴斯星" galaxy="3" x="566" y="49" />
+	<maps id="437" name="墨杜萨星" galaxy="3" x="691" y="75" />
+	<maps id="439" name="海兹尔星" galaxy="3" x="791" y="188" />
+	<maps id="441" name="拉铂尔星" galaxy="3" x="743" y="293" />
+	<maps id="459" name="菲尔纳星" galaxy="3" x="649" y="372" />
+	<maps id="481" name="般若星" galaxy="3" x="545" y="420" />
+	
+	<maps id="484" name="怀特星" galaxy="4" x="54" y="225" /> 
+	<maps id="494" name="麦兹星" galaxy="4" x="134" y="142" />
+	<maps id="497" name="SUN星" galaxy="4" x="384" y="61" />
+	<maps id="451" name="格雷斯星" galaxy="4" x="253" y="85" />
+	<maps id="350" name="果然星" galaxy="4" x="524" y="54" />
+	<maps id="356" name="未来星" galaxy="4" x="670" y="67" />
+	<maps id="662" name="Y星" galaxy="4" x="760" y="143" />
+	<maps id="668" name="异能星" galaxy="4" x="788" y="268" />
+	<maps id="677" name="希尔星" galaxy="4" x="695" y="356" />
+	<maps id="683" name="泰若星" galaxy="4" x="558" y="413" />
+	<maps id="19" name="提尔瑞斯星" galaxy="4" x="408" y="434" />
+	
+	<maps id="702" name="巨石星" galaxy="5" x="175" y="175" stat1= "0x050E0AE6" stat2= "0x050E0AEB"/>
+	<maps id="29" name="艾伦星" galaxy="5" x="300" y="125" stat1= "0x050E0AE7" stat2= "0x050E0AEC"/>
+	<maps id="717" name="巴斯星" galaxy="5" x="450" y="90" stat1= "0x050E0AE8" stat2= "0x050E0AED"/>
+	<maps id="726" name="莱恩那星" galaxy="5" x="600" y="100" stat1= "0x050E0AE9" stat2= "0x050E0AEE"/>
+	<maps id="736" name="幻影星" galaxy="5" x="796" y="99" />
+	<maps id="748" name="恶魔星" galaxy="5" x="832" y="219" />
+	<maps id="775" name="魔神星" galaxy="5" x="760" y="327" />
+	<maps id="786" name="南瓜星" galaxy="5" x="661" y="383" />
+	<maps id="795" name="天马星" galaxy="5" x="534" y="410" />
+	<maps id="74" name="帕索尔星" galaxy="5" x="410" y="450" />	
+	<maps id="748" name="天空之门" galaxy="5" x="489" y="463" />
+	<maps id="775" name="魔神陵墓" galaxy="5" x="163" y="458" />
+	
+	<maps id="966" name="创世星" galaxy="6" x="276" y="140" />
+	<maps id="967" name="魔灵星" galaxy="6" x="552" y="452" />
+	<maps id="969" name="永恒星" galaxy="6" x="340" y="132" />
+	<maps id="973" name="天魔星" galaxy="6" x="643" y="422" />
+	
+	<maps id="751" name="裂空赛场" x="" y="" />
+	<maps id="747" name="暑期梦幻游乐场" x="456" y="464" />
+	<maps id="988" name="棱石星" galaxy="6" x="590" y="92" />
+	<maps id="1100" name="暗婆罗星星" galaxy="6" x="561" y="83" />
+	
+</superMaps>

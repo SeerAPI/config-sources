@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Stats>
+	<Story id="0" Coordinate="671,100" Direction="4" Time="1" Newstar="0"/>
+	<Story id="1" Coordinate="615,200" Direction="1" Time="1" Newstar="0" chapter="1"/>
+	<Story id="2" Coordinate="823,275" Direction="4" Time="1" Newstar="0" chapter="2"/>
+	<Story id="3" Coordinate="712,275" Direction="4" Time="2" Newstar="0"/>
+	<Story id="4" Coordinate="712,275" Direction="4" Time="2" Newstar="0" chapter="3"/>
+	<Story id="5" Coordinate="678,262" Direction="1" Time="2" Newstar="0"/>
+	<Story id="6" Coordinate="678,262" Direction="1" Time="1" Newstar="0" chapter="4"/>
+	<Story id="7" Coordinate="761,225" Direction="1" Time="2" Newstar="0" chapter="5"/>
+	<Story id="8" Coordinate="768,255" Direction="4" Time="1" Newstar="0" chapter="6"/>
+	<Story id="9" Coordinate="604,152" Direction="2" Time="1" Newstar="0" chapter="7"/>
+	<Story id="10" Coordinate="477,66" Direction="2" Time="1" Newstar="0"/>
+	<Story id="11" Coordinate="477,66" Direction="2" Time="1" Newstar="0" chapter="8"/>
+	<Story id="12" Coordinate="700,216" Direction="4" Time="1" Newstar="0" chapter="9"/>
+	<Story id="13" Coordinate="610,95" Direction="2" Time="1" Newstar="0"/>
+	<Story id="14" Coordinate="671,100" Direction="4" Time="1" Newstar="0" chapter="10"/>
+	<Story id="15" Coordinate="666,264" Direction="1" Time="2" Newstar="0" chapter="11"/>
+	<Story id="16" Coordinate="666,264" Direction="1" Time="2" Newstar="0"/>
+	<Story id="17" Coordinate="768,255" Direction="4" Time="1" Newstar="0" chapter="12"/>
+	<Story id="18" Coordinate="577,91" Direction="2" Time="2" Newstar="0" chapter="13"/>
+	<Story id="19" Coordinate="510,91" Direction="2" Time="2" Newstar="0" chapter="14"/>
+	<Story id="20" Coordinate="510,91" Direction="2" Time="2" Newstar="0" chapter="15"/>
+	<Story id="21" Coordinate="510,91" Direction="2" Time="2" Newstar="0"/>
+	<Story id="22" Coordinate="510,91" Direction="2" Time="2" Newstar="0" chapter="16"/>
+	<Story id="23" Coordinate="510,91" Direction="2" Time="2" Newstar="0" chapter="17"/>
+	<Story id="24" Coordinate="510,91" Direction="2" Time="2" Newstar="0" chapter="18"/>
+	<Story id="25" Coordinate="475,61" Direction="2" Time="1" Newstar="0" chapter="19"/>
+	<Story id="26" Coordinate="475,61" Direction="2" Time="1" Newstar="0" chapter="20"/>
+	<Story id="27" Coordinate="604,152" Direction="2" Time="2" Newstar="0" chapter="21"/>
+	<Story id="28" Coordinate="421,105" Direction="2" Time="1" Newstar="0" chapter="22"/>
+	<Story id="29" Coordinate="421,105" Direction="2" Time="2" Newstar="0" chapter="23"/>
+	<Story id="30" Coordinate="738,14" Direction="4" Time="2" Newstar="0" chapter="24"/>
+	<Story id="31" Coordinate="738,14" Direction="4" Time="2" Newstar="0"/>
+	<Story id="32" Coordinate="475,61" Direction="2" Time="1" Newstar="1" chapter="25"/>
+	<Story id="33" Coordinate="666,264" Direction="1" Time="1" Newstar="1" chapter="26"/>
+	<Story id="92" Coordinate="301,187" Direction="2" Time="2" Newstar="1"/>
+	<Story id="41" Coordinate="671,100" Direction="4" Time="1" Newstar="0" chapter="1"/>
+	<Story id="43" Coordinate="614,249" Direction="4" Time="1" Newstar="0" chapter="2"/>
+	<Story id="44" Coordinate="603,256" Direction="4" Time="1" Newstar="0"/>
+	<Story id="45" Coordinate="34,241" Direction="2" Time="0" Newstar="0" chapter="3"/>
+	<Story id="46" Coordinate="34,241" Direction="2" Time="0" Newstar="0" chapter="4"/>
+	<Story id="47" Coordinate="34,241" Direction="2" Time="0" Newstar="0" chapter="5"/>
+	<Story id="48" Coordinate="301,172" Direction="2" Time="0" Newstar="0" chapter="6"/>
+	<Story id="49" Coordinate="311,110" Direction="2" Time="1" Newstar="0" chapter="7"/>
+	<Story id="50" Coordinate="311,110" Direction="2" Time="1" Newstar="0"/>
+	<Story id="51" Coordinate="362,99" Direction="2" Time="1" Newstar="0" chapter="8"/>
+	<Story id="52" Coordinate="671,100" Direction="4" Time="1" Newstar="0" chapter="9"/>
+	<Story id="53" Coordinate="282,218" Direction="2" Time="2" Newstar="0" chapter="10"/>
+	<Story id="54" Coordinate="342,227" Direction="2" Time="2" Newstar="0"/>
+	<Story id="55" Coordinate="297,186" Direction="2" Time="2" Newstar="0" chapter="11"/>
+	<Story id="56" Coordinate="297,186" Direction="2" Time="0" Newstar="0"/>
+	<Story id="57" Coordinate="297,186" Direction="2" Time="0" Newstar="0"/>
+	<Story id="58" Coordinate="297,186" Direction="2" Time="2" Newstar="0" chapter="12"/>
+	<Story id="59" Coordinate="297,186" Direction="2" Time="2" Newstar="0"/>
+	<Story id="60" Coordinate="282,218" Direction="2" Time="1" Newstar="0" chapter="13"/>
+	<Story id="61" Coordinate="500,83" Direction="4" Time="2" Newstar="0" chapter="14"/>
+	<Story id="62" Coordinate="500,83" Direction="4" Time="2" Newstar="0" chapter="15"/>
+	<Story id="63" Coordinate="500,83" Direction="4" Time="2" Newstar="0" chapter="16"/>
+	<Story id="64" Coordinate="500,83" Direction="4" Time="2" Newstar="0" chapter="17"/>
+	<Story id="65" Coordinate="500,83" Direction="4" Time="2" Newstar="0" chapter="18"/>
+	<Story id="66" Coordinate="296,152" Direction="2" Time="1" Newstar="0"/>
+	<Story id="67" Coordinate="475,74" Direction="2" Time="1" Newstar="0" chapter="19"/>
+	<Story id="68" Coordinate="412,109" Direction="4" Time="1" Newstar="0"/>
+	<Story id="69" Coordinate="412,109" Direction="4" Time="1" Newstar="0" chapter="20"/>
+	<Story id="70" Coordinate="412,109" Direction="4" Time="1" Newstar="0"/>
+	<Story id="71" Coordinate="743,30" Direction="4" Time="2" Newstar="0" chapter="21"/>
+	<Story id="72" Coordinate="743,30" Direction="4" Time="2" Newstar="0" chapter="22"/>
+	<Story id="73" Coordinate="743,30" Direction="4" Time="2" Newstar="0" chapter="23"/>
+	<Story id="74" Coordinate="671,100" Direction="4" Time="1" Newstar="1" chapter="24"/>
+	<Story id="75" Coordinate="412,109" Direction="4" Time="0" Newstar="1"/>
+	<Story id="91" Coordinate="700,188" Direction="4" Time="2" Newstar="1"/>
+</Stats>

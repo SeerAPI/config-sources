@@ -1,0 +1,952 @@
+<!--
+dialogs 所有的对话内容  id  ques 对话框文本    answer des  回答多个就多行 没有就不要  根据选项的多少会自己选择对话框类型
+
+q 问题 type类型：1找黑影 2 找技能 3 小百科  des 问题描述    right  正确的答案多个用|隔开  answer  des答案  frame :黑影第几针 petid 找技能对应的petid
+
+tasks fail :dialogid   任务超时的通用对话框 
+ 任务  task type类型 taskdes任务描述
+
+ start开始的对话id多个用|隔开  
+
+ over完成后的对话 id多个用|隔开    
+
+ fail失败后的对话 id多个用|隔开  
+
+ mapid任务相关的地图
+
+ tasktime：任务时限 秒为单位
+
+ 没有的都可以不填  
+
+friendly 好感度
+
+reward完成的奖励  格式 id|num;id|num   
+
+fun:  任务事件 1 打boss  2 打开面板  3协议参数 后续根据需要可以再加类型 4打开D级面板 5 外派任务完成    
+
+par 参数： if task条目下的fun=5，代表到达地图时触发的dialog id
+
+fun1：bossid，2：面板名字 3.协议参数 4可填可不填，等d级多了可以考虑 5:外派任务所在地图跳的dialog id
+
+init id：初始状态对话框；daylimit id:每天任务达到完成上限后的对话框；tasks timefail：外出任务超时弹出的通用弹框文本
+ -->
+
+<root>
+	<times value = "20200123|20200130|20200213|20200220|20200227"/>
+	<init id="1"/>
+	<daylimit id="2"/>
+	<dialogs>
+		<dialog id="1" ques="你好，赛尔。欢迎来到联盟秘境。今天我们将面对哪些挑战呢？">
+			<answer des="开始吧！"/>
+			<answer des="我走错了，再见！"/>
+		</dialog>
+		
+		<dialog id="2" ques="今天你已经经历了足够多的挑战了，请明天再来吧！">
+			<answer des="好的。"/>
+		</dialog>
+		
+<!--第一期-->	
+		<dialog id="3" ques="好久没有回天蛇星了，不知道家乡怎么样了…">
+			<answer des="吾心安处是吾乡。"/>
+			<answer des="那里已经没有你的家人了。"/>
+		</dialog>
+		
+		<dialog id="4" ques="你说的对，我很高兴能与你们一起共事。">
+		</dialog>
+		
+		<dialog id="5" ques="唉…确实如此，我很失落…">
+		</dialog>
+		
+		<dialog id="6" ques="有时候，我只想与盖亚找个地方安静的生活，不问世事…">
+			<answer des="这一天会到来的！"/>
+			<answer des="我不允许！"/>
+		</dialog>
+		
+		<dialog id="7" ques="是呀，谢谢你的祝福。">
+		</dialog>
+		
+		<dialog id="8" ques="我理解你的心情，但听你这么说，我很不好受。">
+		</dialog>
+		
+		<dialog id="9" ques="其实耶里梅斯和伊洛维奇本性都不坏，他们儿时都充满正义感。">
+			<answer des="坚守心中的正义！"/>
+			<answer des="是吗？那后来呢？"/>
+		</dialog>
+		
+		<dialog id="10" ques="谢谢你的鼓励，我会坚守下去的。">
+		</dialog>
+		
+		<dialog id="11" ques="我知道你不认同他们，毕竟你只看到他们变坏的一面…">
+		</dialog>
+		
+		<dialog id="12" ques="你能告诉我，这个黑影是哪只精灵吗？">
+		</dialog>
+		
+		<dialog id="13" ques="你能找出属于这只精灵的技能吗？">
+		</dialog>
+		
+		<dialog id="14" ques="你能回答出这个问题吗？">
+		</dialog>
+		
+		<dialog id="15" ques="答对了，真厉害！不愧是宇宙圣皇。">
+		</dialog>
+		
+		<dialog id="16" ques="嘿，你答错了，还需要多多努力呀。">
+		</dialog>
+		
+		<dialog id="17" ques="有兴趣来一场战斗演习吗？试试你的实力。">
+			<answer des="来吧！"/>
+		</dialog>
+		
+		<dialog id="18" ques="你比我想象中的还要强，是值得信赖的战友。">
+		</dialog>
+		
+		<dialog id="19" ques="你还需要努力修炼呀，这种程度实在令人担忧。">
+		</dialog>
+		
+		<dialog id="20" ques="我听说普雷空间站的几米塔有许多有趣的机关，但是我从没去看过，你可以去拍几张照片给我看看吗？">
+			<answer des="包在我身上。"/>
+		</dialog>
+		
+		<dialog id="21" ques="几米塔在卡兰星系的普雷空间站，可别走错了。">
+			<answer des="放心，我认识路。"/>
+		</dialog>
+		
+		<dialog id="22" ques="照片拍好了，我回去给缪斯！">
+		</dialog>
+		
+		<dialog id="23" ques="谢谢你，赛尔！">
+		</dialog>
+		
+		<dialog id="25" ques="我做了一条项链想送给盖亚，但是缺一颗水晶。你能去斯科尔浮岛上帮我采一颗吗？">
+			<answer des="包在我身上。"/>
+		</dialog>
+		
+		<dialog id="26" ques="斯科尔浮岛在卡兰星系的斯科尔星上，可别走错了。">
+			<answer des="放心，我认识路。"/>
+		</dialog>
+		
+		<dialog id="27" ques="这块水晶缪斯一定会满意的。">
+		</dialog>
+		
+		<dialog id="28" ques="谢谢你，赛尔！">
+		</dialog>
+		
+		<dialog id="29" ques="这段时间与你并肩作战，使我对你更加信任了，我们来一场切磋吧。如果你获得了胜利，我会送给你一份大礼。你只有1次机会，如果你输了，那么就没有礼物咯。">
+		</dialog>
+		
+		<dialog id="30" ques="你的实力确实很强，有你在，使我更有信心让这个宇宙越来越好了。">
+		</dialog>
+		
+		<dialog id="31" ques="虽然你输了，但是不必气馁，继续努力修炼吧。总有一天，你成为守护宇宙的英雄！">
+		</dialog>
+		
+		<dialog id="32" ques="你已经完全获得了我的认可，我会把天蛇之女·缪斯的传说级皮肤（适用于圣瞳缪斯）送给你。">
+			<answer des="谢谢缪斯小姐姐!"/>
+		</dialog>
+		
+<!--第二期-->			
+		<dialog id="33" ques="宇宙已经经历了太多的战乱，希望以后能和平安定下去。">
+			<answer des="有战神联盟在，就有希望！"/>
+			<answer des="你是想退休了吗？"/>
+		</dialog>
+		
+		<dialog id="34" ques="我会一直守护，至死方休。">
+		</dialog>
+		
+		<dialog id="35" ques="额，我觉得你误会我了…">
+		</dialog>
+		
+		<dialog id="36" ques="听阿克希亚说，飓风星云的上古雪峰有着全宇宙最纯净的雪。">
+			<answer des="那你一定要和她去看看呀。"/>
+			<answer des="呵，我看你是想她了。"/>
+		</dialog>
+		
+		<dialog id="37" ques="是呀，我也是这么想的。">
+		</dialog>
+		
+		<dialog id="38" ques="嗯，你说的对，我不应该儿女情长的…">
+		</dialog>
+		
+		<dialog id="39" ques="以前我经常和盖亚一起做战斗训练，现在大家碰面少了，真想再和他好好打一场。">
+			<answer des="他一定也这么想的。"/>
+			<answer des="人家有缪斯了，算了吧。"/>
+		</dialog>
+		
+		<dialog id="40" ques="哈哈，到时候你来做我们的裁判吧。">
+		</dialog>
+		
+		<dialog id="41" ques="我觉得不至于这样，盖亚应该也很想找我练练。">
+		</dialog>
+		
+		<dialog id="42" ques="你能告诉我，这个黑影是哪只精灵吗？">
+		</dialog>
+		
+		<dialog id="43" ques="你能找出属于这只精灵的技能吗？">
+		</dialog>
+		
+		<dialog id="44" ques="你能回答出这个问题吗？">
+		</dialog>
+		
+		<dialog id="45" ques="答对了，真厉害！不愧是宇宙圣皇。">
+		</dialog>
+		
+		<dialog id="46" ques="嘿，你答错了，还需要多多努力呀。">
+		</dialog>
+		
+		<dialog id="47" ques="有兴趣来一场战斗演习吗？试试你的实力。">
+			<answer des="来吧！"/>
+		</dialog>
+		
+		<dialog id="48" ques="你比我想象中的还要强，是值得信赖的战友。">
+		</dialog>
+		
+		<dialog id="49" ques="你还需要努力修炼呀，这种程度实在令人担忧。">
+		</dialog>
+		
+		<dialog id="50" ques="海兹尔星上有一座伪装堡垒，最近听说里面有海盗的踪迹，你能去那里侦查一下吗？">
+			<answer des="好的。"/>
+		</dialog>
+		
+		<dialog id="51" ques="伪装堡垒在罗格星系-海兹尔星，别迷路了。">
+			<answer des="放心，我认识路。"/>
+		</dialog>
+		
+		<dialog id="52" ques="嗯，这里看上去没什么异常，回去报告吧。">
+		</dialog>
+		
+		<dialog id="53" ques="伪装堡垒没什么异常，但是我们不能放松警惕。">
+		</dialog>
+		
+		<dialog id="54" ques="当初五帝在暗婆罗星上建立了基地，传说他们将暗婆罗星的核心藏在黑暗神庙里，请你去一探究竟。">
+			<answer des="包在我身上。"/>
+		</dialog>
+		
+		<dialog id="55" ques="黑暗神庙位于泰坦星系的暗婆罗星。">
+			<answer des="放心，我认识路。"/>
+		</dialog>
+		
+		<dialog id="56" ques="这里没有发现任何能量源，先回去吧。">
+		</dialog>
+		
+		<dialog id="57" ques="嗯，也许隐藏在其他地方…">
+		</dialog>
+		
+		<dialog id="58" ques="这段时间与你并肩作战，使我对你更加信任了，我们来一场切磋吧。如果你获得了胜利，我会送给你一份大礼。你只有1次机会，如果你输了，那么就没有礼物咯。">
+		</dialog>
+		
+		<dialog id="59" ques="你的实力确实很强，有你在，使我更有信心让这个宇宙越来越好了。">
+		</dialog>
+		
+		<dialog id="60" ques="虽然你输了，但是不必气馁，继续努力修炼吧。总有一天，你成为守护宇宙的英雄！">
+		</dialog>
+		
+		<dialog id="61" ques="你已经完全获得了我的认可，我会把帝王之羽·雷伊的传说级皮肤（适用于圣霆雷伊）送给你。">
+			<answer des="谢谢雷伊小哥哥!"/>
+		</dialog>
+		
+<!--第三期-->		
+		<dialog id="62" ques="陨星议会虽然在大战中销声匿迹了，但是很明显，他们一定在暗处谋划着什么…">
+			<answer des="确实不能掉以轻心！"/>
+			<answer des="只要他们别回来就好。"/>
+		</dialog>
+		
+		<dialog id="63" ques="虚空的力量诡异且强大，迟早会酿成大祸。">
+		</dialog>
+		
+		<dialog id="64" ques="不行，不能放任他们不管。">
+		</dialog>
+		
+		<dialog id="65" ques="索兰特去了龙裔圣地，寻找彻底清除我体内混沌之力的方法。其实，他不必这样，我是不会被混沌之力侵蚀的。">
+			<answer des="他也是为了你好啊。"/>
+			<answer des="我看你现在就很危险！"/>
+		</dialog>
+		
+		<dialog id="66" ques="是呀，索兰特会永远和我站在一起的。">
+		</dialog>
+		
+		<dialog id="67" ques="我并不是在渴望混沌之力，请相信我…">
+		</dialog>
+		
+		<dialog id="68" ques="这段日子我一直想回格雷斯星看看，看看格雷斯星的大家怎么样了，但是我怕我身上的混沌之力吓到他们…">
+			<answer des="别担心，我陪你去。"/>
+			<answer des="是挺吓人的，别去。"/>
+		</dialog>
+		
+		<dialog id="69" ques="那就一言为定，届时我们一起去。">
+		</dialog>
+		
+		<dialog id="70" ques="你这话真让我伤心…">
+		</dialog>
+		
+		<dialog id="71" ques="你能告诉我，这个黑影是哪只精灵吗？">
+		</dialog>
+		
+		<dialog id="72" ques="你能找出属于这只精灵的技能吗？">
+		</dialog>
+		
+		<dialog id="73" ques="你能回答出这个问题吗？">
+		</dialog>
+		
+		<dialog id="74" ques="答对了，真厉害！不愧是宇宙圣皇。">
+		</dialog>
+		
+		<dialog id="75" ques="嘿，你答错了，还需要多多努力呀。">
+		</dialog>
+		
+		<dialog id="76" ques="有兴趣来一场战斗演习吗？试试你的实力。">
+			<answer des="来吧！"/>
+		</dialog>
+		
+		<dialog id="77" ques="你比我想象中的还要强，是值得信赖的战友。">
+		</dialog>
+		
+		<dialog id="78" ques="你还需要努力修炼呀，这种程度实在令人担忧。">
+		</dialog>
+		
+		<dialog id="79" ques="朱雀告诉我，异能水晶能够暂时冻结住我体内的混沌之力，使我的神智保持清醒，你能去帮我取一些吗？">
+			<answer des="好的。"/>
+		</dialog>
+		
+		<dialog id="80" ques="异能水晶只存在于裂空星系的异能星-异能山谷中。">
+			<answer des="放心，我认识路。"/>
+		</dialog>
+		
+		<dialog id="81" ques="这就是异能水晶了吧，马上给布莱克送过去。">
+		</dialog>
+		
+		<dialog id="82" ques="非常感谢，赛尔！">
+		</dialog>
+		
+		<dialog id="83" ques="我叔叔已经彻底消亡了，但是我依然不放心。所以我在魔灵星设下了结界防止其他人进入。你能帮我去那检查下结界吗？">
+			<answer des="包在我身上。"/>
+		</dialog>
+		
+		<dialog id="84" ques="结界设在泰坦星系-魔灵星-魔窟之门，别走错了。">
+			<answer des="放心，我认识路。"/>
+		</dialog>
+		
+		<dialog id="85" ques="结界很正常，没有入侵的痕迹，回去报告吧。">
+		</dialog>
+		
+		<dialog id="86" ques="好的，这样我就放心了，谢谢你。">
+		</dialog>
+		
+		<dialog id="87" ques="这段时间与你并肩作战，使我对你更加信任了，我们来一场切磋吧。如果你获得了胜利，我会送给你一份大礼。你只有1次机会，如果你输了，那么就没有礼物咯。">
+		</dialog>
+		
+		<dialog id="88" ques="你的实力确实很强，有你在，使我更有信心让这个宇宙越来越好了。">
+		</dialog>
+		
+		<dialog id="89" ques="虽然你输了，但是不必气馁，继续努力修炼吧。总有一天，你成为守护宇宙的英雄！">
+		</dialog>
+		
+		<dialog id="90" ques="你已经完全获得了我的认可，我会把暗夜幽魔·布莱克的传说级皮肤（适用于混沌·布莱克）送给你。">
+			<answer des="谢谢布莱克小哥哥!"/>
+		</dialog>
+
+<!--第四期-->		
+		<dialog id="91" ques="说到记忆最深刻的战斗，一定是赫尔卡星的那次对决...">
+			<answer des="势均力敌的对手十分难得呢！"/>
+			<answer des="一定是因为你赢了！"/>
+		</dialog>
+		
+		<dialog id="92" ques="是的，他让我明白了战斗的意义。">
+		</dialog>
+		
+		<dialog id="93" ques="我赢他还不是小菜一碟~">
+		</dialog>
+		
+		<dialog id="94" ques="我透过缪斯的眼眸，仿佛看到了更完整的自己。">
+			<answer des="她一定也是这么想的。"/>
+			<answer des="情人眼里出西施？"/>
+		</dialog>
+		
+		<dialog id="95" ques="真的吗...那可真让人感到欣慰。">
+		</dialog>
+		
+		<dialog id="96" ques="哈哈哈，也许是吧！">
+		</dialog>
+		
+		<dialog id="97" ques="当我选择了圣灵之力，就已放下了属于自己的骄傲，大家充满信任的眼神是我收到过最好的礼物！">
+			<answer des="你的骄傲没有丢失，它仍旧流淌在你的血液中！"/>
+			<answer des="这样真的值得吗？"/>
+		</dialog>
+		
+		<dialog id="98" ques="我仿佛感受到它仍旧在给带给我力量！">
+		</dialog>
+		
+		<dialog id="99" ques="我相信我的判断！">
+		</dialog>
+		
+		<dialog id="100" ques="你能告诉我，这个黑影是哪只精灵吗？">
+		</dialog>
+		
+		<dialog id="101" ques="你能找出属于这只精灵的技能吗？">
+		</dialog>
+		
+		<dialog id="102" ques="你能回答出这个问题吗？">
+		</dialog>
+		
+		<dialog id="103" ques="答对了，真厉害！不愧是宇宙圣皇。">
+		</dialog>
+		
+		<dialog id="104" ques="嘿，你答错了，还需要多多努力呀。">
+		</dialog>
+		
+		<dialog id="105" ques="有兴趣来一场战斗演习吗？试试你的实力。">
+			<answer des="来吧！"/>
+		</dialog>
+		
+		<dialog id="106" ques="你比我想象中的还要强，是值得信赖的战友。">
+		</dialog>
+		
+		<dialog id="107" ques="你还需要努力修炼呀，这种程度实在令人担忧。">
+		</dialog>
+		
+		<dialog id="108" ques="我想给缪斯准备一个惊喜，她最喜欢幻瞳灵花了，你可以帮我摘两朵回来吗？">
+			<answer des="好的。"/>
+		</dialog>
+		
+		<dialog id="109" ques="幻瞳灵花只在卡兰星系—天蛇星—天蛇花原生长，可别走错了。">
+			<answer des="放心，我认识路。"/>
+		</dialog>
+		
+		<dialog id="110" ques="这花儿真好看，拿回去交给盖亚吧！">
+		</dialog>
+		
+		<dialog id="111" ques="非常感谢，赛尔！">
+		</dialog>
+		
+		<dialog id="112" ques="长久维持的狂热战意使我的神经受到了损伤，我的许多记忆已经模糊了，你可以去永恒之树收集一些果实帮助我修复记忆吗？">
+			<answer des="包在我身上。"/>
+		</dialog>
+		
+		<dialog id="113" ques="那种神奇的果实只有泰坦星系—永恒星—永恒之树才会生长。">
+			<answer des="放心，我认识路。"/>
+		</dialog>
+		
+		<dialog id="114" ques="如此清香的果实，一定可以帮助盖亚恢复记忆！">
+		</dialog>
+		
+		<dialog id="115" ques="好的，这样我就放心了，谢谢你。">
+		</dialog>
+		
+		<dialog id="116" ques="这段时间与你并肩作战，使我对你更加信任了，我们来一场切磋吧。如果你获得了胜利，我会送给你一份大礼。你只有1次机会，如果你输了，那么就没有礼物咯。">
+		</dialog>
+		
+		<dialog id="117" ques="你的实力确实很强，有你在，使我更有信心让这个宇宙越来越好了。">
+		</dialog>
+		
+		<dialog id="118" ques="虽然你输了，但是不必气馁，继续努力修炼吧。总有一天，你成为守护宇宙的英雄！">
+		</dialog>
+		
+		<dialog id="119" ques="你已经完全获得了我的认可，我会把战力觉醒·盖亚的传说级皮肤（适用于圣战盖亚）送给你。">
+			<answer des="谢谢你，盖亚!"/>
+		</dialog>
+
+<!--第五期-->
+		<dialog id="120" ques="他人口中“厄运”曾让我深陷绝望，幸运的是我仍会相信正义！">
+			<answer des="真为你感到骄傲！"/>
+			<answer des="那些人应该受到惩罚！"/>
+		</dialog>
+		
+		<dialog id="121" ques="骄傲......我要更努力才能不辜负大家的期望！">
+		</dialog>
+		
+		<dialog id="122" ques="过去的就让它过去吧。">
+		</dialog>
+		
+		<dialog id="123" ques="白昼下的怀特星充满了希望的味道~">
+			<answer des="希望存在于你的心中。"/>
+			<answer des="希望是一种什么味道？"/>
+		</dialog>
+		
+		<dialog id="124" ques="身边的人也总会带给我们希望！">
+		</dialog>
+		
+		<dialog id="125" ques="用心静静的去感受。">
+		</dialog>
+		
+		<dialog id="126" ques="这片大地广袤无垠、无穷无尽，我感受到了这个星球赋予我的庞大力量！">
+			<answer des="如今的你变得更强了！"/>
+			<answer des="大地之力枯竭了怎么办？"/>
+		</dialog>
+		
+		<dialog id="127" ques="我将使用这股力量来驱逐黑暗！">
+		</dialog>
+		
+		<dialog id="128" ques="我不会让这种事情发生！">
+		</dialog>
+		
+		<dialog id="129" ques="你能告诉我，这个黑影是哪只精灵吗？">
+		</dialog>
+		
+		<dialog id="130" ques="你能找出属于这只精灵的技能吗？">
+		</dialog>
+		
+		<dialog id="131" ques="你能回答出这个问题吗？">
+		</dialog>
+		
+		<dialog id="132" ques="答对了，真厉害！不愧是宇宙圣皇。">
+		</dialog>
+		
+		<dialog id="133" ques="嘿，你答错了，还需要多多努力呀。">
+		</dialog>
+		
+		<dialog id="134" ques="有兴趣来一场战斗演习吗？试试你的实力。">
+			<answer des="来吧！"/>
+		</dialog>
+		
+		<dialog id="135" ques="你比我想象中的还要强，是值得信赖的战友。">
+		</dialog>
+		
+		<dialog id="136" ques="你还需要努力修炼呀，这种程度实在令人担忧。">
+		</dialog>
+		
+		<dialog id="137" ques="太久没有欣赏到炫彩山的景色了，你可以帮我去那里拍张照吗？">
+			<answer des="包在我身上！"/>
+		</dialog>
+		
+		<dialog id="138" ques="只有在裂空星系—怀特星—炫彩山山脚才能拍到最美的景色">
+			<answer des="放心，我认识路。"/>
+		</dialog>
+		
+		<dialog id="139" ques="这里的景色还是这么美，赶快让卡修斯看看！">
+		</dialog>
+		
+		<dialog id="140" ques="非常感谢，赛尔！">
+		</dialog>
+		
+		<dialog id="141" ques="最近我总是梦到一些奇怪的事情，听说有一种善于占卜的萤火虫能解析梦境，你可以帮我问问这是怎么回事吗？">
+			<answer des="包在我身上。"/>
+		</dialog>
+		
+		<dialog id="142" ques="这种特殊的萤火虫只存在于罗格星系—拉铂尔星—拉铂尔秘境中。">
+			<answer des="我一定会找到的！"/>
+		</dialog>
+		
+		<dialog id="143" ques="原来是这样，我要赶快回去告诉卡修斯！">
+		</dialog>
+		
+		<dialog id="144" ques="好的，这样我就放心了，谢谢你。">
+		</dialog>
+		
+		<dialog id="145" ques="这段时间与你并肩作战，使我对你更加信任了，我们来一场切磋吧。如果你获得了胜利，我会送给你一份大礼。你只有1次机会，如果你输了，那么就没有礼物咯。">
+		</dialog>
+		
+		<dialog id="146" ques="你的实力确实很强，有你在，使我更有信心让这个宇宙越来越好了。">
+		</dialog>
+		
+		<dialog id="147" ques="虽然你输了，但是不必气馁，继续努力修炼吧。总有一天，你成为守护宇宙的英雄！">
+		</dialog>
+		
+		<dialog id="148" ques="你已经完全获得了我的认可，我会把大地护佑·卡修斯的传说级皮肤（适用于圣地卡修斯）送给你。">
+			<answer des="卡修斯，你真好!"/>
+		</dialog>
+		
+		
+
+	</dialogs>
+	
+
+	<ques>
+<!--第一期-->	
+		<q id="1" type="1" des=""  right="2" frame = "1">
+			<answer id="1" des="黑翼天马·克萨雷恩"/>
+			<answer id="2" des="火炎巨鹿·里奥斯"/>
+			<answer id="3" des="无治奇"/>
+			<answer id="4" des="冰晶麒麟"/>
+		</q>
+		
+		<q id="2" type="1" des=""  right="4" frame = "2">
+			<answer id="1" des="炫羽"/>
+			<answer id="2" des="智慧女神·雅典娜"/>
+			<answer id="3" des="梦·赫尔墨斯"/>
+			<answer id="4" des="天羽"/>
+		</q>
+		
+		<q id="3" type="2" des=""  right="4|7|9" petid="3241">
+			<answer id="1" des="凌天剑道"/>
+			<answer id="2" des="光剑幻影"/>
+			<answer id="3" des="无影光剑破"/>
+			<answer id="4" des="红莲剑光"/>
+			<answer id="5" des="凛锋剑气"/>
+			<answer id="6" des="极锋钧天剑"/>
+			<answer id="7" des="无华剑道"/>
+			<answer id="8" des="剑刃长击"/>
+			<answer id="9" des="天罗斩"/>
+		</q>
+		
+		<q id="4" type="2" des=""  right="3|4|5" petid="2851">
+			<answer id="1" des="无影旋风翅"/>
+			<answer id="2" des="疾风气流"/>
+			<answer id="3" des="风暴之翼"/>
+			<answer id="4" des="风舞耀世决"/>
+			<answer id="5" des="风岚狂舞"/>
+			<answer id="6" des="羽翼遮云斩"/>
+			<answer id="7" des="飞旋光火"/>
+			<answer id="8" des="凌风长鸣"/>
+			<answer id="9" des="风云光舞"/>
+		</q>
+		
+		<q id="5" type="3" des="罗曼·罗兰的《名人传》中不包含以下谁的传记？"  right="3">
+			<answer id="1" des="贝多芬"/>
+			<answer id="2" des="列夫·托尔斯泰"/>
+			<answer id="3" des="毕加索"/>
+			<answer id="4" des="米开朗琪罗"/>
+		</q>
+		
+		<q id="6" type="3" des="月照星魂去挽尘星找谁？"  right="2">
+			<answer id="1" des="天启星魂"/>
+			<answer id="2" des="墨影星魂"/>
+			<answer id="3" des="伽玛星魂"/>
+			<answer id="4" des="爆破先锋"/>
+		</q>
+		
+<!--第二期-->		
+		<q id="7" type="1" des=""  right="4" frame = "3">
+			<answer id="1" des="暴君史莱姆"/>
+			<answer id="2" des="黄金史莱姆"/>
+			<answer id="3" des="攻击史莱姆"/>
+			<answer id="4" des="体力史莱姆"/>
+		</q>
+		
+		<q id="8" type="1" des=""  right="3" frame = "4">
+			<answer id="1" des="太玄·九天圣龙"/>
+			<answer id="2" des="帝龙邪尊"/>
+			<answer id="3" des="邪冥龙帝"/>
+			<answer id="4" des="天尊龙帝"/>
+		</q>
+		
+		<q id="9" type="2" des=""  right="3|6|8" petid="3847">
+			<answer id="1" des="亘古夺魄斩"/>
+			<answer id="2" des="聚邪秘咒"/>
+			<answer id="3" des="铸魂之心"/>
+			<answer id="4" des="铸魂之灾"/>
+			<answer id="5" des="亘古魄命罚"/>
+			<answer id="6" des="天道契约"/>
+			<answer id="7" des="绝望镰刀"/>
+			<answer id="8" des="魂·罪恶解脱"/>
+			<answer id="9" des="极龙破音嚎"/>
+		</q>
+		
+		<q id="10" type="2" des=""  right="4|5|6" petid="3626">
+			<answer id="1" des="剧毒之翼"/>
+			<answer id="2" des="幻影毒尾刺"/>
+			<answer id="3" des="花蜜之舞"/>
+			<answer id="4" des="烈毒蔓延"/>
+			<answer id="5" des="万里绝息"/>
+			<answer id="6" des="天毒摄魂煞"/>
+			<answer id="7" des="魔虫血杀阵"/>
+			<answer id="8" des="毒液腐蚀"/>
+			<answer id="9" des="刺耳虫鸣"/>
+		</q>
+		
+		<q id="11" type="3" des="以下哪项不属于王安石变法中颁布的新制度？"  right="3">
+			<answer id="1" des="保甲法"/>
+			<answer id="2" des="市易法"/>
+			<answer id="3" des="两税法"/>
+			<answer id="4" des="募役法"/>
+		</q>
+		
+		<q id="12" type="3" des="赛米星保卫战中，是谁突围出去寻求援助？"  right="2">
+			<answer id="1" des="伊芙莉莎"/>
+			<answer id="2" des="辛西娅"/>
+			<answer id="3" des="星域之魂"/>
+			<answer id="4" des="沐沐"/>
+		</q>
+		
+<!--第三期-->		
+		<q id="13" type="1" des=""  right="4" frame = "5">
+			<answer id="1" des="圣光·奥尔德"/>
+			<answer id="2" des="神·阿波罗"/>
+			<answer id="3" des="圣瞳·天蛇太祖"/>
+			<answer id="4" des="鬼才司马懿"/>
+		</q>
+		
+		<q id="14" type="1" des=""  right="2" frame = "6">
+			<answer id="1" des="凯西恩"/>
+			<answer id="2" des="提普斯"/>
+			<answer id="3" des="莱奥拉多"/>
+			<answer id="4" des="拉法耶尔"/>
+		</q>
+		
+		<q id="15" type="2" des=""  right="3|5|7" petid="3803">
+			<answer id="1" des="幽冥地脉"/>
+			<answer id="2" des="绝地飞岩"/>
+			<answer id="3" des="地元摧"/>
+			<answer id="4" des="极尘崩坏"/>
+			<answer id="5" des="永恒咒印"/>
+			<answer id="6" des="拔地摇山破"/>
+			<answer id="7" des="灵魂审判"/>
+			<answer id="8" des="暗影猛击"/>
+			<answer id="9" des="巨石震颤"/>
+		</q>
+		
+		<q id="16" type="2" des=""  right="1|2|7" petid="3463">
+			<answer id="1" des="诸界混一击"/>
+			<answer id="2" des="不朽空间"/>
+			<answer id="3" des="光翼魂天破"/>
+			<answer id="4" des="光灵耀世"/>
+			<answer id="5" des="万仞极光破"/>
+			<answer id="6" des="天辉斩魔剑"/>
+			<answer id="7" des="光之穿行"/>
+			<answer id="8" des="夺天闪耀"/>
+			<answer id="9" des="神羽灵威"/>
+		</q>
+		
+		<q id="17" type="3" des="以下半岛中，纬度最高的是？"  right="3">
+			<answer id="1" des="伊比利亚半岛"/>
+			<answer id="2" des="巴尔干半岛"/>
+			<answer id="3" des="斯堪的纳维亚半岛"/>
+			<answer id="4" des="亚平宁半岛"/>
+		</q>
+		
+		<q id="18" type="3" des="川的真实身份是谁？"  right="4">
+			<answer id="1" des="菲克曼"/>
+			<answer id="2" des="云晔"/>
+			<answer id="3" des="喵九儿"/>
+			<answer id="4" des="喵佐"/>
+		</q>
+		
+<!--第四期-->
+		<q id="19" type="1" des=""  right="2" frame = "7">
+			<answer id="1" des="伊芙丽"/>
+			<answer id="2" des="千裳"/>
+			<answer id="3" des="腊梅·花信"/>
+			<answer id="4" des="牌灵·发"/>
+		</q>
+		
+		<q id="20" type="1" des=""  right="4" frame = "8">
+			<answer id="1" des="大威势明王"/>
+			<answer id="2" des="卡恩特"/>
+			<answer id="3" des="愤怒之灵"/>
+			<answer id="4" des="冥王·苍月影"/>
+		</q>
+		
+		<q id="21" type="2" des=""  right="4|5|9" petid="2535">
+			<answer id="1" des="真龙觉醒"/>
+			<answer id="2" des="狂龙出击"/>
+			<answer id="3" des="天威龙甲"/>
+			<answer id="4" des="天灵龙霸闪"/>
+			<answer id="5" des="狂怒龙牙弹"/>
+			<answer id="6" des="龙魂觉醒"/>
+			<answer id="7" des="镇魂龙吼"/>
+			<answer id="8" des="龙扬九州"/>
+			<answer id="9" des="破灭龙息"/>
+		</q>
+		
+		<q id="22" type="2" des=""  right="2|6|7" petid="2828">
+			<answer id="1" des="战甲之心"/>
+			<answer id="2" des="音波攻击"/>
+			<answer id="3" des="冲击光波"/>
+			<answer id="4" des="光荣牺牲"/>
+			<answer id="5" des="无尽希望"/>
+			<answer id="6" des="充能装甲"/>
+			<answer id="7" des="导力光束"/>
+			<answer id="8" des="能量核心"/>
+			<answer id="9" des="量子护盾"/>
+		</q>
+		
+		<q id="23" type="3" des="以下电影中，不属于“时空三部曲”的是？"  right="3">
+			<answer id="1" des="《海上钢琴师》"/>
+			<answer id="2" des="《西西里的美丽传说》"/>
+			<answer id="3" des="《美丽人生》"/>
+			<answer id="4" des="《天堂电影院》"/>
+		</q>
+		
+		<q id="24" type="3" des="尘是哪个地图场景刷新的野怪精灵？"  right="2">
+			<answer id="1" des="不忘街"/>
+			<answer id="2" des="挽尘湾"/>
+			<answer id="3" des="不忘城"/>
+			<answer id="4" des="尘沙星海"/>
+		</q>
+		
+<!--第五期-->
+		<q id="25" type="1" des=""  right="2" frame = "9">
+			<answer id="1" des="冠绝神龙"/>
+			<answer id="2" des="极影魔兽"/>
+			<answer id="3" des="魂王·暗翼影"/>
+			<answer id="4" des="黯穹影皇"/>
+		</q>
+		
+		<q id="26" type="1" des=""  right="4" frame = "10">
+			<answer id="1" des="哈恩特"/>
+			<answer id="2" des="蒙琪"/>
+			<answer id="3" des="风翼飞镰"/>
+			<answer id="4" des="塔兰度斯"/>
+		</q>
+		
+		<q id="27" type="2" des=""  right="4|7|9" petid="3839">
+			<answer id="1" des="虚空突袭"/>
+			<answer id="2" des="幽冥夜刃"/>
+			<answer id="3" des="恶灵摄魂"/>
+			<answer id="4" des="颤栗诅咒"/>
+			<answer id="5" des="灵魂燃烬"/>
+			<answer id="6" des="生命剥离"/>
+			<answer id="7" des="暗黑操控"/>
+			<answer id="8" des="冥魂之夜"/>
+			<answer id="9" des="冥魂之躯"/>
+		</q>
+		
+		<q id="28" type="2" des=""  right="3|4|5" petid="3780">
+			<answer id="1" des="寒冰瓦解"/>
+			<answer id="2" des="冰霜诅咒"/>
+			<answer id="3" des="飞雪碎冰袭"/>
+			<answer id="4" des="冰晶魔法"/>
+			<answer id="5" des="霜冻利爪"/>
+			<answer id="6" des="冰魄寒刃"/>
+			<answer id="7" des="寒风之境"/>
+			<answer id="8" des="寒影冰心"/>
+			<answer id="9" des="千年冰封"/>
+		</q>
+		
+		<q id="29" type="3" des="科比·布莱恩特生涯共获得过几次NBA总冠军？"  right="3">
+			<answer id="1" des="3次"/>
+			<answer id="2" des="4次"/>
+			<answer id="3" des="5次"/>
+			<answer id="4" des="6次"/>
+		</q>
+		
+		<q id="30" type="3" des="般若星的捣蛋鬼是谁？"  right="2">
+			<answer id="1" des="塔克林"/>
+			<answer id="2" des="暗黑球球"/>
+			<answer id="3" des="普尔扎"/>
+			<answer id="4" des="阿索卡"/>
+		</q>
+		
+
+	</ques>
+	
+<tasks timefail="任务超时，请重新接取任务！">
+<!--第一期-->	
+		<task id="1001" type="1" taskdes="聊天1" start="3" over="4" fail="5" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1002" type="1" taskdes="聊天2" start="6" over="7" fail="8" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1003" type="1" taskdes="聊天3" start="9" over="10" fail="11" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1004" type="2" taskdes="问答找黑影1" start="12" over="15" fail="16" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue1Panel|1" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1005" type="2" taskdes="问答找黑影2" start="12" over="15" fail="16" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue1Panel|2" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1006" type="2" taskdes="问答找技能1" start="13" over="15" fail="16" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue2Panel|3" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1007" type="2" taskdes="问答找技能2" start="13" over="15" fail="16" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue2Panel|4" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1008" type="2" taskdes="问答小百科1" start="14" over="15" fail="16" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue3Panel|5" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1009" type="2" taskdes="问答小百科2" start="14" over="15" fail="16" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue3Panel|6" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1010" type="3" taskdes="战斗1" start="17" over="18" fail="19" mapid="" tasktime="" fun="4" par="0" friendly="30" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1011" type="3" taskdes="战斗2" start="17" over="18" fail="19" mapid="" tasktime="" fun="4" par="0" friendly="30" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1012" type="4" taskdes="请前往：卡兰星系-普雷空间站-几米塔" start="20|21" over="23" fail="" mapid="334" tasktime="300" fun="5" par="22" friendly="30" reward="1|80000;300697|4;3|60000"/>
+		<task id="1013" type="4" taskdes="请前往：卡兰星系-斯科尔星-斯科尔浮岛" start="25|26" over="28" fail="" mapid="330" tasktime="300" fun="5" par="27" friendly="30" reward="1|80000;300697|4;3|60000"/>
+		<task id="1014" type="5" taskdes="升星1" start="29" over="30" fail="31" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1015" type="5" taskdes="升星2" start="29" over="30" fail="31" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1016" type="5" taskdes="升星3" start="29" over="30" fail="31" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1017" type="5" taskdes="升星4" start="29" over="30" fail="31" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1018" type="5" taskdes="升星5" start="29" over="32" fail="31" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		
+<!--第二期-->		
+		<task id="1019" type="1" taskdes="聊天1" start="33" over="34" fail="35" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1020" type="1" taskdes="聊天2" start="36" over="37" fail="38" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1021" type="1" taskdes="聊天3" start="39" over="40" fail="41" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1022" type="2" taskdes="问答找黑影1" start="42" over="45" fail="46" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue1Panel|7" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1023" type="2" taskdes="问答找黑影2" start="42" over="45" fail="46" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue1Panel|8" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1024" type="2" taskdes="问答找技能1" start="43" over="45" fail="46" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue2Panel|9" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1025" type="2" taskdes="问答找技能2" start="43" over="45" fail="46" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue2Panel|10" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1026" type="2" taskdes="问答小百科1" start="44" over="45" fail="46" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue3Panel|11" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1027" type="2" taskdes="问答小百科2" start="44" over="45" fail="46" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue3Panel|12" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1028" type="3" taskdes="战斗1" start="47" over="48" fail="49" mapid="" tasktime="" fun="4" par="0" friendly="30" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1029" type="3" taskdes="战斗2" start="47" over="48" fail="49" mapid="" tasktime="" fun="4" par="0" friendly="30" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1030" type="4" taskdes="请前往：罗格星系-海兹尔星-伪装堡垒" start="50|51" over="53" fail="" mapid="440" tasktime="300" fun="5" par="52" friendly="30" reward="1|80000;300697|4;3|60000"/>
+		<task id="1031" type="4" taskdes="请前往：泰坦星系-暗婆罗星-黑暗神庙" start="54|55" over="57" fail="" mapid="1104" tasktime="300" fun="5" par="56" friendly="30" reward="1|80000;300697|4;3|60000"/>
+		<task id="1032" type="5" taskdes="升星1" start="58" over="59" fail="60" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1033" type="5" taskdes="升星2" start="58" over="59" fail="60" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1034" type="5" taskdes="升星3" start="58" over="59" fail="60" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1035" type="5" taskdes="升星4" start="58" over="59" fail="60" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1036" type="5" taskdes="升星5" start="58" over="61" fail="60" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>	
+		
+<!--第三期-->		
+		<task id="1037" type="1" taskdes="聊天1" start="62" over="63" fail="64" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1038" type="1" taskdes="聊天2" start="65" over="66" fail="67" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1039" type="1" taskdes="聊天3" start="68" over="69" fail="70" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1040" type="2" taskdes="问答找黑影1" start="71" over="74" fail="75" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue1Panel|13" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1041" type="2" taskdes="问答找黑影2" start="71" over="74" fail="75" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue1Panel|14" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1042" type="2" taskdes="问答找技能1" start="72" over="74" fail="75" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue2Panel|15" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1043" type="2" taskdes="问答找技能2" start="72" over="74" fail="75" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue2Panel|16" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1044" type="2" taskdes="问答小百科1" start="73" over="74" fail="75" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue3Panel|17" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1045" type="2" taskdes="问答小百科2" start="73" over="74" fail="75" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue3Panel|18" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1046" type="3" taskdes="战斗1" start="76" over="77" fail="78" mapid="" tasktime="" fun="4" par="0" friendly="30" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1047" type="3" taskdes="战斗2" start="76" over="77" fail="78" mapid="" tasktime="" fun="4" par="0" friendly="30" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1048" type="4" taskdes="请前往：裂空星系-异能星-异能山谷" start="79|80" over="82" fail="" mapid="669" tasktime="300" fun="5" par="81" friendly="30" reward="1|80000;300697|4;3|60000"/>
+		<task id="1049" type="4" taskdes="请前往：泰坦星系-魔灵星-魔窟之门" start="83|84" over="86" fail="" mapid="982" tasktime="300" fun="5" par="85" friendly="30" reward="1|80000;300697|4;3|60000"/>
+		<task id="1050" type="5" taskdes="升星1" start="87" over="88" fail="89" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1051" type="5" taskdes="升星2" start="87" over="88" fail="89" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1052" type="5" taskdes="升星3" start="87" over="88" fail="89" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1053" type="5" taskdes="升星4" start="87" over="88" fail="89" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1054" type="5" taskdes="升星5" start="87" over="90" fail="89" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		
+<!--第四期-->
+		<task id="1055" type="1" taskdes="聊天1" start="91" over="92" fail="93" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1056" type="1" taskdes="聊天2" start="94" over="95" fail="96" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1057" type="1" taskdes="聊天3" start="97" over="98" fail="99" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1058" type="2" taskdes="问答找黑影1" start="100" over="103" fail="104" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue1Panel|19" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1059" type="2" taskdes="问答找黑影2" start="100" over="103" fail="104" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue1Panel|20" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1060" type="2" taskdes="问答找技能1" start="101" over="103" fail="104" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue2Panel|21" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1061" type="2" taskdes="问答找技能2" start="101" over="103" fail="104" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue2Panel|22" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1062" type="2" taskdes="问答小百科1" start="102" over="103" fail="104" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue3Panel|23" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1063" type="2" taskdes="问答小百科2" start="102" over="103" fail="104" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue3Panel|24" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1064" type="3" taskdes="战斗1" start="105" over="106" fail="107" mapid="" tasktime="" fun="4" par="0" friendly="30" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1065" type="3" taskdes="战斗2" start="105" over="106" fail="107" mapid="" tasktime="" fun="4" par="0" friendly="30" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1066" type="4" taskdes="请前往：卡兰星系—天蛇星—天蛇花原" start="108|109" over="111" fail="" mapid="95" tasktime="300" fun="5" par="110" friendly="30" reward="1|80000;300697|4;3|60000"/>
+		<task id="1067" type="4" taskdes="请前往：泰坦星系-永恒星-永恒之树" start="112|113" over="115" fail="" mapid="969" tasktime="300" fun="5" par="114" friendly="30" reward="1|80000;300697|4;3|60000"/>
+		<task id="1068" type="5" taskdes="升星1" start="116" over="117" fail="118" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1069" type="5" taskdes="升星2" start="116" over="117" fail="118" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1070" type="5" taskdes="升星3" start="116" over="117" fail="118" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1071" type="5" taskdes="升星4" start="116" over="117" fail="118" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1072" type="5" taskdes="升星5" start="116" over="119" fail="118" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+	
+<!--第五期-->
+		<task id="1073" type="1" taskdes="聊天1" start="120" over="121" fail="122" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1074" type="1" taskdes="聊天2" start="123" over="124" fail="125" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1075" type="1" taskdes="聊天3" start="126" over="127" fail="128" mapid="" tasktime="" fun="3" par="" friendly="20" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1076" type="2" taskdes="问答找黑影1" start="129" over="132" fail="133" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue1Panel|25" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1077" type="2" taskdes="问答找黑影2" start="129" over="132" fail="133" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue1Panel|26" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1078" type="2" taskdes="问答找技能1" start="130" over="132" fail="133" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue2Panel|27" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1079" type="2" taskdes="问答找技能2" start="130" over="132" fail="133" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue2Panel|28" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1080" type="2" taskdes="问答小百科1" start="131" over="132" fail="133" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue3Panel|29" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1081" type="2" taskdes="问答小百科2" start="131" over="132" fail="133" mapid="" tasktime="30" fun="2" par="ZhanlianSkinQue3Panel|30" friendly="20" reward="1|80000;300075|6;3|60000"/>
+		<task id="1082" type="3" taskdes="战斗1" start="134" over="135" fail="136" mapid="" tasktime="" fun="4" par="0" friendly="30" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1083" type="3" taskdes="战斗2" start="134" over="135" fail="136" mapid="" tasktime="" fun="4" par="0" friendly="30" reward="1|80000;1400352|80000;3|60000"/>
+		<task id="1084" type="4" taskdes="请前往：裂空星系—怀特星—炫彩山山脚" start="137|138" over="140" fail="" mapid="445" tasktime="300" fun="5" par="139" friendly="30" reward="1|80000;300697|4;3|60000"/>
+		<task id="1085" type="4" taskdes="请前往：罗格星系—拉铂尔星—拉铂尔秘境" start="141|142" over="144" fail="" mapid="515" tasktime="300" fun="5" par="143" friendly="30" reward="1|80000;300697|4;3|60000"/>
+		<task id="1086" type="5" taskdes="升星1" start="145" over="146" fail="147" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1087" type="5" taskdes="升星2" start="145" over="146" fail="147" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1088" type="5" taskdes="升星3" start="145" over="146" fail="147" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1089" type="5" taskdes="升星4" start="145" over="146" fail="147" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		<task id="1090" type="5" taskdes="升星5" start="145" over="148" fail="147" mapid="" tasktime="" fun="4" par="0" friendly="" reward=""/>
+		
+		
+	</tasks>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</root>

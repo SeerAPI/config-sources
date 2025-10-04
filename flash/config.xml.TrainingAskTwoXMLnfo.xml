@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<trainingAsk id="1" askDes="下列能源物质中，作为人体运动主要能源物质的是？" Word1="蛋白质" Word2="脂肪" Word3="糖"/>
+	<trainingAsk id="2" askDes="最容易导致低血糖症状发生的运动时间段是？" Word1="早晨" Word2="下午" Word3="晚间"/>
+	<trainingAsk id="3" askDes="补充钙时，为了让钙离子转化后让肠道更容易吸收，最好同时补充？" Word1="维生素A" Word2="维生素B" Word3="维生素D"/>
+	<trainingAsk id="4" askDes="以下哪种食物富含微量元素碘？" Word1="苹果" Word2="海带" Word3="胡萝卜"/>
+	<trainingAsk id="5" askDes="运动中最易发生痉挛的肌肉是？" Word1="小腿腓肠肌" Word2="足屈拇肌" Word3="肱二头肌"/>
+	<trainingAsk id="6" askDes="夏季在烈日下剧烈运动出汗过多时，为预防中暑应多喝？" Word1="糖水" Word2="淡盐水" Word3="白开水"/>
+	<trainingAsk id="7" askDes="体育运动中最常见的关节损伤是？" Word1="腕关节" Word2="肩关节" Word3="踝关节"/>
+	<trainingAsk id="8" askDes="世界卫生组织建议每人每日食盐用量不超过多少为宜？" Word1="3克" Word2="6克" Word3="9克"/>
+	<trainingAsk id="9" askDes="下列不属于关节脱位的临床表现是？" Word1="肌肉松弛" Word2="局部疼痛" Word3="关节肿胀"/>
+	<trainingAsk id="10" askDes="当人体长时间在高温环境或日光下曝晒，易引起哪种疾病？" Word1="热伤风" Word2="灼伤" Word3="中暑"/>
+	<trainingAsk id="11" askDes="运动损伤后皮肤和粘膜的完整性遭到破坏，伤口与外界相通的损伤称为？" Word1="肌肉拉伤" Word2="开放性损伤" Word3="闭合性损伤"/>
+	<trainingAsk id="12" askDes="体育运动中因外力作用使关节面失去正常的连接关系称为？" Word1="关节脱位" Word2="关节扭伤" Word3="关节骨折"/>
+	<trainingAsk id="13" askDes="什么是构成血红蛋白、肌红蛋白等物质的重要元素？" Word1="磷" Word2="钾" Word3="铁"/>
+	<trainingAsk id="14" askDes="汗液中主要的电解质是？" Word1="钠和氯离子" Word2="氧和氢离子" Word3="氢和钠离子"/>
+	<trainingAsk id="15" askDes="流行性感冒的高发季节为？" Word1="春夏季" Word2="夏秋季" Word3="秋冬季"/>
+	<trainingAsk id="16" askDes="经常牙龈出血、鼻流血，可能与缺乏什么有关？" Word1="维生素B" Word2="维生素C" Word3="维生素D"/>
+	<trainingAsk id="17" askDes="跑步时哪里着地，有利于缩短步幅，防止膝关节损伤？" Word1="前脚掌" Word2="脚跟" Word3="脚尖"/>
+	<trainingAsk id="18" askDes="眼睛怕光、干燥、已流泪时，应注意多补充？" Word1="维生素A" Word2="维生素B" Word3="维生素D"/>
+	<trainingAsk id="19" askDes="以下各营养素中，哪个不能提供热能？" Word1="脂肪" Word2="蛋白质" Word3="维生素"/>
+	<trainingAsk id="20" askDes="什么是能量与B族维生素和无机盐的主要来源？" Word1="薯类" Word2="谷类" Word3="糖类"/>
+</root>
