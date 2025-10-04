@@ -1,0 +1,42 @@
+name: Auto extract
+
+on:
+  schedule:
+    - cron: '0 10 * * *'
+
+  workflow_dispatch:
+    inputs:
+      debug_enabled:
+        type: boolean
+        description: 'Run the build with tmate debugging enabled (https://github.com/marketplace/actions/debugging-with-tmate)'
+        required: false
+        default: false
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Set up uv
+      uses: astral-sh/setup-uv@v1
+      with:
+        uv-version: 'latest'
+
+    - name: Initialize environment
+      run: uv sync
+
+    - name: Setup tmate session
+      uses: mxschmitt/action-tmate@v3
+      if: ${{ github.event_name == 'workflow_dispatch' && inputs.debug_enabled }}
+
+    - name: run script
+      run: |
+        uv run _scripts/update_config.py
