@@ -1,4 +1,4 @@
-name: Auto extract
+name: Auto Update Config
 
 on:
   schedule:
