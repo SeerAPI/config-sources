@@ -286,6 +286,8 @@ def main() -> None:
 	from pytz import timezone
 
 	repo = Repo(".")
+	# 记录当前的 HEAD commit
+	initial_head = repo.head.commit
 
 	platforms: list[tuple[str, Platform]] = [
 		("flash", Flash(Path("flash"))),
@@ -307,9 +309,13 @@ def main() -> None:
 			f"{name}: Update to {remote_version} | Time: {time_str}"
 		)
 	
-	if repo.index.diff(None):
-		repo.remotes[0].push()
+	# 检查 HEAD 是否改变（即是否有新的 commit）
+	if repo.head.commit == initial_head:
+		print("没有更新，跳过推送")
+		return
 
+	print("推送本地提交...")
+	repo.remotes[0].push()
 
 if __name__ == "__main__":
 	main()
