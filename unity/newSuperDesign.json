@@ -50014,6 +50014,239 @@
           ]
         },
         "id": 217
+      },
+      {
+        "achievement": {
+          "branch_id": 0,
+          "rule_id": 0
+        },
+        "configure": {
+          "exchange_id": [
+            14618,
+            14619,
+            14620
+          ],
+          "exchange_product_id": [
+            261974,
+            261979,
+            261975
+          ],
+          "exchange_mintmark": 0,
+          "fail_times": 301928,
+          "progress_value": 301930,
+          "time_value": 301931,
+          "times": 3,
+          "needmon": 0
+        },
+        "easy_battle": {
+          "desc": "依次战胜Battle1-5即可通关",
+          "task": [
+            {
+              "battle_boss": 4649,
+              "battle_type": 2,
+              "battlelevel": 1,
+              "desc": "【简单的敌人，先制+1】",
+              "id": 1
+            },
+            {
+              "battle_boss": 3302,
+              "battle_type": 2,
+              "battlelevel": 2,
+              "desc": "【普通的敌人，先制+1，每回合附加一定固定伤害】",
+              "id": 2
+            },
+            {
+              "battle_boss": 3467,
+              "battle_type": 1,
+              "battlelevel": 2,
+              "desc": "【普通的敌人，先制+2，每回合附加一定固定伤害，每回合必定打出致命一击】",
+              "id": 3
+            },
+            {
+              "battle_boss": 3786,
+              "battle_type": 2,
+              "battlelevel": 3,
+              "desc": "【普通的敌人，先制+3，每回合附加一定固定伤害，每回合消除对手回合类效果，每回合消除对手能力提升状态】",
+              "id": 4
+            },
+            {
+              "battle_boss": 4820,
+              "battle_type": 2,
+              "battlelevel": 3,
+              "desc": "【有点难的敌人，先制+3，每回合附加一定固定伤害，无法探知其他能力】",
+              "id": 5
+            }
+          ],
+          "battle_cnt": 5,
+          "out": 12,
+          "task_style": 1
+        },
+        "hard_battle": {
+          "desc": "依次战胜Battle1-5即可通关",
+          "rule_id": "1 3 4 5",
+          "task": [
+            {
+              "battle_boss": 4344,
+              "battle_type": 2,
+              "battlelevel": 4,
+              "desc": "【较难的敌人，必定先手，免疫瞬杀，对手无法使用属性技能，每回合附加一定固定伤害，无法探知其他能力】",
+              "id": 1
+            },
+            {
+              "battle_boss": 3302,
+              "battle_type": 2,
+              "battlelevel": 4,
+              "desc": "【较难的敌人，必定先手，免疫瞬杀，对手无法使用属性技能，每回合附加一定固定伤害，无法探知其他能力】",
+              "id": 2
+            },
+            {
+              "battle_boss": 3467,
+              "battle_type": 1,
+              "battlelevel": 5,
+              "desc": "【十分困难的敌人，对手无法使用属性技能，每回合附加一定固定伤害，无法探知其他能力】",
+              "id": 3
+            },
+            {
+              "battle_boss": 3786,
+              "battle_type": 2,
+              "battlelevel": 6,
+              "desc": "【极难的敌人，无法探知能力】",
+              "id": 4
+            },
+            {
+              "battle_boss": 4820,
+              "battle_type": 2,
+              "battlelevel": 6,
+              "desc": "【极难的敌人，无法探知能力】",
+              "id": 5
+            }
+          ],
+          "battle_cnt": 5,
+          "out": 36,
+          "task_style": 1
+        },
+        "normal_battle": {
+          "desc": "依次战胜Battle1-5即可通关",
+          "rule_id": "2 1",
+          "task": [
+            {
+              "battle_boss": 4649,
+              "battle_type": 2,
+              "battlelevel": 3,
+              "desc": "【有点难的敌人，先制+3，闪避率提升了许多，每回合提升自身全部能力值，每回合必定打出致命一击】",
+              "id": 1
+            },
+            {
+              "battle_boss": 3302,
+              "battle_type": 2,
+              "battlelevel": 4,
+              "desc": "【较难的敌人，先制+3，每回合附加一定固定伤害，每回合提升自身全部能力值，体力过低时恢复所有体力】",
+              "id": 2
+            },
+            {
+              "battle_boss": 3467,
+              "battle_type": 1,
+              "battlelevel": 4,
+              "desc": "【较难的敌人，先制+6，每回合消除对手回合类效果，无法探知其他能力】",
+              "id": 3
+            },
+            {
+              "battle_boss": 3786,
+              "battle_type": 2,
+              "battlelevel": 5,
+              "desc": "【十分困难的敌人，每回合附加一定固定伤害，每回合消除对手回合类效果，无法探知其他能力】",
+              "id": 4
+            },
+            {
+              "battle_boss": 4820,
+              "battle_type": 2,
+              "battlelevel": 5,
+              "desc": "【十分困难的敌人，对手无法使用属性技能，无法探知其他能力】",
+              "id": 5
+            }
+          ],
+          "battle_cnt": 5,
+          "out": 18,
+          "task_style": 1
+        },
+        "reward": {
+          "gain_value": 126136,
+          "item_id": 2400520,
+          "mint_mark_id": 0,
+          "monster_id": 4820
+        },
+        "rules": {
+          "rule": [
+            {
+              "args": "",
+              "check_tips": "本关卡在挑战中，不可重复上阵（出战背包派出过的）精灵",
+              "fail_tips": "",
+              "id": 1,
+              "mould_id": 1,
+              "repeat_tips": "背包内以下精灵放入过出战背包，不可重复出战：\\n{0}",
+              "user_info": "301904 301905 301906 301907 301908 301909 301910 301911 301912 301913 301914 301915 301916 301917 301918 301919 301920 301921 301922 301923 301924 301925 301926 301927"
+            },
+            {
+              "args": "6",
+              "check_tips": "每场battle需要在6回合内击败BOSS，否则battle按失败结算",
+              "fail_tips": "很抱歉，战斗未在6回合内结束，结算为失败！",
+              "id": 2,
+              "mould_id": 2,
+              "repeat_tips": "",
+              "user_info": ""
+            },
+            {
+              "args": "3022 3894 3711",
+              "check_tips": "本关卡不可使用精灵：王之哈莫、千裳、圣光莫妮卡",
+              "fail_tips": "",
+              "id": 3,
+              "mould_id": 3,
+              "repeat_tips": "",
+              "user_info": ""
+            },
+            {
+              "args": "100",
+              "check_tips": "出战精灵需等于100级",
+              "fail_tips": "",
+              "id": 4,
+              "mould_id": 4,
+              "repeat_tips": "",
+              "user_info": ""
+            },
+            {
+              "args": "3",
+              "check_tips": "关卡挑战中的对战累计失败次数＞3次，则本轮关卡挑战自动放弃",
+              "fail_tips": "很抱歉，本关卡中对战累计失败次数已大于3次，挑战失败！",
+              "id": 5,
+              "mould_id": 5,
+              "repeat_tips": "",
+              "user_info": "301928"
+            },
+            {
+              "args": "3",
+              "check_tips": "一天之内连续胜利此难度关卡3次，即可解锁本关卡扫荡功能（需要连续胜利，不可中断）",
+              "fail_tips": "",
+              "id": 6,
+              "mould_id": 6,
+              "repeat_tips": "",
+              "user_info": "301929"
+            }
+          ]
+        },
+        "sweep": {
+          "product_id": [
+            0,
+            0,
+            261976,
+            0,
+            0,
+            261977,
+            0,
+            0,
+            261978
+          ]
+        },
+        "id": 218
       }
     ]
   }

@@ -12632,6 +12632,12 @@
         "pet_id": 4818
       },
       {
+        "move_id": 38107,
+        "move_name1": "幽炎",
+        "move_name2": "噬魂破",
+        "pet_id": 4820
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

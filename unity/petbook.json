@@ -1414,8 +1414,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4818,
-            "image_id": 4818,
+            "id": 4820,
+            "image_id": 4820,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1425,11 +1425,22 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4819,
-            "image_id": 4819,
+            "id": 4821,
+            "image_id": 4821,
             "label": 0,
             "mon_id": 0,
             "type": 0
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 762,
+            "image_id": 1400762,
+            "label": 0,
+            "mon_id": 4477,
+            "type": 1
           }
         ]
       }
@@ -2362,21 +2373,21 @@
       {
         "def_name": "巴多",
         "features": "调皮可爱的精灵，喜欢在岩浆中嬉戏玩耍，总是非常精神，好像不会疲倦一样。",
-        "target": "",
+        "target": "400012",
         "tyjumptargetpe": "",
         "id": 133
       },
       {
         "def_name": "巴奈特",
         "features": "巴多的进化形态，火焰和岩浆的热量让它变得更加坚强，不畏艰险的巴奈特是火海中的勇士。",
-        "target": "",
+        "target": "400012",
         "tyjumptargetpe": "",
         "id": 134
       },
       {
         "def_name": "巴法尔",
         "features": "巴奈特的进化形态，战斗模式就像忍者，出招不动声色，从内部对对方造成伤害。",
-        "target": "",
+        "target": "400012",
         "tyjumptargetpe": "",
         "id": 135
       },
@@ -4273,21 +4284,21 @@
       {
         "def_name": "沙尔",
         "features": "沙尔是一种温顺的精灵，平时喜欢躲藏在沙漠或是岩石丛里，一旦遇到危险状况，会立马钻到沙石中，隐藏自己的身形，因此很少有人能看到它们。",
-        "target": "",
+        "target": "400013",
         "tyjumptargetpe": "",
         "id": 406
       },
       {
         "def_name": "沙拉凯",
         "features": "沙尔的进化形态，与沙尔相比，沙拉凯更富有进攻欲望，空闲时会躲藏在沙石中，当有比他们弱小的精灵经过时，总喜欢跳出来欺负一番，是一个调皮的捣蛋鬼。",
-        "target": "",
+        "target": "400013",
         "tyjumptargetpe": "",
         "id": 407
       },
       {
         "def_name": "沙恩克",
         "features": "沙拉凯的进化形态，背后虽然有一对翅膀，但是这小小的翅膀是无法带动如此重量的身体的，沙恩克是控制沙石的高手，挥动着的翅膀能引起强烈的沙尘暴。",
-        "target": "",
+        "target": "400013",
         "tyjumptargetpe": "",
         "id": 408
       },
@@ -34915,6 +34926,20 @@
         "target": "113048",
         "tyjumptargetpe": "",
         "id": 4819
+      },
+      {
+        "def_name": "贝尔恩克",
+        "features": "火山星上出现的未知生物，在它的身上能够提取出贝尔鲁斯和沙恩克的基因，似乎是由死黑能量强行融合而诞生的怪物。",
+        "target": "153201/323",
+        "tyjumptargetpe": "",
+        "id": 4820
+      },
+      {
+        "def_name": "巴姆",
+        "features": "在火山星深处新发现的神奇精灵，其性格与习性均与巴多类似，初步认定为巴多的亚种。但不知受什么影响，似乎失去了进化能力。",
+        "target": "400012",
+        "tyjumptargetpe": "",
+        "id": 4821
       }
     ],
     "rec_mintmark": {

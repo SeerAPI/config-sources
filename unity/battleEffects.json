@@ -4,154 +4,192 @@
       {
         "sub_effect": [
           {
+            "efftype": 0,
             "id": 0,
             "name": "麻痹"
           },
           {
+            "efftype": 1,
             "id": 1,
             "name": "中毒"
           },
           {
+            "efftype": 1,
             "id": 2,
             "name": "烧伤"
           },
           {
+            "efftype": 2,
             "id": 3,
             "name": "寄生对手"
           },
           {
+            "efftype": 1,
             "id": 4,
             "name": "寄生"
           },
           {
+            "efftype": 1,
             "id": 5,
             "name": "冻伤"
           },
           {
+            "efftype": 0,
             "id": 6,
             "name": "害怕"
           },
           {
+            "efftype": 0,
             "id": 7,
             "name": "疲惫"
           },
           {
+            "efftype": 0,
             "id": 8,
             "name": "睡眠"
           },
           {
+            "efftype": 0,
             "id": 9,
             "name": "石化"
           },
           {
+            "efftype": 1,
             "id": 10,
             "name": "混乱"
           },
           {
+            "efftype": 1,
             "id": 11,
             "name": "衰弱"
           },
           {
+            "efftype": 2,
             "id": 12,
             "name": "山神守护"
           },
           {
+            "efftype": 1,
             "id": 13,
             "name": "易燃"
           },
           {
+            "efftype": 2,
             "id": 14,
             "name": "狂暴"
           },
           {
+            "efftype": 0,
             "id": 15,
             "name": "冰封"
           },
           {
+            "efftype": 1,
             "id": 16,
             "name": "流血"
           },
           {
+            "efftype": 2,
             "id": 17,
             "name": "免疫"
           },
           {
+            "efftype": 2,
             "id": 18,
             "name": "免疫"
           },
           {
+            "efftype": 0,
             "id": 19,
             "name": "瘫痪"
           },
           {
+            "efftype": 1,
             "id": 20,
             "name": "失明"
           },
           {
+            "efftype": 2,
             "id": 21,
             "name": "异常免疫"
           },
           {
+            "efftype": 0,
             "id": 22,
             "name": "焚烬"
           },
           {
+            "efftype": 0,
             "id": 23,
             "name": "诅咒"
           },
           {
+            "efftype": 2,
             "id": 24,
             "name": "烈焰诅咒"
           },
           {
+            "efftype": 2,
             "id": 25,
             "name": "致命诅咒"
           },
           {
+            "efftype": 2,
             "id": 26,
             "name": "虚弱诅咒"
           },
           {
+            "efftype": 0,
             "id": 27,
             "name": "感染"
           },
           {
+            "efftype": 1,
             "id": 28,
             "name": "束缚"
           },
           {
+            "efftype": 1,
             "id": 29,
             "name": "失神"
           },
           {
+            "efftype": 1,
             "id": 30,
             "name": "沉默"
           },
           {
+            "efftype": 1,
             "id": 31,
             "name": "臣服"
           },
           {
+            "efftype": 1,
             "id": 32,
             "name": "凝滞"
           },
           {
+            "efftype": 2,
             "id": 33,
             "name": "星赐"
           },
           {
+            "efftype": 2,
             "id": 34,
             "name": "星哲"
           },
           {
+            "efftype": 2,
             "id": 35,
             "name": "超频"
           },
           {
+            "efftype": 1,
             "id": 36,
             "name": "沸涌"
           },
           {
+            "efftype": 2,
             "id": 37,
             "name": "砥砺"
           }
@@ -161,26 +199,32 @@
       {
         "sub_effect": [
           {
+            "efftype": 0,
             "id": 1,
             "name": "攻击"
           },
           {
+            "efftype": 0,
             "id": 2,
             "name": "防御"
           },
           {
+            "efftype": 0,
             "id": 3,
             "name": "特攻"
           },
           {
+            "efftype": 0,
             "id": 4,
             "name": "特防"
           },
           {
+            "efftype": 0,
             "id": 5,
             "name": "速度"
           },
           {
+            "efftype": 0,
             "id": 6,
             "name": "命中"
           }
@@ -190,6 +234,7 @@
       {
         "sub_effect": [
           {
+            "efftype": 0,
             "id": 1,
             "name": "印记"
           }
