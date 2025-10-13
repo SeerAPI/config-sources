@@ -286,6 +286,10 @@ def main() -> None:
 	from pytz import timezone
 
 	repo = Repo(".")
+	config_writer = repo.config_writer()
+	config_writer.set_value("user", "name", "github-actions[bot]")
+	config_writer.set_value("user", "email", "github-actions[bot]@users.noreply.github.com")
+	config_writer.release()
 	# 记录当前的 HEAD commit
 	initial_head = repo.head.commit
 
@@ -295,6 +299,7 @@ def main() -> None:
 		("unity", Unity(Path("unity"))),
 	]
 	for name, platform in platforms:
+		print(f"当前版本：{platform.get_local_version()}")
 		remote_version = platform.get_remote_version()
 		if not platform.check_update():
 			print(f"{platform.work_dir} 已是最新版本")
