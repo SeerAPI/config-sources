@@ -62,9 +62,9 @@
 	<item name="星际特权凭证" productID="200059" itemID="1727135" price="18" vip="1" gold="1" type="-1"/>	
 	<item name="尊享特权钻石月卡" productID="200060" itemID="1727260" price="50" vip="1" gold="1" type="-1"/> 
 
-
 	<item name="限时秒杀红莲之誓·安卡史诗皮肤" productID="200061" itemID="1727392" price="8.8" vip="1" gold="1" type="-1"/> 	
-	
+	<item name="解锁巴姆的宝藏" productID="200062" itemID="1727476" price="9.8" vip="1" gold="1" type="-1"/> 		
+
 	<!-- <item name="废弃" productID="200061" itemID="" price="1" vip="1" gold="1" type="-1"/>	-->
 	<!-- <item name="废弃" productID="200062" itemID="" price="1" vip="1" gold="1" type="-1"/>	-->
 	<!-- <item name="废弃" productID="200063" itemID="" price="1" vip="1" gold="1" type="-1"/>	-->

@@ -603,5 +603,5 @@
 	<item id="785" realid="2400498" type="1" Subtag="20" batch="918" shopid="5" cointype="43" coinid="1727037" price="21" POPID="921" />
 	<item id="786" realid="2400504" type="1" Subtag="20" batch="918" shopid="5" cointype="43" coinid="1727037" price="21" POPID="922" />
 	<item id="787" realid="2400514" type="1" Subtag="20" batch="918" shopid="5" cointype="43" coinid="1727037" price="21" POPID="922" />
-	<item POPID="929" />
+	<item id="788" realid="2400521" type="1" Subtag="20" batch="918" shopid="5" cointype="43" coinid="1727037" price="21" POPID="930" />
 </root>

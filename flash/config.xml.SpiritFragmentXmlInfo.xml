@@ -514,7 +514,10 @@
     <Fragment ID="2400515" show="1" Name="瓦伦汀因子" MonsterID="4810" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6302" effectId="2001" NewseConsume="200" MoveID="38062" MovesConsume="100" NeedmonID="0" NewMsglogId="2509040600" SeMsglog="2509040601" EffectMsglog="2509040602"/>
 	<Fragment ID="2400516" show="1" Name="拉米兹因子" MonsterID="4811" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6305" effectId="2002" NewseConsume="200" MoveID="38067" MovesConsume="100" NeedmonID="0" NewMsglogId="2509110600" SeMsglog="2509110601" EffectMsglog="2509110602"/>
 	<Fragment ID="2400517" show="1" Name="娜诺因子" MonsterID="4814" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6307" effectId="2006" NewseConsume="270" MoveID="38079" MovesConsume="108" NeedmonID="0" NewMsglogId="2509180500" SeMsglog="2509180501" EffectMsglog="2509180502"/>
-	
 	<Fragment ID="2400518" show="1" Name="西塔伦因子" MonsterID="4636" Rarity="4" PetLimit="1" PetConsume="1000" NewSeIdx="6140" effectId="1841" NewseConsume="500" MoveID="37325" MovesConsume="200" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
 	<Fragment ID="2400519" show="1" Name="福尔摩苏斯因子" MonsterID="4818" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6310" effectId="2011" NewseConsume="200" MoveID="38094" MovesConsume="100" NeedmonID="0" NewMsglogId="2510020600" SeMsglog="2510020601" EffectMsglog="2510020602"/>
+	<Fragment ID="2400520" show="1" Name="贝尔恩克因子" MonsterID="4820" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6313" effectId="2012" NewseConsume="200" MoveID="38107" MovesConsume="100" NeedmonID="0" NewMsglogId="2510090400" SeMsglog="2510090401" EffectMsglog="2510090402"/>
+
+	<Fragment ID="2400521" show="1" Name="缚影·炼狱魔神" MonsterID="3907" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="3267" effectId="1174" NewseConsume="270" MoveID="33519" MovesConsume="108" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+	
 </Root>

@@ -9,7 +9,7 @@ Efftype：控制类异常状态配0 弱化类异常状态配1
 		<SubEffect ID="0" Name="麻痹" Efftype="0"/>
 		<SubEffect ID="1" Name="中毒" Efftype="1"/>
 		<SubEffect ID="2" Name="烧伤" Efftype="1"/>
-		<SubEffect ID="3" Name="寄生对手" Efftype="0"/>
+		<SubEffect ID="3" Name="寄生对手" Efftype="2"/>
 		<SubEffect ID="4" Name="寄生" Efftype="1"/>
 		<SubEffect ID="5" Name="冻伤" Efftype="1"/>
 		<SubEffect ID="6" Name="害怕" Efftype="0"/>

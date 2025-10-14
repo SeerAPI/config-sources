@@ -2528,6 +2528,9 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 	
+    <Skin ID="762" MonID="4477" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="地狱使者·伊洛特斯" Go="app/FinalActivityPanel" GoType="module">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
 
 
 

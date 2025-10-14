@@ -15563,6 +15563,10 @@ eg:
 			<!--Boss TaskID="638" AppearTime="0 23" BossVisible="1" BossCatchable="0">
 				<BossMon MonID="5021" Hp="2500" Lv="80" NewSeIdxs="1 2 113 189 131 53 69 90" />
 			</Boss-->
+			<!-- Unity场景野怪-改变地形触发-巴多 参数2-->
+			<Boss BossCatchable="1" AppearTime="0 23" Name="巴多" >
+				<BossMon MonID="133" Hp="54" Lv="12" />
+			</Boss>
 		</Bosses>
 	</Map>
 
@@ -15585,6 +15589,14 @@ eg:
 			<Boss Id="4" TaskID="2003" AppearTime="0 23" BossVisible="0"
 				BonusProbability="20" BonusTotalProbability="1000" BonusID="5016" ItemBonusOutID="5" SptLevel="2">
 				<BossMon MonID="42" Hp="1500" Lv="105" NewSeIdxs="58 79 311 1497 1501 1568"/>
+			</Boss>
+			<!-- Unity场景野怪-射击随机触发-巴多 参数6-->
+			<Boss BossCatchable="1" AppearTime="0 23" Name="巴多" >
+				<BossMon MonID="133" Hp="54" Lv="12" />
+			</Boss>
+			<!-- Unity场景野怪-射击随机触发-亚种巴多 参数7-->
+			<Boss BossCatchable="1" AppearTime="0 23" Name="亚种巴多" >
+				<BossMon MonID="4821" Hp="54" Lv="12" />
 			</Boss>
 		</Bosses>
 		<GbtlBosses TaskID="303" Name="组队挑战SPT BOSS-里奥斯" MaxJoinNum="2"
@@ -18458,6 +18470,6 @@ eg:
 		<DefaultMap ID="3" RandMaps="1224" Desc="新手登录场景"/>
 	</DefaultMaps>
 	<VersionNumber>
-		<Version ID="20250926" Desc="每次发版需同步更新版本号"/>
+		<Version ID="20251010" Desc="每次发版需同步更新版本号"/>
 	</VersionNumber>
 </Maps>

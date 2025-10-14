@@ -213,8 +213,8 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4818" ImageID= "4818" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4819" ImageID= "4819" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "0" ID="4820" ImageID= "4820" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4821" ImageID= "4821" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4813" ImageID= "4813" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4809" ImageID= "4809" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4803" ImageID= "4803" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -256,7 +256,7 @@ Desc:    刻印信息  tips的获得途径文字
 
 
 
-      <!-- <place type= "1" ID="755" monID="4569" ImageID= "1400755" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "1" ID="762" monID="4477" ImageID= "1400762" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
       <!-- <place type= "1" ID="751" monID="4589" ImageID= "1400751" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="752" monID="4603" ImageID= "1400752" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="753" monID="4798" ImageID= "1400753" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -467,9 +467,9 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="130" hasSound="1" DefName="吉古拉" Type="暗影" Height="27.5" Weight="1.1" Foundin="--" Food="未知" Features="吉拉的进化形态，轻若无物的奇异精灵此时已经完成全部的脑进化，身体全部退化，盘踞在太空中，自由操纵着神奇的闇能量。" mapID="0"/>
 	<Monster ID="131" hasSound="1" DefName="影球" Type="暗影" Height="40" Weight="1" Foundin="--" Food="未知" Features="黑暗中最为奇异的精灵，喜欢控制一切可以控制的东西，想要把宇宙总所有能量都吸引到自己身边来。" mapID="314"/>
 	<Monster ID="132" hasSound="1" DefName="尤纳斯" Type="暗影" Height="80" Weight="8" Foundin="拜伦号" Food="未知" Features="黑洞般的精灵，爆发的暗黑力量具有很强的防御性和攻击性，能够开启黑暗之门，封住对手的行动。" mapID="314"/>
-	<Monster ID="133" hasSound="1" DefName="巴多" Type="火" Height="8.3" Weight="3.2" Foundin="火山星洞穴" Food="炸曲虫球" Features="调皮可爱的精灵，喜欢在岩浆中嬉戏玩耍，总是非常精神，好像不会疲倦一样。" mapID="16"/>
-	<Monster ID="134" hasSound="1" DefName="巴奈特" Type="火" Height="8.5" Weight="6.9" Foundin="--" Food="炸曲虫球" Features="巴多的进化形态，火焰和岩浆的热量让它变得更加坚强，不畏艰险的巴奈特是火海中的勇士。" mapID="16"/>
-	<Monster ID="135" hasSound="1" DefName="巴法尔" Type="火" Height="27.5" Weight="15.1" Foundin="--" Food="炸曲虫球" Features="巴奈特的进化形态，战斗模式就像忍者，出招不动声色，从内部对对方造成伤害。" mapID="16"/>
+	<Monster ID="133" hasSound="1" DefName="巴多" Type="火" Height="8.3" Weight="3.2" Foundin="火山星洞穴" Food="炸曲虫球" Features="调皮可爱的精灵，喜欢在岩浆中嬉戏玩耍，总是非常精神，好像不会疲倦一样。" mapID="16" Target="400012"/>
+	<Monster ID="134" hasSound="1" DefName="巴奈特" Type="火" Height="8.5" Weight="6.9" Foundin="--" Food="炸曲虫球" Features="巴多的进化形态，火焰和岩浆的热量让它变得更加坚强，不畏艰险的巴奈特是火海中的勇士。" mapID="16" Target="400012"/>
+	<Monster ID="135" hasSound="1" DefName="巴法尔" Type="火" Height="27.5" Weight="15.1" Foundin="--" Food="炸曲虫球" Features="巴奈特的进化形态，战斗模式就像忍者，出招不动声色，从内部对对方造成伤害。" mapID="16" Target="400012"/>
 	<Monster ID="136" hasSound="1" DefName="卢比" Type="暗影" Height="8.1" Weight="0.8" Foundin="拜伦号精灵舱" Food="未知" Features="水泡状暗影精灵，喜欢生活在满是电力的环境中，非常顽皮可爱，总是成群得嬉戏玩耍，灵巧，难以捕获。" mapID="316"/>
 	<Monster ID="137" hasSound="1" DefName="伊克多" Type="暗影" Height="32.7" Weight="0.6" Foundin="--" Food="未知" Features="卢比的进化形态，传说中的鬼影精灵，总是神出鬼没不见踪迹，喜欢躲在别人背后恶作剧。" mapID="316"/>
 	<Monster ID="138" hasSound="1" DefName="洛比特" Type="暗影" Height="47.9" Weight="1.5" Foundin="--" Food="未知" Features="伊克多的进化形态，摆出一副要成为黑暗王者的姿态，对其他精灵做的事都表示不屑。" mapID="316"/>
@@ -740,9 +740,9 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="403" hasSound="1" DefName="泰瑞" Type="电" Height="110" Weight="78" Foundin="--" Food="未知" Features="泰克斯的进化形态，强壮的身躯以及结实的肌肉，无一不能说明它的强大，附带十万伏特电能的致命拳击，再配合它奇快无比的速度，无人能敌。" mapID="5"/>
 	<Monster ID="404" hasSound="1" DefName="迪姆" Type="战斗" Height="35" Weight="25" Foundin="--" Food="未知" Features="精灵融合诞生的新精灵，看似懒洋洋的，但是它却在不动声色的注意者周围的环境，一旦发生异常，随时准备着对那些威胁到它的对手发动猛攻。" mapID="5"/>
 	<Monster ID="405" hasSound="1" DefName="提姆提姆" Type="战斗" Height="105" Weight="71" Foundin="--" Food="未知" Features="迪姆的进化形态，4只强有力的手上布满了钉刺，擅长拳击，是典型的近身搏斗高手，群体攻击也相当出色。" mapID="5"/>
-	<Monster ID="406" hasSound="1" DefName="沙尔" Type="地面" Height="25" Weight="18" Foundin="火山星" Food="未知" Features="沙尔是一种温顺的精灵，平时喜欢躲藏在沙漠或是岩石丛里，一旦遇到危险状况，会立马钻到沙石中，隐藏自己的身形，因此很少有人能看到它们。" mapID="15"/>
-	<Monster ID="407" hasSound="1" DefName="沙拉凯" Type="地面" Height="45" Weight="43" Foundin="--" Food="未知" Features="沙尔的进化形态，与沙尔相比，沙拉凯更富有进攻欲望，空闲时会躲藏在沙石中，当有比他们弱小的精灵经过时，总喜欢跳出来欺负一番，是一个调皮的捣蛋鬼。" mapID="15"/>
-	<Monster ID="408" hasSound="1" DefName="沙恩克" Type="地面" Height="115" Weight="64" Foundin="--" Food="未知" Features="沙拉凯的进化形态，背后虽然有一对翅膀，但是这小小的翅膀是无法带动如此重量的身体的，沙恩克是控制沙石的高手，挥动着的翅膀能引起强烈的沙尘暴。" mapID="15"/>
+	<Monster ID="406" hasSound="1" DefName="沙尔" Type="地面" Height="25" Weight="18" Foundin="火山星" Food="未知" Features="沙尔是一种温顺的精灵，平时喜欢躲藏在沙漠或是岩石丛里，一旦遇到危险状况，会立马钻到沙石中，隐藏自己的身形，因此很少有人能看到它们。" mapID="15" Target="400013"/>
+	<Monster ID="407" hasSound="1" DefName="沙拉凯" Type="地面" Height="45" Weight="43" Foundin="--" Food="未知" Features="沙尔的进化形态，与沙尔相比，沙拉凯更富有进攻欲望，空闲时会躲藏在沙石中，当有比他们弱小的精灵经过时，总喜欢跳出来欺负一番，是一个调皮的捣蛋鬼。" mapID="15" Target="400013"/>
+	<Monster ID="408" hasSound="1" DefName="沙恩克" Type="地面" Height="115" Weight="64" Foundin="--" Food="未知" Features="沙拉凯的进化形态，背后虽然有一对翅膀，但是这小小的翅膀是无法带动如此重量的身体的，沙恩克是控制沙石的高手，挥动着的翅膀能引起强烈的沙尘暴。" mapID="15" Target="400013"/>
 	<Monster ID="409" hasSound="1" DefName="闪光格林" Type="地面" Height="48" Weight="7.6" Foundin="露希欧星" Food="未知" Features="浑身散发着金色的光芒，自从它和布鲁开始了旅行后，没有人知道到底发生了什么，格林的样子发生了巨大的变化，只有在阳光直射的时候才能现出自己的身形。" mapID="0"/>
 	<Monster ID="410" hasSound="1" DefName="闪光格力姆" Type="地面" Height="69" Weight="20.3" Foundin="露希欧星" Food="未知" Features="闪光格林的进化形态，虽然外形改变，但是依然喜欢恶作剧，比起格力姆，闪光格力姆多了一丝沉稳。" mapID="0"/>
 	<Monster ID="411" hasSound="1" DefName="闪光格鲁高" Type="地面" Height="92" Weight="45.6" Foundin="露希欧星" Food="未知" Features="闪光格力姆的进化形态，金色发光的外壳更加厚实，拥有极为强悍的攻击和防御能力，它是一只非常注重感情的精灵，为了自己重视的伙伴，宁愿牺牲自己，也不会让自己的伙伴受伤害。" mapID="0"/>
@@ -5118,6 +5118,8 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4817" DefName="玛艾拉" Type="冰 光" Height="162" Weight="45" Features="2025包月精灵，赫星童话之《月亮下的约定》。故事中一位叫做艾莉娅的小女孩邂逅了月灵玛艾拉。玛艾拉所展示的，究竟是一个预言，还是一段历史呢？" Redirect="module" Go="app/FinalActivityPanel" Target="120000"/>
 	<Monster ID="4818" DefName="福尔摩苏斯" Type="神秘 光" Height="178" Weight="62" Features="奥瑞亚区“灰色圣典”，在联合议会中有一席之位。他彬彬有礼，以商人自称，但隐藏在他面具之下的又是怎样一副脸孔呢？" Redirect="module" Go="app/FinalActivityPanel" Target="153201/321"/>
 	<Monster ID="4819" DefName="月桂小兔" Type="光 超能" Height="67" Weight="16" Features="在中秋出现的神秘小兔子，对桂花非常喜爱的它身上也常常带有桂花的香气。" Redirect="module" Go="app/FinalActivityPanel" Target="113048"/>
+	<Monster ID="4820" DefName="贝尔恩克" Type="火 暗影" Height="127" Weight="65" Features="火山星上出现的未知生物，在它的身上能够提取出贝尔鲁斯和沙恩克的基因，似乎是由死黑能量强行融合而诞生的怪物。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/323"/>
+	<Monster ID="4821" DefName="巴姆" Type="火" Height="42" Weight="8" Features="在火山星深处新发现的神奇精灵，其性格与习性均与巴多类似，初步认定为巴多的亚种。但不知受什么影响，似乎失去了进化能力。" Redirect="module" Go="app/FinalActivityPanel" Target="400012"/>
 
 
 
