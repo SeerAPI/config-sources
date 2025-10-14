@@ -1,5 +1,6 @@
 import asyncio
 from collections.abc import Callable, Coroutine
+import hashlib
 from itertools import chain
 import random
 from typing import Any, TypeVar
@@ -18,7 +19,6 @@ from _swf_handle import (
 )
 
 
-FLASH_VERSION_CHECK_URL = "https://seer.61.com/version/zzz_config.txt"
 HTML5_BASE_URL = "https://seerh5.61.com"
 HTML5_VERSION_CHECK_URL = f"{HTML5_BASE_URL}/version/version.json?t={random.uniform(0.01, 0.09)}"
 UNITY_VERSION_CHECK_URL = "https://raw.githubusercontent.com/SeerAPI/seer-unity-assets/refs/heads/main/package-manifests/ConfigPackage.json"
@@ -147,19 +147,24 @@ class Flash(Platform):
 		swf_data = extract_swf_data(decompressed)
 		return extract_binary_data(swf_data)
 
+	def _get_coredll_swf(self) -> bytes:
+		response = httpx.get(
+			url="https://seer.61.com/dll/RobotCoreDLL.swf",
+			params={"t": random.uniform(0.01, 0.09)}
+		)
+		response.raise_for_status()
+		return response.content
+
 	@override
 	def get_remote_version(self) -> str:
-		response = httpx.get(url=FLASH_VERSION_CHECK_URL)
-		response.raise_for_status()
-		return response.text
+		coredll_swf = self._get_coredll_swf()
+		return hashlib.sha256(coredll_swf).hexdigest()
 
 	@override
 	def get_configs(self) -> None:
 		import re
 
-		response = httpx.get(url="https://seer.61.com/dll/RobotCoreDLL.swf")
-		response.raise_for_status()
-		swf = response.content
+		swf = self._get_coredll_swf()
 		swf_configs = self.extract_configs_from_swf(swf)
 		for key, value in swf_configs.items():
 			if value[:2] == b'\x78\xda':

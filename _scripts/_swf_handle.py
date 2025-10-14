@@ -137,7 +137,7 @@ class AMF3Reader:
 		length = u29 >> 1
 		xml_bytes = self.stream.read(length)
 		if len(xml_bytes) != length:
-			raise ValueError(f"XML 数据不完整")
+			raise ValueError("XML 数据不完整")
 		
 		try:
 			xml_string = xml_bytes.decode('utf-8')
@@ -297,7 +297,7 @@ class AMF3Reader:
 		length = u29 >> 1
 		byte_data = self.stream.read(length)
 		if len(byte_data) != length:
-			raise ValueError(f"字节数组数据不完整")
+			raise ValueError("字节数组数据不完整")
 		
 		self.object_table.append(byte_data)
 		return byte_data
@@ -531,12 +531,12 @@ def extract_swf_data(swf_bytes: bytes) -> dict[int, list[bytes]]:
 		if tag_length == 0x3F:
 			# 检查是否有足够字节读取长度字段
 			if data_length - stream.tell() < 4:
-				print(f"警告：无足够字节读取长格式标签长度")
+				print("警告：无足够字节读取长格式标签长度")
 				break
 			
 			length_data = stream.read(4)
 			if len(length_data) != 4:
-				print(f"警告：长格式标签长度读取不完整")
+				print("警告：长格式标签长度读取不完整")
 				break
 				
 			tag_length = struct.unpack('<I', length_data)[0]
