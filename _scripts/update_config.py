@@ -36,6 +36,10 @@ def run_async_in_sync(
 	return loop.run_until_complete(async_func(*args, **kwargs))
 
 
+def get_file_hash(data: bytes) -> str:
+	return hashlib.sha256(data).hexdigest()
+
+
 def handle_item_xml_info(data: list[dict]) -> dict:
 	result = {}
 	for obj in data:
@@ -155,13 +159,27 @@ class Flash(Platform):
 		response.raise_for_status()
 		return response.content
 
+	def _get_prexml_swf(self) -> bytes:
+		response = httpx.get(
+			url="https://seer.61.com/resource/xml/prexml.swf",
+			params={"t": random.uniform(0.01, 0.09)}
+		)
+		response.raise_for_status()
+		return response.content
+
 	@override
 	def get_remote_version(self) -> str:
 		coredll_swf = self._get_coredll_swf()
-		return hashlib.sha256(coredll_swf).hexdigest()
+		prexml_swf = self._get_prexml_swf()
+		file_hashs = frozenset(
+			(
+				get_file_hash(coredll_swf),
+				get_file_hash(prexml_swf)
+			)
+		)
+		return hashlib.sha256(str(file_hashs).encode()).hexdigest()
 
-	@override
-	def get_configs(self) -> None:
+	def get_coredll_configs(self) -> None:
 		import re
 
 		swf = self._get_coredll_swf()
@@ -180,6 +198,24 @@ class Flash(Platform):
 			)
 			filename = filename.strip('_')
 			Path(f"{self.work_dir}/{filename}.xml").write_bytes(value)
+	
+	def get_prexml_configs(self) -> None:
+		import zipfile
+		import io
+
+		swf = self._get_prexml_swf()
+		prexml_dir = Path(self.work_dir) / "prexml"
+		prexml_dir.mkdir(parents=True, exist_ok=True)
+		with zipfile.ZipFile(io.BytesIO(swf)) as zip_file:
+			for file_info in zip_file.infolist():
+				xml_data = zip_file.read(file_info)
+				filename = prexml_dir / file_info.filename
+				filename.write_bytes(xml_data)
+	
+	@override
+	def get_configs(self) -> None:
+		self.get_coredll_configs()
+		self.get_prexml_configs()
 
 
 async def download_data_async(
