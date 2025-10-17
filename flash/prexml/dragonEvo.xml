@@ -1,0 +1,91 @@
+<!--
+青龙超进化NPC出现位置和入口地图位置
+time1青龙入口开放时间
+time2白虎入口开放时间
+direction： 1左 -1右
+-->
+<root>
+	<time1>
+		<t start="12:20" end="12:40"/>
+		<t start="18:20" end="18:40"/>
+		<t start="19:20" end="19:40"/>
+	</time1>
+	<time2>
+		<t start="12:20" end="12:40"/>
+		<t start="15:20" end="15:40"/>
+		<t start="18:20" end="18:40"/>
+		<t start="19:40" end="20:00"/>
+		<t start="20:20" end="20:40"/>
+		<t start="21:20" end="21:40"/>
+		<t start="22:00" end="22:20"/>
+	</time2>
+	<npcPosi>
+		<npc index="1" mapID="804" x="428" y="331" direction="1"/>
+		<npc index="2" mapID="415" x="485" y="337" direction="1"/>
+		<npc index="3" mapID="428" x="370" y="246" direction="1"/>
+		<npc index="4" mapID="436" x="436" y="209" direction="1"/>
+		<npc index="5" mapID="430" x="333" y="263" direction="1"/>
+		<npc index="6" mapID="461" x="700" y="520" direction="1"/>
+		<npc index="7" mapID="682" x="250" y="400" direction="1"/>
+		<npc index="8" mapID="440" x="680" y="450" direction="1"/>
+		<npc index="9" mapID="438" x="244" y="300" direction="1"/>
+	</npcPosi>
+	<entry>
+		<map index="1" mapID="31" x="690" y="310" direction="1" galaxy="帕诺星系" planet="赫尔卡星"/>
+		<map index="2" mapID="22" x="495" y="374" direction="1" galaxy="帕诺星系" planet="海洋星"/>
+		<map index="3" mapID="12" x="600" y="400" direction="1" galaxy="帕诺星系" planet="克洛斯星"/>
+		<map index="4" mapID="16" x="557" y="379" direction="1" galaxy="帕诺星系" planet="火山星"/>
+		<map index="5" mapID="27" x="670" y="286" direction="1" galaxy="帕诺星系" planet="云霄星"/>
+		<map index="6" mapID="46" x="507" y="389" direction="1" galaxy="帕诺星系" planet="双子阿尔法星"/>
+		<map index="7" mapID="49" x="230" y="361" direction="1" galaxy="帕诺星系" planet="双子贝塔星"/>
+		<map index="8" mapID="43" x="553" y="405" direction="1" galaxy="帕诺星系" planet="塞西莉亚星"/>
+		<map index="9" mapID="315" x="630" y="330" direction="1" galaxy="帕诺星系" planet="拜伦号"/>
+		<map index="10" mapID="51" x="537" y="368" direction="1" galaxy="帕诺星系" planet="斯诺星"/>
+		<map index="11" mapID="419" x="520" y="230" direction="1" galaxy="罗格星系" planet="比格星"/>
+		<map index="12" mapID="415" x="600" y="300" direction="1" galaxy="罗格星系" planet="陨石地带"/>
+		<map index="13" mapID="430" x="340" y="118" direction="1" galaxy="罗格星系" planet="拓梯星"/>
+		<map index="14" mapID="682" x="490" y="325" direction="1" galaxy="罗格星系" planet="拉铂尔星"/>
+		<map index="15" mapID="461" x="150" y="389" direction="1" galaxy="罗格星系" planet="菲尔纳星"/>
+		<map index="16" mapID="478" x="620" y="313" direction="1" galaxy="裂空星系" planet="怀特星"/>
+		<map index="17" mapID="494" x="400" y="390" direction="1" galaxy="裂空星系" planet="麦兹星"/>
+		<map index="18" mapID="455" x="666" y="333" direction="1" galaxy="裂空星系" planet="格雷斯星"/>
+		<map index="19" mapID="353" x="300" y="450" direction="1" galaxy="裂空星系" planet="果然星"/>
+		<map index="20" mapID="356" x="384" y="275" direction="1" galaxy="裂空星系" planet="未来星"/>
+		<map index="21" mapID="664" x="620" y="320" direction="1" galaxy="裂空星系" planet="Y星"/>
+		<map index="22" mapID="671" x="504" y="466" direction="1" galaxy="裂空星系" planet="异能星"/>
+		<map index="23" mapID="672" x="411" y="453" direction="1" galaxy="裂空星系" planet="异能星"/>
+		<map index="24" mapID="676" x="540" y="272" direction="1" galaxy="裂空星系" planet="异能星"/>
+		<map index="25" mapID="677" x="600" y="345" direction="1" galaxy="裂空星系" planet="希尔星"/>
+		<map index="26" mapID="19" x="317" y="357" direction="1" galaxy="裂空星系" planet="提尔瑞斯星"/>
+		<map index="27" mapID="44" x="735" y="358" direction="1" galaxy="裂空星系" planet="提尔瑞斯星"/>
+		<map index="28" mapID="683" x="358" y="397" direction="1" galaxy="裂空星系" planet="泰若星"/>
+		<map index="29" mapID="684" x="727" y="394" direction="1" galaxy="裂空星系" planet="泰若星"/>
+		<map index="30" mapID="685" x="534" y="413" direction="1" galaxy="裂空星系" planet="泰若星"/>
+		<map index="31" mapID="686" x="700" y="439" direction="1" galaxy="裂空星系" planet="泰若星"/>
+		<map index="32" mapID="966" x="764" y="374" direction="1" galaxy="泰坦星系" planet="创世星"/>
+		<map index="33" mapID="971" x="488" y="311" direction="1" galaxy="泰坦星系" planet="创世星"/>
+		<map index="34" mapID="977" x="277" y="319" direction="1" galaxy="泰坦星系" planet="创世星"/>
+		<map index="35" mapID="987" x="367" y="444" direction="1" galaxy="泰坦星系" planet="创世星"/>
+		<map index="36" mapID="978" x="423" y="453" direction="1" galaxy="泰坦星系" planet="创世星"/>
+		<map index="37" mapID="969" x="298" y="393" direction="1" galaxy="泰坦星系" planet="永恒星"/>
+		<map index="38" mapID="983" x="458" y="397" direction="1" galaxy="泰坦星系" planet="永恒星"/>
+		<map index="39" mapID="988" x="318" y="377" direction="1" galaxy="泰坦星系" planet="棱石星"/>
+		<map index="40" mapID="993" x="214" y="399" direction="1" galaxy="泰坦星系" planet="棱石星"/>
+		<map index="41" mapID="990" x="713" y="346" direction="1" galaxy="泰坦星系" planet="棱石星"/>
+		<map index="42" mapID="967" x="633" y="417" direction="1" galaxy="泰坦星系" planet="魔灵星"/>
+		<map index="43" mapID="974" x="373" y="234" direction="1" galaxy="泰坦星系" planet="魔灵星"/>
+		<map index="44" mapID="982" x="424" y="295" direction="1" galaxy="泰坦星系" planet="魔灵星"/>
+		<map index="45" mapID="973" x="766" y="455" direction="1" galaxy="泰坦星系" planet="天魔星"/>
+		<map index="46" mapID="975" x="809" y="408" direction="1" galaxy="泰坦星系" planet="迷幻星云"/>
+		<map index="47" mapID="712" x="407" y="306" direction="1" galaxy="螺旋星系" planet="艾伦星"/>
+		<map index="48" mapID="720" x="472" y="256" direction="1" galaxy="螺旋星系" planet="巴斯星"/>
+		<map index="49" mapID="736" x="662" y="348" direction="1" galaxy="螺旋星系" planet="幻影星"/>
+		<map index="50" mapID="960" x="710" y="367" direction="1" galaxy="螺旋星系" planet="天马星"/>
+		<map index="51" mapID="784" x="838" y="330" direction="1" galaxy="螺旋星系" planet="魔神星"/>
+		<map index="52" mapID="787" x="546" y="431" direction="1" galaxy="螺旋星系" planet="南瓜星"/>
+		<map index="53" mapID="796" x="720" y="392" direction="1" galaxy="螺旋星系" planet="天马星"/>
+		<map index="54" mapID="18" x="482" y="273" direction="1" galaxy="螺旋星系" planet="天马星"/>
+		<map index="55" mapID="75" x="620" y="177" direction="1" galaxy="螺旋星系" planet="帕尔索星"/>
+		<map index="56" mapID="76" x="495" y="163" direction="1" galaxy="螺旋星系" planet="帕尔索星"/>
+	</entry>
+</root>

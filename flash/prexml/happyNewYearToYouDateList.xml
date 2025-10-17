@@ -1,0 +1,272 @@
+<time>
+	<day date="17">
+		<child hour="0" count="0"/>
+		<child hour="1" count="0"/>
+		<child hour="2" count="0"/>
+		<child hour="3" count="0"/>
+		<child hour="4" count="0"/>
+		<child hour="5" count="0"/>
+		<child hour="6" count="0"/>
+		<child hour="7" count="0"/>
+		<child hour="8" count="1014462"/>
+		<child hour="9" count="1471203"/>
+		<child hour="10" count="1995144"/>
+		<child hour="11" count="2499318"/>
+		<child hour="12" count="2954853"/>
+		<child hour="13" count="3468054"/>
+		<child hour="14" count="4153974"/>
+		<child hour="15" count="4562697"/>
+		<child hour="16" count="4819623"/>
+		<child hour="17" count="5455395"/>
+		<child hour="18" count="6214062"/>
+		<child hour="19" count="6950523"/>
+		<child hour="20" count="7940538"/>
+		<child hour="21" count="9005655"/>
+		<child hour="22" count="9325467"/>
+		<child hour="23" count="9626841"/>
+	</day>
+
+	<day date="18">
+		<child hour="0" count="9919644"/>
+		<child hour="1" count="9945453"/>
+		<child hour="2" count="9954498"/>
+		<child hour="3" count="9967248"/>
+		<child hour="4" count="9968535"/>
+		<child hour="5" count="9966627"/>
+		<child hour="6" count="9994362"/>
+		<child hour="7" count="10496955"/>
+		<child hour="8" count="10962267"/>
+		<child hour="9" count="11525052"/>
+		<child hour="10" count="12005544"/>
+		<child hour="11" count="12564306"/>
+		<child hour="12" count="12964962"/>
+		<child hour="13" count="13593195"/>
+		<child hour="14" count="14281644"/>
+		<child hour="15" count="15045552"/>
+		<child hour="16" count="15496461"/>
+		<child hour="17" count="16209654"/>
+		<child hour="18" count="16819323"/>
+		<child hour="19" count="17507844"/>
+		<child hour="20" count="18534348"/>
+		<child hour="21" count="19035468"/>
+		<child hour="22" count="19475952"/>
+		<child hour="23" count="19971267"/>
+	</day>
+
+	<day date="19">
+		<child hour="0" count="20313327"/>
+		<child hour="1" count="20420544"/>
+		<child hour="2" count="20455929"/>
+		<child hour="3" count="20476419"/>
+		<child hour="4" count="20480448"/>
+		<child hour="5" count="20495124"/>
+		<child hour="6" count="20496312"/>
+		<child hour="7" count="20840661"/>
+		<child hour="8" count="21197271"/>
+		<child hour="9" count="21603252"/>
+		<child hour="10" count="22273950"/>
+		<child hour="11" count="22592622"/>
+		<child hour="12" count="22833168"/>
+		<child hour="13" count="23154249"/>
+		<child hour="14" count="23439957"/>
+		<child hour="15" count="23904303"/>
+		<child hour="16" count="24145497"/>
+		<child hour="17" count="24654264"/>
+		<child hour="18" count="25046241"/>
+		<child hour="19" count="25323462"/>
+		<child hour="20" count="25770495"/>
+		<child hour="21" count="26313039"/>
+		<child hour="22" count="26862162"/>
+		<child hour="23" count="27395154"/>
+	</day>
+
+	<day date="20">
+		<child hour="0" count="27766341"/>
+		<child hour="1" count="27883692"/>
+		<child hour="2" count="27916341"/>
+		<child hour="3" count="27925422"/>
+		<child hour="4" count="28064142"/>
+		<child hour="5" count="28106934"/>
+		<child hour="6" count="28156935"/>
+		<child hour="7" count="28813413"/>
+		<child hour="8" count="29273220"/>
+		<child hour="9" count="29953155"/>
+		<child hour="10" count="30402339"/>
+		<child hour="11" count="30964950"/>
+		<child hour="12" count="31414239"/>
+		<child hour="13" count="31623951"/>
+		<child hour="14" count="31814343"/>
+		<child hour="15" count="32052435"/>
+		<child hour="16" count="32136396"/>
+		<child hour="17" count="32344731"/>
+		<child hour="18" count="32430507"/>
+		<child hour="19" count="32623473"/>
+		<child hour="20" count="32792523"/>
+		<child hour="21" count="32914245"/>
+		<child hour="22" count="33436944"/>
+		<child hour="23" count="33494532"/>
+	</day>
+	
+	<day date="21">
+		<child hour="0" count="33495641"/>
+		<child hour="1" count="33501006"/>
+		<child hour="2" count="33521561"/>
+		<child hour="3" count="33531468"/>
+		<child hour="4" count="33548765"/>
+		<child hour="5" count="33561741"/>
+		<child hour="6" count="33575144"/>
+		<child hour="7" count="33617488"/>
+		<child hour="8" count="33644415"/>
+		<child hour="9" count="33657878"/>
+		<child hour="10" count="33679814"/>
+		<child hour="11" count="33684890"/>
+		<child hour="12" count="33698491"/>
+		<child hour="13" count="33701654"/>
+		<child hour="14" count="33724891"/>
+		<child hour="15" count="33768961"/>
+		<child hour="16" count="33791940"/>
+		<child hour="17" count="33818979"/>
+		<child hour="18" count="33824988"/>
+		<child hour="19" count="33854698"/>
+		<child hour="20" count="33894141"/>
+		<child hour="21" count="33920189"/>
+		<child hour="22" count="33966545"/>
+		<child hour="23" count="33990407"/>
+	</day>
+	
+	<day date="22">
+		<child hour="0" count="34050458"/>
+		<child hour="1" count="34084019"/>
+		<child hour="2" count="34084165"/>
+		<child hour="3" count="34087895"/>
+		<child hour="4" count="34098016"/>
+		<child hour="5" count="34104894"/>
+		<child hour="6" count="34114982"/>
+		<child hour="7" count="34125789"/>
+		<child hour="8" count="34128634"/>
+		<child hour="9" count="34144949"/>
+		<child hour="10" count="34167981"/>
+		<child hour="11" count="34184589"/>
+		<child hour="12" count="34197165"/>
+		<child hour="13" count="34214087"/>
+		<child hour="14" count="34232084"/>
+		<child hour="15" count="34301804"/>
+		<child hour="16" count="34338170"/>
+		<child hour="17" count="34350564"/>
+		<child hour="18" count="34371788"/>
+		<child hour="19" count="34390489"/>
+		<child hour="20" count="34417848"/>
+		<child hour="21" count="34454981"/>
+		<child hour="22" count="34512189"/>
+		<child hour="23" count="34524168"/>
+	</day>
+	
+	<day date="23">
+		<child hour="0" count="34530848"/>
+		<child hour="1" count="34564189"/>
+		<child hour="2" count="34598187"/>
+		<child hour="3" count="34606546"/>
+		<child hour="4" count="34611641"/>
+		<child hour="5" count="34618948"/>
+		<child hour="6" count="34623586"/>
+		<child hour="7" count="34638784"/>
+		<child hour="8" count="34681586"/>
+		<child hour="9" count="34712216"/>
+		<child hour="10" count="34833513"/>
+		<child hour="11" count="34981189"/>
+		<child hour="12" count="35001898"/>
+		<child hour="13" count="35035248"/>
+		<child hour="14" count="35038165"/>
+		<child hour="15" count="35046483"/>
+		<child hour="16" count="35050184"/>
+		<child hour="17" count="35084544"/>
+		<child hour="18" count="35165498"/>
+		<child hour="19" count="35181650"/>
+		<child hour="20" count="35199108"/>
+		<child hour="21" count="35201849"/>
+		<child hour="22" count="35241894"/>
+		<child hour="23" count="35281846"/>
+	</day>
+	
+	<day date="24">
+		<child hour="0" count="35335467"/>
+		<child hour="1" count="35387354"/>
+		<child hour="2" count="35410874"/>
+		<child hour="3" count="35418841"/>
+		<child hour="4" count="35420104"/>
+		<child hour="5" count="35424989"/>
+		<child hour="6" count="35430847"/>
+		<child hour="7" count="35440418"/>
+		<child hour="8" count="35445045"/>
+		<child hour="9" count="35451065"/>
+		<child hour="10" count="35697491"/>
+		<child hour="11" count="35684589"/>
+		<child hour="12" count="35797165"/>
+		<child hour="13" count="35814087"/>
+		<child hour="14" count="35835431"/>
+		<child hour="15" count="35910741"/>
+		<child hour="16" count="35950484"/>
+		<child hour="17" count="36005460"/>
+		<child hour="18" count="36015648"/>
+		<child hour="19" count="36087481"/>
+		<child hour="20" count="36110348"/>
+		<child hour="21" count="36135430"/>
+		<child hour="22" count="36168161"/>
+		<child hour="23" count="36190498"/>
+	</day>
+	
+	<day date="25">
+		<child hour="0" count="36208975"/>
+		<child hour="1" count="36348778"/>
+		<child hour="2" count="36371846"/>
+		<child hour="3" count="36391065"/>
+		<child hour="4" count="36401545"/>
+		<child hour="5" count="36456777"/>
+		<child hour="6" count="36461008"/>
+		<child hour="7" count="36482202"/>
+		<child hour="8" count="36501858"/>
+		<child hour="9" count="36535410"/>
+		<child hour="10" count="36584564"/>
+		<child hour="11" count="36608971"/>
+		<child hour="12" count="36649846"/>
+		<child hour="13" count="36668767"/>
+		<child hour="14" count="36687415"/>
+		<child hour="15" count="36705676"/>
+		<child hour="16" count="36718354"/>
+		<child hour="17" count="36790516"/>
+		<child hour="18" count="36820186"/>
+		<child hour="19" count="36850137"/>
+		<child hour="20" count="36872535"/>
+		<child hour="21" count="36898984"/>
+		<child hour="22" count="36924564"/>
+		<child hour="23" count="36934277"/>
+	</day>
+	
+	<day date="26">
+		<child hour="0" count="36976844"/>
+		<child hour="1" count="37035468"/>
+		<child hour="2" count="37110877"/>
+		<child hour="3" count="37176856"/>
+		<child hour="4" count="37204088"/>
+		<child hour="5" count="37218768"/>
+		<child hour="6" count="37285414"/>
+		<child hour="7" count="37297978"/>
+		<child hour="8" count="37310679"/>
+		<child hour="9" count="37349804"/>
+		<child hour="10" count="37368071"/>
+		<child hour="11" count="37383146"/>
+		<child hour="12" count="37398489"/>
+		<child hour="13" count="37405468"/>
+		<child hour="14" count="37451654"/>
+		<child hour="15" count="37498341"/>
+		<child hour="16" count="37503354"/>
+		<child hour="17" count="37534083"/>
+		<child hour="18" count="37565046"/>
+		<child hour="19" count="37568990"/>
+		<child hour="20" count="37570867"/>
+		<child hour="21" count="37588146"/>
+		<child hour="22" count="37611610"/>
+		<child hour="23" count="37651687"/>
+	</day>
+	
+</time>

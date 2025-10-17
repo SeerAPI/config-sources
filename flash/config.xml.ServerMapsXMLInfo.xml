@@ -15421,7 +15421,20 @@ eg:
 		</Bosses>
     </Map>	
 	<Map ID="2158" Name="深海底基地" InitX="580" InitY="440">
-    </Map>	
+    </Map>
+    <Map ID="2159" Name="火山星地核" InitX="580" InitY="440">
+        <Monsters>
+			<Monster ID="4824" Lv="16 17"/>
+			<Monster ID="4824" Lv="17 18"/>
+			<Monster ID="4824" Lv="17 18"/>
+			<Monster ID="4824" Lv="17 18"/>
+			<Monster ID="4824" Lv="17 18"/>
+			<Monster ID="4824" Lv="39 40"/>
+			<Monster ID="4824" Lv="39 40"/>
+			<Monster ID="4824" Lv="39 40"/>
+			<Monster ID="4824" Lv="39 40"/>
+		</Monsters>
+	</Map>	
 	
 
 
@@ -18470,6 +18483,6 @@ eg:
 		<DefaultMap ID="3" RandMaps="1224" Desc="新手登录场景"/>
 	</DefaultMaps>
 	<VersionNumber>
-		<Version ID="20251010" Desc="每次发版需同步更新版本号"/>
+		<Version ID="20251017" Desc="每次发版需同步更新版本号"/>
 	</VersionNumber>
 </Maps>

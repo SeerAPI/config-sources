@@ -188,7 +188,7 @@
 	<Attireconversion ID="10" SubNum = "25" RewardID="300010" RewardNum = "1" ExchangeNum = "10" Platform = "0" UserInfo = "124097"/>
 	<Attireconversion ID="11" SubNum = "5" RewardID="300135" RewardNum = "1" ExchangeNum = "10" Platform = "1" UserInfo = "124098"/> -->
 
-<!-- 20250704第二十三期 -->
+<!-- 20250704第二十三期 
     <Attireconversion ID="1" SubNum = "5" RewardID="2300051" RewardNum = "1" ExchangeNum = "100" Platform = "0" UserInfo = "124088"/>
     <Attireconversion ID="2" SubNum = "100" RewardID="300066" RewardNum = "1" ExchangeNum = "1" Platform = "0" UserInfo = "124089"/>
     <Attireconversion ID="3" SubNum = "10" RewardID="300065" RewardNum = "1" ExchangeNum = "10" Platform = "0" UserInfo = "124090"/>
@@ -199,6 +199,19 @@
     <Attireconversion ID="8" SubNum = "20" RewardID="300671" RewardNum = "1" ExchangeNum = "20" Platform = "0" UserInfo = "124095"/>
     <Attireconversion ID="9" SubNum = "4" RewardID="1706826" RewardNum = "1" ExchangeNum = "20" Platform = "0" UserInfo = "124096"/>
     <Attireconversion ID="10" SubNum = "2" RewardID="300075" RewardNum = "1" ExchangeNum = "20" Platform = "0" UserInfo = "124097"/>
-    <Attireconversion ID="11" SubNum = "5" RewardID="300673" RewardNum = "1" ExchangeNum = "20" Platform = "0" UserInfo = "124098"/>
+    <Attireconversion ID="11" SubNum = "5" RewardID="300673" RewardNum = "1" ExchangeNum = "20" Platform = "0" UserInfo = "124098"/>-->
+	
+<!-- 20251017第二十四期 -->
+    <Attireconversion ID="1" SubNum = "5" RewardID="2300051" RewardNum = "1" ExchangeNum = "100" Platform = "0" UserInfo = "124088"/>
+    <Attireconversion ID="2" SubNum = "100" RewardID="300066" RewardNum = "1" ExchangeNum = "1" Platform = "0" UserInfo = "124089"/>
+    <Attireconversion ID="3" SubNum = "10" RewardID="300065" RewardNum = "1" ExchangeNum = "10" Platform = "0" UserInfo = "124090"/>
+    <Attireconversion ID="4" SubNum = "2" RewardID="1400352" RewardNum = "10000" ExchangeNum = "50" Platform = "0" UserInfo = "124091"/>
+    <Attireconversion ID="5" SubNum = "3" RewardID="1706927" RewardNum = "20" ExchangeNum = "50" Platform = "0" UserInfo = "124092"/>
+    <Attireconversion ID="6" SubNum = "3" RewardID="1706928" RewardNum = "20" ExchangeNum = "50" Platform = "0" UserInfo = "124093"/>
+    <Attireconversion ID="7" SubNum = "15" RewardID="300063" RewardNum = "1" ExchangeNum = "10" Platform = "0" UserInfo = "124094"/>
+    <Attireconversion ID="8" SubNum = "20" RewardID="300136" RewardNum = "1" ExchangeNum = "20" Platform = "0" UserInfo = "124095"/>
+    <Attireconversion ID="9" SubNum = "20" RewardID="300405" RewardNum = "1" ExchangeNum = "20" Platform = "0" UserInfo = "124096"/>
+    <Attireconversion ID="10" SubNum = "7" RewardID="300021" RewardNum = "1" ExchangeNum = "20" Platform = "0" UserInfo = "124097"/>
+    <Attireconversion ID="11" SubNum = "2" RewardID="300075" RewardNum = "1" ExchangeNum = "20" Platform = "0" UserInfo = "124098"/>
 
 </Attireconversions>

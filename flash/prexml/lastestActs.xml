@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 任务档案配置文件 -->
+<!-- id表示任务id -->
+<!-- type:map、module、func -->
+<config>
+	<partys itemtype="4" name="最新活动" intro="赛尔号在宇宙探索的旅程中会遇到很多奇妙的事情！这里就是赛尔号上最热门的话题，与你的精灵伙伴一起加入吧！" timeSourceList="2013/01/29:4">
+		<party itemtype="6_2" id="1" name="斯内普完全体降临" type="module" switchy="YaoWangSiNeiPuMainPanel" />
+		<party itemtype="6_2" id="2" name="妖族长老芬里尔" type="module" switchy="GetMonsterOfA1014MainPanel"/>
+		<party itemtype="6_2" id="3" name="签到豪礼送神宠" type="module" switchy="SignUpToGetPetSkinPanel"/>
+		<party itemtype="6_2" id="4" name="探索秘境领福利" type="module" switchy="DownSecretForbiddenMainPanel"/>
+		<party itemtype="6_2" id="5" name="摩哥斯封王之谜" type="module" switchy="TheMysteryOfTheMonarchKingMainPanel"/>
+		<party itemtype="6_2" id="6" name="强悍神宠试炼" type="module" switchy="GetdahediMainpanel"/>
+		<party itemtype="6_2" id="7" name="重生之翼再飞升" type="module" switchy="RebirthOfTheComingPerfectWingSoaringSecMainPanel"/>
+		<party itemtype="6_2" id="8" name="低价刻印抢购" type="module" switchy="VIP7thAnniversaryMintmarkBuyPanel"/>
+		<party itemtype="6_2" id="9" name="周年庆典开幕" type="module" switchy="VIP7thAnniversaryTrailerPanel"/>
+		<party itemtype="6_2" id="10" name="兑钻豪礼领不停" type="module" switchy="AgainstDrillingSendGifts1014MainPanel"/>
+		<!--<party itemtype="6_2" id="9" name="王之抉择！神宠相争电系之王！" type="module" switchy="LeiyisRoadToSpriteKingPanel"/>-->
+	</partys>
+</config>

@@ -1,0 +1,159 @@
+<!--
+    id是唯一的，可以通过EmailXmlController.go(id)调用来跳转地图或者打开面板
+    tip 该id的信息，给显示在邮件中的。
+    type 目前的type有四种，module、map、func、url
+    args 打开面板或者调用函数的时候用到的参数，格式arg1:1;arg2:2
+	正文使用方法：
+	{id, 链接显示名} id映射到email.xml的id，针对不同类型有不同的功能；链接显示名 即在邮箱正文 显示 红字的 提示。
+	将content内的{x([z]),y}替换为 <font color='#FF0000'><a href='event:x([z])'>y</a></font>， 其中x为数字,y为任意字符，其中()内不一定存在，一般()是给后台发送协议用的。
+ -->
+
+<root>
+	<elements>
+<!-- 		<element id="1" tip="提示" type="module" args="arg1:1;arg2:2">TextPanel</element> -->
+<!-- 		<element id="2" tip="提示" type="map" args="">10</element> -->
+<!-- 		<element id="3" tip="提示" type="func" args="arg1:1;arg2:2">com.robot.app2.control.TaXiYaController:start</element> -->
+<!-- 		<element id="4" tip="提示" type="url" args="">http://www.61.com/</element> -->
+			<element id="0" tip="只有高亮效果" type="" args=""></element>
+			<element id="1" tip="提示" type="url" args="">http://www.61.com/</element>
+			<element id="2" tip="提示" type="module" args="">GuaizhangtangPanel</element>
+			<element id="3" tip="提示" type="map" args="">103</element>
+			<element id="4" tip="提示" type="func" args="">com.robot.app2.mapProcess.control.BrogrenThirdPartnerController:click1</element>
+			<element id="5" tip="泰坦晶矿" type="func" args="">com.robot.app2.control.TaitanMineController:joinMine</element>
+			<element id="6" tip="提示" type="module" args="">PvePrepareMiningPanel</element>
+			<element id="7" tip="太阳神" type="map" args="">93</element>
+			<element id="8" tip="巅峰之战" type="map" args="">1095</element>
+			<element id="9" tip="绝世萌宠" type="module" args="">PeerlessAdorablePetGardenPanel</element>
+			<element id="10" tip="黄金萌宠大礼包" type="module" args="">BigGiftOfDarkPetPanel</element>
+			<element id="11" tip="调查问卷01" type="url" args="">http://dc.61.com/Question/realQ?qn_id=84</element>
+			<element id="12" tip="vip6周年" type="module" args="">VipSixAnnualPanel</element>
+			<element id="13" tip="市场发奖励 赛伯斯塔" type="module" args="">StarGateGiftPopupPanel</element>
+			<element id="14" tip="市场发奖励 牛头人" type="module" args="">StarGateGiftPopup2Panel</element>
+			<element id="15" tip="市场发奖励 邪冥兽" type="module" args="">StarGateGiftPopup3Panel</element>
+			<element id="16" tip="市场发奖励 萨瑞罗斯" type="module" args="">StarGateGiftPopup4Panel</element>
+			<element id="17" tip="市场发奖励 特兰西" type="module" args="">StarGateTelanxiPanel</element>
+			<element id="18" tip="市场发奖励 项羽" type="module" args="">StarGateXiangyuPanel</element>
+			<element id="19" tip="市场发奖励 德尔波拉" type="module" args="">StarGateDeerbolaPanel</element>
+			<element id="20" tip="特性强化2015" type="map" args="">793</element>
+			<element id="21" tip="皇家召集令" type="map" args="">102</element>
+			<element id="22" tip="市场发奖励 天狐勾玉" type="module" args="">StarGateTianhugouyuPanel</element>
+			<element id="23" tip="市场发奖励 希尔妮妮" type="module" args="">StarGateXierniniPanel</element>
+			<element id="24" tip="市场发奖励 梵天" type="module" args="">StarGateFantianPanel</element>
+			<element id="25" tip="市场发奖励 妖皇兰蒂斯" type="module" args="">StarGateLandisiPanel</element>
+			<element id="26" tip="市场发奖励 夜魔龙战" type="module" args="">StarGateYemolongzhanPanel</element>
+			<element id="27" tip="市场发奖励 扎尔瑟隆" type="module" args="">StarGateZhaerselongPanel</element>
+			<element id="28" tip="市场发奖励 混沌大天使" type="module" args="">StarGateHundunAnglePanel</element>
+			<element id="29" tip="市场发奖励 乐乐熊" type="module" args="">StarGateLelexiongPanel</element>
+			<element id="30" tip="市场发奖励 帝龙圣尊" type="module" args="">StarGateDilongshengzunPanel</element>
+			<element id="31" tip="心愿大使小雪" type="module" args="">ChristmasWishAmbassadorSnowGetRewardPanel</element>
+			<!-- 圣光灵王下架  -->
+			<element id="32" tip="圣光灵王即将离开" type="none" args="">LightKingLeavingPanel</element>
+			<element id="33" tip="市场发奖励  刘备" type="module" args="">StarGateLiubeiPanel</element>
+			<element id="34" tip="市场发奖励 神·圣光天马" type="module" args="">StarGateShentianmaPanel</element>
+			<element id="35" tip="市场发奖励  夜魔龙战 无限制" type="module" args="">StarGateYemolongzhanFreePanel</element>
+			<element id="36" tip="市场发奖励 古剑骷髅" type="module" args="">StarGateGuijiankulouPanel</element>
+			<element id="37" tip="市场发奖励  格雷姆" type="module" args="">StarGateGeleimuPanel</element>
+			<element id="38" tip="市场发奖励 幻影蝶" type="module" args="">StarGateHuanyingdiePanel</element>
+			<element id="39" tip="2018年年费推送" type="module" args="">Yearvip2018MainPanel</element>
+			<element id="40" tip="邮件邀请玩家" type="func" args="">com.robot.app.control.BestSignupController:receiveInvited</element>
+			<element id="41" tip="新年红包" type="module" args="">NewYearRedPackage2016Panel</element>
+			<element id="42" tip="巅峰圣战新手匹配保护机制" type="map" args="">1095</element>
+			<element id="43" tip="战神联盟全面崛起" type="module" args="">AllianceMainPanel</element>
+			<element id="44" tip="王子封神记" type="module" args="">PrinceDragonOrderPanel</element>
+			<element id="45" tip="冬季战队联赛预选赛开启" type="func" args="">com.robot.app2.control.PeakJihadController:onEquipmentClick3</element>
+			<element id="46" tip="冬季运动会" type="module" args="">WinterGameRuiaoPanel</element>
+			<element id="47" tip="市场发奖 壬无月" type="module" args="">StarGateRenwuyuePanel</element>
+			<element id="48" tip="市场发奖 赫尔卡" type="module" args="">StarGateHeerkaPanel</element>
+			<element id="49" tip="市场发奖 奥古斯特" type="module" args="">StarGateAugusitePanel</element>
+			<element id="50" tip="64进32复赛" type="url" args="">http://seer.61.com/gameevent/2015djls/</element>
+			<element id="51" tip="明星精灵回归" type="module" args="">StarPetReturnMoshenMainPanel</element>
+			<element id="52" tip="市场发奖 月神•狄安娜" type="module" args="">StarGateDiannaPanel</element>
+			<element id="53" tip="市场发奖 麒小麟" type="module" args="">StarGateQixiaolinPanel</element>
+			<element id="54" tip="市场发奖 万人敌张飞" type="module" args="">StarGateZhangfeiPanel</element>
+			<element id="55" tip="市场发奖 圣狐永琰" type="module" args="">StarGateYongyanPanel</element>
+			<element id="56" tip="市场发奖 罗迪尼奥" type="module" args="">StarGateLuodiniaoPanel</element>
+			<element id="57" tip="动画片有奖投票" type="url" args="">http://img.2125.com/img/h01/h66/img201602011625223.jpg</element>
+			<element id="58" tip="市场发奖 神•哈迪斯" type="module" args="">StarGateHadisiPanel</element>
+			<element id="59" tip="市场发奖 神后•赫拉" type="module" args="">StarGateHelaPanel</element>
+			<element id="60" tip="市场发奖 影魔•卢卡斯" type="module" args="">StarGateLucasPanel</element>
+			<element id="61" tip="市场发奖 睡神•修普诺斯" type="module" args="">StarGateXiupunuosiPanel</element>
+			<element id="62" tip="市场发奖 神寂•克罗诺斯" type="module" args="">StarGateKeluonuosiPanel</element>
+			<element id="63" tip="全服赛尔号动画片6 扫描二维码" type="url" args="">http://img.2125.com/img/h01/h66/img201602011625223.jpg</element>
+			<element id="64" tip="全服赛尔号全国线下赛城市首站投票" type="url" args="">http://seer.61.com/events/2016vote/?tad=innermedia.seer.free.inseer</element>
+			<element id="65" tip="答题赢豪华道具礼包" type="url" args="">http://dc.61.com/Question/preView?qn_id=89</element>
+			<element id="66" tip="赛尔号STL全国巅峰联赛线下赛首站成都" type="url" args="">http://seer.61.com/events/seer_dfls</element>
+			<element id="67" tip="开通Vip送钻石下周五得" type="func" args="">com.robot.app2.control.GetDiamondOpenedVipController:getReward2</element>
+			<element id="68" tip="开通Vip送钻石下下周五得" type="func" args="">com.robot.app2.control.GetDiamondOpenedVipController:getReward3</element>
+			<element id="69" tip="开通Vip送钻石下下下周五得" type="func" args="">com.robot.app2.control.GetDiamondOpenedVipController:getReward4</element>
+			<element id="70" tip="市场发奖 无兄弟不游戏-精灵奖励面板" type="module" args="">ShichangFajiang20160624</element>
+			<element id="71" tip="市场发奖 刘备" type="module" args="">StarGateLBPanel</element>
+			<element id="72" tip="市场发奖 张飞" type="module" args="">StarGateZFPanel</element>
+			<element id="73" tip="预约礼包 " type="module" args="">ShadowGoblinKingPreheatingYuyueLiBaoPanel</element>
+			<element id="74" tip="精灵王竞猜 " type="module" args="">HyperSpriterKingPreViewPanel</element>
+			<element id="75" tip="市场发奖 英灵剑圣.兰斯洛特" type="module" args="">Mail082601Panel</element>
+			<element id="76" tip="市场发奖 深渊狱神.哈迪斯" type="module" args="">Mail082602Panel</element>
+			<element id="77" tip="赛尔公告" type="module" args="">Mail20140912Panel</element>
+			<element id="78" tip="赛尔公告" type="map" args="">1209</element>
+			<element id="79" tip="赛尔公告" type="map" args="">1209</element>
+			<element id="80" tip="雷暴利斯塔发放" type="module" args="">ShichangFajiang20161014Panel</element>
+			<element id="81" tip="市场发奖 天众龙威" type="module" args="">Shichangfajiang20161021Panel</element>
+			<element id="82" tip="放送白炎" type="module" args="">BaiYanFreeGetPanel</element>
+			<element id="83" tip="放送弥卡尔" type="module" args="">MikaerFreeGetPanel</element>
+			<element id="84" tip="淘乐节发奖" type="module" args="">MarketExchangePanel</element>
+			<element id="85" tip="重生之翼离开倒计时" type="module" args="">Year2016PetLeaveSoonMainPanel</element>
+			<element id="86" tip="红包大放送" type="func" args="">com.robot.app2.control.HongbaoCollectionController:gotoTeamMap</element>
+			<element id="87" tip="市场发奖 曹操" type="module" args="">Shichang0106Panel</element>
+			<element id="88" tip="市场发奖" type="module" args="">Shichang0303Panel</element>
+			<element id="89" tip="老兵同意招募" type="func" args="">com.robot.app2.control.QingmingfuliController:agreeRecruit</element>
+			<element id="90" tip="问卷调查1" type="url" args="">http://dc.61.com/Question/realQ?qn_id=107</element>
+			<element id="91" tip="问卷调查2" type="url" args="">http://dc.61.com/Question/realQ?qn_id=107</element>
+			<element id="92" tip="市场发奖 大威势明王" type="module" args="">Shichang0526APanel</element>
+			<element id="93" tip="市场发奖 格罗姆特" type="module" args="">Shichang0526BPanel</element>
+			<element id="94" tip="市场发奖 繁盛灵兽王" type="module" args="">Shichang0630APanel</element>
+			<element id="95" tip="市场发奖 炎魔之王" type="module" args="">Shichang0630BPanel</element>
+			<element id="96" tip="市场发奖 地狱魔龙兽" type="module" args="">HellDragon0721Panel</element>
+			<element id="97" tip="安全小卫士功能现已全新升级" type="map/module" args="">9;securityGuard/SecurityGuardPanel</element>
+			<element id="98" tip="市场发奖 大梵天王" type="module" args="">ShichangFajiang0818Panel</element>
+			<element id="99" tip="市场发奖 科罗克娜" type="module" args="">ShichangFajiang0818Panel2</element>		
+			<element id="100" tip="市场发奖 厄女神潘多拉" type="module" args="">PanduolaExchangePanel</element>
+			<element id="101" tip="市场发奖 兑换帝皇之钺" type="module" args="">DihuangExchangePanel</element>
+			<element id="102" tip="瀚宇星皇即将离开倒计时" type="module" args="">Year2017PetLeaveSoonMainPanel</element>
+			<element id="103" tip="市场发奖 鬼藏" type="module" args="">GuZangExchangePanel</element>
+			<element id="104" tip="主题：天启帝君即将离开" type="module" args="">Year2018PetLeaveSoonMainPanel</element>	
+			<element id="105" tip="2019年年费推送" type="module" args="">Yearvip2019MainPanel</element>		
+			<element id="106" tip="调研问卷" type="url" args="">https://wj.qq.com/s2/3203606/a1eb</element>	
+			<element id="107" tip="混元天尊促销" type="map" args="">1344</element>	
+			<element id="108" tip="赛尔号战斗界面信息调整公告" type="url" args="">http://kf.61.com/</element>
+			<element id="109" tip="2020年年费推送" type="module"  args="">Yearvip2020MainPanel</element>
+			<element id="110" tip="H5首测问卷调查" type="url" args="">https://www.wjx.cn/jq/85898844.aspx</element>
+			<element id="111" tip="H5异端战斗测试报名" type="module" args="">H5TestPvpSingupPanel</element>
+			<element id="112" tip="弑序神罗即将离开" type="module" args="">Year2021PetLeaveSoonMainPanel</element>	
+			<element id="113" tip="周边礼盒领取通知" type="url" args="">https://game.61.com/events/useraddress</element>	
+			<element id="114" tip="至序圣华即将离开" type="module" args="">Year2022PetLeaveSoonMainPanel</element>
+			<element id="116" tip="苍星即将离开" type="module" args="">Year2023PetLeaveSoonMainPanel</element>		
+			<element id="117" tip="巅峰体验问卷调查" type="url" args="">https://www.wjx.cn/vm/O08jIsQ.aspx#</element>	
+			<element id="118" tip="体验服地址" type="url" args="">https://seer-tyf.61.com$</element>		
+			<element id="119" tip="巅峰体验问卷调查" type="url" args="">https://www.wjx.cn/vm/hw7WLtj.aspx#</element>
+			<element id="120" tip="调研问卷" type="url" args="">https://www.wjx.cn/vm/mO9YHiP.aspx#</element>
+			<element id="121" tip="新链接" type="url" args="">https://www.bilibili.com/opus/998787489275576324</element>
+			<element id="122" tip="巅峰体验问卷调查" type="url" args="">https://www.wjx.cn/vm/P6xc1d8.aspx</element>
+			<element id="123" tip="淘乐节邮件" type="url" args="">https://game.61.com/events/2024tlj/$</element>
+			<element id="124" tip="空元行者即将离开" type="module" args="">Year2024PetLeaveSoonMainPanel</element>	
+			<element id="125" tip="公测预约站" type="url" args="">https://seerm.61.com$</element>
+			<element id="126" tip="问卷调查" type="url" args="">https://www.wjx.cn/vm/ml4I0db.aspx#</element>
+			<element id="127" tip="精灵纪念周边调研" type="url" args="">https://www.wjx.cn/vm/mhb8mxC.aspx#</element>
+			<element id="128" tip="微信小程序 转义" type="url" args="">weixin://dl/business/?appid=wxf0d22ab84976dc91&amp;path=pages/yinliu/index&amp;env_version=release&amp;query=isNoCode%3Dfalse%26onechannel%3Dgame%26twochannel%3Dgamemail%26activityId%3Dkf_yinliu</element>
+			<element id="129" tip="巅峰圣战游戏体验调查" type="url" args="">https://www.wjx.cn/vm/rGe4KsP.aspx</element>
+			<element id="130" tip="添加企微领专属见面礼" type="url" args="">weixin://dl/business/?appid=wxf0d22ab84976dc91&amp;path=pages/yinliu/index&amp;query=configId%3D3%26gameId%3D2%26onechannel%3Dgame%26twochannel%3Dgamemaill</element>
+			<element id="131" tip="巅峰圣战游戏体验调查" type="url" args="">https://www.wjx.cn/vm/Yu9B7kt.aspx</element>
+			<element id="132" tip="巅峰圣战邀请赛报名" type="url" args="">https://www.wjx.cn/vm/rnpBjG1.aspx</element>
+			<element id="133" tip="巅峰圣战32强选手群" type="url" args="">https://qm.qq.com/q/SNCS86tZ2s</element>
+			<element id="134" tip="巅峰圣战邀请赛直播" type="url" args="">https://live.bilibili.com/31981409</element>
+			<element id="136" tip="皮肤投票活动海选问卷" type="url" args="">https://www.wjx.cn/vm/rXJKKLk.aspx#</element>
+			<element id="137" tip="" type="url" args="">weixin://dl/business/?appid=wxf0d22ab84976dc91&amp;path=pages/yinliu/index&amp;query=configId%3D3%26gameId%3D2%26onechannel%3Dgame%26twochannel%3Dgamemail</element>
+			<element id="138" tip="《铁甲小宝》第二阶段预约任务" type="url" args="">https://seer.61.com/events/tjxb</element>
+
+	
+	
+	</elements>
+</root>

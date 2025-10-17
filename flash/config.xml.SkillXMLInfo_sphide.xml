@@ -98,6 +98,11 @@
 	<SpMoves id="85" monster="3940" monstername="鬼神无双·吕布" moves="29135" movesname="神鬼退遁" item="1727405" itemname="方天画戟" itemnumber="1" itemtips="使用后可开启鬼神无双吕布全新技能：神鬼退遁" movetype="2"/>
 	<SpMoves id="86" monster="3823" monstername="小霸王·孙策" moves="38063" movesname="祭寇赤锋" item="1727404" itemname="霸王枪" itemnumber="1" itemtips="使用后可开启小霸王·孙策全新技能：祭寇赤锋" movetype="2"/>
 	<SpMoves id="87" monster="3532" monstername="堕落泰坦" moves="38064" movesname="神暮" item="1727408" itemname="杀神之斧" itemnumber="1" itemtips="使用后可开启堕落泰坦全新技能：神暮" movetype="2"/>
+	<SpMoves id="88" monster="3883" monstername="暗夜·诺伊尔顿" moves="38117" movesname="死祸咒返" item="1727488" itemname="黄昏之眼" itemnumber="1" itemtips="使用后可为暗夜·诺伊尔顿开启全新技能：死祸咒反" movetype="2"/>
+	<SpMoves id="89" monster="3879" monstername="暗霆·伊修兰迪" moves="29169" movesname="断界厄影" item="1727489" itemname="深雷之羽" itemnumber="1" itemtips="使用后可为暗雷·伊修兰迪开启全新技能：断界厄影" movetype="2"/>
+	<SpMoves id="90" monster="3866" monstername="月照星魂" moves="29170" movesname="飞白渲襟" item="1727490" itemname="无缝天缎" itemnumber="1" itemtips="使用后可为月照星魂开启全新技能：飞白渲襟" movetype="2"/>
+	<SpMoves id="91" monster="4354" monstername="狂沙之主·萨特" moves="38118" movesname="枯骨遗沙镇" item="1727491" itemname="弥尘骨" itemnumber="1" itemtips="使用后可为狂沙之主·萨特开启全新技能：枯骨遗沙镇" movetype="2"/>
+	<SpMoves id="92" monster="3586" monstername="战之狂热·英卡洛斯" moves="38119" movesname="威凌昊苍斩" item="1727492" itemname="鏖战双镰" itemnumber="1" itemtips="使用后可为战之狂热·英卡洛斯开启全新技能：威凌昊苍斩" movetype="2"/>
 
 
 

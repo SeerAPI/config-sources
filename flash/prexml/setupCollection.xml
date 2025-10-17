@@ -1,0 +1,32 @@
+<!--
+-->
+<root>
+	<!-- 例子<item fun="com.robot.app.control.TestController:test"/> -->
+	<item fun="com.robot.app.control.YearVip2016Controller:setup" newseershow="1"/>
+	<item fun="com.robot.app2.control.SeerBoxIconController:setup" newseershow="0"/>
+	<!--<item fun="com.robot.app.control.SummerAchieveController:setup" newseershow="0"/>    (对应案子ShuangyanFourthEvoPanel和SummerAchievePanel)  -->
+	<item fun="com.robot.core.config.xml.SptPetIntroXMLInfo:setup" newseershow="0"/>
+	<!--<item fun="com.robot.app2.control.MoreGiftMinuteAwardPopController:checkActivity" newseershow="0"/>    （对应案子《邪冥兽皇全民得》  看代码已经不再活动时间）-->
+	<!--<item fun="com.robot.app2.control.YaoWangSiNeiPuController:setup" newseershow="0"/>  里面代码已经注释-->
+	<!--<item fun="com.robot.app2.control.WeisikeController:setup" newseershow="0"/>里面代码已经注释-->
+	<item fun="com.robot.app2.control.jsControl.JSController:setUp" newseershow="0"/>
+	<!-- <item fun="com.robot.app2.mapProcess.control.LanternFestivalPetController:setup" newseershow="0"/>-->
+	<!--<item fun="com.robot.app2.control.KingofnatureController:setup" newseershow="0"/> 里面代码已经注释-->
+	<!--<item fun="com.robot.app2.control.QingmingfuliController:setup" newseershow="0"/> 看代码已经不在活动时间-->
+ 	<!--<item fun="com.robot.app2.control.PeakJihadLiveJump2017SmallIconControl:setUp" newseershow="0"/>看代码已经不在活动时间 老的巅峰直播基本上不会再复用了-->
+ 	<item fun="com.robot.app2.control.ActivityTimeControl:setUp" newseershow="1"/>
+ 	<!--<item fun="com.robot.app2.control.WeiWeiGiftController:setup" newseershow="0"/> 里面代码已经注释-->
+ 	<item fun="com.robot.core.controller.NewSceneActivityController:getinstance" newseershow="0"/>
+ 	<item fun="com.robot.core.config.xml.ServerMapsXMLInfo:setup" newseershow="0"/>
+ 	<!-- <item fun="com.robot.app.control.ZhanlianSkinTaskController:getinstance" newseershow="0"/>  策划说活动已经下架 但不排除会复用 到时复用再打开-->
+ 	<item fun="com.robot.app.control.IdIdentificationController:setup" newseershow="1"/>
+ 	<item fun="com.robot.core.manager.PetManager:getLovePetList" newseershow="0"/>
+ 	<item fun="com.robot.core.config.xml.NewTaiTanHoleXmlInfo:setup" newseershow="0"/>
+ 	<item fun="com.robot.core.config.xml.BtlconditionXmlInfo:setup" newseershow="0"/>
+ 	<item fun="com.robot.core.config.xml.EffectDesXmlInfo:setup" newseershow="0"/>
+ 	<item fun="com.robot.core.manager.FriendManager:setup" newseershow="0"/>
+ 	<item fun="com.robot.core.config.xml.ErrorCodeAnalysisXMInfo:setup" newseershow="0"/>
+ 	<item fun="com.robot.core.config.xml.DialogXMLInfo:setup" newseershow="1"/>
+ 	<item fun="com.robot.app.control.JNBZZLGController:setup" newseershow="0"/>
+ 	<item fun="com.robot.app.control.ServerCloseNoticeController:setup" newseershow="1"/>
+</root>

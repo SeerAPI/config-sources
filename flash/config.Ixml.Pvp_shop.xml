@@ -42,6 +42,6 @@
 	<item id="41" type="2" producttype="5" commodity="1_1300794_1;1_1300795_1;1_1300796_1;1_1300797_1" petinfo="0_0_0_0" consumeitemid="1717452" price="1500" limit="6" quantity="1" userinfo="124840" stat="2401050540" sort="1" suit="393" />
 	<item id="42" type="2" producttype="5" commodity="1_1300843_1;1_1300844_1;1_1300845_1;1_1300846_1" petinfo="0_0_0_0" consumeitemid="1717452" price="1500" limit="6" quantity="1" userinfo="124841" stat="2401050541" sort="1" suit="404" />
 	<item id="43" type="2" producttype="5" commodity="1_1301031_1;1_1301032_1;1_1301033_1;1_1301034_1" petinfo="0_0_0_0" consumeitemid="1717452" price="1500" limit="6" quantity="1" userinfo="124741" stat="2401050541" sort="1" suit="446" />
-	<item id="44" type="3" producttype="6" petinfo="4785_6285_29089_0" consumeitemid="1727309" price="1" limit="6" quantity="1" userinfo="124701" stat="0" sort="1" />
-	<item id="45" type="3" producttype="4" commodity="6_741_1" petinfo="0_0_0_0" consumeitemid="1727309" price="1" limit="6" quantity="1" userinfo="124702" stat="0" sort="1" />
+	<item id="44" type="3" producttype="6" petinfo="4823_6315_38114_0" consumeitemid="1727487" price="1" limit="6" quantity="1" userinfo="124701" stat="0" sort="1" />
+	<item id="45" type="3" producttype="4" commodity="6_763_1" petinfo="0_0_0_0" consumeitemid="1727487" price="1" limit="6" quantity="1" userinfo="124702" stat="0" sort="1" />
 </root>

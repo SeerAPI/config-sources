@@ -2456,6 +2456,10 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="3"/>
 	</Skin>	
 	
+	<Skin ID="743" MonID="3697" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="15" Name="璀璨音律·凡尔斯" Go="app/FinalActivityPanel" GoType="module">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="3"/>
+	</Skin>	
+
 	<Skin ID="744" MonID="4597" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="3" Name="风漪夏吻·维伊">
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="3"/>
 	</Skin>	
@@ -2532,8 +2536,17 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
+    <Skin ID="763" MonID="4823" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="冬日礼装·雪璞" Go="app/FinalActivityPanel" GoType="module">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
 
+    <Skin ID="764" MonID="3524" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="源初躁动·乔列尼德" Go="app/FinalActivityPanel" GoType="module">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
 
+    <Skin ID="765" MonID="4454" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="极夜暮歌·黑沃德" Go="app/FinalActivityPanel" GoType="module">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
 
 
 

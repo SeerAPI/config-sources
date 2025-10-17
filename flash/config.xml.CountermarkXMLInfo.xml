@@ -3694,6 +3694,7 @@
 	<MintMark ID="42591" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 2 0 2 3 8" MaxAttriValue="52 27 0 27 39 85" MonsterID="4808" Level="100" Max="99" Des="讳迹·米修莉专属全能刻印" EffectDes="攻击5/52,防御2/27,特防2/27,速度3/39,体力8/85"/>
 	<MintMark ID="42592" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 2 0 2 3 8" MaxAttriValue="41 23 0 23 34 84" MonsterID="4815" Level="100" Max="99" Des="火箭骑士君专属全能刻印" EffectDes="攻击4/41,防御2/23,特防2/23,速度3/34,体力8/84"/>
     <MintMark ID="42593" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 2 0 2 4 9" MaxAttriValue="56 27 0 27 40 90" MonsterID="4800" Level="100" Max="99" Des="无极圣武专属全能刻印" EffectDes="攻击5/56,防御2/27,特防2/27,速度4/40,体力9/90"/>
+	<MintMark ID="42594" Type="3" Rare="2" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 4 2 3 8" MaxAttriValue="0 25 45 25 30 85" Level="100" Max="99" Des="星火烛燎" EffectDes="防御2/25,特攻4/45,特防2/25,速度3/30,体力8/85" MintmarkClass="61"/>
 
 
 	<!--刻印铸造碎片-->

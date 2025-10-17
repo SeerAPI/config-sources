@@ -1,0 +1,23 @@
+<!-- rewardsTypes  和rewards 一一对应 默认0 表示物品 1 精灵 2 刻印-->
+<root>
+	<level petIds="2858" rewwards="1:10000 1400352:500 400064:1"  recommendPetId="3142" go="1192"/>
+	<level petIds="2845" rewwards="1:10000 1400352:500 400064:1"   recommendPetId="3105" go="1186"/>
+	<level petIds="2826" rewwards="1:20000 1400352:1000 400064:2"   recommendPetId="2739" go="1089"/>
+	<level petIds="62" rewwards="1:20000 1400352:1000 400064:2"   recommendPetId="2966" go="981"/>
+	<level petIds="2579 1657" rewwards="300063:1"  isPet="false" recommendPetId="3243" go="1081"/>
+	<level petIds="2341" rewwards="1:30000 1400352:1500 400064:3"   recommendPetId="3240" go="1081"/>
+	<level petIds="1845" rewwards="1:30000 1400352:1500 400064:3"   recommendPetId="3140" go="1005"/>
+	<level petIds="2323" rewwards="1:50000 1400352:2500 400064:5"   recommendPetId="3190" go="1192"/>
+	<level petIds="2527" rewwards="1:50000 1400352:2500 400064:5"   recommendPetId="3246" go="1081"/>
+	<level petIds="2394 2347" rewwards="2591:1"  rewardsTypes="1" recommendPetId="3082" go="1178"/>
+	<level petIds="2379 " rewwards="1:80000 1400352:4000 400064:8"   recommendPetId="2966" go="981"/>
+	<level petIds="2651" rewwards="1:80000 1400352:4000 400064:8"   recommendPetId="3050" go="1065"/>
+	<level petIds="2766" rewwards="1:130000 1400352:6500 400064:13"   recommendPetId="3214" go="1197"/>
+	<level petIds="3001" rewwards="1:130000 1400352:6500 400064:13"   recommendPetId="2882" go="1110"/>
+	<level petIds="2758 2639" rewwards="300066:1"   recommendPetId="2882" go="1110"/>
+	<level petIds="2844" rewwards="1:210000 1400352:10500 400065:2"   recommendPetId="2910" go="1128"/>
+	<level petIds="2959" rewwards="1:210000 1400352:10500 400065:2"   recommendPetId="2844" go="1089"/>
+	<level petIds="2988" rewwards="1:340000 1400352:17000 400065:3"   recommendPetId="2959" go="1136"/>
+	<level petIds="3036" rewwards="1:340000 1400352:17000 400065:3"   recommendPetId="3216" go="1203"/>
+	<level petIds="3054 2987" rewwards="3361:1 40907:1" rewardsTypes="1 2"  recommendPetId="3082" go="1178"/>
+</root>

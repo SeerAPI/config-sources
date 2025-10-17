@@ -1,0 +1,70 @@
+<!-- 
+	showtime 显示的时间 item 真品1的id item2珍品2的id
+	id、 itemid need 需要多少宝珠 max 最多兑换几个  num一次兑换多少个
+ -->
+<root>
+	<items showtime="2016-7-29">
+		<item id="300791" need="1500" max="1" num="1" isprecious="1"/>
+		<item id="300790" need="800" max="5" num="1" isprecious="1"/>
+		<item id="300673" need="100" max="10" num="1" isprecious="0"/>
+		<item id="300075" need="50" max="10" num="1" isprecious="0"/>
+		<item id="400065" need="10" max="80" num="1" isprecious="0"/>
+		<item id="400063" need="100" max="40" num="1" isprecious="0"/>
+		<item id="300706" need="30" max="10" num="1" isprecious="0"/>
+		<item id="300707" need="50" max="10" num="1" isprecious="0"/>
+		<item id="300129" need="300" max="5" num="1" isprecious="0"/>
+		<item id="300669" need="200" max="5" num="1" isprecious="0"/>
+	</items>
+	<items showtime="2016-8-5">
+		<item id="300791" need="1500" max="1" num="1" isprecious="1"/>
+		<item id="300136" need="800" max="5" num="1" isprecious="1"/>
+		<item id="300075" need="50" max="10" num="1" isprecious="0"/>
+		<item id="300070" need="90" max="10" num="1" isprecious="0"/>
+		<item id="300714" need="400" max="5" num="1" isprecious="0"/>
+		<item id="300718" need="300" max="5" num="1" isprecious="0"/>
+		<item id="300719" need="200" max="5" num="1" isprecious="0"/>
+		<item id="300715" need="200" max="5" num="1" isprecious="0"/>
+		<item id="300720" need="400" max="5" num="1" isprecious="0"/>
+		<item id="300721" need="100" max="5" num="1" isprecious="0"/>
+	</items>
+	<items showtime="2016-8-12">
+		<item id="300762" need="1500" max="1" num="1" isprecious="1"/>
+		<item id="300700" need="800" max="5" num="1" isprecious="1"/>
+		<item id="300075" need="50" max="10" num="1" isprecious="0"/>
+		<item id="300070" need="90" max="10" num="1" isprecious="0"/>
+		<item id="300673" need="100" max="10" num="1" isprecious="0"/>
+		<item id="300063" need="350" max="5" num="1" isprecious="0"/>
+		<item id="300065" need="200" max="10" num="1" isprecious="0"/>
+		<item id="300021" need="200" max="10" num="1" isprecious="0"/>
+		<item id="300617" need="300" max="10" num="1" isprecious="0"/>
+		<item id="300618" need="400" max="5" num="1" isprecious="0"/>
+	</items>
+	<items showtime="2016-8-19">
+		<item id="300757" need="1500" max="1" num="1" isprecious="1"/>
+		<item id="300651" need="800" max="5" num="1" isprecious="1"/>
+		<item id="300639" need="400" max="5" num="1" isprecious="0"/>
+		<item id="300640" need="300" max="5" num="1" isprecious="0"/>
+		<item id="300641" need="200" max="5" num="1" isprecious="0"/>
+		<item id="300642" need="200" max="5" num="1" isprecious="0"/>
+		<item id="300643" need="400" max="5" num="1" isprecious="0"/>
+		<item id="300644" need="400" max="5" num="1" isprecious="0"/>
+		<item id="300104" need="50" max="10" num="1" isprecious="0"/>
+		<item id="300108" need="50" max="10" num="1" isprecious="0"/>
+		<item id="300109" need="50" max="10" num="1" isprecious="0"/>
+		<item id="300112" need="50" max="10" num="1" isprecious="0"/>
+		<item id="300113" need="50" max="10" num="1" isprecious="0"/>
+		<item id="300138" need="50" max="10" num="1" isprecious="0"/>
+	</items>
+	<items showtime="2016-8-26">
+		<item id="300757" need="1500" max="1" num="1" isprecious="1"/>
+		<item id="300772" need="1200" max="3" num="1" isprecious="1"/>
+		<item id="300063" need="350" max="5" num="1" isprecious="0"/>
+		<item id="300065" need="200" max="10" num="1" isprecious="0"/>
+		<item id="1706826" need="100" max="10" num="1" isprecious="0"/>
+		<item id="1706924" need="250" max="5" num="1" isprecious="0"/>
+		<item id="1706925" need="250" max="5" num="1" isprecious="0"/>
+		<item id="1706926" need="500" max="5" num="1" isprecious="0"/>
+		<item id="1706927" need="25" max="99" num="1" isprecious="0"/>
+		<item id="1706928" need="25" max="99" num="1" isprecious="0"/>
+	</items>
+</root>

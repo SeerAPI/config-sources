@@ -1,0 +1,91 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- direction:方向 -->
+<!-- priority：位置 （每个方向有7个位置） -->
+<!-- exMapList：不能出现的场景ID  空格分隔  50000代表不在小屋中出现；这时的隐藏不刷新icon位置列表，只是空出当前位置 -->
+<!-- ui：重要图标.swc里的链接名 -->
+<!-- iconTxt:icon所显示的艺术字，不设或者为空都不会显示,icon素材中需有实例名称为"txtContainer"的元件 -->
+<!-- tips:不解释  -->
+<!-- initfunc：显示图标时需要的初始化操作，比如要侦听什么事件，跳转到第几帧，播个什么动画等等 ->方法的参数是icon：movieClip -->
+<!-- mouseClickFunc：鼠标点击事件->方法的参数是icon：movieClip -->
+<!-- mouseClickFunc新加："app:panel","map:1","mapApp:1,panel，alarm"
+     230928追加注释：
+	 若要打开面板，请使用"app:panel"格式；
+	 若要跳转地图，请使用"map:id"格式；
+	 若要跳转地图+打开面板，请使用"mapApp:id,panel"格式；
+	 若要打开弹窗文字，使用alarm:格式
+	 *panel为对应面板名
+	  id表示地图编号
+	 -->
+<!-- shownewseer 1新手的时候和不是新手都显示  2只在新手显示 0或者没有在新手不显示 -->
+<!-- 以上两个方法请配全路径！！便于查找 -->
+<root>
+
+	<!-- left -->
+
+
+	<icon direction="left" shownewseer="0" priority="1" exMapList="50000" ui="markJackpot_icon" tips="刻印之轮" initfunc="" mouseClickFunc="app:FinalActivityPanel"/>
+	<icon direction="left" shownewseer="0" priority="2" exMapList="50000" ui="petJackpot_icon" tips="精灵招募" initfunc="" mouseClickFunc="app:FinalActivityPanel"/>
+	<icon direction="left" shownewseer="0" priority="3" exMapList="50000" ui="shengdianyingxiongtuan_icon" tips="圣殿英雄团" initfunc="" mouseClickFunc="app:TempleHeroAltarPrePanel"/>
+	<icon direction="left" shownewseer="0" priority="5" exMapList="50000" ui="peakJihad2023WarOrde" tips="星际通行证" initfunc="" mouseClickFunc="app:FinalActivityPanel"/>
+	<!-- <icon direction="left" shownewseer="0" priority="6" exMapList="50000" ui="monthlycard" tips="2025寒假尊享特权钻石月卡" initfunc="" mouseClickFunc="app:DiamondMonthlyCardOf2019MainPanel"/> -->
+	<icon direction="left" shownewseer="0" priority="4" exMapList="50000" ui="laidashenqi_icon" tips="莱达神祇" initfunc="" mouseClickFunc="app:LaiDaBackPanel"/>
+	<!-- <icon direction="left" shownewseer="0" priority="5" exMapList="50000" ui="diamondCard_icon" tips="国庆钻石金卡" initfunc=""  mouseClickFunc="app:NationalDayDimandCardMainPanel"/> -->
+	<!-- <icon direction="left" shownewseer="0" priority="4" exMapList="50000" ui="ReturnLogin_Icon" tips="2023回流" initfunc="com.robot.app2.systems.iconLevel.IconFuncManager:seer2023retrun" mouseClickFunc="app:Backflow2023MainPanel"/> -->
+
+    <icon direction="left_side" shownewseer="0" priority="1" exMapList="50000" ui="lotteryIcon" tips="精灵强化" initfunc="" mouseClickFunc="app:TreasureHuntPanel"/>
+	<icon direction="left_bar" shownewseer="0" priority="1" exMapList="50000" ui="shopcenter_icon" tips="最新礼包" initfunc="" mouseClickFunc="app:NewGiftMainPanel"/>
+	<icon direction="left_bar" shownewseer="0" priority="2" exMapList="50000" ui="yearvip_icon" tips="2025年费" initfunc="com.robot.app2.systems.iconLevel.IconFuncManager:initVip2016" mouseClickFunc="app:Yearvip2025MainPanel"/>
+
+	<!-- <icon direction="right_bar" shownewseer="0" priority="3" exMapList="50000" ui="PiShenJiangLin_icon" tips="皮洛斯星的旅途" mouseClickFunc="app:PiLuoSiXingGoToThreeMapPanel"/> -->
+	<!-- <icon direction="left_bar" shownewseer="0" priority="3" exMapList="50000" ui="15xinyuan_icon" tips="15周年心愿单" initfunc="" mouseClickFunc="com.robot.app2.systems.iconLevel.IconFuncManager:clickEnterSubPanel"/> -->
+	<!-- <icon direction="left_bar" shownewseer="0" priority="3" exMapList="50000" ui="springFeedback_icon" tips="新春回馈" initfunc="" mouseClickFunc="app:NewYearConsumptionFeedbackMainPanel"/> -->
+	<!-- <icon direction="left_bar" shownewseer="0" priority="4" exMapList="50000" ui="newyearwish_icon" tips="新春限定许愿" initfunc="" mouseClickFunc="app:NewYearPetWish2022MainPanel"/> -->
+
+
+	<!-- <icon direction="left_bar" shownewseer="0" priority="3" exMapList="50000" ui="2022springactivityicon" tips="新春活动" initfunc="" mouseClickFunc="app:SpringFestival2022_SummaryPanel"/>	 -->
+	<!-- 【新手福利】涉及新手流程，不能改位置 -->
+	<icon direction="left_side" priority="2" exMapList="50000" ui="newSeer2020_icon" tips="新手福利" initfunc="com.robot.app2.systems.iconLevel.IconFuncManager:initNewseer2020icon" mouseClickFunc="app:BeginnerForcePopPanel"/>
+	<!-- right -->
+
+	<!-- <icon direction="right" shownewseer="0" priority="5" exMapList="50000" ui="offlineIcon" tips="精灵下架通知" initfunc="" mouseClickFunc="app:ClassSSpiritOfflineMainPanel"/>	-->
+	<icon direction="right" shownewseer="0" priority="1" exMapList="50000" ui="recommendedpet_icon" tips="推荐精灵" initfunc="" mouseClickFunc="app:RecommendPetPanel"/>
+	<icon direction="right" shownewseer="0" priority="2" exMapList="50000" ui="task_main_icon" tips="主线剧情" initfunc="com.robot.app2.systems.iconLevel.IconFuncManager:initTask" mouseClickFunc="app:MainLineAdventureOverview"/>
+	<icon direction="right" shownewseer="0" priority="3" exMapList="50000" ui="pvpPreIcon" tips="巅峰联赛 全新赛季" initfunc="" mouseClickFunc="mapApp:1095,PeakJihad2023MainPanel"/>
+	<icon direction="right" shownewseer="0" priority="4" exMapList="50000" ui="announcement_icon" tips="公告中心" initfunc="" mouseClickFunc="app:NoticeCenterMainPanel"/>
+	<!-- <icon direction="right" shownewseer="0" priority="5" exMapList="50000" ui="yongzhezhengcheng_icon" tips="勇者征程" initfunc="" mouseClickFunc="com.robot.app2.systems.iconLevel.IconFuncManager:onH5Click"/> -->
+	<icon direction="right" shownewseer="0" priority="5" exMapList="50000" ui="SanDuanHuTong_icon" tips="最新活动" initfunc="" mouseClickFunc="app:FinalActivityPanel"/>
+	<!-- <icon direction="right" shownewseer="0" priority="5" exMapList="50000" ui="seer13thGift_Icon" tips="邮政联名礼盒每日放送！" initfunc="com.robot.app2.systems.iconLevel.IconFuncManager:seer13thGiftIconInit" mouseClickFunc="app:Serr13thAnniversaryHelpsGetGiftMainPanel"/>-->
+	<!-- <icon direction="right" shownewseer="0" priority="5" exMapList="50000" ui="qingpu_icon" tips="交通日记" initfunc="" mouseClickFunc="app:QingPuPopPanel"/> -->
+	<!-- <icon direction="right" shownewseer="0" priority="5" exMapList="50000" ui="seerburgerking_Icon" tips="汉堡王联动活动" initfunc="" mouseClickFunc="app:BurgerKinglinkageMianPanel"/> -->
+	<!-- 【最新活动】涉及新手流程，不能改位置 -->
+    <icon direction="right_side" shownewseer="0" priority="1" exMapList="50000" ui="resourcelevel_icon" tips="资源副本" initfunc="" mouseClickFunc="app:ResourceCopyMainPanel"/>
+	<icon direction="right_bar" shownewseer="0" priority="1" exMapList="50000" ui="sceneActivity_icon" tips="往期活动" initfunc="" mouseClickFunc="app:SceneActivityPanel"/>
+	<icon direction="right_bar" shownewseer="0" priority="2" exMapList="50000" ui="SeerTrainLog_icon" tips="钻石任务" initfunc="" mouseClickFunc="app:DiamondTask2022MainPanel"/>
+	<!-- <icon direction="right" shownewseer="0" priority="6" exMapList="50000" ui="eclusiveBenefit_icon" tips="专属福利" initfunc="com.robot.app2.systems.iconLevel.IconFuncManager:clickFlashOpenSmallProgram" mouseClickFunc="app:FlashOpenSmallProgramPanel"/> -->
+	<!-- <icon direction="right_bar" shownewseer="0" priority="3" exMapList="50000" ui="ceshi_icon" tips="2024淘乐节" initfunc="" mouseClickFunc="com.robot.app2.systems.iconLevel.IconFuncManager:clickTaoLePop"/> -->
+	<!-- <icon direction="right_bar" shownewseer="0" priority="3" exMapList="50000" ui="monkey_icon" tips="大闹天宫" initfunc="" mouseClickFunc="app:HavocInHeavenGoToMapPanel"/> -->
+
+	<!-- <icon direction="right_bar" shownewseer="0" priority="3" exMapList="50000" ui="gobacktoherka_icon" tips="千年赫尔卡之谜" initfunc="" mouseClickFunc="app:QianNianHeErKaZhiMiGoToMapPanel"/> -->
+    <!-- <icon direction="right_bar" shownewseer="0" priority="3" exMapList="50000" ui="SpringFestivalSummaryIcon" tips="金蛇献瑞" initfunc="" mouseClickFunc="app:TheSpringFestivalGoToMapPanel"/> -->
+	<!-- <icon direction="right_bar" shownewseer="0" priority="3" exMapList="50000" ui="zhoubian_icon" tips="周边放送" initfunc="" mouseClickFunc="app:SeerNumberPeripheralGiftOxLotteryMainPanel"/> -->
+	<!-- <icon direction="right" shownewseer="0" priority="6" exMapList="50000" ui="unityceshi2_icon" tips="测试招募" initfunc="com.robot.app2.systems.iconLevel.IconFuncManager:initUnityRecruitIcon" mouseClickFunc="com.robot.app2.systems.iconLevel.IconFuncManager:clickUnityRecruitIcon"/> -->
+	<!-- <icon direction="right_bar" shownewseer="0" priority="3" exMapList="50000" ui="unityceshi2_icon" tips="测试招募" initfunc="" mouseClickFunc="app:PlayerRecruitPanel"/>  -->
+
+
+	<!--<icon direction="right_bar" shownewseer="0" priority="4" exMapList="50000" ui="peakJihad2023LimitActivity" tips="巅峰限时活动" initfunc="" mouseClickFunc="app:PeakJihad2023LimitActivityPanel"/>
+	<icon direction="right_bar" shownewseer="0" priority="5" exMapList="50000" ui="tutujianianhua_icon" tips="VIP周年庆" initfunc="" mouseClickFunc="app:VIP12AnniversaryGoToMapPanel"/>
+	<icon direction="right_bar" shownewseer="0" priority="3" exMapList="50000" ui="taoleIcon" tips="淘乐节" initfunc="" mouseClickFunc="app:TaoLePanel20231124"/>-->
+	<!--<icon direction="right_bar" shownewseer="0" priority="4" exMapList="50000" ui="FourteenAnniversaryIcon" tips="周年庆典" initfunc="" mouseClickFunc="app:FourteenAnniversaryMainPanel"/>-->
+	<!--<icon direction="right_bar" shownewseer="0" priority="3" exMapList="50000" ui="xingtuhuigui_icon" tips="赛尔号IP回归活动" initfunc="" mouseClickFunc="app:ActivityBackPopupPanel"/>
+	<icon direction="right_bar" shownewseer="0" priority="4" exMapList="50000" ui="SpringFestivalSummaryIcon" tips="福龙贺岁" initfunc="" mouseClickFunc="app:TheCastleBanquetCollectionMainPanel"/>
+	<icon direction="right_bar" shownewseer="0" priority="3" exMapList="50000" ui="2024YearVipPreheat_icon" tips="2024年费预告" initfunc="" mouseClickFunc="app:AnnualPreheating2024MainPanel"/>
+	<icon direction="right_bar" shownewseer="0" priority="3" exMapList="50000" ui="DiDuoReturnEvent_icon" tips="赛尔号IP回归活动" initfunc="" mouseClickFunc="app:ActivityBackPopupPanel"/> -->
+
+	<!-- <icon direction="right_bar" shownewseer="0" priority="3" exMapList="50000" ui="wishtree" tips="心愿漂流瓶" initfunc="com.robot.app2.control.WishTreeIconController:setup" mouseClickFunc="com.robot.app2.control.WishTreeIconController:onClickIcon"/> -->
+	<!-- <icon direction="right_bar" shownewseer="0" priority="4" exMapList="50000" ui="20210709_SummerSign" tips="暑期签到精灵" initfunc="" mouseClickFunc="app:SummerVacationSignIn2021MainPanel"/> -->
+	<!-- <icon direction="right_bar" shownewseer="0" priority="3" exMapList="50000" ui="2022YearVipPreheat_icon" tips="2022年费神宠预告" initfunc="" mouseClickFunc="app:AnnualFeePreheating2022AggregatePanel"/> -->
+
+	<icon direction="right_side" shownewseer="0" priority="2" exMapList="50000" ui="ReturnLogin_Icon" tips="老兵回归福利" initfunc="com.robot.app2.systems.iconLevel.IconFuncManager:seer2023retrun" mouseClickFunc="app:SeerReturnGoToPopPanel"/>
+	<!-- <icon direction="right_side" shownewseer="0" priority="4" exMapList="50000" ui="ReturnLogin_Icon" tips="老兵回归福利" initfunc="com.robot.app2.systems.iconLevel.IconFuncManager:seer2023retrun" mouseClickFunc="app:Backflow2023MainPanel"/> -->
+</root>

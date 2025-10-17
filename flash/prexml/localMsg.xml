@@ -1,0 +1,18 @@
+<!-- 本地小信封 localMsg.xml-->
+<msg>
+<!-- 	<version time="* * 9-15 10 * 2015"> -->
+<!-- 		<localMsg des="罗格尔超进化" moduleName="LuogeerEvoMsgPanel" buffer="0" isUseSO="" moduleParam="1" moduleType="" msgPriority="0" isSimple="0"/> -->
+<!-- 		<localMsg des="精灵编年史手札" moduleName="SeerHistoryLetterMsgPanel" buffer="0" isUseSO="" moduleParam="1" moduleType="" msgPriority="0" isSimple="0"/> -->
+<!-- 		<localMsg des="vip包月送精灵" moduleName="OctoberVip2015MsgPanel" buffer="0" isUseSO="" moduleParam="1" moduleType="" msgPriority="0" isSimple="0"/> -->
+<!-- 	</version> -->
+<!-- 	<version time="* * 4-8 10 * 2015"> -->
+<!-- 		<localMsg des="梵天超进化" moduleName="FantianEvoMsgPanel" buffer="0" isUseSO="" moduleParam="1" moduleType="" msgPriority="0" isSimple="0"/> -->
+<!-- 		<localMsg des="精灵编年史手札" moduleName="SeerHistoryLetterMsgPanel" buffer="0" isUseSO="" moduleParam="1" moduleType="" msgPriority="0" isSimple="0"/> -->
+<!-- 		<localMsg des="vip包月送精灵" moduleName="OctoberVip2015MsgPanel" buffer="0" isUseSO="" moduleParam="1" moduleType="" msgPriority="0" isSimple="0"/> -->
+<!-- 	</version> -->
+
+	<version time="* * * * * *">
+		<!--  应2016.11.10 hugh策划需求 小信封已下架，请不要添加任何内容 -->
+	</version>
+	
+</msg> 

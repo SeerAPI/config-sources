@@ -1,0 +1,78 @@
+<!-- 
+    id是唯一的，可以通过WeeklyTasksController.go(id)调用来跳转地图或者打开面板
+    tip 该id的信息，给开发人员看，方便修改。
+    type 目前的type有四种，module、map、func、url
+    args 打开面板或者调用函数的时候用到的参数，格式arg1:1;arg2:2
+ -->
+
+<root>
+	<tasks>
+<!-- 		<task id="1" tip="提示" type="module" args="arg1:1;arg2:2">TextPanel</task> -->
+<!-- 		<task id="2" tip="提示" type="map" args="">10</task> -->
+<!-- 		<task id="3" tip="提示" type="func" args="arg1:1;arg2:2">com.robot.app2.control.TaXiYaController:start</task> -->
+<!-- 		<task id="4" tip="提示" type="url" args="">http://www.61.com/</task> -->
+		<task id="1" tip="白虎超进化全民祈愿" type="module" args="">WhiteTigerSuperEvoMainPanel</task>
+		<task id="2" tip="白虎超进化技能大猜想" type="module" args="">WhiteTigerSuperEvoGuessPanel</task>
+		<task id="3" tip="白虎超进化通知" type="module" args="frame:1">WhiteTigerSuperEvoInformPanel</task>
+		<task id="4" tip="白虎超进化解除封印" type="module" args="">WhiteTigerSuperEvoReleasePanel</task>
+		<task id="5" tip="白虎超进化祈愿" type="module" args="">WhiteTigerSuperEvoPrayPanel</task>
+		<task id="6" tip="白虎超进化宝藏" type="module" args="">WhiteTigerSuperEvoTreasurePanel</task>
+		<task id="7" tip="白虎超进化" type="module" args="">BaiHuChaoJingHuaDaJieMiMainPanel</task>
+		<task id="8" tip="狂鹰利眼杰洛里德" type="module" args="">JieluolideSuperEvolutionMainPanel</task>
+		<task id="9" tip="烈战虎卫" type="module" args="">TigerGuardForStrongWarMainPanel</task>
+		<task id="10" tip="11.14 12轮" type="map" args="">931</task>
+		<task id="11" tip="猛虎王超进化" type="module" args="">TigerKingSuperEvolveMainPanel</task>
+		<task id="12" tip="赵云超进化预热" type="module" args="">ZhaoYunSuperEvoPreMainPanel</task>
+		<task id="13" tip="白虎超级混大揭秘" type="module" args="">BaiHuChaoJingHuaDaJieMiMainPanel</task>
+		<task id="14" tip="大智愚者泽拉瑞尔" type="module" args="">ZelasiSuperEvolutionMainPanel</task>
+		<task id="15" tip="失落灵魂洗涤--云云的救赎" type="module" args="">FallenSoulMainPanel</task>
+		<task id="16" tip="vip周年庆签到" type="module" args="">VipAnnualSignPanel</task>
+		<task id="17" tip="赵云超进化预热" type="module" args="">ZhaoYunCaoEvoMainPanel</task>
+		<task id="18" tip="淘米游戏节商店" type="module" args="">GameFestivalShopPanel</task>
+		<task id="19" tip="淘米游戏节,欢乐时刻表" type="module" args="">TaomeeGameDayTablePanel</task>
+		<task id="20" tip="12月包月" type="module" args="">DecMainPanel</task>
+		<task id="21" tip="新增，回流活动" type="module" args="">NewAndReturnActiveUserPanel</task>
+		<task id="22" tip="感恩许愿池 " type="module" args="">ThanksgivingWishingWellPanel</task>
+		<task id="23" tip=" 云云进化" type="module" args="">YunyunEvolutionMainPanel</task>
+		<task id="24" tip="暗沼行者 斯吉亚" type="module" args="">SchiaSuperEvoMainPanel</task>
+		<task id="25" tip="寻找昔日神宠" type="module" args="">LookForFormerPetsMainPanel</task>
+		<task id="26" tip="年兽一波流" type="module" args="">MonsterNian2014MainPanel</task>
+		<task id="27" tip="神力号超进化" type="module" args="">PowerPetEvolvePanel</task>
+		<task id="28" tip="支线任务" type="module" args="">MyFriendForeverPanel</task>
+		<task id="29" tip="神宠寻宝" type="module" args="">TreasureHuntPanel</task>
+		<task id="30" tip="兑换钻石送好礼" type="module" args="">ExchangeDiamondGetXteamPet</task>
+		<task id="31" tip="圣诞演奏家贝塔" type="module" args="">ChristmasBetaMainPanel</task>
+		<task id="32" tip="布鲁格林新朋友" type="module" args="">BlueGreenNewFriendMainPanel</task>
+		<task id="33" tip="神宠大猜想" type="module" args="">SacredPetGuessPanel</task>
+		<task id="34" tip="神宠超进化之墨杜萨" type="module" args="">MedusaEvoPanel</task>
+		<task id="35" tip="绝影孤星" type="module" args="">ShadowStarMainPanel</task>
+		<task id="36" tip="火车侠超进化 第二弹" type="module" args="">CouragePetEvolvePanel</task>
+		<task id="37" tip="称号成就大放送" type="module" args="">ChenghaoChengjiuDafangsongPanel</task>
+		<task id="38" tip="圣诞狂欢时刻表" type="module" args="">ChristmasKuangHuanTimePanel</task>
+		<task id="39" tip="201412圣诞活动1" type="module" args="">ChristmasAct1EnterPanel</task>
+		<task id="40" tip="圣光灵王预约包装特别策划案" type="module" args="">PrayPanel20141215</task>
+		<task id="41" tip="绝影天煞" type="module" args="">JYTSMainPanel</task>
+		<task id="42" tip="力士大比拼 称号砸出来" type="module" args="">ChenghaoChengjiuDafangsongPanel</task>
+		<task id="43" tip="2014圣诞活动3 圣诞树许愿" type="module" args="">ChristmasTreeWishPanel</task>
+		<task id="44" tip="亘古飞雪冰影天骑" type="module" args="">IceShadowSkyRidePanel</task>
+		<task id="45" tip="圣诞节登录礼包" type="module" args="">ChristmasLoginGiftsPanel</task>
+		<task id="46" tip="圣诞节主题活动2,5,6" type="map" args="">808</task>
+		<task id="47" tip="烈焰号超进化" type="module" args="">LieYanHaoEvolvePanel</task>
+		<task id="48" tip="祖系师徒大回归" type="map" args="">10773</task>
+		<task id="49" tip="圣光灵王输出" type="module" args="">VIPYear2015Panel</task>
+		<task id="50" tip="新版登录礼包" type="module" args="">NewLoginGiftPanel</task>
+		<task id="51" tip="spt弱化" type="module" args="">SptBossWeakenPanel</task>
+		<!-- 12.30 begin-->
+		<task id="52" tip="福利许愿池" type="module" args="">WelfareTreviMainPanel</task>
+		<task id="53" tip="元旦齐喝彩" type="module" args="">appmodule,CheerMainPanel20141223</task>
+		<!-- 2015.1.9 begin-->
+		<task id="54" tip="新年福利大回馈" type="module" args="">NewYearBenefitsSumaryPanel</task>
+		<task id="55" tip="恶灵兽超进化" type="module" args="">ELingSuperEvolve</task>
+		<task id="56" tip="烈焰蛟龙 朵瑞斯特 大案条" type="module" args="">DoGernertMainPanel</task>
+		<task id="57" tip="光暗天使合体 大案条" type="module" args="">LDAngelFusionPanel</task>
+		<task id="58" tip="炎龙预热" type="module" args="">FireDragonPreheatPanel</task>
+		<task id="59" tip="不动明王预热" type="module" args="">BudongmingwangWarmup</task>
+		<task id="60" tip="新春聚宝盆" type="module" args="">TreasureBasinPanel</task>
+		<task id="61" tip="新春福袋" type="module" args="">TreasureBagPanel</task>
+	</tasks>
+</root>

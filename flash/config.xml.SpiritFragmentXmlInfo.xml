@@ -519,5 +519,10 @@
 	<Fragment ID="2400520" show="1" Name="贝尔恩克因子" MonsterID="4820" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6313" effectId="2012" NewseConsume="200" MoveID="38107" MovesConsume="100" NeedmonID="0" NewMsglogId="2510090400" SeMsglog="2510090401" EffectMsglog="2510090402"/>
 
 	<Fragment ID="2400521" show="1" Name="缚影·炼狱魔神" MonsterID="3907" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="3267" effectId="1174" NewseConsume="270" MoveID="33519" MovesConsume="108" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+	<Fragment ID="2400522" show="1" Name="星光·里奥斯因子" MonsterID="4822" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6314" effectId="2013" NewseConsume="270" MoveID="38111" MovesConsume="108" NeedmonID="0" NewMsglogId="2510160600" SeMsglog="2510160601" EffectMsglog="2510160602"/>
+	<Fragment ID="2400523" show="1" Name="鬼神无双·吕布因子" MonsterID="3940" Rarity="4" PetLimit="0" PetConsume="1000" NewSeIdx="3319" effectId="1203" NewseConsume="500" MoveID="33694" MovesConsume="200" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+	<Fragment ID="2400524" show="1" Name="燃魂巨兽因子" MonsterID="3584" Rarity="4" PetLimit="0" PetConsume="1000" NewSeIdx="2816" effectId="885" NewseConsume="500" MoveID="31887" MovesConsume="200" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+	
+	
 	
 </Root>

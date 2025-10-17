@@ -1,0 +1,161 @@
+<!--
+		
+ -->
+<root>
+	<type id = "0" desc ="综合">
+		<Rule id="41" name="顺手完成" point="1" desc="完成1次今日“有赏”任务" item="1710237" num="20"/>
+		<Rule id="42" name="这周妥了" point="1" desc="完成1次本周“有赏”任务" item="1710237" num="20"/>
+		<Rule id="43" name="每天都来" point="1" desc="完成10次今日“有赏”任务" item="" num=""/>
+		<Rule id="44" name="我变强了" point="1" desc="完成3次本周“有赏”任务" item="" num=""/>
+		<Rule id="45" name="习惯自然" point="1" desc="完成40次今日“有赏”任务" item="1710237" num="100"/>
+		<Rule id="46" name="强！无敌" point="1" desc="完成5次本周“有赏”任务" item="1710237" num="100"/>
+		<!--20180629版本复用删除
+		<Rule id="47" name="冰火之力" point="1" desc="获得霜焱兽" item="1710237" num="20"/>
+		<Rule id="48" name="首次进阶" point="1" desc="为霜焱兽进行首次进阶" item="" num=""/>
+		-->
+		<Rule id="49" name="稀有珍品" point="1" desc="成功兑换1次本周珍品" item="" num=""/>
+		<Rule id="50" name="发大财啦" point="1" desc="成功兑换5次每周珍品" item="" num=""/>
+		<Rule id="51" name="我要变强" point="1" desc="成功兑换1次本周奖励" item="" num=""/>
+		<Rule id="52" name="我要更强" point="1" desc="成功兑换20次每周奖励" item="" num=""/>
+		<!--20180629版本复用删除
+		<Rule id="80" name="冰火之王" point="1" desc="获得霜炎兽王" item="1710237" num="49"/>
+		<Rule id="105" name="霜焱主宰" point="1" desc="获得霜焱兽的三阶进化形态霜焱主宰" item="1710237" num="60"/>
+		<Rule id="130" name="冰火霜焱" point="1" desc="获得霜焱兽的完全进化形态霜焱" item="1710237" num="100"/>
+		-->
+	</type>
+	<type id = "1" desc ="角斗场">
+		<Rule id="1" name="技巧演练" point="1" desc="在角斗场的实战训练中，对挑战目标造成1次伤害" item="" num=""/>
+		<Rule id="2" name="战斗胜利" point="1" desc="在角斗场的实战训练中，当日对挑战目标累积造成20000点伤害" item="1710237" num="20"/>
+		<Rule id="3" name="多面能手" point="1" desc="在角斗场的实战训练中，累计使用过4种精灵对挑战目标造成伤害" item="" num=""/>
+		<Rule id="4" name="样样精通" point="1" desc="在角斗场的实战训练中，累计使用过10种精灵对挑战目标造成伤害" item="" num=""/>
+		<Rule id="5" name="融会贯通" point="1" desc="在角斗场的实战训练中，累计使用过20种精灵对挑战目标造成伤害" item="1710237" num="100"/>
+		<Rule id="6" name="奋力战斗" point="1" desc="通过角斗场的实战训练，在一天内获得40个霜焱宝珠" item="" num=""/>
+		<Rule id="7" name="勤学勤练" point="1" desc="通过角斗场的实战训练，累计获得200个霜焱宝珠" item="" num=""/>
+		<Rule id="8" name="战斗狂人" point="1" desc="通过角斗场的实战训练，累计获得1000个霜焱宝珠" item="1710237" num="100"/>
+		<Rule id="9" name="发现密道" point="1" desc="在角斗场的密道探险中，战胜1名密道守卫" item="" num=""/>
+		<Rule id="10" name="又是守卫" point="1" desc="在角斗场的密道探险中，累计战胜10名密道守卫" item="" num=""/>
+		<Rule id="11" name="还是守卫" point="1" desc="在角斗场的密道探险中，累计战胜100名密道守卫" item="" num=""/>
+		<Rule id="12" name="放我出去" point="1" desc="在角斗场的密道探险中，累计战胜500名密道守卫" item="1710237" num="100"/>
+		<Rule id="13" name="看见曙光" point="1" desc="在角斗场的密道探险中，发现1次密道出口" item="1710237" num="20"/>
+		<Rule id="14" name="又见光明" point="1" desc="在角斗场的密道探险中，累计发现5次密道出口" item="" num=""/>
+		<Rule id="15" name="轻车熟路" point="1" desc="在角斗场的密道探险中，累计发现30次密道出口" item="" num=""/>
+		<Rule id="16" name="探险大师" point="1" desc="在角斗场的密道探险中，累计发现150次密道出口" item="1710237" num="100"/>
+		<Rule id="17" name="初显实力" point="1" desc="在角斗场的强者威严中，击败1名强者手下" item="" num=""/>
+		<Rule id="18" name="崭露头角" point="1" desc="在角斗场的强者威严中，累计击败20名强者手下" item="" num=""/>
+		<Rule id="19" name="一路横推" point="1" desc="在角斗场的强者威严中，累计击败100名强者手下" item="" num=""/>
+		<Rule id="20" name="砍瓜切菜" point="1" desc="在角斗场的强者威严中，累计击败500名强者手下" item="1710237" num="100"/>
+		<Rule id="21" name="强者陨落" point="1" desc="在角斗场的强者威严中，击败1名最强霸者" item="1710237" num="20"/>
+		<Rule id="22" name="再次争霸" point="1" desc="在角斗场的强者威严中，累计击败5名最强霸者" item="" num=""/>
+		<Rule id="23" name="踢馆狂魔" point="1" desc="在角斗场的强者威严中，累计击败30名最强霸者" item="" num=""/>
+		<Rule id="24" name="唯我独尊" point="1" desc="在角斗场的强者威严中，累计击败150名最强霸者" item="1710237" num="100"/>
+	</type>
+	<type id = "2" desc ="游戏城">
+		<Rule id="25" name="游戏新人" point="1" desc="在游戏城中参与任意游戏，并获得1次霜焱宝珠奖励" item="1710237" num="20"/>
+		<Rule id="26" name="游戏高手" point="1" desc="在游戏城中参与任意游戏，并累计获得50颗霜焱宝珠奖励" item="" num=""/>
+		<Rule id="27" name="游戏大师" point="1" desc="在游戏城中参与任意游戏，并累计获得300颗霜焱宝珠奖励" item="" num=""/>
+		<Rule id="28" name="游戏狂魔" point="1" desc="在游戏城中参与任意游戏，并累计获得1000颗霜焱宝珠奖励" item="1710237" num="100"/>
+		<Rule id="29" name="我来种树" point="1" desc="在游戏城的“植树大作战”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="30" name="种树能手" point="1" desc="在游戏城的“植树大作战”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="31" name="种树狂人" point="1" desc="在游戏城的“植树大作战”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="32" name="一颗宝石" point="1" desc="在游戏城的“宝石迷航”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="33" name="好多宝石" point="1" desc="在游戏城的“宝石迷航”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="34" name="宝光闪闪" point="1" desc="在游戏城的“宝石迷航”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="35" name="射的很准" point="1" desc="在游戏城的“炫彩打钻石”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="36" name="疯狂扫射" point="1" desc="在游戏城的“炫彩打钻石”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="37" name="为了钻石" point="1" desc="在游戏城的“炫彩打钻石”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="38" name="投篮新秀" point="1" desc="在游戏城的“我是得分王”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="39" name="手感不错" point="1" desc="在游戏城的“我是得分王”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="40" name="球场老将" point="1" desc="在游戏城的“我是得分王”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="81" name="被水淹没" point="1" desc="在游戏城的“水底采矿”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="82" name="学会游泳" point="1" desc="在游戏城的“水底采矿”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="83" name="享受游泳" point="1" desc="在游戏城的“水底采矿”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="84" name="钓鱼之路" point="1" desc="在游戏城的“巅峰捕鱼人”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="85" name="鱼类克星" point="1" desc="在游戏城的“巅峰捕鱼人”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="86" name="渔业达人" point="1" desc="在游戏城的“巅峰捕鱼人”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="87" name="牌技平平" point="1" desc="在游戏城的“翻牌大作战”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="88" name="手速惊人" point="1" desc="在游戏城的“翻牌大作战”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="89" name="老派牌骨" point="1" desc="在游戏城的“翻牌大作战”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="90" name="第一滴血" point="1" desc="在游戏城的“霜炎闯关”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="91" name="浴血战士" point="1" desc="在游戏城的“霜炎闯关”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="92" name="战场老兵" point="1" desc="在游戏城的“霜炎闯关”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="93" name="全是蓝球" point="1" desc="在游戏城的“彩球射击”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="94" name="穿透射击" point="1" desc="在游戏城的“彩球射击”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="95" name="彩球射击" point="1" desc="在游戏城的“彩球射击”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="96" name="吃我一炮" point="1" desc="在游戏城的“炮台杀手”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="97" name="过关斩将" point="1" desc="在游戏城的“炮台杀手”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="98" name="反杀能手" point="1" desc="在游戏城的“炮台杀手”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="99" name="我手很稳" point="1" desc="在游戏城的“写春联”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="100" name="文墨大师" point="1" desc="在游戏城的“写春联”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="101" name="讨厌语文" point="1" desc="在游戏城的“写春联”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="102" name="一碰即消" point="1" desc="在游戏城的“石门迷阵”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="103" name="转换大师" point="1" desc="在游戏城的“石门迷阵”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="104" name="石门迷阵" point="1" desc="在游戏城的“石门迷阵”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="106" name="粽仔祖玛" point="1" desc="在游戏城的“粽仔祖玛”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="107" name="祖玛大师" point="1" desc="在游戏城的“粽仔祖玛”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="108" name="祖玛达人" point="1" desc="在游戏城的“粽仔祖玛”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="109" name="最爱姜饼" point="1" desc="在游戏城的“偷吃姜饼”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="110" name="姜饼达人" point="1" desc="在游戏城的“偷吃姜饼”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="111" name="又要胖了" point="1" desc="在游戏城的“偷吃姜饼”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="112" name="挪来挪去" point="1" desc="在游戏城的“好礼拼拼拼”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="113" name="又拼歪了" point="1" desc="在游戏城的“好礼拼拼拼”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="114" name="拼图大师" point="1" desc="在游戏城的“好礼拼拼拼”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="115" name="遇到鬼啦" point="1" desc="在游戏城的“鬼屋大作战”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="116" name="捉鬼天师" point="1" desc="在游戏城的“鬼屋大作战”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="117" name="灭鬼小队" point="1" desc="在游戏城的“鬼屋大作战”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="118" name="三个一碰" point="1" desc="在游戏城的“开心消消乐”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="119" name="连锁效应" point="1" desc="在游戏城的“开心消消乐”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="120" name="天天消除" point="1" desc="在游戏城的“开心消消乐”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="121" name="又撞上了" point="1" desc="在游戏城的“星光之路”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="122" name="根本不抖" point="1" desc="在游戏城的“星光之路”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="123" name="死磕到底" point="1" desc="在游戏城的“星光之路”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="124" name="左挡右闪" point="1" desc="在游戏城的“砖块消消消”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="125" name="拆砖大师" point="1" desc="在游戏城的“砖块消消消”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="126" name="接球高手" point="1" desc="在游戏城的“砖块消消消”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="127" name="这个没熟" point="1" desc="在游戏城的“春节煮元宵”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="128" name="元宵饕餮" point="1" desc="在游戏城的“春节煮元宵”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="129" name="最爱元宵" point="1" desc="在游戏城的“春节煮元宵”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="131" name="元宵尝鲜" point="1" desc="在游戏城的“元宵吃吃吃”中，获得1次霜焱宝珠奖励" item="" num=""/>
+    	<Rule id="132" name="元宵大师" point="1" desc="在游戏城的“元宵吃吃吃”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="133" name="爱吃元宵" point="1" desc="在游戏城的“元宵吃吃吃”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="134" name="首次尝试" point="1" desc="在游戏城的“点糖果”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="135" name="糖果达人" point="1" desc="在游戏城的“点糖果”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="136" name="糖果大亨" point="1" desc="在游戏城的“点糖果”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="137" name="割断绳子" point="1" desc="在游戏城的“割绳子”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="138" name="割绳高手" point="1" desc="在游戏城的“割绳子”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="139" name="糖果丰收" point="1" desc="在游戏城的“割绳子”中，获得10次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="140" name="首次排雷" point="1" desc="在游戏城的“扫雷”中，获得1次霜焱宝珠奖励" item="" num=""/>
+		<Rule id="141" name="特级工兵" point="1" desc="在游戏城的“扫雷”中，在一次游戏中获得最高奖励" item="" num=""/>
+		<Rule id="142" name="扫雷专精" point="1" desc="在游戏城的“扫雷”中，获得10次霜焱宝珠奖励" item="" num=""/>		
+	</type>
+	<type id = "3" desc ="度假村">
+		<Rule id="53" name="来杯果汁" point="1" desc="进入一次度假村的浅滩海岛" item="" num=""/>
+		<Rule id="54" name="阳光沙滩" point="1" desc="进入一次度假村的海滨沙滩" item="1710237" num="20"/>
+		<Rule id="55" name="悠闲夏日" point="1" desc="在度假村的浅滩海岛中累计挂机100分钟" item="" num=""/>
+		<Rule id="56" name="清凉夏日" point="1" desc="在度假村的海滨沙滩中累计挂机100分钟" item="" num=""/>
+		<Rule id="57" name="天天挂机" point="1" desc="在度假村的浅滩海岛中累计挂机500分钟" item="1710237" num="80"/>
+		<Rule id="58" name="躺着变强" point="1" desc="在度假村的海滨沙滩中累计挂机500分钟" item="1710237" num="100"/>
+		<Rule id="59" name="贵宾享受" point="1" desc="在度假村的海滨沙滩中进入一次游戏城" item="" num=""/>
+	</type>
+	<type id = "4" desc ="突发事件">
+		<Rule id="60" name="霜焱挑战" point="1" desc="在突发事件的“霜焱试炼”中，击败1名挑战对手" item="1710237" num="20"/>
+		<Rule id="61" name="试炼能手" point="1" desc="在突发事件的“霜焱试炼”中，累计击败50名挑战对手" item="" num=""/>
+		<Rule id="62" name="试炼狂人" point="1" desc="在突发事件的“霜焱试炼”中，累计击败200名挑战对手" item="1710237" num="100"/>
+		<Rule id="63" name="谁能挡我" point="1" desc="在突发事件的“霜焱试炼”中，在一次试炼中击败所有对手" item="1710237" num="100"/>
+		<Rule id="64" name="参与试炼" point="1" desc="在突发事件的“霜焱试炼”中，获得一次参与有奖" item="1710237" num="20"/>
+		<Rule id="65" name="试炼铜奖" point="1" desc="在突发事件的“霜焱试炼”中，获得一次大众铜奖" item="" num=""/>
+		<Rule id="66" name="试炼银奖" point="1" desc="在突发事件的“霜焱试炼”中，获得一次优秀银奖" item="" num=""/>
+		<Rule id="67" name="试炼金奖" point="1" desc="在突发事件的“霜焱试炼”中，获得一次至强金奖" item="1710237" num="100"/>
+		<Rule id="68" name="缉拿真凶" point="1" desc="在突发事件的“缉拿真凶”中，获得1张线索纸条" item="1710237" num="20"/>
+		<Rule id="69" name="获得线索" point="1" desc="在突发事件的“缉拿真凶”中，累计获得15张线索纸条" item="" num=""/>
+		<Rule id="70" name="追风神捕" point="1" desc="在突发事件的“缉拿真凶”中，累计获得80张线索纸条" item="1710237" num="100"/>
+		<Rule id="71" name="抓住你了" point="1" desc="在突发事件的“缉拿真凶”中，在一次试炼中缉拿到大盗" item="1710237" num="80"/>
+		<Rule id="72" name="参与缉拿" point="1" desc="在突发事件的“缉拿真凶”中，获得一次参与有奖" item="1710237" num="20"/>
+		<Rule id="73" name="缉拿铜奖" point="1" desc="在突发事件的“缉拿真凶”中，获得一次大众铜奖" item="" num=""/>
+		<Rule id="74" name="缉拿银奖" point="1" desc="在突发事件的“缉拿真凶”中，获得一次优秀银奖" item="" num=""/>
+		<Rule id="75" name="缉拿金奖" point="1" desc="在突发事件的“缉拿真凶”中，获得一次至强金奖" item="1710237" num="100"/>
+		<Rule id="76" name="星际礼盒" point="1" desc="在突发事件的“星际礼盒”中，拾取1次礼盒" item="1710237" num="20"/>
+		<Rule id="77" name="见者有份" point="1" desc="在突发事件的“星际礼盒”中，累计拾取50次礼盒" item="" num=""/>
+		<Rule id="78" name="都是我的" point="1" desc="在突发事件的“星际礼盒”中，累计拾取200次礼盒" item="" num=""/>
+		<Rule id="79" name="天降宝物" point="1" desc="在突发事件的“星际礼盒”中，累计拾取1000次礼盒" item="1710237" num="100"/>
+	</type>	
+</root>

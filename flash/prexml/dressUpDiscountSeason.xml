@@ -1,0 +1,88 @@
+<!--
+numId 用来排序  后台 搞的发协议 购买1-53 
+price 原价
+discountPrice 优惠价
+vipdiscount 折扣 1不打折 0.5打五折
+type  精美套装 1 为酷炫 2为变形      座驾暂时只有1种为3
+
+des 描述  套装tips 在itemsTip.xml 中配置  
+
+-->
+<root>
+<defaultMenu name="精美套装" id="0" viewNum ="0"/> 
+	<menu name="精美套装" id="0" viewNum="5">	
+    <item numId="1" name="白马王子套装" itemID="314" type ="1" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="2" name="钢铁炮手套装" itemID="297" type ="1" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="3" name="幻影剑客套装" itemID="296" type ="1" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="4" name="金狮圣甲套装" itemID="284" type ="1" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="5" name="白鹰铠甲" itemID="283" type ="1" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="6" name="童年机器猫套装" itemID="280" type ="1" price="80" discountPrice ="64" vipdiscount="1" des =""/>
+    <item numId="7" name="火拳战士套装" itemID="279" type ="1" price="150" discountPrice ="120" vipdiscount="0.5" des =""/>
+    <item numId="8" name="恶灵铠甲套装" itemID="278" type ="1" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="9" name="机甲龙骑士套装" itemID="276" type ="1" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="10" name="熊猫战将套装" itemID="275" type ="1" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="11" name="百变魔术师套装" itemID="271" type ="1" price="150" discountPrice ="120" vipdiscount="0.5" des =""/>
+    <item numId="12" name="麒麟赐福套装" itemID="269" type ="1" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="13" name="金色托鲁克套装" itemID="263" type ="1" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="14" name="托鲁克套装" itemID="262" type ="1" price="50" discountPrice ="40" vipdiscount="1" des =""/>
+    <item numId="15" name="团战之王套装" itemID="254" type ="1" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="16" name="超人战侠套装" itemID="242" type ="1" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="17" name="蜘蛛战侠套装" itemID="240" type ="1" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="18" name="蝙蝠战侠套装" itemID="239" type ="1" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="19" name="哪咤套装" itemID="229" type ="1" price="80" discountPrice ="64" vipdiscount="1" des =""/>
+    <item numId="20" name="闪电之怒套装" itemID="228" type ="1" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="21" name="机械队长套装" itemID="226" type ="1" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="22" name="钢铁战侠套装" itemID="225" type ="1" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="23" name="不灭" itemID="126" type ="1" price="150" discountPrice ="120" vipdiscount="0.5" des =""/>
+    <item numId="24" name="龙炎" itemID="124" type ="1" price="150" discountPrice ="120" vipdiscount="0.5" des =""/>
+    <item numId="25" name="黄金破晓套装" itemID="183" type ="1" price="150" discountPrice ="120" vipdiscount="0.5" des =""/>
+    <item numId="26" name="闪光冰蓝" itemID="173" type ="1" price="150" discountPrice ="120" vipdiscount="0.5" des =""/>
+    <item numId="27" name="雪雷" itemID="150" type ="1" price="150" discountPrice ="120" vipdiscount="0.5" des =""/>
+    <item numId="28" name="遗忘者" itemID="147" type ="1" price="150" discountPrice ="120" vipdiscount="0.5" des =""/>
+    <item numId="29" name="黑月" itemID="146" type ="2" price="150" discountPrice ="120" vipdiscount="0.5" des =""/>
+    <item numId="30" name="强袭战虎" itemID="143" type ="2" price="150" discountPrice ="120" vipdiscount="0.5" des =""/>
+    <item numId="31" name="毒刺" itemID="135" type ="2" price="150" discountPrice ="120" vipdiscount="0.5" des =""/>
+    <item numId="32" name="大帝" itemID="134" type ="1" price="150" discountPrice ="120" vipdiscount="0.5" des =""/>
+    <item numId="33" name="无双" itemID="133" type ="1" price="150" discountPrice ="120" vipdiscount="0.5" des =""/>
+    <item numId="34" name="天命" itemID="125" type ="1" price="150" discountPrice ="120" vipdiscount="0.5" des =""/>
+    <item numId="35" name="迁跃者" itemID="121" type ="1" price="120" discountPrice ="96" vipdiscount="0.5" des =""/>
+    <item numId="36" name="创世纪" itemID="120" type ="2" price="120" discountPrice ="96" vipdiscount="0.5" des =""/>
+    <item numId="37" name="深雷" itemID="116" type ="2" price="120" discountPrice ="96" vipdiscount="0.5" des =""/>
+    <item numId="38" name="碧蓝怒火" itemID="115" type ="1" price="120" discountPrice ="96" vipdiscount="0.5" des =""/>
+    <item numId="39" name="诺曼底" itemID="109" type ="2" price="120" discountPrice ="96" vipdiscount="0.5" des =""/>
+    <item numId="40" name="灰隼" itemID="108" type ="1" price="120" discountPrice ="96" vipdiscount="0.5" des =""/>
+    <item numId="41" name="赤鹰" itemID="107" type ="1" price="120" discountPrice ="96" vipdiscount="0.5" des =""/>
+    <item numId="42" name="锡蝶" itemID="100" type ="1" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="43" name="刺蜂" itemID="99" type ="1" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="44" name="爱丽丝" itemID="98" type ="1" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="45" name="银翼猎手" itemID="97" type ="1" price="120" discountPrice ="96" vipdiscount="0.5" des =""/>
+    <item numId="46" name="疾电" itemID="96" type ="2" price="120" discountPrice ="96" vipdiscount="0.5" des =""/>
+    <item numId="47" name="光束战轮" itemID="95" type ="1" price="100" discountPrice ="80" vipdiscount="0.5" des =""/>
+    <item numId="48" name="奥金之锤" itemID="88" type ="2" price="120" discountPrice ="96" vipdiscount="0.5" des =""/>
+    <item numId="49" name="钢特拉" itemID="87" type ="2" price="120" discountPrice ="96" vipdiscount="0.5" des =""/>
+    <item numId="50" name="利爪机甲" itemID="72" type ="1" price="100" discountPrice ="80" vipdiscount="0.5" des =""/>
+    <item numId="51" name="黑焰使徒" itemID="71" type ="1" price="100" discountPrice ="80" vipdiscount="0.5" des =""/>
+    <item numId="52" name="防寒装" itemID="17" type ="1" price="100" discountPrice ="80" vipdiscount="0.5" des =""/>
+    <item numId="53" name="卫兵装" itemID="3" type ="1" price="62" discountPrice ="50" vipdiscount="0.5" des =""/>
+	</menu>
+		
+	<menu name="星际座驾" id="1" viewNum ="5"> 	
+    <item numId="1" name="天霄" itemID="1300458"  type ="3" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="2" name="地球保卫者 流浪号" itemID="1300433"  type ="3" price="200" discountPrice ="160" vipdiscount="1" des =""/>
+    <item numId="3" name="恶魔傀儡战机" itemID="1300371"  type ="3" price="200" discountPrice ="160" vipdiscount="1" des =""/>
+    <item numId="4" name="正义军团战机" itemID="1300370"  type ="3" price="200" discountPrice ="160" vipdiscount="1" des =""/>
+    <item numId="5" name="蝙蝠战警座驾" itemID="1300305"  type ="3" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="6" name="机械战士大黄蜂" itemID="1300304"  type ="3" price="300" discountPrice ="240" vipdiscount="1" des =""/>
+    <item numId="7" name="驯鹿雪橇车" itemID="1300229"  type ="3" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="8" name="梦幻南瓜车" itemID="1300174"  type ="3" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="9" name="黄金使者" itemID="1300125"  type ="3" price="200" discountPrice ="160" vipdiscount="1" des =""/>
+    <item numId="10" name="豪华型猎虎七号B" itemID="1300108"  type ="3" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="11" name="豪华型猎虎七号A" itemID="1300107"  type ="3" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="12" name="普通型猎虎七号" itemID="1300106"  type ="3" price="100" discountPrice ="80" vipdiscount="1" des =""/>
+    <item numId="13" name="闪光旋风天使" itemID="1300105"  type ="3" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="14" name="闪光红色闪电" itemID="1300081"  type ="3" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="15" name="战队荣耀机甲" itemID="1300068"  type ="3" price="150" discountPrice ="120" vipdiscount="1" des =""/>
+    <item numId="16" name="红色闪电" itemID="1300067"  type ="3" price="100" discountPrice ="80" vipdiscount="1" des =""/>	
+	</menu>
+
+</root>

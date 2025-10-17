@@ -1,0 +1,18 @@
+<!-- Broadcast ID
+	type: 策划提供广播类型值
+ * 		1: 米米号+玩家昵称+道具信息
+ * 		2: 米米号+玩家昵称+精灵名称
+ * 		3: 米米号+玩家昵称+玩家VIP信息
+ * 		4: 米米号+玩家昵称+玩家巅峰圣战等级
+ * 		5: 米米号+玩家昵称+精灵名称+精灵特性+特性等级
+ * 		6: 战队ID+战队名称+战队等级
+ * 		7: 活动参与人数+剩余奖励
+
+配置示例: -->
+<BroadcastPool>
+	<Broadcast ID="1" Type="1" showTime = "" msg = "恭喜#ff0000米米号为{0}#ffffff的玩家{1}在商城中免费抽中了{2}大家一起恭喜他吧！[快去看看]"   linkType="module" goUrl="app/PuniAndSuolunsenGuidPanel"/>
+</BroadcastPool>
+
+
+
+

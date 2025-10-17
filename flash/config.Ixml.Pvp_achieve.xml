@@ -1,8 +1,8 @@
 <root>
-	<item id="1" title="S7赛季猛将" describe="玩家在S7赛季竞技/狂野模式中首次达到猛将段位" rewardinfo="1419_165_25" foreverType="1" value="1" />
-	<item id="2" title="S7赛季天骄" describe="玩家在S7赛季竞技/狂野模式中首次达到天骄段位" rewardinfo="1420_165_26" foreverType="1" value="2" />
-	<item id="3" title="S7赛季王者" describe="玩家在S7赛季竞技/狂野模式中首次达到王者段位" rewardinfo="1421_165_27" foreverType="1" value="3" />
-	<item id="4" title="S7赛季圣皇" describe="玩家在S7赛季竞技/狂野模式中首次达到圣皇段位" rewardinfo="1422_165_28" foreverType="1" value="4" />
+	<item id="1" title="S8赛季猛将" describe="玩家在S8赛季竞技/狂野模式中首次达到猛将段位" rewardinfo="1442_165_29" foreverType="1" value="1" />
+	<item id="2" title="S8赛季天骄" describe="玩家在S8赛季竞技/狂野模式中首次达到天骄段位" rewardinfo="1443_165_30" foreverType="1" value="2" />
+	<item id="3" title="S8赛季王者" describe="玩家在S8赛季竞技/狂野模式中首次达到王者段位" rewardinfo="1444_165_31" foreverType="1" value="3" />
+	<item id="4" title="S8赛季圣皇" describe="玩家在S8赛季竞技/狂野模式中首次达到圣皇段位" rewardinfo="1445_165_32" foreverType="1" value="4" />
 	<item id="5" title="无敌猛将" describe="玩家在任意赛季竞技模式中首次达到猛将段位" rewardinfo="1317_164_1" foreverType="1" value="1" />
 	<item id="6" title="出世天骄" describe="玩家在任意赛季竞技模式中首次达到天骄段位" rewardinfo="1318_164_2" foreverType="1" value="2" />
 	<item id="7" title="巅峰王者" describe="玩家在任意赛季竞技模式中首次达到王者段位" rewardinfo="1319_164_3" foreverType="1" value="3" />

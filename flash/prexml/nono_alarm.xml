@@ -1,0 +1,30 @@
+    <!-- 用精灵头像做icon 的 就配 petid 自定义的 就 配iconid 资源路径D:\seer\Client\resource\forApp\nonoalarm-->
+<root>
+    <!--                                  分 时 日   月 星期 年 -->
+<!--     <alarm key="alarm0" name='封印千年的秘密'   type="map" cls="com.robot.app2.control.nonoAlarm.alarms.ZhuXianAlarm" iconId="13">4</alarm> -->
+	<alarm name='精元孵化 ' type="module" cls="com.robot.app2.control.nonoAlarm.alarms.PetHatchAlarm" iconId="0">app/MoleculePanel</alarm>
+<!-- 	<alarm name='百万经验寒假狂欢 ' type="module" cls="com.robot.app2.control.nonoAlarm.alarms.BaiWanJIngYanAlarm" iconId="7">app/adown/MillionExperiencePanel6</alarm> -->
+	<alarm name='修炼  '    type="map" cls="com.robot.app2.control.nonoAlarm.alarms.PetPracticeAlarm" iconId="1">5</alarm>
+	<alarm name='探索计划'  type="map" cls="com.robot.app2.control.nonoAlarm.alarms.PetExplorationAalarm" iconId="2">7</alarm>
+	<alarm name='精灵学院'  type="map" cls="com.robot.app2.control.nonoAlarm.alarms.PetSchoolAlarm" iconId="3">485</alarm>
+	<alarm name='模拟训练'  type="module" cls="com.robot.app2.control.nonoAlarm.alarms.PetTrainingAlarm" iconId="4">app/PetTrainingMainPanel</alarm>
+	<alarm name='暴走三师圣殿瑞德豪斯'  type="module" cls="com.robot.app2.control.nonoAlarm.alarms.RuiDeHaoSiAlarm" iconId="8">app/RuiDeHaoSiPanel</alarm>
+	<alarm name='sptBoss奥特克伯'  type="map" cls="com.robot.app2.control.nonoAlarm.alarms.SptTaskAlarm" iconId="10">57</alarm>
+	<alarm name='失踪的圣诞礼物' type="map" cls="com.robot.app2.control.nonoAlarm.alarms.ChrisSpecialActionAlarm" petId="2065">963</alarm>
+	<alarm name='物品上限' key="ItemMax" type="item" cls="com.robot.app2.control.nonoAlarm.alarms.PetItemMaxAlarm"></alarm>
+<!-- 	<alarm name='莫西家族的觉醒' type="map" cls="com.robot.app2.control.nonoAlarm.alarms.MoxiAwakeAlarm" petId="2059">966</alarm> -->
+	<!--                                  分  时 日  月 星期 年 -->
+	<alarm  name='元旦齐喝彩'       	time="* 14 1 1 * 2014" type="module" cls="com.robot.app2.control.nonoAlarm.alarms.ActivityAlarm" petId="861">app/NewYearCheerUpPanel</alarm>
+	<alarm name='闪光派对疯狂模式'    time="* 16-17 1 1 * 2014" type="map" cls="com.robot.app2.control.nonoAlarm.alarms.ActivityAlarm" petId="1334">10</alarm>
+	<alarm name='50万赛尔豆准时派送'  time="* 13-14 1 1 * 2014" type="map" cls="com.robot.app2.control.nonoAlarm.alarms.ActivityAlarm" iconId="saierdou">324</alarm>
+	<alarm name='隆利尼斯送大礼'      time="* 13-14 1 1 * 2014,0-29 15 1 1 * 2014,55-60 12 1 1 * 2014" type="map" cls="com.robot.app2.control.nonoAlarm.alarms.ActivityAlarm" petId="1125">10</alarm>
+	<alarm name="中兴银行" type="map" cls="com.robot.app2.control.nonoAlarm.alarms.CNCBAlarm" iconId="11">96</alarm>
+	<alarm name='商城每日奖励'       type="module" cls="com.robot.app2.control.nonoAlarm.alarms.SuperMarketDrawAlarm" petId="904">app/SupermarketPanel</alarm>
+
+	<alarm bufferId="981"  name='2014年兽猜想'  type="module" cls="com.robot.app2.control.nonoAlarm.alarms.AbstractRegistrationActivitityAlarm" iconId="12">app/FourSnackLeavingPanel</alarm>
+	<alarm bufferId="983"  name='哈莫雷特超进化'  type="module" cls="com.robot.app2.control.nonoAlarm.alarms.AbstractRegistrationActivitityAlarm" petId="1791">app/nagas/NagasEvolvePanel</alarm>
+<!-- 	<alarm bufferId="984"  name='天后赫拉'  type="module" cls="com.robot.app2.control.nonoAlarm.alarms.AbstractRegistrationActivitityAlarm" petId="2021">app/GodsSupportMainPanel</alarm> -->
+	<!-- <alarm bufferId="0"  name='幸运大作战'  type="module" cls="com.robot.app2.control.nonoAlarm.alarms.AbstractRegistrationActivitityAlarm" petId="1999">app/LuckyCardProPanel</alarm> -->
+<!-- 	<alarm bufferId="0"  name='元素神话 三灵兽'  type="module" cls="com.robot.app2.control.nonoAlarm.alarms.AbstractRegistrationActivitityAlarm" petId="2521">app/CallThreeGiganticPet</alarm> -->
+	
+</root>

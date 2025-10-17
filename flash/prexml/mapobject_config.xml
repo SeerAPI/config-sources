@@ -1,0 +1,1925 @@
+﻿<root>
+  <allobjects>
+    <object name="srule" tip="觉醒规则" type="module">app/SbreakRulePanel</object>
+    <object name="huolinger" tip="火灵儿s觉醒" type="module">app/HuolingerFightPanel</object>
+    <object name="mythologicalAnimals" tip="神兽战团集结令" type="module">app/MythologicalAnimalsAdPanel</object>
+    <object name="juezhansuolunsen" tip="决战索伦森" type="map|module">973;app/SorensenBattlePanel</object>
+    <object name="xueqiu" tip="神奇的雪球" type="func">xueqiu</object>
+    <object name="dragonKnight" tip="龙骑士选拔 雪龙" type="module">app/DragonKnightSelectMainPanel</object>
+    <object name="equipBeBest" tip="精灵快速极品" type="module">app/BestQualityPetDevelopMakePanel</object>
+    <object name="tvNotice_4" tip="" type="module">app/SceneActivityPanel</object>
+    <object name="tvNotice_4_0201" tip="" type="module">app/BurialLotusSuperMainPanel</object>
+    <object name="weeklyVsEquip_heliEsVsYilad" tip="赫利厄斯VS伊兰迪" type="funcWithController">com.robot.app2.mapProcess.control.WeeklyVSController:initEquip</object>
+    <object name="weeklyVsEquip_zudi_family" tip="永不屈服的祖系一组" type="funcWithController">com.robot.app2.mapProcess.control.WeeklyVSController_zudi_family:initEquip</object>
+    <object name="weeklyVsEquip_heermosi" tip="圣剑之灵VS梦境之神" type="funcWithController">com.robot.app2.mapProcess.control.WeeklyVSController_heermosi:initEquip</object>
+    <object name="weeklyVsEquip_asasi" tip="冰封山巅的王者之战" type="funcWithController">com.robot.app2.mapProcess.control.WeeklyVSController_asasi:initEquip</object>
+    <object name="weeklyVsEquip_asidi" tip="阿斯狄VS吉纳波斯" type="funcWithController">com.robot.app2.mapProcess.control.WeeklyVSController_asidi:initEquip</object>
+    <object name="weeklyVsEquip_younisa" tip="魔神艾里克VS魔圣尤尼萨" type="funcWithController">com.robot.app2.mapProcess.control.WeeklyVSController_younisa:ini tEquip</object>
+    <object name="weeklyVsEquip_hell" tip="地狱兽VS创世兵魂" type="funcWithController">com.robot.app2.mapProcess.control.WeeklyVSController_hell:initEquip</object>
+    <object name="weeklyVsEquip_tianma" tip="圣光天马vs黑天马" type="funcWithController">com.robot.app2.mapProcess.control.WeeklyVSController_tianma:initEquip</object>
+    <object name="weeklyVsEquip_anheiKaxiusi" tip="圣弓之灵VS暗黑卡修斯" type="funcWithController">com.robot.app2.mapProcess.control.WeeklyVSController_anheiKaxiusi:initEquip</object>
+    <object name="weeklyVsEquip_yulingshi" tip="羽灵狮VS蒙娜丽莎" type="funcWithController">com.robot.app2.mapProcess.control.WeeklyVSController_yulingshi:initEquip</object>
+    <object name="weeklyVsNpc5" tip="霸王龙VS恶灵兽！" type="func">weeklyVsNpc5</object>
+    <object name="petTraining" tip="设备故障，已停止运行~" type=""/>
+    <object name="dark_bulaike" tip="暗黑武斗场第12门" type="module">app/DarkMazeEnterPanel</object>
+    <object name="dark_bulaike2" tip="暗黑战神联盟" type="module">app/DarkMazeEnterPanel</object>
+    <object name="tanglang" tip="螳螂" type="module">app/LightAndDarkMantisTrialPanel</object>
+    <object name="dien" tip="迪恩" type="module">app/LightAndDarkMantisTrialPanel</object>
+    <object name="mengniu" tip="蒙牛未来星哈佛梦" type="func">onNiuniuClick</object>
+    <object name="xinjide" tip="辛基德" type="func">onXinjideClick</object>
+    <object name="aotuosiBtn" tip="狂霸武尊奥托斯" type="func">aotuosiBtnHandler</object>
+    <object name="boersiBtn" tip="剑圣波尔斯" type="func">boersiBtnHandler</object>
+    <object name="aimisi" tip="嗜血斗者埃米斯" type="func">aimisiBtnHandler</object>
+    <object name="skullWizard" tip="骷髅法师的诡计" type="module">app/SkullWizardPanel</object>
+    <object name="kelisi" tip="联盟之战！遗世仙境的争斗！ " type="func">unionFight</object>
+    <object name="termreview" tip="期末总复习！试卷大揭秘！" type="map|module">770;app/TermReviewMainPanel</object>
+    <object name="apolloBtn" tip="领取太阳神阿波罗" type="map">10443</object>
+    <object name="dianla" tip="月亮神狄安娜" type="module">app/DiAnNaPanel</object>
+    <object name="tailesi" tip="泰勒斯超进化" type="module">app/evolution/TailesiEvolutionPanle</object>
+    <object name="suyaleisi" tip="苏克沉睡的记忆 苏亚雷斯" type="func">suyaleisiHandler</object>
+    <object name="map_97_ad_1" des="97号地图广告1" tip="" type=""/>
+    <object name="map_97_ad_2" des="97号地图广告2" tip="" type="func">longzunHandler</object>
+    <object name="map_97_ad_3" des="97号地图广告3" tip="" type="module" icon="">app/AiXinGeMainPanel</object>
+    <object name="map_97_ad_4" des="97号地图广告4" tip="" type="module">app/LieyanhaoMainPanel</object>
+    <object name="map_97_ad_5" des="97号地图广告5" tip="" type="module">app/RechargeGiftLotteryPanel</object>
+    <object name="map_5_ad" des="最新礼包" type="module">app/NewGiftMainPanel</object>
+    <object name="map_103_ad_2" des="最新礼包" tip="" type="module">app/NewGiftMainPanel</object>
+    <object name="map_107_ad_1" des="最新礼包" type="module">app/NewGiftMainPanel</object>
+    <object name="expMachine" tip="经验兑换" type="module">app/ExshiwExpPanel</object>
+    <object name="kaxiusiEvoAd" tip="卡修斯终极挑战" type="func">onKaxiusiEvoAdClick</object>
+    <object name="naifalian" tip="魔龙圣使 奈法里安" type="module">app/daantiao/NaifalianMainPanel</object>
+    <object name="dailyItemBtn" tip="今日收益进度查看" type="module">app/DailyItemAmountPanel</object>
+    <object name="dibowei" tip="大地领主 迪博威" type="module">app/daantiao/DiboweiMainPanel</object>
+    <object name="keluonuosi" tip="万神之王 克罗诺斯" type="module">app/daantiao/KeluonuosiMainPanel</object>
+    <object name="threemainpetsevo" tip="三主宠超进化传说再现" type="func">onThreeMainPetsEvo</object>
+    <object name="doublePiShen" tip="超神对决！闪光皮神VS暗黑皮神！" type="funcWithController">com.robot.app2.control.FlashPiGodVsDarkPiGodController:clickEquip</object>
+    <object name="attackKing" tip="攻击之王斯巴达" type="module">app/AttackKingMainPanel</object>
+    <object name="aoluonaer_1" tip="决战妖石山 奥罗纳尔的末日" type="func">onAoluonaerClick1</object>
+    <object name="guangJinlin" tip="光之灵s" type="module">app/GuangzhilingFightPanel</object>
+    <object name="anzhiling" tip="暗之灵s" type="module">app/AnzhilingFightPanel</object>
+    <object name="gaiyaVsDouhuang" tip="战神盖亚vs斗皇" type="module">app/GaiyaSuperEvoMsgPanel</object>
+    <object name="miusiVSkenata" tip="天蛇之泪！终极战！科塔娜VS缪斯" type="func">onClickMiusiVSKenata</object>
+    <object name="shadowking" tip="圣灵奥斯卡VS魔界影皇！" type="module">app/AosikaVsShadowKingMainPanel</object>
+    <object name="poseidon" tip="波塞冬" type="module">app/PoseidonMainPanel</object>
+    <object name="modoTransport" tip="龙王摩多回归！" type="map">674</object>
+    <object name="selena" tip="侠盗赛琳娜" type="func">selenaClick</object>
+    <object name="threePetUpgrade" tip="三主宠进阶" type="func">threePetRedoBtn</object>
+    <object name="maiersiNPC" tip="" type="funcWithController">com.robot.app2.control.MaiersiVsBattleRoyalController:initMap22</object>
+    <object name="leiyichaojinhuashengdian" tip="雷伊超进化盛典" type="module">app/WuZhouNianLYXiaoXinFenPanel</object>
+    <object name="gaiyajijia" tip="斗魂战甲的终极考验" type="module">app/GaiaMachinePanel</object>
+    <object name="kuangzhanshi" tip="圣甲狂战" type="module">app/ContractPanel</object>
+    <object name="K1" tip="获得卡修斯" type="module">app/GetKAXSIntroPanel</object>
+    <object name="K2" tip="卡修斯超进化" type="module">app/KAXSEvoIntroPanel</object>
+    <object name="B1" tip="获得布莱克" type="module">app/GetBlackIntroPanel</object>
+    <object name="B2" tip="布莱克超进化" type="module">app/BlackEvoMainPanel</object>
+    <object name="G1" tip="全民盖亚免费送" type="module">app/GetGAYAIntroPanel</object>
+    <object name="G2" tip="盖亚超进化" type="module">app/GaiyaSuperEvoPanel</object>
+    <object name="R1" tip="获得雷伊" type="module">app/GetLAYIIntroPanel</object>
+    <object name="R3" tip="雷伊超进化" type="module">app/LAYIEvoIntroPanel</object>
+    <object name="R6" tip="雷伊养成指南" type="module">app/LeiyiLevelUpPanel</object>
+    <object name="dadijijia" tip="卡修斯机甲！大地战甲！" type="module">app/CassiusMachineMainPanel</object>
+    <object name="contractEarth" tip="圣甲地裂" type="module">app/ContractEarthFirstPanel</object>
+    <object name="huangjintianma" tip="黄金天马觉醒" type="map|module">960;app/HuangjinTianmaFiveSkillPanel</object>
+    <object name="ThunderSoulArmor" tip="雷魂战甲降临" type="funcWithController">com.robot.app2.mapProcess.control.ThunderSoulArmorController:clickEquip</object>
+    <object name="moxiAwakeBtn" tip="莫西家族觉醒" type="map|module">966;app/MoxiAwakeMainPanel</object>
+    <object name="armorthundery" tip="圣甲?雷鸣" type="map|module">1016;app/ArmorThunderySummaryPanel</object>
+    <object name="HeAnLeiyi" tip="寂灭之始 黑暗雷伊超进化" type="funcWithController">com.robot.app2.control.DarkLeyiEvolutionControl:init</object>
+    <object name="peakBtn_1" tip="巅峰福利兑换" type="funcWithController">com.robot.app.control.LeagueController:onClick1</object>
+    <object name="peakBtn_2" tip="参赛神宠推荐" type="funcWithController">com.robot.app.control.LeagueController:onClick2</object>
+    <object name="peakBtn_3" tip="积分赛" type="funcWithController">com.robot.app.control.LeagueController:onClick3</object>
+    <object name="peakBtn_4" tip="积分赛（突破模式）" type="funcWithController">com.robot.app.control.LeagueController:onClick4</object>
+    <object name="demogorgon" tip="万魔天尊" type="module">app/DemogorgonPanel</object>
+    <object name="studyMachine" tip="训练室研究中心" type="module">app/StudyShopPanel</object>
+    <object name="emailIcon" tip="邮件系统" type="module">app/email/EmailMainPanel</object>
+    <object name="healthCaptainsduties" tip="送卫生大队长" type="module">app/HealthCaptainsdutiesMainPanel</object>
+    <object name="pandora" tip="冥界之眼潘多拉的降临" type="module">app/PandoraMainPanel</object>
+    <object name="zagrebRossCallMuse" tip="萨格罗斯的召唤！缪斯回归！" type="funcWithController">com.robot.app2.control.ZagrebRossCallMuseReturnController:initForMap</object>
+    <object name="museEvo" tip="缪斯超进化" type="module">app/MuseEvoPanel</object>
+    <object name="earl_tiger" tip="spt超进化 厄尔泰格" type="funcWithController">com.robot.app2.mapProcess.control.EarlSerraController:clickEquip1</object>
+    <object name="tsarZahnFernandezSuperEvolution" tip="沙皇萨恩德斯超进化  " type="funcWithController">com.robot.app2.control.TsarZahnFernandezSuperEvolutionController:initForMap</object>
+    <object name="IceIronWallMoyeSiSuperEvolution" tip="极寒壁垒摩耶斯特超进化  " type="funcWithController">com.robot.app2.control.IceIronWallMoyeSiSuperEvolutionController:initForMap</object>
+    <object name="pet2027" tip="圣光精灵技能替换" type="funcWithController">com.robot.app2.control.InventRoomController:onSuperItem</object>
+    <object name="vipSuit" tip="VIP专享套装" type="module">app/GetStarClothPanel</object>
+    <object name="vipServant" tip="VIP专员" type="funcWithController">com.robot.app2.control.InventRoomController:onVipServant</object>
+    <object name="SPTSleepBtn" tip="斯利普超进化" type="funcWithController">com.robot.app.control.SPTSleepEvoController:onOpenPanel</object>
+    <object name="windBattleBtn" tip="疾风侠之战" type="func">onWindBattle</object>
+    <object name="kunlunsuperevolvedevice" tip="乾坤战神-昆仑" type="module">app/KunLunSuperEvolvePanel</object>
+    <object name="LampardSuperEvolution" tip="兰帕德超进化" type="funcWithController">com.robot.app2.control.SvenMagicSnakeController:LampardEquipStart</object>
+    <object name="jieluolide_evolution" tip="狂鹰利眼杰洛里德" type="module">app/JieluolideSuperEvolutionMainPanel</object>
+    <object name="zelasi_evolution" tip="愚者泽拉斯" type="module">app/ZelasiSuperEvolutionMainPanel</object>
+    <object name="callDoorBtn" tip="神秘的召唤之门" type="funcWithController">com.robot.app2.mapProcess.control.activityControl.CallDoorController:clickNpc</object>
+    <object name="taitan" tip="奋战！泰坦征途！" type="module">app/TaitanWayPanel</object>
+    <object name="fallenSoulBtn" tip="萌宠全民送" type="module">app/FallenSoulMainPanel</object>
+    <object name="rios" tip="瑞尔斯超进化" type="module">app/RiosPanel</object>
+    <object name="schiaIcon" tip="暗沼行者吉亚克鲁" type="module">app/SchiaSuperEvoMainPanel</object>
+    <object name="YunyunEvolution" tip="云云进化 凌云踏上征程" type="module">app/YunyunEvolutionMainPanel</object>
+    <object name="power_pet_evolve" tip="神力号超进化" type="module">app/PowerPetEvolvePanel</object>
+    <object name="hertuoluok_device" tip="赫尔托罗克" type="module">app/QuanMinShenChongSuperEvolveOnePanel</object>
+    <object name="evoMain" tip="神兽超进化" type="module">app/EvoMainPanel</object>
+    <object name="lingYunEvoEq" tip="凌云超进化 圣羽流芳 净天云神" type="module">app/LingyunEvolutionMainPanel</object>
+    <object name="medusa_evo" tip="墨杜萨超进化" type="module">app/MedusaEvoPanel</object>
+    <object name="ArmySoulEvoEquip" tip="创世兵魂超进化" type="module">app/OpenWorldArmySoulEvoMainPanel</object>
+    <object name="godPetSuperEvolutionYunus" tip="全民神宠超进化之尤纳斯" type="funcWithController">com.robot.app2.control.GodPetSuperEvolutionYunusController:initForMap</object>
+    <object name="chrisSpecialActionBtn" tip="失踪的圣诞礼物" type="module">app/ChrisSpecialActionPanel</object>
+    <object name="snowfight2014" tip="圣诞节雪球大战" type="module">app/ChristmasAct1EnterPanel</object>
+    <object name="tohEvo" tip="TOH超进化" type="module">app/TOHEvoFirstPanel</object>
+    <!-- <object name="tyssuperevo_device" tip="提亚斯超进化" type="module">app/TiyasiSuperEvolveMainPanel</object> -->
+    <object name="zoeTest" tip="佐伊的考验" type="funcWithController">com.robot.app2.control.ZoeTestController:initForMap</object>
+    <object name="nickTestBtn" tip="妮可的考验" type="module">app/NickTestPanel</object>
+    <object name="zoeevoeq" tip="佐伊进化" type="module">app/ZoeEvoMainPanel</object>
+    <object name="ninjaTurtlesNPC1" tip="忍者战龟唐尼泰罗" type="funcWithController">com.robot.app.control.NinjaTurtlesController:goTalk</object>
+    <object name="kaLuluExclusiveWizard" tip="卡璐璐专属精灵" type="funcWithController">com.robot.app2.control.KaLuluExclusiveWizardController:initForMap</object>
+    <object name="serialBtn" tip="新手特权大礼" type="module">app/SerialPanel201501</object>
+    <object name="kaxiusiBtn" tip="传说卡修斯封神之谜" type="func">onClickKaxiusi</object>
+    <object name="nian2015Btn" tip="年兽送好礼" type="module">app/Nian2015Panel</object>
+    <object name="holySpiritEq" tip="圣灵神宠的崛起" type="module">app/HolySpiritTrainMainPanel</object>
+    <object name="map_102_pet_war_0227" tip="精灵大乱斗" type="module">app/PetWarMain2105NewPanel</object>
+    <object name="vanguardeq" tip="赛尔先锋队集结待命" type="module">app/VanguardStagingMainPanel</object>
+    <object name="elementsMasterSaAoSenSuperEvolution" tip="全民神宠超进化之萨奥森" type="funcWithController">com.robot.app2.control.ElementsMasterSaAoSenSuperEvolutionController:initForMap</object>
+    <object name="ba_la_gui_super_evolution" tip="巴拉龟超进化" type="module">app/BaLaGuiSuperEvolutionMainPanel</object>
+    <object name="AncientEvilGodEq" tip="危险！太古一族降临！" type="module">app/AncientEvilGodMainPanel</object>
+    <object name="lubihaoke" tip="全民神宠超进化之鲁比克!" type="module">app/LuBiHaoKePanel</object>
+    <object name="wangGuangmingAbilities" tip="光明异能王的蜕变" type="funcWithController">com.robot.app2.control.WangGuangmingAbilitiesController:initForMap</object>
+    <object name="dark_unusual_power_king" tip="暗黑异能王超进化" type="module">app/DarkUnusualPowerKingSuperEvolutionMainPanel</object>
+    <object name="SeerHistoryIcon" tip="精灵编年史" type="funcWithController">com.robot.app2.mapProcess.control.SeerHistoryController:clickIcon</object>
+    <object name="hughIcon" tip="遗迹流浪者修" type="funcWithController">com.robot.app2.mapProcess.control.SeerHistoryController:initMap</object>
+    <object name="gaoStationedDragonVenture" tip="驻守龙脉的加奥" type="module">app/GaoStationedDragonVentureMainPanel</object>
+    <object name="map_1074_icon_1" tip="" type="map">1</object>
+    <object name="map_1074_icon_2" tip="" type="map">103</object>
+    <object name="map_1074_wall" tip="" type="module">app/Map1074PanelMuralPanel</object>
+    <object name="dragonMistCircle" tip="小心！龙脉迷雾法阵！" type="module">app/DragonMistCirclePanel</object>
+    <object name="sunGodIcon" tip="太阳神神使送大礼" type="module">app/SunGodMainPanel</object>
+    <object name="paiteNpc" tip="博士派特" type="module">app/NewSeerSign2015Panel</object>
+    <object name="renegadeIceFistMottPanel" tip="叛变的冰拳墨特" type="module">app/RenegadeIceFistMottPanel</object>
+    <object name="philponger" tip="菲尔蓬格 超进化" type="module">app/PhilpongerMainPanel</object>
+    <object name="IronsComingEq" tip="火系最强精灵王 不灭焱神艾恩斯" type="module">app/IronsComingMainPanel</object>
+    <object name="saurabhIcon" tip="沙鲁巴超进化" type="module">app/SaurabhMainPanel</object>
+    <object name="giraudHelpFindLostMemories" tip="帮助吉罗寻找遗失的记忆" type="module">app/GiraudHelpFindLostMemoriesMainPanel</object>
+    <object name="landisi" tip="妖影迷世！妖皇的阴影！" type="map&amp;module">1087;app/GetLanDiSiMainPanel</object>
+    <object name="gaiyaPreheatBtn" tip="战神盖亚觉醒" type="module">app/GaiyaEvoPreheatPanel</object>
+    <object name="ScarlettEq" tip="光系精灵王—耀世辉神" type="module">app/ScarlettSuperEvoPanel</object>
+    <object name="GayaCompleteBtn" tip="战神的鏖战！盖亚完全体！" type="module">app/GayaCompletePanel</object>
+    <object name="mysterious_ancient_sage_1094" tip="奥古斯特的阴谋 神秘的上古贤者" type="module">app/CallMysteriousAncientSageMainPanel</object>
+    <object name="GaiyaGodPowerTrainEq" tip="战神•盖亚的神力特训" type="module">app/GaiyaGodPowerTrainTwoPanel</object>
+    <object name="freedomFighter" tip="巅峰圣战-自由战" type="funcWithController">com.robot.app2.control.PeakJihadController:onEquipmentClick2</object>
+    <object name="pvpHughIcon" tip="遗迹流浪者修" type="funcWithController">com.robot.app2.control.PeakJihad2016Controller:onHughClick</object>
+    <object name="pvpLongIcon" tip="冒险家龙" type="funcWithController">com.robot.app2.control.PeakJihad2016Controller:onLongClick</object>
+    <object name="pvpRenoIcon" tip="雷诺将军" type="funcWithController">com.robot.app2.control.PeakJihad2016Controller:onLeiNuoClick</object>
+    <object name="pvpLongIcon2" tip="冒险家龙" type="module">app/PVPPreMainPanel</object>
+    <object name="magic_spirit_fairy" tip="全民神宠 魔灵仙女" type="module">app/MagicSpiritFairyMainPanel</object>
+    <object name="mysterious_ancient_warmonger_1094" tip="奥古斯特的阴谋 神秘的上古战魔" type="module">app/MysteriousAncientWarmongerMainPanel</object>
+    <object name="LightPegasusEvoBtn" tip="圣光天马超进化" type="module">app/LightPegasusEvoPanel</object>
+    <object name="ulfsaarIcon" tip="乌力朴超进化" type="module">app/UlfsaarMainPanel</object>
+    <object name="ancient_blade_master_1094" tip="奥古斯特的阴谋 神秘的上古剑圣" type="module">app/MysteriousAncientBladeMasterMainPanel</object>
+    <object name="ancient_paladin_1094" tip="奥古斯特的阴谋 神秘的上古游侠" type="module">app/MysteriousAncientPaladinMainPanel</object>
+    <object name="SprintIcon" tip="斯普林特 " type="module">app/SprintMainPanel</object>
+    <object name="CassiusCompleteBtn" tip="卡修斯完全体" type="module">app/CassiusCompletePanel</object>
+    <object name="peerless_adorable_pet" tip="绝世萌宠欢乐一夏" type="module">app/PeerlessAdorablePetMainPanel</object>
+    <object name="sociusIcon" tip="索兰特 超进化" type="module">app/SociusMainPanel</object>
+    <object name="taitan" tip="奋战！泰坦征途！" type="module">app/TaitanWayPanel</object>
+    <object name="mecha_ares_alliance_training" tip="机甲战神联盟特训" type="map&amp;module">102;app/MechaAresAllianceTrainingPanel</object>
+    <object name="rheaIcon" tip="瑞亚超进化" type="module">app/RheaMainPanel</object>
+    <object name="BlackCompleteBtn" tip="布莱克完全体" type="module">app/BlackCompletePanel</object>
+    <object name="gragIcon" tip="加格超进化" type="module">app/GargMainPanel</object>
+    <object name="iceGoblinKingWasBorn" tip="冰系精灵王诞生" type="funcWithController">com.robot.app2.control.IceGoblinKingWasBornController:initForMap</object>
+    <object name="2015SummerNationalCompetition" tip="2015暑期全国大赛" type="module">app/PeakJihadSummerNationalCompetitionMainPanel</object>
+    <object name="MuiseCompleteBtn" tip="缪斯完全体" type="module">app/MuiseCompletePanel</object>
+    <!--<object name="vippackage" tip="VIP专享特惠礼包" type="module">app/VipPreferentialPackage</object>-->
+    <object name="FrozenMonsterIcon" tip="急冻兽 超进化" type="module">app/FrozenMonsterMainPanel</object>
+    <object name="NadoreyIcon" tip="纳多雷超进化" type="module">app/NadoreyMainPanel</object>
+    <object name="GiantBird331Icon" tip="巨镰鸟超进化" type="module">app/GiantBirdMainPanel</object>
+    <object name="LeiyiCompleteBodyEq" tip="雷伊完全体" type="funcWithController">com.robot.app2.mapProcess.control.LeiyiPreHotController:openCompletBodyPanel</object>
+    <object name="GodWarFriendEffectBtn" tip="战神联盟伙伴特效开启" type="module">app/GodWarFriendEffectPrevPanel</object>
+    <object name="OscarPreViewIcon" tip="迈尔斯VS奥斯卡" type="func">onOscarPreViewClick</object>
+    <object name="MaiersiCompleteBodyEq" tip="迈尔斯完全体" type="module">app/MaiersiCompleteBodyMainPanel</object>
+    <object name="thunder_god_trainning" tip="圣雷天鸣！雷伊完全体特训" type="map&amp;module">10947;app/ThunderGodTrainningMainPanel</object>
+    <object name="OscariCompleteBodyEq" tip="奥斯卡完全体" type="module">app/OscariCompleteBodyMainPanel</object>
+    <object name="beatles_card_egg_machine" tip="甲壳虫卡牌扭蛋机" type="module">app/CardAwardMachinePanel</object>
+    <object name="guardians" des="星际之门的守护者" tip="" type="module">app/TheguardiansofStargateMainPanel</object>
+    <object name="starMount_451" tip="星际座驾挑战吉嘟" type="funcWithController">com.robot.app2.control.StarMountMakeController:fight</object>
+    <object name="starMount_66" tip="星际座驾挑战松布拉" type="funcWithController">com.robot.app2.control.StarMountMakeController:fight</object>
+    <object name="starMount_39" tip="星际座驾挑战咕拉拉" type="funcWithController">com.robot.app2.control.StarMountMakeController:fight</object>
+    <object name="DeblockAerolite" tip="陨石带的奇遇" type="module">app/DeblockAeroliteExplorePanel</object>
+    <object name="starMountBtn" tip="全新星际座驾" type="module">app/StarMountMakeMainPanel</object>
+    <object name="GodOfPrideIcon" tip="傲慢之神泊莱德" type="module">app/SevenSinGodTogetherPanel</object>
+    <object name="tv_1130" tip="VIP八周年" type="module">app/AYaCompMainPanel</object>
+    <object name="windWhispersForestGuardian" tip="风雨之森的守护者" type="funcWithController">com.robot.app2.control.WindWhispersForestGuardianController:initForMap</object>
+    <object name="typhoon_star_cloud_guide" tip="飓风星云的向导" type="module">app/TyphoonStarCloudGuideMainPanel</object>
+    <object name="JealousGodEq" tip="嫉妒之神哲利斯" type="module">app/SevenSinGodTogetherPanel</object>
+    <object name="ZhuiLeiShanYaBtn" tip="坠雷山崖的守护者" type="module">app/HurricaneKeeperNebulaMianPanel</object>
+    <object name="swamp_guardian" tip="痛苦沼泽的守护者" type="map&amp;module">1135;app/HurricaneKeeperNebulaMianPanel</object>
+    <object name="snow_mountain_guardian" tip="上古雪峰的守护者" type="map&amp;module">1136;app/HurricaneKeeperNebulaMianPanel</object>
+    <object name="LuciusCompleteBodyEq" tip="利刃之主·鲁斯王" type="module">app/LuciusCompleteBodyMainPanel</object>
+    <object name="ThreePetRedoBtn" tip="三主宠超进化" type="func">threePetRedoBtn</object>
+    <object name="GodOfAngryIcon" tip="愤怒之神 安格瑞" type="module">app/SevenSinGodTogetherPanel</object>
+    <object name="KingKongIcon" tip="炽焰金刚完全体" type="module">app/KingKongMainPanel</object>
+    <object name="lassiter" tip="邪念之神拉斯特" type="module">app/SevenSinGodTogetherPanel</object>
+    <object name="DimensionFreedBtn" tip="次元精灵王弗里德" type="module">app/DimensionFreedPanel</object>
+    <object name="OceanOfDestructionIcon" tip="毁灭之海的守护者" type="module">app/HurricaneKeeperNebulaMianPanel</object>
+    <object name="MonaLisaCompleteEq" tip="蒙娜丽莎完全体" type="module">app/MonaLisaCompleteBodyMainPanel</object>
+    <object name="GluttonizeLoongEq" tip="暴食之神格拉托尼" type="module">app/SevenSinGodTogetherPanel</object>
+    <object name="GreedIsGoodEq" tip="贪婪之神格利德" type="module">app/SevenSinGodTogetherPanel</object>
+    <object name="WhereTheSanta" tip="圣诞老人去那儿了" type="module">app/WhereTheSantaWentPanel</object>
+    <object name="SlothIsGoodEq" tip="懒惰之神斯洛斯" type="module">app/SevenSinGodTogetherPanel</object>
+    <object name="fly_pet_king" tip="飞行系精灵王凡尔斯" type="module">app/FlyPetKingMainPanel</object>
+    <object name="PrinceDragonOrderBtn" tip="王子爆发大礼" type="module">app/PrinceDragonOrderPanel</object>
+    <object name="captains_invitation" tip="船长的邀请！" type="module">app/CaptainsInvitationMainPanel</object>
+    <object name="CheerForDragonIcon" tip="为龙族助威" type="module">app/CheerForDragonPanel</object>
+    <object name="DradgonKingEq" tip="老龙王的嘱托" type="module">app/DradgonKingMintMarkPanel</object>
+    <object name="texingqianghuamianban" tip="梦幻特性强化器" type="module">app/PetEffectStrengthenPanel2015</object>
+    <object name="replay_pm" tip="对战录像" type="module">app/ReplayPMPanel</object>
+    <object name="LoongBadgeTrueMeanEq" tip="龙纹徽章的真正含义" type="module">app/LoongBadgeTrueMeanPanel</object>
+    <object name="prince_crown" tip="全民打造龙王之冠 " type="module">app/PrinceCrownMainPanel</object>
+    <object name="dragon_king_gertrude" tip="龙系精灵王 乔特鲁德" type="module">app/DragonKingGertrudePanel</object>
+    <object name="dragon_king" tip="龙王现世" type="module">app/DragonKingMainPanel</object>
+    <object name="SptFightSkillAreaEq" tip="SPT斗技场" type="module">app/SptFightSkillAreaMainPanel</object>
+    <object name="SonOfStarSupEvoEq" tip="七星天命阵-星空之子超进化" type="module">app/SonOfStarSupEvoPanel</object>
+    <object name="DragonFateBtn" tip="真命龙王 王之哈莫 " type="module">app/DragonFatePanel</object>
+    <object name="lostSilentWarTitan" tip="失落之殇！沉默的泰坦！ " type="module">app/LostSilentWarTitanMainPanel</object>
+    <object name="hammer_long_ling_awake" tip="战龙哈莫降临 " type="module">app/HammerLongLingAwakeMainPanel</object>
+    <object name="cloud_god_evo" tip="净天云神超进化" type="module">app/CloudGodEvoMainPanel</object>
+    <object name="WentToDOUMO" tip="前往斗魔大陆" type="module">app/WentToDouMoLandPanel</object>
+    <object name="HolyWarCompleteBodyEq" tip="圣甲狂战完全体" type="module">app/HolyWarCompleteBodyMainPanel</object>
+    <object name="GuardianOfTheWailingWall" tip="叹息之墙的守护者" type="module">app/GuardianOfTheWailingWallFightPanel</object>
+    <object name="stACrackFullBody" tip="圣甲地裂完全体 " type="module">app/StACrackFullBodyMainPanel</object>
+    <object name="DoomEq" tip="末日之泉的守卫者" type="module">app/DoomMainPanel</object>
+    <object name="HolyArmorBlackComplete" tip="圣甲布莱克完全体！ " type="map|module">1175;app/HolyArmorBlackCompleteMainPanel</object>
+    <object name="ShinePetSendToAll" tip="闪光精灵全民送 " type="module">app/ShinePetSendToAllMainPanel</object>
+    <object name="yilaienEvo" tip="闪光伊莱恩超进化 " type="map|module">1175;app/YilaienEvoMainPanel</object>
+    <object name="flashSpriteEvoNPC" tip="闪光精灵进化机" type="map|module">5;app/FlashSpriteEvoMachinePanel</object>
+    <object name="RaySoulBattleArmor" tip="雷魂战甲 能源危机" type="module">app/RaySoulBattleArmorPanel</object>
+    <object name="stAMagicHitomiFullBody" tip="圣甲幻瞳完全体" type="module">app/StAMagicHitomiFullBodyMainPanel</object>
+    <object name="sighOfWallOpening1" tip="叹息之墙开启" type="map|module">1180;app/SighOfWallOpeningMainPanel</object>
+    <object name="gulijing" tip="寻找鬼灵精的记忆" type="map|module">1180;app/TheGrinchofTheWailingWallPanel</object>
+    <object name="MysticalDarkLegion" tip="神秘的暗黑教团" type="map|module">1180;app/MysticalDarkLegionMainPanel</object>
+    <object name="stAThunderousFullBody" tip="圣甲雷鸣完全体" type="map|module">1178;app/StAThunderousFullBodyMainPanel</object>
+    <object name="TaQiLaDunEvolution" tip="闪光塔奇拉顿超进化" type="map|module">1178;app/TaQiLaDunEvolutionMainPanel</object>
+    <object name="GetGUILingJing" tip="鬼灵精" type="map|module">1178;app/GetGUILingJingPanel</object>
+    <object name="misidikeevo" tip="神秘精灵王" type="map|module">1178;app/MysteryofthewizardKingMainPanel</object>
+    <object name="titanExclusiveEngravedOutput" tip="泰坦专属刻印输出" type="map|module">1171;app/TitanExclusiveEngravedOutputMainPanel</object>
+    <object name="SilverWingArmyEq" tip="银翼三叉戟 全民放送" type="module">app/SilverWingArmyMonsterPrePanel</object>
+    <object name="SiJiuZhanJiangSuperEvo" tip="四九战将超进化" type="map|module">1184;app/SiJiuZhanJiangSuperEvoMainPanel</object>
+    <object name="SijiuToTopEq" tip="四九战王 极品之路" type="module">app/SijiuToTopPanel</object>
+    <object name="ruiersiComplete" tip="瑞尔斯完全体" type="map|module">1186;app/RuiersiCompleteMainPanel</object>
+    <object name="LordOfWaterMain" tip="水系精灵王沧岚 " type="module">app/LordOfWaterMainPanel</object>
+    <object name="fourSixExchange" tip="四九战将完全体 " type="map&amp;module">1184;app/FourSixExchangePanel</object>
+    <object name="ruiersiCompleteintroduction" tip="瑞尔斯完全体介绍" type="module">app/RuiersiCompleteintroductionPanel</object>
+    <object name="FiveGeneralGrounpFight" tip="五虎上将伙伴特性开启" type="module">app/FiveGeneralGrounpFightPanel</object>
+    <object name="wanmotianzunevo" tip="万魔天尊超进化" type="map|module">1187;app/WanmotianzunEvoMainPanel</object>
+    <object name="babutianlongVideo" tip="八部天龙视屏介绍" type="func">onBabutianlongVideoClick</object>
+    <object name="SeerDesign_0527" tip="赛尔公众号 关注有大礼" type="module">app/SeerDesignPanel_0527</object>
+    <object name="HonorOfPetKing" tip="精灵王的荣耀" type="map|module">1192;app/HonorOfPetKingMainPanel</object>
+    <object name="zhuWei" tip="看动画片领神宠" type="module">app/LookAnimationPanel</object>
+    <object name="ANAEvo" tip="小优进化开启！" type="module">app/ANASuperEvoPanel</object>
+    <object name="PredecessorKingOfElectric" tip="神威雷霆 王者再现" type="module">app/PredecessorKingOfElectricMainPanel</object>
+    <object name="OneThousandEvilDemonOutput" tip="千煞魔星降临" type="module">app/OneThousandEvilDemonOutputMainPanel</object>
+    <object name="SitaaoEvoEq" tip="星灵之子 斯塔奥的超级降临" type="module">app/SitaaoEvoMainPanel</object>
+    <object name="daysEvilDragonSuperEvolution" tip="天邪龙王超进化" type="map|module">1197;app/DaysEvilDragonSuperEvolutionMainPanel</object>
+    <object name="NewPVEInBlackPlain" tip="突袭神秘异界" type="module">app/NewPVEPanel</object>
+    <object name="LightMearesTraining" tip="光之子·米瑞斯特训" type="module">app/LightMearesTrainingMainPanel</object>
+    <object name="immortalbird" tip="不死·烈羽降临" type="map|module">1195;app/ImmortalbirdMainPanel</object>
+    <object name="NewPVEInTheWild" tip="强欲荒野 灾难巨兽" type="module">app/NewPVEPanel</object>
+    <object name="CassiusKing" tip="卡修斯封王" type="map|module">1192;app/BeKingofCassiusPanel</object>
+    <object name="NewPVEInTheThroneOfSin" tip="光与暗的结合 原罪王座" type="map|module">1199;app/NewPVEPanel</object>
+    <object name="PreviousKingOfGround" tip="前代地面系精灵王" type="module">app/PreviousKingOfGroundMainPanel</object>
+    <object name="MingDiSuLoEvoIcon" tip="冥帝修罗超进化 " type="module">app/MingDiSuLoEvoMainPanel</object>
+    <!-- <object name="bulaikepre" tip="布莱克封王道具全民送" type="module">app/KingBulaikePreviewPanel</object> -->
+    <object name="peakJihad6V6Entrance2016" tip="巅峰圣战6v6" type="funcWithController">com.robot.app2.control.PeakJihad2016Controller:on6v6Click</object>
+    <object name="peakJihad3V3Entrance2016" tip="巅峰圣战3v3" type="module">app/PeakJihadSelectFreeWarOr3v3Panel</object>
+    <object name="peakJihadRewardExchange2016" tip="巅峰圣战奖励兑换" type="funcWithController">com.robot.app2.control.PeakJihad2016Controller:onRewardExchangeClick</object>
+    <object name="peakJihadRulesSummaryIntroduction2016" tip="巅峰圣战规则介绍" type="module">app/PeakJihadRulesSummaryIntroduction2016RevisionPanel</object>
+    <object name="ZhakesiSuperEvo" tip="咤克斯超进化" type="map|module">1197;app/ZhakesiSuperEvoMainPanel</object>
+    <object name="SummerPublic" tip="暑期大升级！关注公众号送大礼！" type="module">app/SummerPublicPanel</object>
+    <object name="HoddleEq" tip="暗影系精灵王" type="map|module">1204;app/HoddleMainPanel</object>
+    <object name="OnlineToGetWinsPostiga" tip="在线送波斯蒂加" type="funcWithController">com.robot.app2.systems.mapObject.MapObjectProcessFuns:OnlineToGetWinsPostiga</object>
+    <object name="CelebrationOpeningEq" tip="开学庆典大动员" type="map|module">1205;app/CelebrationOpeningMainPanel</object>
+    <object name="HyperKingOut" tip="超能精灵王海瑟薇" type="map|module">1204;app/HyperKingOutputPanel</object>
+    <object name="resurrectionStarKingWuling" tip="复活吧！星灵王！" type="funcWithController">com.robot.app2.control.ResurrectionStarKingWulingControl:onEqClick</object>
+    <object name="WangZhiShenDian" tip="一个特殊的传送魔法，可以帮助你前往王之圣殿" type="funcWithController">com.robot.app2.systems.mapObject.MapObjectProcessFuns:goto1192</object>
+    <object name="EvilHadesIcon" tip="恶灵兽完全体" type="map|module" icon="">1197;app/EvilHadesMainPanel</object>
+    <object name="SiJiuPredorTrainEq" tip="四九圣尊王者特训" type="map|module">1184;app/SiJiuPredorTrainPanel</object>
+    <object name="Shishiduijue" tip="史诗对决 王者传承" type="module">app/ShishiduijueMainPanel</object>
+    <object name="weisike" tip="威斯克完全体" type="module">app/WeisikeMainpanel</object>
+    <object name="shichang0914" tip="暗黑盖亚视频介绍" type="url">http://yuntv.letv.com/bcloud.swf?uu=94aec87868&amp;vu=fbb2382f06&amp;auto_play=1&amp;gpcflag=1&amp;lang=zh_CN</object>
+    <object name="OldKingOfFight" tip="战斗之王阿尔斯兰" type="module">app/OldKingOfFightMainPanel</object>
+    <object name="aersilan_TV" tip="阿尔斯兰视频介绍" type="url">http://yuntv.letv.com/bcloud.swf?uu=94aec87868&amp;vu=fb79c1f90b&amp;auto_play=1&amp;gpcflag=1&amp;lang=zh_CN</object>
+    <object name="daanHeitianSkill" tip="王之战联大暗黑天合体技能" type="module">app/DaanHeitianSkillPrePanel</object>
+    <object name="GaiyaBeKing" tip="盖亚封王" type="module">app/GaiyaBeKingMainPanel</object>
+    <object name="daanHeitianCountermark" tip="王之战联大暗黑天刻印" type="module">app/DaanHeitianCountermarkMainPanel</object>
+    <object name="map_1208" tip="十一国庆大狂欢" type="module">app/NationalDayFallPanel</object>
+    <object name="bigestMonster" tip="超强精灵放送" type="module">app/GetBiggestSpriteMainPanel</object>
+    <object name="jiluodeShipinBtn" tip="吉罗德介绍" type="url">http://yuntv.letv.com/bcloud.swf?uu=94aec87868&amp;vu=b4bd38ca93&amp;auto_play=1&amp;gpcflag=1&amp;lang=zh_CN</object>
+    <object name="landisiComplete" tip="妖皇兰蒂斯完全体" type="map|module">1091;app/LandisiCompleteMainPanel</object>
+    <object name="lookingforSorensenSeriesActivitiesExit" tip="离开" type="func">onlookingforSorensenSeriesActivitiesExit</object>
+    <object name="TitanVein" tip="神秘的泰坦源脉" type="module">app/TitanVeinMainPanel</object>
+    <object name="STLLeagueRewardExchangeEq" tip="STL联赛奖励兑换" type="module">app/STLLeagueRewardExchangePanel</object>
+    <object name="WhiteTiger" tip="白虎来袭" type="map|module">1218;app/WhiteTigerMainPanel</object>
+    <object name="desiSuperEvolutionEq" tip="德罗西精灵超进化" type="map|module">1218;app/DesiSuperEvolutionMainPanel</object>
+    <object name="shihunqinglong" tip="弑魂青龙" type="module">app/ShihunqinglongMainPanel</object>
+    <object name="shihunqinglong_Tv" tip="弑魂·青龙视频介绍" type="url">http://yuntv.letv.com/bcloud.swf?uu=94aec87868&amp;vu=d2207d9cbf&amp;auto_play=1&amp;gpcflag=1&amp;lang=zh_CN</object>
+    <object name="naturalDisaster" tip="天灾白虎" type="map|module">411;app/NaturalDisasterMainPanel</object>
+    <object name="baihu" tip="天灾白虎" type="url">http://yuntv.letv.com/bcloud.swf?uu=94aec87868&amp;vu=045976a328&amp;auto_play=1&amp;gpcflag=1&amp;lang=zh_CN</object>
+    <object name="spiritanimalpalace" tip="青龙刻印" type="module">app/SpiritanimalpalaceMainPanel</object>
+    <object name="XHQLshiping" tip="天苍玄魂•青龙视频介绍" type="url">http://yuntv.letv.com/bcloud.swf?uu=94aec87868&amp;vu=6da0a80ed0&amp;auto_play=1&amp;gpcflag=1&amp;lang=zh_CN</object>
+    <object name="IceQueenSiaEq" tip="冰雪女皇阿克希亚" type="module">app/IceQueenSiaMainPanel</object>
+    <object name="whiteTigerCom" tip="圣尊啸傲白虎" type="module">app/WhiteTigerCompMainPanel</object>
+    <object name="sealofTiger" tip="打造白虎之印" type="map|module">1219;app/SealofTigerMainPanel</object>
+    <object name="11447Eq" tip="光之子米瑞斯" type="funcWithController">com.robot.app2.control.TheBattleOfTheCentury2017Controller:onchick11447Eq</object>
+    <object name="11448Eq" tip="圣谕天骑" type="funcWithController">com.robot.app2.control.TheBattleOfTheCentury2017Controller:onchick11448Eq</object>
+    <object name="11449Eq" tip="次元王弗里德" type="funcWithController">com.robot.app2.control.TheBattleOfTheCentury2017Controller:onchick11449Eq</object>
+    <object name="11450Eq" tip="众神之首宙斯" type="funcWithController">com.robot.app2.control.TheBattleOfTheCentury2017Controller:onchick11450Eq</object>
+    <object name="11451Eq" tip="斗天武神瑞尔斯" type="funcWithController">com.robot.app2.control.TheBattleOfTheCentury2017Controller:onchick11451Eq</object>
+    <object name="11452Eq" tip="王雷伊" type="funcWithController">com.robot.app2.control.TheBattleOfTheCentury2017Controller:onchick11452Eq</object>
+    <object name="11453Eq" tip="逆势麒麟" type="funcWithController">com.robot.app2.control.TheBattleOfTheCentury2017Controller:onchick11453Eq</object>
+    <object name="11454Eq" tip="至尊无天" type="funcWithController">com.robot.app2.control.TheBattleOfTheCentury2017Controller:onchick11454Eq</object>
+    <object name="11455Eq" tip="奥古斯特" type="funcWithController">com.robot.app2.control.TheBattleOfTheCentury2017Controller:onchick11455Eq</object>
+    <object name="11456Eq" tip="达克斯特" type="funcWithController">com.robot.app2.control.TheBattleOfTheCentury2017Controller:onchick11456Eq</object>
+    <object name="11457Eq" tip="泊莱德" type="funcWithController">com.robot.app2.control.TheBattleOfTheCentury2017Controller:onchick11457Eq</object>
+    <object name="11458Eq" tip="无常幽鬼" type="funcWithController">com.robot.app2.control.TheBattleOfTheCentury2017Controller:onchick11458Eq</object>
+    <object name="BeiMingXuanwuComplete" tip="玄武完全体" type="map|module">1219;app/BeiMingXuanwuCompleteMainPanel</object>
+    <object name="nishiqilin" tip="逆势麒麟" type="module">app/NishiqilingMainPanel</object>
+    <object name="AnheiPuniEvo" tip="暗黑谱尼超进化" type="module">app/AnheiPuniEvoMainPanel</object>
+    <object name="GetCaishenMain" tip="财神" type="module">app/GetCaishenMainPanel</object>
+    <object name="TheSpringFestivalFuliCollection" tip="新春合集" type="module">app/TheSpringFestivalFuliCollectionMainPanel</object>
+    <object name="KylinOfLightMain" tip="圣光麒麟" type="module">app/KylinOfLightMainPanel</object>
+    <object name="SaveLifeTreeEq" tip="拯救生命之树" type="module">app/SaveLifeTreeMainPanel</object>
+    <object name="LanternFestivalPetEq" tip="花灯娃娃的藏身灯笼" type="map|module">1172;app/LanternFestivalPetMainPanel</object>
+    <object name="grassWizardKingEq" tip="草系精灵王" type="module">app/GrassWizardKingMainPanel</object>
+    <object name="wangSaComplete" tip="萨格罗斯完全体" type="module">app/WangSaCompleteMainPanel</object>
+    <object name="OpenSchoolPet2017Eq" tip="开学专属精灵" type="map|module">1205;app/OpenSchoolPet2017MainPanel</object>
+    <object name="kaiXueFuli" tip="开学送福利 学习力大放送" type="module">app/KaiXuefuliActivityMainPanel</object>
+    <object name="TheBestMintMarkOfShenshouMain" tip="神兽至强刻印" type="map|module">1228;app/TheBestMintMarkOfShenshouMainPanel</object>
+    <object name="SixGodCompleteBody" tip="六界神王超进化" type="map|module">1228;app/SixGodCompleteBodyMainPanel</object>
+    <object name="TheFriendOfMonsterKingMain" tip="精灵王的伙伴" type="module">app/TheFriendOfMonsterKingMainPanel</object>
+    <object name="FireFeatherOfPhoenix" tip="浴火重生 炽凰火羽" type="module">app/TheBestMintMarkOfShenshouMainPanel</object>
+    <object name="elingmeiying" tip="上古精灵恶灵魅影" type="map|module">1228;app/ElingmeiyingMainPanel</object>
+    <object name="oudenairui" tip="普通系精灵王" type="map|module">1229;app/OudenairuiMainPanel</object>
+    <object name="spritesFriendsIcon" tip="精灵王的伙伴们" type="map|module">1229;app/SpritesFriendsMainPanel</object>
+    <object name="activiytB20170313" tip="上古祈愿坛" type="map|module">1230;app/ActiviytB20170313MainPanel</object>
+    <object name="skyMysteriousWangChaoEvolutionEq" tip="天玄界王超进化" type="map|module">1229;app/SkyMysteriousWangChaoEvolutionMainPanel</object>
+    <object name="yinengwangWeakenBtn" tip="异能王难度降低" type="module">app/YinengwangWeakenMainPanel</object>
+    <object name="luoyinbingji" tip="洛英冰姬" type="map|module">1230;app/LuoyinbingjiMainPanel</object>
+    <object name="ShengGuangAoErDeCompMain" tip="圣光奥尔德完全体" type="map|module">1071;app/ShengGuangAoErDeCompMainPanel</object>
+    <object name="kingofnature" tip="自然系精灵王" type="map|module">1231;app/KingofnatureMainPanel</object>
+    <object name="YinengwangCompleteBodySignIn" tip="暗黑异能王完全体全名登录送" type="map|module">1071;app/YinengwangCompleteBodySignInMianPanel</object>
+    <object name="wizardKingBigFightEq" tip="精灵王大乱斗" type="map|module">1155;app/WizardKingBigFightMainPanel</object>
+    <object name="fuckYouMarketEq" tip="巅峰直播" type="module">app/PeakJihadLiveJump2017RevisionPanel</object>
+    <object name="theBurialOfTheKingChaoEvolutionEq" tip="地葬界王超进化 " type="module">app/TheBurialOfTheKingChaoEvolutionMainPanel</object>
+    <object name="ShangGuZhanChangMain" tip="上古战场" type="module">app/ShangGuZhanChangMainPanel</object>
+    <object name="wujingHunwang" tip="无烬魂王" type="module">app/WujingHunwangPreviewMainPanel</object>
+    <object name="chaosSectorWangChaoEvolutionEq" tip="混沌界王超进化" type="module">app/ChaosSectorWangChaoEvolutionMainPanel</object>
+    <object name="hanDynastyWangSuperEvoEq" tip="瀚海界王超进化" type="map|module">1229;app/HanDynastyWangSuperEvoMainPanel</object>
+    <object name="NoDieHunWangMain" tip="不死魂王" type="module">app/NoDieHunWangMainPanel</object>
+    <object name="mysteriousfightfprite" tip="神秘战斗精灵王" type="module">app/MysteriousFightSpritePanel</object>
+    <object name="tiandaohundi" tip="天道魂帝" type="map|module">1234;app/TiandaohundiMainPanel</object>
+    <object name="jishujijia" tip="极速机甲" type="map|module">1236;app/SuperSpeedMechMainPanel</object>
+    <object name="Villain1Main" tip="魔君使者 昔兰尼加" type="map|module">1237;app/Villain1MainPanel</object>
+    <object name="exploreStarField" tip="探索星域送福利" type="map|module">1237;app/ExploreStarFieldAwardWelfareMainPanel</object>
+    <object name="jianbijijia" tip="坚壁机甲" type="module">app/JianbijijiaMainpanel</object>
+    <object name="theWeekWelfareActivitiesEq" tip="机王机甲维修" type="map|module">1237;app/TheWeekWelfareActivitiesMainPanel</object>
+    <object name="huimiejijia" tip="毁灭机甲" type="map|module">1236;app/HuimiejijiaMainPanel</object>
+    <object name="lifante" tip="援军到来黎凡特" type="map|module">1237;app/LifanteMainPanel</object>
+    <object name="DragonBoatFestivalIcon" tip="端午节要来啦" type="module">app/DragonBoatFestivalPrePanel</object>
+    <object name="machineELFKING" tip="机械精灵王" type="map|module">1236;app/MachineELFKINGMainPanel</object>
+    <object name="hundunmoshi" tip="混沌魔使" type="map|module">1239;app/HundunmoshiMainPanel</object>
+    <object name="ThunderSoulSuperMain" tip="九霄雷魂超进化" type="map|module">1238;app/ThunderSoulSuperMainPanel</object>
+    <object name="YeMoLongZhanSuperMain" tip="夜魔龙战超进化" type="map|module">1240;app/YeMoLongZhanSuperMainPanel</object>
+    <object name="quanmingshenchong" tip="周年庆神宠全民狂享豪礼" type="map|module">1240;app/QuanmingshenchongPanel</object>
+    <object name="vipWishingPool2017Eq" tip="九周年庆典-豪华许愿池" type="map|module" icon="">1302;app/VipWishingPool2017FrontPanel</object>
+    <object name="shengtingleiyi" tip="圣霆雷伊" type="map|module" icon="">1003;app/ShengtingleiyiMainPanel</object>
+    <object name="KeMuNingMain" tip="巨岩之子 科穆宁" type="map|module">1238;app/KeMuNingMainPanel</object>
+    <object name="GodPetofPeopleIcon" tip="阿娅超进化" type="map|module">1240;app/GodPetofPeopleMainPanel</object>
+    <object name="CounterMarkGemstoneLottery" tip="宝石抽奖机" type="module">app/CounterMarkGemstoneLotteryPanel</object>
+    <object name="FireAndElectricityPetIcon" tip="电火精灵王" type="map|module">1235;app/FireAndElectricityPetMainPanel</object>
+    <object name="XinXiYaMain" tip="暗月星辛西娅" type="map|module">1243;app/XinXiYaMainPanel</object>
+    <object name="SorensonCompleteIcon" tip="索伦森完全体" type="map|module">1241;app/SorensonCompleteMainPanel</object>
+    <object name="chaoticSectsRiseEq" tip="混沌教派的崛起" type="map|module">1241;app/ChaoticSectsRiseMainPanel</object>
+    <object name="AiLanMain" tip="混沌领军者埃兰" type="map|module">1244;app/AiLanMainPanel</object>
+    <object name="MarkMachine0707" tip="刻印抽奖机暑期更新" type="module" icon="">app/MarkMachine0707Panel</object>
+    <object name="Suogediya" tip="星域主宰索格迪亚" type="map|module">1244;app/SuogediyaMainPanel</object>
+    <object name="theGodOfDreamsEq" tip="梦境之神完全体" type="map|module">1244;app/TheGodOfDreamsMainPanel</object>
+    <object name="shenghunmaiersievo" tip="圣灵之魂迈尔斯" type="map|module">1244;app/ShenghunMaiersiEvoMainPanel</object>
+    <object name="DiYaSiMain" tip="蒂亚斯" type="map|module">1245;app/DiYaSiMainPanel</object>
+    <object name="peakJihadWeeklyTasksEq" tip="全新任务 奖励丰厚！" type="funcWithController">com.robot.app2.control.PeakJihad2016Controller:onNedClick</object>
+    <object name="shenglingAosika" tip="圣灵守护奥斯卡" type="map|module">1245;app/ShenglingAosikaMainPanel</object>
+    <object name="StarLordVladIcon" tip="星球领主弗拉德" type="map|module">1246;app/StarLordVladMainPanel</object>
+    <object name="TheSourOfGuardMain" tip="守护之魂" type="map|module">1246;app/TheSourOfGuardMainPanel</object>
+    <object name="aluonasiComplete" tip="风暴之神完全体" type="map|module">1246;app/AluonasiCompleteMainPanel</object>
+    <object name="YiNuoMeiMain" tip="星域领主伊诺美" type="map|module">1247;app/YiNuoMeiMainPanel</object>
+    <object name="IceShadowKingIcon" tip="冰暗影精灵王" type="map|module">1235;app/IceShadowKingMainPanel</object>
+    <object name="fulib0728" tip="圣光的前奏" type="map|module">1247;app/Fulib0728Panel</object>
+    <object name="HolyPunny" tip="圣灵谱尼" type="map|module">1248;app/HolyPunnyMainPanel</object>
+    <object name="AYaCompMain" tip="阿娅完全体" type="map|module">1240;app/AYaCompMainPanel</object>
+    <object name="ShenglinVsHundun" tip="圣灵VS混沌" type="map|module">1247;app/ShenglinVsHundunPanel</object>
+    <object name="godOffearFight" tip="恐惧之神完全体" type="module">app/GodOffearMainPanel</object>
+    <object name="HunDunAiLanMain" tip="混沌埃兰" type="map|module">1249;app/HunDunAiLanMainPanel</object>
+    <object name="SurviveForce" tip="赛米星的守望之花" type="map|module">1249;app/SurviveForceMainPanel</object>
+    <object name="XingyuzhihunSkinSell" tip="星域之魂 圣灵复苏" type="map|module">1249;app/XingyuzhihunSkinSellMainPanel</object>
+    <object name="SurviveForce0818" tip="莱赫星的光之骑士" type="map|module">1251;app/SurviveForce0818MainPanel</object>
+    <object name="MoDiXiSiCompMain" tip="毁灭之神完全体" type="map|module">1241;app/MoDiXiSiCompMainPanel</object>
+    <object name="movieexcahnge2" tip="圣者无敌大礼包" type="module" icon="1,-9,-143">app/MovieExchangeS2Panel</object>
+    <object name="starLord4By2017Eq" tip="星球领主亚尔娜" type="map|module">1253;app/StarLord4By2017MainPanel</object>
+    <object name="shikongHuanjing" tip="时空幻境送豪礼" type="module">app/ShikongHuanjingPreviewPanel</object>
+    <object name="BiBaPuMain" tip="比巴卜泡泡糖" type="module">app/BiBaPuMainPanel</object>
+    <object name="LuoShaMain" tip="混沌守护洛刹" type="map|module">1253;app/LuoShaMainPanel</object>
+    <object name="Shenglingzhufu" tip="圣灵祝福" type="map|module">1253;app/ShenglingzhufuMainPanel</object>
+    <object name="HolyLightScarlettIcon" tip="圣光斯嘉丽" type="module">app/HolyLightScarlettMainPanel</object>
+    <object name="jiewang" tip="时空幻境超进化" type="map|module">1254;app/JiewangGetPanel</object>
+    <object name="YelimeisiComplete" tip="耶里梅斯完全体" type="map|module">1254;app/YelimeisiCompleteMainPanel</object>
+    <object name="brotherAndSisterJeromeEq" tip="混沌之路 耶里梅斯" type="map|module">1254;app/BrotherAndSisterJeromeMainPanel</object>
+    <object name="yelimeisi" tip="混沌耶里梅斯" type="map|module">1253;app/YelimeisiMainPanel</object>
+    <object name="shengtongmiusi" tip="圣曈缪斯" type="map|module">1253;app/ShengtongmiusiMainPanel</object>
+    <object name="Aiensis" tip="火王艾恩斯" type="map|module">1255;app/AiensiMainPanel</object>
+    <object name="poisonousWaterDemonSpiritEq" tip="毒水妖灵" type="map|module">1255;app/PoisonousWaterDemonSpiritMainPanel</object>
+    <object name="pollutionOfTheMarshEq" tip="混沌烈焰 死寂之沼" type="map|module">1255;app/ChaosTiasMainPanel</object>
+    <object name="thousandsOfSoulsOfThePioneerEq" tip="千魂要塞的先锋" type="map|module">1256;app/ThousandsOfSoulsOfThePioneerMainPanel</object>
+    <object name="SpiritofWrath" tip="愤怒之灵" type="map|module">1256;app/SpiritofWrathMainPanel</object>
+    <object name="MuFengIcon" tip="牧魂祭司" type="map|module">1256;app/MuFengMainPanel</object>
+    <object name="zhanzhenkongmo" tip="战争恐魔" type="map|module">1256;app/ZhanzhenkongmoMainPanel</object>
+    <object name="AogusiteSuperMain" tip="奥古斯特超进化" type="map|module">1258;app/AogusiteSuperMainPanel</object>
+    <object name="MeetQianFengYaoSaiIcon" tip="迎击千魂要塞精英部队" type="map|module">1258;app/MeetQianFengYaoSaiForceMainPanel</object>
+    <object name="DirtyOfQianHongYaoSaiMain" tip="千魂要塞的污染" type="map|module">1258;app/DirtyOfQianHongYaoSaiMainPanel</object>
+    <object name="ShengzhanGaiya" tip="圣威之战 圣战盖亚" type="map|module">1258;app/ShengzhanGaiyaMainPanel</object>
+    <object name="puniskin" tip="圣灵谱尼全新皮肤" type="map|module">1248;app/PuniSkinMainPanel</object>
+    <object name="ShengzhanRuiersi" tip="圣战瑞尔斯" type="map|module">1258;app/ShengzhanRuiersiMainPanel</object>
+    <object name="TheNewsFromMinyuMain" tip="来自冥域的消息" type="module">app/TheNewsFromMinyuMainPanel</object>
+    <object name="yinMingDemonSuperEvolutionEq" tip="阴冥妖姬超进化" type="map|module">1259;app/YinMingDemonSuperEvolutionMianPanel</object>
+    <object name="mingyu" tip="冥域逃亡者奥兰" type="map|module">1259;app/MingyuMainPanel</object>
+    <object name="FightingEmperorCompleteIcon" tip="雷焰斗皇" type="map|module">1260;app/FightingEmperorCompleteMainPanel</object>
+    <object name="duankong" tip="冥王断空完全体" type="map|module">1260;app/DuankongMainPanel</object>
+    <object name="getmoluoke" tip="魔誓者小兵" type="map|module">1260;app/GetmoluokeMainPanel</object>
+    <object name="Molingwang" tip="魔灵王再现" type="map|module">1261;app/MolingwangMainPanel</object>
+    <object name="YeRenCompleteIcon" tip="冥王夜刃完全体" type="map|module">1261;app/YeRenCompleteMainPanel</object>
+    <object name="ZhanHuangCompMain" tip="战皇完全体" type="map|module">1261;app/ZhanHuangCompMainPanel</object>
+    <object name="aolanSuper" tip="奥兰超进化" type="map|module">1261;app/AolanSuperMainPanel</object>
+    <object name="AiLaGetMain" tip="艾拉的逃亡之路" type="map|module">1262;app/AiLaGetMainPanel</object>
+    <object name="LaiYinTeIcon" tip="莱茵哈特出击" type="map|module">1262;app/LaiYinTeComeOutPanel</object>
+    <object name="MingwangpotianComplete" tip="冥王破天完全体" type="map|module">1262;app/MingwangpotianCompleteMainPanel</object>
+    <object name="yingHuangCompleteBodyEq" tip="影皇完全体" type="map|module">1262;app/YingHuangCompleteBodyMianPanel</object>
+    <object name="ShengHuangCompletelyBodyEq" tip="圣皇完全体" type="map|module">1263;app/ShengHuangCompletelyBodyMianPanel</object>
+    <object name="MolingwangFreeGetMainPanel" tip="魔灵王全民得" type="map|module">1263;app/MolingwangFreeGetMainPanel</object>
+    <object name="cangyueComplete" tip="冥王苍月完全体" type="map|module">1263;app/CangyueCompleteMainPanel</object>
+    <object name="ShiShenLieHuangMain" tip="弑神猎皇" type="map|module">1264;app/ShiShenLieHuangMainPanel</object>
+    <object name="getHaente" tip="猎皇之狩" type="map|module">1264;app/GetHaenteMainPanel</object>
+    <object name="OranCompletelyBodyEq" tip="奥兰完全体" type="map|module">1264;app/OranCompletelyBodyMianPanel</object>
+    <object name="HunDunDiWangMain" tip="混沌地王莱茵哈特" type="map|module">1265;app/HunDunDiWangMainPanel</object>
+    <object name="MolingwangEvo" tip="魔灵王超进化" type="map|module">1265;app/MolingwangEvoMainPanel</object>
+    <object name="crazyKingOfSlimeEq" tip="疯狂的史莱姆国王" type="map|module">1266;app/CrazyKingOfSlimeMianPanel</object>
+    <object name="GetAncientdragonking" tip="远古龙精灵王" type="map|module">1235;app/GetAncientdragonkingMainPanel</object>
+    <object name="DangerousDesertMain" tip="凶险的荒漠" type="map|module">1268;app/DangerousDesertMainPanel</object>
+    <object name="prismStarCaretakerEq" tip="看守长塔拉加姆" type="map|module">1268;app/PrismStarCaretakerMianPanel</object>
+    <object name="AoluonaerEvo" tip="神秘的隐居者" type="map|module">1268;app/AoluonaerEvoMainPanel</object>
+    <object name="haiseweiEvo" tip="幻世·海瑟薇" type="map|module">1268;app/HaiseweiEvoMainPanel</object>
+    <object name="despairOfTheIllusionEq" tip="绝望的幻象" type="map|module">1269;app/DespairOfTheIllusionMianPanel</object>
+    <object name="MalfurionSuperIcon" tip="玛法里奥超进化" type="map|module">1269;app/MalfurionSuperMainPanel</object>
+    <object name="YearVip2018Guess" tip="2018年费大竞猜" type="map|module" icon="1,-6,-126">1272;app/YearVip2018GuessMainPanel</object>
+    <object name="Doluotaitan" tip="堕落泰坦" type="map|module">1269;app/DoluotaitanMainPanel</object>
+    <object name="LujieSpeakIcon" tip="罗杰有话说" type="module">app/LujieSpeakMainPanel</object>
+    <object name="YearVip2018Pre4Main" tip="2018年费预约大礼包" type="map|module" icon="1,0,-137">1272;app/YearVip2018Pre4MainPanel</object>
+    <object name="GetSuolante" tip="索兰特完全体" type="map|module">1270;app/GetSuolanteMainPanel</object>
+    <object name="chaosBlackEvolvedEq" tip="混沌布莱克" type="map|module">1270;app/ChaosBlackEvolvedMianPanel</object>
+    <object name="DemonKingCompleteIcon" tip="魔灵王完全体" type="map|module">1273;app/DemonKingCompleteMainPanel</object>
+    <object name="CSBHComplete" tip="创世圣魂" type="map|module">1273;app/CSBHCompleteMainPanel</object>
+    <object name="yearVip2018Eq" tip="2018年费精灵天启帝君" type="map|module">1272;app/Yearvip2018MainPanel</object>
+    <object name="ContrarianKirinEvoIcon" tip="逆势麒麟超进化" type="map|module">1274;app/ContrarianKirinEvoMainPanel</object>
+    <object name="insideTheBlackHoleEq" tip="黑洞之内" type="map|module">1274;app/InsideTheBlackHoleMainPanel</object>
+    <object name="LTSJSaermeng" tip="灵天圣君萨尔蒙" type="map|module">1274;app/LTSJSaermengMainPanel</object>
+    <object name="FeiLiangCompleteIcon" tip="飞镰完全体" type="map|module">1275;app/FeiLiangCompleteMainPanel</object>
+    <object name="sickAirAttackCorpsEq" tip="飞镰的空袭军团" type="map|module">1275;app/SickAirAttackCorpsMianPanel</object>
+    <object name="TeLanXiEvo" tip="特兰西完全体" type="map|module">1277;app/TeLanXiEvoMainPanel</object>
+    <object name="EvilKingMorganIcon" tip="邪灵主宰•摩哥斯" type="map|module">1277;app/EvilKingMorganMainPanel</object>
+    <object name="OverlordXiangYuSuperEvoEq" tip="项羽完全体" type="module">app/OverlordXiangYuSuperEvoMianPanel</object>
+    <object name="AwakedEvilIcon" tip="被唤醒的魔王狄修" type="map|module">1278;app/AwakedEvilMainPanel</object>
+    <object name="LasaierComplete" tip="拉塞尔完全体" type="map|module">1278;app/LasaierCompleteMainPanel</object>
+    <object name="HolyLandCajasIcon" tip="圣地卡修斯" type="map|module">1279;app/HolyLandCajasMainPanel</object>
+    <object name="NewFightMain" tip="新的攻势" type="map|module">1279;app/NewFightMainPanel</object>
+    <object name="JingsiteComplete" tip="金斯特完全体" type="map|module">1279;app/JingsiteCompleteMainPanel</object>
+    <object name="YingKaLuoSiMain" tip="英卡洛斯" type="map|module">1280;app/YingKaLuoSiMainPanel</object>
+    <object name="GodEvilDragonKingIcon" tip="天邪龙王完全体" type="map|module">1280;app/GodEvilDragonKingMainPanel</object>
+    <object name="BulikeComplete" tip="布里克完全体" type="map|module">1280;app/BulikeCompleteMainPanel</object>
+    <object name="SmallMantisForAllPeopleToSendEq" tip="贾斯汀的托付" type="map|module">1280;app/SmallMantisForAllPeopleToSendMainPanel</object>
+    <object name="SijiuHuanxi" tip="四九幻曦 4399春节巨献" type="map|module">1184;app/SijiuHuanxiPanel</object>
+    <object name="EmilisaOutputEq" tip="龙族杀手艾莫莉萨" type="map|module">1280;app/EmilisaOutputMianPanel</object>
+    <object name="PunishFormYinCarlosIcon" tip="光之惩戒英卡洛斯" type="module">app/PunishFormYinCarlosMainPanel</object>
+    <object name="CrazeYinCarlosIcon" tip="战之狂热英卡洛斯" type="map|module">1283;app/CrazeYinCarlosMainPanel</object>
+    <object name="HunDunyuanjun" tip="混沌援军" type="map|module">1283;app/HunDunyuanjunPanel</object>
+    <object name="DixiuEvo" tip="狄修超进化" type="map|module">1281;app/DixiuEvoMainPanel</object>
+    <object name="BurningSoulMonsterEq" tip="燃魂巨兽" type="map|module">1283;app/BurningSoulMonsterMainPanel</object>
+    <object name="mingDiShuraCompletelyBodyEq" tip="幽冥帝尊修罗" type="map|module">1284;app/MingDiShuraCompletelyBodyMainPanel</object>
+    <object name="DifuteComplete" tip="炫彩山神·迪符特" type="map|module">1284;app/DifuteCompleteMainPanel</object>
+    <object name="TimeMachineToreDellIcon" tip="时空机甲托雷戴尔" type="map|module">1286;app/TimeMachineToreDellMainPanel</object>
+    <object name="WeiDianOnekeyIcon" tip="勇烈无敌——典韦" type="module" icon="1,8,-136">app/WeiDianOnekeyMainPanel</object>
+    <object name="TailaTusi" tip="独角仙泰拉图斯" type="map|module">1286;app/TailaTusiMainPanel</object>
+    <object name="Yitiya" tip="变异机甲伊提亚" type="map|module">1287;app/YitiyaMainPanel</object>
+    <object name="PlantsAssistanceIcon" tip="植物们的援助" type="map|module">1287;app/PlantsAssistanceMainPanel</object>
+    <object name="VariantMantisKassandraIcon" tip="变异螳螂卡杉德拉" type="map|module">1287;app/VariantMantisKassandraMainPanel</object>
+    <object name="InsectGeneralAjaxIcon" tip="虫群将军拉贾克斯" type="map|module">1288;app/InsectGeneralAjaxMainPanel</object>
+    <object name="NanaEvo" tip="纳纳超进化 纳纳塔里" type="map|module">1288;app/NanaEvoMainPanel</object>
+    <object name="dumasStarsFinalBattleEq" tip="杜马斯星的决战" type="map|module">1288;app/DumasStarsFinalBattleMainPanel</object>
+    <object name="RedSleeveButterflyAnneIcon" tip="红袖彩蝶安妮尔" type="map|module">1289;app/RedSleeveButterflyAnneMainPanel</object>
+    <object name="TimeOpenAgainMain" tip="时空枢纽再次开启" type="map|module">333;app/TimeOpenAgainMainPanel</object>
+    <object name="RapalsChaosFogIcon" tip="拉铂尔的噬梦之灵" type="map|module">441;app/RapalsChaosFogMainPanel</object>
+    <object name="daysStarsAbsurdStarEq" tip="戴斯星的葬生之莲" type="map|module">435;app/DaysStarsAbsurdStarMainPanel</object>
+    <object name="Getdelanuo" tip="黑翼虎蜂德拉诺" type="map|module">1289;app/GetdelanuoMainPanel</object>
+    <object name="GetSidelu" tip="失落机甲斯德鲁" type="map|module">1290;app/GetSideluMainPanel</object>
+    <object name="Getzhouyu" tip="雄姿英发 天命奇才--周瑜" type="map|module" icon="1,0,-139">103;app/GetzhouyuMainPanel</object>
+    <object name="MoleculeIntensificationIcon" tip="草系精灵王全新形态" type="map|module">1290;app/MoleculeIntensificationMainPanel</object>
+    <object name="CardCoolStarsEq" tip="卡酷星的遨天之煞" type="map|module" icon="">11648;app/CardCoolStarsMainPanel</object>
+    <object name="GetAilaxinmu" tip="死星天牛埃拉辛姆" type="map|module">1291;app/GetAilaxinmuMainPanel</object>
+    <object name="DarkWingButterflyAnlisIcon" tip="黯翼蝴蝶安丽丝" type="map|module">1291;app/DarkWingButterflyAnlisMainPanel</object>
+    <object name="TwinBeatStarSweepIcon" tip="贝塔星的扫荡之锋" type="map|module" icon="">11647;app/TwinBeatStarSweepMainPanel</object>
+    <object name="Marshsurvivors" tip="沼泽的幸存者" type="map|module">1291;app/MarshsurvivorsMainPanel</object>
+    <object name="TheNewPowerOfHDJP" tip="陨星议会 惊悸现世" type="map|module">1241;app/TheNewPowerOfHDJPMainPanel</object>
+    <object name="GhostFaceButterflyIcon" tip="鬼面幽蝶" type="map|module">1292;app/GhostFaceButterflyMainPanel</object>
+    <object name="GetAiling" tip="科兹莫之星--艾琳" type="map|module">1292;app/GetAilingMainPanel</object>
+    <object name="LightMasterIcon" tip="圣光大师苏曼阿尔" type="module" icon="1,23,-153">app/LightMasterMainPanel</object>
+    <object name="MayDayFuliB2018" tip="X战队超进化放送" type="map|module">77;app/MayDayFuliB2018MainPanel</object>
+    <object name="GetAopeiya" tip="虫族女王奥佩娅" type="map|module">1293;app/GetAopeiyaMainPanel</object>
+    <object name="CiYuanWangStrengthensIcon" tip="次元系精灵王强化" type="map|module">1293;app/CiYuanWangStrengthensMainPanel</object>
+    <object name="StiaCompleteIcon" tip="斯蒂亚完全体" type="map|module">1294;app/StiaCompleteMainPanel</object>
+    <object name="PeopleOfKAluke" tip="卡鲁克星的住民" type="map|module">1294;app/PeopleOfKAlukeMainPanel</object>
+    <object name="GetKaente" tip="遮天水翼卡恩特" type="map|module">1294;app/GetKaenteMainPanel</object>
+    <object name="SarikaSuperEvoIcon" tip="不灭地威萨瑞卡" type="map|module">1295;app/SarikaSuperEvoMainPanel</object>
+    <object name="Getpuyueer" tip="雪怒巨兽普约尔" type="map|module">1295;app/GetpuyueerMainPanel</object>
+    <object name="GetAtanisi" tip="幻术大师阿塔尼斯" type="map|module">1296;app/GetAtanisiMainPanel</object>
+    <object name="Jinghuprotector" tip="镜湖的守护者" type="map|module">1296;app/JinghuprotectorMainPanel</object>
+    <object name="wingsOfTheSkyTolucEq" tip="极天之翼 托鲁克" type="map|module">1296;app/WingsOfTheSkyTolucMainPanel</object>
+    <object name="Gettujiasuo" tip="暗甲邪龙图加索" type="map|module">1298;app/GettujiasuoMainPanel</object>
+    <object name="CyberstallCompleteIcon" tip="赛伯斯特完全体" type="map|module">1298;app/CyberstallCompleteMainPanel</object>
+    <object name="seerReturnAdIcon" tip="玩家交流" type="module">app/SeerReturn201805AdPanel</object>
+    <object name="DeMaSiKeIcon" tip="光暗之子超进化 德马斯克" type="module" icon="1,0,-143">app/DeMaSiKeMainPanel</object>
+    <object name="ShengYuTianXiangYingPriusIcon" tip="圣羽天翔 英普瑞斯" type="map|module">1299;app/ShengYuTianXiangYingPriusMainPanel</object>
+    <object name="GetKuiyin" tip="雷斧奎因" type="map|module">1298;app/GetKuiyinMainPanel</object>
+    <object name="CaptCompleteIcon" tip="正义圣盾 凯普特" type="module">app/CaptCompleteMainPanel</object>
+    <object name="Survivingchips" tip="残存的芯片" type="map|module" icon="1,11,-143">1300;app/SurvivingchipsMainPanel</object>
+    <object name="Rarityofrareelves" tip="九周年庆典-阵营对抗" type="map|module" icon="1,-4,-135">1302;app/RarityofrareelvesMainPanel</object>
+    <object name="Getbasidian" tip="再生机甲巴斯蒂安" type="map|module">1300;app/GetbasidianMainPanel</object>
+    <object name="ProtectionMeetingIcon" tip="九周年庆典-绝版套装放送" type="map|module" icon="1,0,-123">1302;app/ProtectionMeetingMainPanel</object>
+    <object name="trackRareSpiritsGuideEq" tip="九周年庆典-精灵捕猎场第二弹" type="map|module" icon="1,-2,-143">1302;app/TrackRareSpiritsGuideMainPanel</object>
+    <object name="moeVersionSkinLowPriceEq" tip="萌版皮肤限时折扣" type="map|module">1302;app/MoeVersionSkinLowPriceMainPanel</object>
+    <object name="ZakesCompleteIcon" tip="厉魇魔王 咤克斯" type="map|module">1305;app/ZakesCompleteMainPanel</object>
+    <object name="Anniversary9th" tip="九周年庆典-海量福利放送" type="map|module" icon="1,0,-130">1302;app/Anniversary9thMainPanel</object>
+    <object name="Anniversary9thCollection" tip="九周年庆典" type="map|module">1302;app/Anniversary9thCollectionPanel</object>
+    <object name="LanLuEvo" tip="镜湖守护者蓝露" type="map|module">1305;app/LanLuEvoMainPanel</object>
+    <object name="ThreeStarGroupIcon" tip="三星汇聚" type="map|module">1305;app/ThreeStarGroupMainPanel</object>
+    <object name="frozenKarukEq" tip="被冰封的卡鲁克星" type="map|module">1305;app/FrozenKarukMainPanel</object>
+    <object name="GoldShiningPegasusNationalBroadcastingEq" tip="九周年庆典-黄金圣光天马放送" type="map|module">1302;app/GoldShiningPegasusNationalBroadcastingMainPanel</object>
+    <object name="AnniversarySpirit" tip="九周年庆典-专属萌宠全民放送" type="map|module" icon="1,-1,-137">1302;app/AnniversarySpiritMainPanel</object>
+    <object name="SeerSetSailLinkedIcon" tip="异次元黄金天马 全新皮肤免费送" type="module">app/SeerSetSailLinkedMainPanel</object>
+    <object name="MengLingTu" tip="全民助力梦灵兔" type="module">app/MengLingTuMainPanel</object>
+    <object name="PupilBanMagicIcon" tip="瞳之禁术" type="map|module">1306;app/PupilBanMagicMainPanel</object>
+    <object name="ChaosTianSheTiaZhuIcon" tip="混沌天蛇太祖" type="map|module">1306;app/ChaosTianSheTiaZhuMainPanel</object>
+    <object name="UnlockthesealOfChange" tip="解除常之封印" type="map|module">1306;app/UnlockthesealOfChangeMainPanel</object>
+    <object name="GetHundunYiluoweiqi" tip="混沌伊洛维奇" type="map|module">1306;app/GetHundunYiluoweiqiMainPanel</object>
+    <object name="PeakJihadnewSeasonWarmUpEq" tip="巅峰新赛季即将开启" type="module">app/PeakJihadnewSeasonWarmUpMainPanel</object>
+    <object name="goldenLightPegasusSuperEvolutionEq" tip="黄金圣光天马极限突破" type="map|module">1302;app/GoldenLightPegasusSuperEvolutionMainPanel</object>
+    <object name="ChangLeaderIcon" tip="大暗黑天常长老 艾夏拉" type="map|module">1307;app/ChangLeaderMainPanel</object>
+    <object name="MenghuwangComplete" tip="万兽之尊 猛虎王" type="module">app/MenghuwangCompletePanel</object>
+    <object name="skySerpentScrapEq" tip="天蛇七魔将放送" type="map|module">1307;app/SkySerpentScrapMainPanel</object>
+    <object name="sealOfTheSealEq" tip="艾夏拉的宝藏" type="map|module">1307;app/SealOfTheSealMainPanel</object>
+    <object name="SummerCampDartsIcon" tip="夏令营飞镖大赛" type="map|module" icon="1,9,-150">1202;app/SummerCampDartsMainPanel</object>
+    <object name="akeyPriceLimitDiscount8mEq" tip="精灵极品限时折扣" type="module">app/AkeyPriceLimitDiscount20178mPanel</object>
+    <object name="XteamChimerism" tip="X战队合体" type="map|module">1307;app/XteamChimerismMainPanel</object>
+    <object name="SummerCamp2018" tip="星际训练营再次开放" type="module">app/SummerCamp2018MainPanel</object>
+    <object name="SummerPrivilegeCards2017" tip="暑期特权月卡" type="module">app/SummerPrivilegeCards2017MainPanel</object>
+    <object name="summerCampTimeMachinEq" tip="能力称号再回归" type="map|module">1202;app/SummerCampTimeMachineMainPanel</object>
+    <object name="ClassicElf98Drill20180706Eq" tip="经典神宠暑期特惠" type="module" icon="1,34,-146">app/ClassicElf98Drill20180706MainPanel</object>
+    <object name="FormerEldersIcon" tip="前任世长老 鬼蚀豹尊" type="map|module">1308;app/FormerEldersMainPanel</object>
+    <object name="Qingming1Diamond" tip="暑期精灵养成礼包" type="module">app/Qingming1DiamondNationalGiftPackagePanel</object>
+    <object name="ShuangYanCifu" tip="霜炎宝珠获取大提速" type="map|module">1202;app/ShuangYanCifuMainPanel</object>
+    <object name="ChaosPolluteGemIcon" tip="混沌魂珠" type="map|module">1308;app/ChaosPolluteGemMainPanel</object>
+    <object name="Getyilannisi" tip="光火将军 伊兰尼斯" type="map|module">1308;app/GetyilannisiMainPanel</object>
+    <object name="SummerNewTitleIcon" tip="夏令营全新战斗增益称号" type="map|module" icon="1,0,-134">1202;app/SummerNewTitleMainPanel</object>
+    <object name="ilovichsChildhoodMemoriesEq" tip="伊洛维奇的童年回忆" type="map|module">1308;app/IlovichsChildhoodMemoriesMainPanel</object>
+    <object name="endlessBattleEq" tip="无尽之战" type="map|module">1151;app/EndlessBattleMainPanel</object>
+    <object name="titanSpiritBigDeliveryEq" tip="泰坦之灵大放送" type="module">app/TitanSpiritBigDeliveryMainPanel</object>
+    <object name="summerCampThemeSpriteOutputEq" tip="艾斯可玲人气大比拼" type="module">app/SummerCampThemeSpriteOutputMainPanel</object>
+    <object name="chaosMagicalPlotEq" tip="魔使再现 妖族危机" type="module">app/ChaosMagicalPlotMianPanel</object>
+    <object name="peakJihadPreviousSkinSaleEq" tip="巅峰皮肤 限时绝版" type="module">app/PeakJihadPreviousSkinSalesMainPanel</object>
+    <object name="JessicaSummerTrainIcon" tip="杰西卡的暑期特训" type="module">app/JessicaSummerTrainMainPanel</object>
+    <object name="CounterGemLimitSaleIcon" tip="刻印宝石限时优惠" type="module">app/CounterGemLimitSaleMainPanel</object>
+    <object name="Getsunquan" tip="神武雄才 江东大帝" type="module">app/GetsunquanPanel</object>
+    <object name="Eatewatermelon" tip="夏令营吃瓜大赛" type="module">app/EatewatermelonMainPanel</object>
+    <object name="LandisStrongIcon" tip="妖族元皇 兰蒂斯" type="module">app/LandisStrongMainPanel</object>
+    <object name="HundunmoshiEvo" tip="混沌魔尊" type="module">app/HundunmoshiEvoMainPanel</object>
+    <object name="peakJihadEndOfSeasonExchangeEq" tip="巅峰圣战季末兑换" type="module">app/PeakJihadEndOfSeasonExchangePanel</object>
+    <!-- <object name="scenceactivity_guide" tip="活动去哪了？" type="func">showsceneGuide</object> -->
+    <object name="map1309" tip="前往最新活动场景" type="map">1315</object>
+    <object name="AmirComBodyEq" tip="" type="module">app/AmirComBodyMainPanel</object>
+    <object name="YaoWangSiNeiPu" tip="" type="module">app/YaoWangSiNeiPuMainPanel</object>
+    <object name="JiLuoDeCom" tip="" type="module">app/JiLuoDeComMainPanel</object>
+    <object name="movieGiftVoucherEq" tip="2018赛尔号大电影礼包" type="module">app/MovieGiftVoucherMainPanel</object>
+    <object name="classicSeer" tip="穿越时空 传奇冒险" type="module">app/ClassicSeerMainPanel</object>
+    <object name="LeiNuo" tip="战队商人" type="module">app/TeamBusinessSubPanel</object>
+    <object name="yearVip2019Eq" tip="2019年费精灵混元天尊" type="map|module">1344;app/Yearvip2019MainPanel</object>
+    <object name="peakBigMeleeEq" tip="巅峰大乱斗" type="module">app/PeakBigMeleeMainPanel</object>
+    <object name="fireWorks" tip="烟花爆竹" type="module">app/SpringFestivalAllFeedBackSubPanel</object>
+    <object name="peakJihadnewSeasonEq" tip="绝密消息" type="module">app/PeakJihadPrediction2019Panel</object>
+    <object name="yearVip2020Eq" tip="2020年费精灵启灵元神" type="map|module">1414;app/Yearvip2020MainPanel</object>
+    <object name="peakRewardWeekEq" tip="巅峰圣战激励赛" type="module">app/PeakJihadRewardWeekPanel</object>
+    <object name="yearVip2021Eq" tip="2021年费精灵弑序神罗" type="map|module">1471;app/Yearvip2021MainPanel</object>
+    <object name="denEn103_Eq" tip="菲娅" type="module">app/FinalActivityPanel</object>
+    <object name="michelleEnhancement_Eq" tip="蜜雪儿专属特训" type="module">app/MichelleEnhancementMainPanel</object>
+    <object name="yearVip2022Eq" tip="2022年费精灵至序圣华" type="map|module">1529;app/Yearvip2022MainPanel</object>
+    <object name="yearVip2023Eq" tip="2023年费精灵逐界苍星" type="map|module">1588;app/Yearvip2023MainPanel</object>
+    <object name="yearVip2024Eq" tip="2024年费精灵空元行者" type="map|module">1652;app/Yearvip2024MainPanel</object>
+	<object name="yearVip2025Eq" tip="2025年费精灵奥菲利娅" type="map|module">1652;app/Yearvip2025MainPanel</object>
+    <object name="peak2024Eq" tip="巅峰战令" type="module">app/PeakJihad2023WarOrdePanel</object>
+  </allobjects>
+  <mapconfig>
+    <map id="1">
+      <!-- <object name="scenceactivity_guide" x="720" y="380" isFlipHorizontally="0" scale="1" countID="" time=""/> -->
+    </map>
+    <map id="4">
+      <object name="tvNotice_4" des="船长室电视墙" x="303" y="53" isFlipHorizontally="0" scale="1" countID="0x05213E34"/>
+      <object name="fireWorks" des="" x="277" y="348" isFlipHorizontally="0" scale="1.5" time="* * 1-7 2 * 2019" countID="0x05213E34"/>
+    </map>
+    <map id="5">
+      <object name="threePetUpgrade" x="570" y="314" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="flashSpriteEvoNPC" x="302" y="485" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="map_5_ad" x="365" y="103" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="6"/>
+    <map id="7">
+      <object name="holySpiritEq" x="732" y="488" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="8"/>
+    <map id="9">
+      <object name="fireWorks" des="" x="277" y="348" isFlipHorizontally="0" scale="1.5" time="* * 1-7 2 * 2019" countID="0x05213E34"/>
+    </map>
+    <map id="15"/>
+    <map id="20">
+      <object name="ba_la_gui_super_evolution" x="472" y="465" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="22">
+      <object id="194" name="maiersiNPC" x="662" y="327" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="ninjaTurtlesNPC1" x="372" y="482" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="25">
+      <!-- <object name="tyssuperevo_device" x="470" y="375" isFlipHorizontally="0" scale="1.3" time="" countID=""/> -->
+    </map>
+    <map id="27"/>
+    <map id="30"/>
+    <map id="31"/>
+    <map id="44">
+      <object name="weeklyVsEquip_zudi_family" x="496" y="504" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="54">
+      <object name="ba_la_gui_super_evolution" x="303" y="431" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="54">
+      <object name="ba_la_gui_super_evolution" x="303" y="431" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="61">
+      <object name="earl_tiger" x="303" y="431" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="65">
+      <object name="GodWarFriendEffectBtn" x="508" y="436" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="ThreePetRedoBtn" x="771" y="485" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="67">
+      <object name="weeklyVsEquip_tianma" x="306" y="413" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="68"/>
+    <map id="77">
+      <object name="fireWorks" des="" x="486" y="312" isFlipHorizontally="0" scale="1.5" time="* * 1-7 2 * 2019" countID="0x05213E34"/>
+    </map>
+    <map id="81">
+      <object name="dragonKnight" x="182" y="244" isFlipHorizontally="0" scale="0.8" time="* * 4-31 10 * 2013" countID=""/>
+    </map>
+    <map id="91">
+      <object name="xinjide" des="辛基德" x="286" y="234" isFlipHorizontally="0" scale="1" countID="0x0521357E"/>
+    </map>
+    <map id="92"/>
+    <map id="93">
+      <object name="sunGodIcon" x="512" y="297" isFlipHorizontally="0" scale="1.3" countID="0x05214CD2"/>
+    </map>
+    <map id="95"/>
+    <map id="97">
+      <object name="map_97_ad_1" x="7" y="12" isFlipHorizontally="0" scale="1" countID="0x0521534D"/>
+      <object name="map_97_ad_2" x="295" y="34" isFlipHorizontally="0" scale="1" countID="0x0521534E"/>
+      <object name="map_97_ad_3" x="564" y="57" isFlipHorizontally="0" scale="1" countID="0x0521534F"/>
+      <object name="map_97_ad_4" x="788" y="110" isFlipHorizontally="0" scale="1" countID="0x05215350"/>
+      <object name="map_97_ad_5" x="573" y="376" isFlipHorizontally="0" scale="1" countID="0x05215351"/>
+      <object name="expMachine" x="755" y="384" isFlipHorizontally="0" scale="1" countID="0x05210BBE"/>
+      <object name="dailyItemBtn" x="906" y="458" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="FiveGeneralGrounpFight" x="211" y="208" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="98">
+      <object name="K1" x="352" y="412" isFlipHorizontally="0" scale="1.2"/>
+      <object name="K2" x="665" y="407" isFlipHorizontally="0" scale="1.25"/>
+      <object name="CassiusCompleteBtn" x="489" y="295" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="101"/>
+    <map id="102">
+      <object name="map_102_pet_war_0227" x="244" y="256" isFlipHorizontally="0" scale="1.2"/>
+      <object name="tanglang" des="萨格罗斯的试炼" x="467" y="264" isFlipHorizontally="0" time="* * 30 9 * 2015,* * 1-8 10 * 2015" scale="1"/>
+      <object name="dien" des="萨格罗斯的试炼" x="367" y="283" isFlipHorizontally="0" time="* * 30 9 * 2015,* * 1-8 10 * 2015" scale="1"/>
+    </map>
+    <map id="103">
+      <object name="yearVip2025Eq" x="530" y="259" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="fireWorks" des="" x="191" y="253" isFlipHorizontally="0" scale="1.5" time="* * 1-7 2 * 2019" countID="0x05213E34"/>
+      <object name="denEn103_Eq" x="159" y="252" isFlipHorizontally="0" scale="1" time="* * * * * *" countID=""/>
+      <object name="map_103_ad_2" x="616" y="61" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="107">
+      <object name="pet2027" x="736" y="275" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="vipSuit" x="218" y="282" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="vipServant" x="325" y="477" isFlipHorizontally="0" scale="1" time="" countID=""/>
+          <!--<object name="vippackage" x="757" y="406" isFlipHorizontally="0" scale="1" time="" countID=""/>-->
+      <object name="yearVip2025Eq" x="479" y="312" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="map_107_ad_1" x="317" y="38" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="110">
+      <object name="dark_bulaike" des="暗黑武斗场第12门" x="477" y="280" isFlipHorizontally="0" scale="1"/>
+      <object name="dark_bulaike2" des="暗黑战神联盟" x="477" y="326" isFlipHorizontally="0" scale="1"/>
+    </map>
+    <map id="314">
+      <!-- <object name="godPetSuperEvolutionYunus" x="475" y="305" isFlipHorizontally="0" scale="1.4" time="" countID=""/> -->
+    </map>
+    <map id="324">
+      <object name="equipBeBest" x="173" y="388" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="keluonuosi" x="491" y="418" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="attackKing" x="301" y="497" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="326"/>
+    <map id="328">
+      <object name="lubihaoke" x="173" y="388" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="332"/>
+    <map id="338">
+      <object name="evoMain" x="519" y="469" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+    </map>
+    <map id="344"/>
+    <map id="348">
+      <object name="weeklyVsNpc5" x="387" y="480" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="355"/>
+    <map id="356">
+      <object name="mengniu" des="蒙牛未来星哈佛梦" x="558" y="391" isFlipHorizontally="0" scale="1" time="" countID="0x05213679"/>
+    </map>
+    <map id="411">
+      <object name="naturalDisaster" x="237" y="397" isFlipHorizontally="0" scale="1.6" time="" countID=""/>
+      <object name="baihu" x="381" y="443" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="423">
+      <object name="G1" x="178" y="437" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="G2" x="381" y="438" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="GayaCompleteBtn" x="540" y="451" isFlipHorizontally="0" scale="1.25" time="" countID=""/>
+    </map>
+    <map id="433"/>
+    <map id="434">
+      <object name="ninjaTurtlesNPC1" x="372" y="482" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="437">
+      <object name="power_pet_evolve" x="199" y="391" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="438">
+      <object name="medusa_evo" x="531" y="396" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="445">
+      <object name="kaxiusiEvoAd" x="222" y="311" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="CassiusCompleteBtn" x="668" y="495" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="454"/>
+    <map id="470">
+      <object name="studyMachine" x="67" y="269" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="471">
+      <object name="studyMachine" x="67" y="269" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="472">
+      <object name="studyMachine" x="67" y="269" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="473">
+      <object name="studyMachine" x="67" y="269" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="474">
+      <object name="studyMachine" x="67" y="269" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="475">
+      <object name="studyMachine" x="67" y="269" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="476"/>
+    <map id="480">
+      <object name="SprintIcon" x="636" y="449" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+    </map>
+    <map id="481">
+      <object name="tailesi" x="285" y="268" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="484">
+      <object name="CassiusKing" x="793" y="287" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="PreviousKingOfGround" x="820" y="460" isFlipHorizontally="0" scale="0.8" time="" countID=""/>
+    </map>
+    <map id="488">
+      <object name="studyMachine" x="67" y="269" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="489">
+      <object name="studyMachine" x="67" y="269" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="490">
+      <object name="studyMachine" x="67" y="269" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="491">
+      <object name="studyMachine" x="67" y="269" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="492">
+      <object name="studyMachine" x="67" y="269" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="493">
+      <object name="studyMachine" x="67" y="269" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="674">
+      <object name="DradgonKingEq" x="657" y="453" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="693"/>
+    <map id="696">
+      <object name="ninjaTurtlesNPC1" x="372" y="482" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="696">
+      <object name="ninjaTurtlesNPC1" x="372" y="482" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="708"/>
+    <map id="717">
+      <object name="rios" x="421" y="409" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="GayaCompleteBtn" x="602" y="403" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="GaiyaGodPowerTrainEq" x="756" y="401" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="GodWarFriendEffectBtn" x="253" y="357" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="722"/>
+    <map id="724">
+      <object name="SPTSleepBtn" x="450" y="226" isFlipHorizontally="0" scale="1.6" time="" countID=""/>
+    </map>
+    <map id="733"/>
+    <map id="743"/>
+    <map id="747"/>
+    <map id="750"/>
+    <map id="763">
+      <object name="SonOfStarSupEvoEq" x="509" y="436" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="770">
+      <object name="termreview" x="249" y="475" isFlipHorizontally="0" scale="1" time="" countID="0x052141B1"/>
+    </map>
+    <map id="771">
+      <object name="keluonuosi" x="169" y="411" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="774">
+      <object name="sociusIcon" x="508" y="303" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+    </map>
+    <map id="775">
+      <object name="elementsMasterSaAoSenSuperEvolution" x="508" y="406" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+    </map>
+    <map id="782">
+      <object name="weeklyVsEquip_younisa" x="508" y="406" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+    </map>
+    <map id="803">
+      <object name="GaiyaGodPowerTrainEq" x="510" y="418" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+    </map>
+    <map id="807"/>
+    <map id="808">
+      <object name="snowfight2014" x="313" y="392" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="WhereTheSanta" x="746" y="391" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="815">
+      <object name="HeAnLeiyi" x="293" y="226" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="914"/>
+    <map id="930">
+      <object name="leiyichaojinhuashengdian" x="750" y="400" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="931"/>
+    <map id="936"/>
+    <map id="939"/>
+    <map id="946">
+      <object name="skullWizard" x="255" y="481" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="947">
+      <object name="weeklyVsEquip_yulingshi" x="255" y="481" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="949">
+      <object name="kelisi" x="578" y="404" isFlipHorizontally="0" scale="0.7" time="" countID=""/>
+    </map>
+    <map id="950"/>
+    <map id="953">
+      <object name="weeklyVsEquip_heermosi" x="629" y="491" isFlipHorizontally="0" scale="1.2" countID="0x05213B5C"/>
+    </map>
+    <map id="954">
+      <object name="aotuosiBtn" x="246" y="365" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="boersiBtn" x="670" y="399" isFlipHorizontally="0" scale="0.65" time=""/>
+      <object name="aimisi" x="470" y="399" isFlipHorizontally="0" scale="1" time="" countID="0x05213C5D"/>
+    </map>
+    <map id="958"/>
+    <map id="960">
+      <object name="huangjintianma" x="524" y="316.4" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+    </map>
+    <map id="962">
+      <object name="weeklyVsEquip_anheiKaxiusi" x="795" y="451" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="963">
+      <object name="xueqiu" x="305" y="247" isFlipHorizontally="0" scale="0.8" time="" countID=""/>
+      <object name="chrisSpecialActionBtn" x="305" y="247" isFlipHorizontally="0" scale="0.8" time="" countID=""/>
+    </map>
+    <map id="966">
+      <object name="moxiAwakeBtn" x="226" y="384" isFlipHorizontally="0" scale="0.8" time="" countID="0x05214335"/>
+    </map>
+    <map id="968">
+      <object name="windBattleBtn" x="696" y="485" isFlipHorizontally="0" scale="0.8" time="" countID=""/>
+    </map>
+    <map id="970"/>
+    <map id="973">
+      <object name="juezhansuolunsen" x="437" y="479" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="974">
+      <object name="taitan" x="250" y="345" isFlipHorizontally="0" scale="1" time="" countID="" objCountID=""/>
+      <object name="weeklyVsEquip_hell" x="505" y="482" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+    </map>
+    <map id="975">
+      <object name="mythologicalAnimals" x="585" y="504" isFlipHorizontally="0" scale="1.3" time="" countID="0x05214A2B" objCountID=""/>
+    </map>
+    <map id="976">
+      <object name="apolloBtn" x="669" y="367" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="dianla" x="276" y="371" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="978">
+      <object name="kaxiusiBtn" x="733" y="460" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="979">
+      <object name="dianla" x="767.15" y="493.2" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="weeklyVsEquip_asidi" x="868" y="350" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="981">
+      <object name="threemainpetsevo" x="316" y="367" isFlipHorizontally="0" time="* * 1-31 5 * 2014" scale="1" countID=""/>
+      <object name="LuciusCompleteBodyEq" x="332" y="320" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="ThreePetRedoBtn" x="178" y="319" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="KingKongIcon" x="647" y="327" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="MonaLisaCompleteEq" x="500" y="264" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+    </map>
+    <map id="986">
+      <object name="studyMachine" x="67" y="269" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="989">
+      <object name="dibowei" x="671" y="493" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="993">
+      <object name="miusiVSkenata" x="246" y="426" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="995">
+      <object name="guangJinlin" x="306" y="378" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="anzhiling" x="417" y="420" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="srule" x="655" y="275" isFlipHorizontally="0" scale="0.75" time="" countID=""/>
+      <object name="selena" x="559" y="429" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="huolinger" x="692" y="392" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="997"/>
+    <map id="999">
+      <object name="shadowking" x="463" y="264" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1000"/>
+    <map id="1002">
+      <object name="B1" x="301" y="393" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="B2" x="691" y="400" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="BlackCompleteBtn" x="492" y="240" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+    </map>
+    <map id="1003">
+      <object name="R1" x="252" y="382" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="R3" x="723" y="334" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="LeiyiCompleteBodyEq" x="262" y="262" isFlipHorizontally="0" scale="0.7" time="" countID=""/>
+      <object name="thunder_god_trainning" x="619" y="273" isFlipHorizontally="0" scale="1.15" time="" countID=""/>
+      <object name="shengtingleiyi" x="386" y="144" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1004">
+      <object name="modoTransport" x="851" y="264" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1005"/>
+    <map id="1006"/>
+    <map id="1007">
+      <object name="gaiyajijia" x="252" y="371" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+      <object name="kuangzhanshi" x="520" y="267" isFlipHorizontally="0" scale="1.6" time="" countID=""/>
+    </map>
+    <map id="1009">
+      <object name="WentToDOUMO" x="267" y="362" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1011">
+      <object name="peakBtn_4" x="906" y="401" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="peakBtn_1" x="89.35" y="372.95" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="peakBtn_2" x="259" y="434" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="peakBtn_3" x="731" y="459" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1012">
+      <object name="dadijijia" x="778" y="440" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="contractEarth" x="560" y="378" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="WentToDOUMO" x="267" y="362" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1013">
+      <object name="WentToDOUMO" x="267" y="362" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1016">
+      <object name="WentToDOUMO" x="267" y="362" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="ThunderSoulArmor" x="186.65" y="252.65" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="armorthundery" x="501" y="361" isFlipHorizontally="0" scale="1.8" time="" countID=""/>
+    </map>
+    <map id="1019">
+    </map>
+    <map id="1020"/>
+    <map id="1032">
+      <object name="zagrebRossCallMuse" x="689" y="271" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="pandora" x="506" y="202" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="healthCaptainsduties" x="662" y="436" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1035">
+      <object name="zelasi_evolution" x="886" y="440" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1037">
+      <object name="pvpLongIcon2" x="500" y="337" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1044"/>
+    <map id="1045">
+      <object name="YunyunEvolution" x="795" y="285" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="fallenSoulBtn" x="582" y="467" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="cloud_god_evo" x="378" y="314" isFlipHorizontally="0" scale="2.2" time="" countID=""/>
+    </map>
+    <map id="1048"/>
+    <map id="1049"/>
+    <map id="1050"/>
+    <map id="1051"/>
+    <map id="1053">
+      <object name="SummerPublic" x="318" y="202" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1054"/>
+    <map id="1057">
+    </map>
+    <map id="1058"/>
+    <map id="1059"/>
+    <map id="1061"/>
+    <map id="1064"/>
+    <map id="1056"/>
+    <map id="1065"/>
+    <map id="1068"/>
+    <map id="1069"/>
+    <map id="1070">
+      <object name="museEvo" x="236" y="300" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="MuiseCompleteBtn" x="591" y="339" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+    </map>
+    <map id="1072">
+      <object name="hughIcon" x="284" y="397" isFlipHorizontally="true" scale="0.8" time="" countID=""/>
+    </map>
+    <map id="1073">
+      <object name="PreviousKingOfGround" x="500" y="359" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1074">
+      <object name="map_1074_icon_1" x="260" y="357" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="map_1074_icon_2" x="174" y="370" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="map_1074_wall" x="221" y="79" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="SeerHistoryIcon" x="808" y="312" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1075"/>
+    <map id="1076"/>
+    <map id="1078"/>
+    <map id="1079"/>
+    <map id="1081">
+      <object name="AmirComBodyEq" x="318" y="320" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="YaoWangSiNeiPu" x="490" y="463" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="JiLuoDeCom" x="660" y="319" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1082"/>
+    <map id="1083"/>
+    <map id="1084"/>
+    <map id="1086"/>
+    <map id="1087">
+      <object name="landisi" x="504" y="393" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+    </map>
+    <map id="1089"/>
+    <map id="1090"/>
+    <map id="1091">
+      <object name="landisiComplete" x="741" y="260" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1092"/>
+    <map id="1094">
+      <object name="mysterious_ancient_sage_1094" x="608" y="250" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="mysterious_ancient_warmonger_1094" x="557" y="367" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="ancient_blade_master_1094" x="309" y="255" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="ancient_paladin_1094" x="204" y="354" isFlipHorizontally="true" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1097"/>
+    <map id="1098"/>
+    <map id="1103"/>
+    <map id="1107"/>
+    <map id="1108"/>
+    <map id="1110"/>
+    <map id="1127"/>
+    <map id="1180">
+      <object name="stAMagicHitomiFullBody" x="478" y="302" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+      <object name="sighOfWallOpening1" x="821" y="329" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="MysticalDarkLegion" x="294" y="452" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="gulijing" x="574" y="493" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="1219">
+      <object name="TheBestMintMarkOfShenshouMain" x="495" y="422" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="10017">
+      <object name="serialBtn" x="307" y="445" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="10452">
+      <object name="suyaleisi" x="360" y="506" isFlipHorizontally="0" scale="0.7" time="" countID="0x05215176"/>
+    </map>
+    <map id="10483">
+      <object name="naifalian" x="675" y="495" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="10609"/>
+    <map id="10610"/>
+    <map id="10611"/>
+    <map id="10612"/>
+    <map id="10617">
+      <object name="zagrebRossCallMuse" x="299" y="406" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="museEvo" x="693" y="418" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="MuiseCompleteBtn" x="515" y="290" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+      <object name="GodWarFriendEffectBtn" x="506" y="454" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="10662">
+      <object name="ArmySoulEvoEquip" x="479" y="381" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="10862">
+      <object name="gaoStationedDragonVenture" x="510" y="367" isFlipHorizontally="0" scale="2" time="" countID=""/>
+    </map>
+    <map id="10865">
+      <object name="dragonMistCircle" x="765" y="486" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="10868">
+      <object name="renegadeIceFistMottPanel" x="765" y="486" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="10869">
+      <object name="paiteNpc" x="710" y="260" isFlipHorizontally="0" scale="0.8" time="" countID=""/>
+    </map>
+    <map id="50000"/>
+    <map id="10806">
+      <object name="nian2015Btn" x="750" y="442" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="10807">
+      <object name="nian2015Btn" x="733" y="458" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="10808">
+      <object name="nian2015Btn" x="853" y="445" isFlipHorizontally="false" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="10809">
+      <object name="nian2015Btn" x="830" y="471" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="10825"/>
+    <map id="10842">
+      <object name="vanguardeq" x="328" y="465" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="10849"/>
+    <map id="10852"/>
+    <map id="10906"/>
+    <map id="10907"/>
+    <map id="677">
+      <object name="wangGuangmingAbilities" x="720" y="290" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+    </map>
+    <map id="452">
+      <object name="dark_unusual_power_king" x="292" y="439" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="yinengwangWeakenBtn" x="660" y="397" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="YinengwangCompleteBodySignIn" x="214" y="269" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="10862">
+      <object name="gaoStationedDragonVenture" x="510" y="367" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="710">
+      <object name="philponger" x="469" y="394" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+    </map>
+    <map id="10880">
+      <object name="giraudHelpFindLostMemories" x="336" y="475" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="10882">
+      <object name="giraudHelpFindLostMemories" x="336" y="475" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="10883">
+      <object name="giraudHelpFindLostMemories" x="36" y="475" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="350">
+      <object name="saurabhIcon" x="492" y="200" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="419">
+      <object name="gaiyaPreheatBtn" x="624" y="251" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="Shishiduijue" x="503" y="170" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="shichang0914" x="371" y="141" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1093"/>
+    <map id="1095">
+      <object name="peakRewardWeekEq" x="204" y="424" isFlipHorizontally="0" scale="1.3" time="* * 8-14 12 * 2023" countID=""/>
+      <object name="peak2024Eq" x="241" y="387" isFlipHorizontally="0" scale="1" time="* * 8-14 12 * 2023" countID=""/>
+    </map>
+    <map id="1099"/>
+    <map id="10799">
+      <object name="peerless_adorable_pet" x="400" y="240" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1096">
+      <object name="chaosBlackEvolvedEq" x="647" y="242" isFlipHorizontally="0" scale="0.95" time="" countID=""/>
+      <object name="DemonKingCompleteIcon" x="323" y="243" isFlipHorizontally="0" scale="0.8" time="" countID=""/>
+      <object name="FeiLiangCompleteIcon" x="593" y="463" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="EvilKingMorganIcon" x="113" y="455" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="HunDunDiWangMain" x="140" y="236" isFlipHorizontally="0" scale="0.9" time="" countID=""/>
+      <object name="Doluotaitan" x="485" y="240" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="mingDiShuraCompletelyBodyEq" x="795" y="461" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="GodEvilDragonKingIcon" x="348" y="453" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="wangGuangmingAbilities" x="800" y="247" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="795">
+      <object name="LightPegasusEvoBtn" x="724" y="337" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+	<!-- 游戏内没有装置显示且未配有活动面板，yxliu20240827注释 
+    <map id="451"> 
+      <object name="TorukSign" x="400" y="306" isFlipHorizontally="0" scale="1.4" time="" countID=""/> 
+    </map> -->
+    <map id="709"/>
+    <map id="507">
+      <object name="BlackCompleteBtn" x="509" y="384" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+    </map>
+    <map id="734"/>
+    <map id="991"/>
+    <map id="10"/>
+    <map id="10032"/>
+    <map id="10938"/>
+    <map id="1101"/>
+    <map id="1102"/>
+    <map id="1105"/>
+    <map id="1106"/>
+    <map id="1109"/>
+    <map id="1111"/>
+    <map id="1115">
+      <object name="freedomFighter" x="308" y="519" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpRenoIcon" x="278" y="258" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpHughIcon" x="755" y="378" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="pvpLongIcon" x="235" y="386" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="2015SummerNationalCompetition" x="499" y="365" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+    </map>
+    <map id="1116">
+      <object name="freedomFighter" x="308" y="519" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpRenoIcon" x="278" y="258" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpHughIcon" x="755" y="378" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="pvpLongIcon" x="235" y="386" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="2015SummerNationalCompetition" x="499" y="365" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+    </map>
+    <map id="1117">
+      <object name="freedomFighter" x="308" y="519" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpRenoIcon" x="278" y="258" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpHughIcon" x="755" y="378" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="pvpLongIcon" x="235" y="386" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="2015SummerNationalCompetition" x="499" y="365" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+    </map>
+    <map id="1118">
+      <object name="freedomFighter" x="308" y="519" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpRenoIcon" x="278" y="258" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpHughIcon" x="755" y="378" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="pvpLongIcon" x="235" y="386" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="2015SummerNationalCompetition" x="499" y="365" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+    </map>
+    <map id="1119">
+      <object name="freedomFighter" x="308" y="519" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpRenoIcon" x="278" y="258" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpHughIcon" x="755" y="378" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="pvpLongIcon" x="235" y="386" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="2015SummerNationalCompetition" x="499" y="365" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+    </map>
+    <map id="1120">
+      <object name="freedomFighter" x="308" y="519" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpRenoIcon" x="278" y="258" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpHughIcon" x="755" y="378" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="pvpLongIcon" x="235" y="386" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="2015SummerNationalCompetition" x="499" y="365" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+    </map>
+    <map id="1121">
+      <object name="freedomFighter" x="308" y="519" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpRenoIcon" x="278" y="258" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpHughIcon" x="755" y="378" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="pvpLongIcon" x="235" y="386" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="2015SummerNationalCompetition" x="499" y="365" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+      <object name="WentToDOUMO" x="267" y="362" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1122">
+      <object name="freedomFighter" x="308" y="519" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpRenoIcon" x="278" y="258" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="pvpHughIcon" x="755" y="378" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="pvpLongIcon" x="235" y="386" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="2015SummerNationalCompetition" x="499" y="365" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+    </map>
+    <map id="10947">
+      <object name="LeiyiCompleteBodyEq" x="457" y="267" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="thunder_god_trainning" x="251" y="351" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+      <object name="GodWarFriendEffectBtn" x="483" y="442" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1113"/>
+    <map id="1126">
+      <!-- <object name="bulaikepre" x="250" y="461" isFlipHorizontally="0" scale="1" time="" countID=""/> -->
+    </map>
+    <map id="10953">
+      <object name="OscarPreViewIcon" x="366" y="426" isFlipHorizontally="0" scale="1" time="* * 4-8 10 * 2015" countID=""/>
+    </map>
+    <map id="1123"/>
+    <map id="1128">
+      <object name="OscariCompleteBodyEq" x="268" y="272" isFlipHorizontally="0" scale="1.4" countID=""/>
+      <object name="MaiersiCompleteBodyEq" x="733" y="279" isFlipHorizontally="0" scale="1.3" countID=""/>
+      <object name="guardians" x="751" y="485" isFlipHorizontally="0" scale="1" time="* * 23 10 * 2015" countID=""/>
+    </map>
+    <map id="1129">
+      <object name="beatles_card_egg_machine" x="507" y="352" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+    </map>
+    <map id="1130">
+      <object name="tv_1130" x="468" y="190" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1131"/>
+    <map id="1167">
+      <object name="GetCaishenMain" x="705" y="394" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="KylinOfLightMain" x="523" y="256" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="503">
+      <object name="mecha_ares_alliance_training" x="227" y="403" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="10979"/>
+    <map id="10981">
+      <object name="DeblockAerolite" x="563" y="349" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="10985">
+      <object name="starMount_451" x="349" y="327" isFlipHorizontally="0" scale="0.6" time="" countID=""/>
+    </map>
+    <map id="10986">
+      <object name="starMount_66" x="274" y="343" isFlipHorizontally="0" scale="0.5" time="" countID=""/>
+    </map>
+    <map id="10987">
+      <object name="starMount_39" x="222" y="411" isFlipHorizontally="0" scale="0.6" time="" countID=""/>
+    </map>
+    <map id="1133">
+      <object name="windWhispersForestGuardian" x="350" y="364" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="GreedIsGoodEq" x="647" y="454" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1134">
+      <object name="ZhuiLeiShanYaBtn" x="443" y="259" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="JealousGodEq" x="789" y="406" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="CollectResistantStoneBtn" x="400" y="400" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1135">
+      <object name="swamp_guardian" x="637" y="327" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="GodOfAngryIcon" x="683" y="478" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="GluttonizeLoongEq" x="496" y="469" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1136">
+      <object name="snow_mountain_guardian" x="199" y="291" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="lassiter" x="623" y="394" isFlipHorizontally="0" scale="1.15" time="" countID=""/>
+    </map>
+    <map id="10993">
+      <object name="typhoon_star_cloud_guide" x="654" y="449" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="51"/>
+    <map id="1137"/>
+    <map id="497"/>
+    <map id="1142">
+      <object name="OceanOfDestructionIcon" x="689" y="302" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="SlothIsGoodEq" x="255" y="462" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1144"/>
+    <map id="32">
+      <object name="R6" x="463" y="463" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1147">
+      <object name="texingqianghuamianban" x="280" y="478" isFlipHorizontally="0" scale="0.8" time="" countID=""/>
+    </map>
+    <map id="1152">
+      <object name="PrinceDragonOrderBtn" x="302" y="462" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="CheerForDragonIcon" x="555" y="304" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="DradgonKingEq" x="619" y="467" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="captains_invitation" x="386" y="300" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="1151"/>
+    <map id="1153">
+      <object name="TitanVein" x="473" y="469" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="1154"/>
+    <map id="1155">
+      <object name="SptFightSkillAreaEq" x="853" y="482" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="11042"/>
+    <map id="1156"/>
+    <map id="1159">
+      <object name="dragon_king" x="695" y="416" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1158">
+      <object name="prince_crown" x="589" y="337" isFlipHorizontally="0" scale="1.25" time="" countID=""/>
+    </map>
+    <map id="11060">
+      <object name="replay_pm" x="280" y="255" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="11061">
+      <object name="LoongBadgeTrueMeanEq" x="524" y="386" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1161"/>
+    <map id="1162"/>
+    <map id="1163"/>
+    <map id="1165"/>
+    <map id="1170">
+      <object name="dragon_king" x="484" y="226" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+      <object name="DragonFateBtn" x="207" y="402" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="prince_crown" x="259" y="201" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="hammer_long_ling_awake" x="799" y="401" isFlipHorizontally="0" scale="1.6" time="" countID=""/>
+    </map>
+    <map id="11063">
+      <object name="prince_crown" x="451" y="420" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="11064">
+      <object name="prince_crown" x="492" y="351" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="11065">
+      <object name="prince_crown" x="368" y="469" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1164"/>
+    <map id="1166"/>
+    <map id="1172"/>
+    <map id="1171">
+      <object name="lostSilentWarTitan" x="500" y="318" isFlipHorizontally="0" scale="1.8" time="" countID=""/>
+      <object name="titanExclusiveEngravedOutput" x="251" y="357" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1173">
+      <object name="HolyWarCompleteBodyEq" x="377" y="373" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+    </map>
+    <map id="1174">
+      <object name="stACrackFullBody" x="521" y="260" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+      <object name="GuardianOfTheWailingWall" x="746" y="400" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+    </map>
+    <map id="1178">
+      <object name="stAThunderousFullBody" x="502" y="341" isFlipHorizontally="0" scale="2" time="" countID=""/>
+      <object name="GetGUILingJing" x="490" y="459" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="TaQiLaDunEvolution" x="320" y="472" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1181"/>
+    <map id="1182"/>
+    <map id="1184">
+      <object name="SiJiuZhanJiangSuperEvo" x="297" y="336" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="fourSixExchange" x="491" y="336" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="SiJiuPredorTrainEq" x="685" y="336" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11170"/>
+    <map id="1175">
+      <object name="yilaienEvo" x="772" y="479" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="ShinePetSendToAll" x="826" y="327" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="HolyArmorBlackComplete" x="348" y="364" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="DoomEq" x="145" y="366" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="11185">
+      <object name="RaySoulBattleArmor" x="576" y="481" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="11199"/>
+    <map id="11214">
+      <object name="SilverWingArmyEq" x="667" y="366" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="11213"/>
+    <map id="1185"/>
+    <map id="1186">
+      <object name="ruiersiComplete" x="698" y="300" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="ruiersiCompleteintroduction" x="341" y="342" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1187">
+    </map>
+    <map id="1188">
+      <object name="babutianlongVideo" x="577" y="233" isFlipHorizontally="0" scale="0.9" time="" countID=""/>
+    </map>
+    <map id="1190"/>
+    <map id="1191">
+      <object name="SeerDesign_0527" x="794" y="417" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="1189"/>
+    <map id="11244">
+      <object name="HonorOfPetKing" x="350" y="313" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="11245">
+      <object name="HonorOfPetKing" x="350" y="313" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="11246">
+      <object name="HonorOfPetKing" x="350" y="313" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="11247">
+      <object name="HonorOfPetKing" x="350" y="313" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1192"/>
+    <map id="11252"/>
+    <map id="11253"/>
+    <map id="1195">
+      <object name="LightMearesTraining" x="529" y="381" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1022"/>
+    <map id="1196">
+      <object name="NewPVEInBlackPlain" x="626" y="336" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1198">
+      <object name="NewPVEInTheWild" x="626" y="336" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1197">
+      <object name="weisike" x="622" y="218" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="EvilHadesIcon" x="176" y="405" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="ZhakesiSuperEvo" x="376" y="483" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="MingDiSuLoEvoIcon" x="208" y="255" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="daysEvilDragonSuperEvolution" x="415" y="241" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+    </map>
+    <map id="11274">
+      <object name="CassiusKing" x="429" y="499" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="11275">
+      <object name="CassiusKing" x="429" y="499" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="11276">
+      <object name="CassiusKing" x="429" y="499" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="1199">
+      <object name="NewPVEInTheThroneOfSin" x="505" y="304" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="11285"/>
+    <map id="11288">
+      <object name="MingDiSuLoEvoIcon" x="450" y="408" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="1030">
+      <object name="MingDiSuLoEvoIcon" x="491" y="335" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="11296"/>
+    <map id="11297"/>
+    <map id="11312">
+      <object name="OnlineToGetWinsPostiga" x="252" y="493" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1202"/>
+    <map id="1203"/>
+    <map id="11326">
+      <object name="resurrectionStarKingWuling" x="501" y="185" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="11327">
+      <object name="resurrectionStarKingWuling" x="295" y="259" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="11328">
+      <object name="resurrectionStarKingWuling" x="250" y="221" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="11329">
+      <object name="resurrectionStarKingWuling" x="553" y="254" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="11330">
+      <object name="resurrectionStarKingWuling" x="242" y="292" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="11331">
+      <object name="resurrectionStarKingWuling" x="511" y="487" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1204">
+      <object name="WangZhiShenDian" x="492" y="405" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="11322">
+      <object name="CelebrationOpeningEq" x="214" y="470" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11323">
+      <object name="CelebrationOpeningEq" x="604" y="219" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11325">
+      <object name="resurrectionStarKingWuling" x="515" y="489" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1205">
+      <object name="wangSaComplete" x="509" y="233" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="11339"/>
+    <map id="1207">
+      <object name="GaiyaBeKing" x="536" y="275" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+    </map>
+    <map id="1208">
+      <object name="map_1208" x="215" y="90" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="1209"/>
+    <map id="1210"/>
+    <map id="688"/>
+    <map id="404"/>
+    <map id="1212">
+      <object name="lookingforSorensenSeriesActivitiesExit" x="835" y="500" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1211"/>
+    <map id="1213"/>
+    <map id="11393">
+      <object name="lookingforSorensenSeriesActivitiesExit" x="835" y="500" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1215"/>
+    <map id="21"/>
+    <map id="463"/>
+    <map id="57"/>
+    <map id="330"/>
+    <map id="83"/>
+    <map id="85"/>
+    <map id="60"/>
+    <map id="494"/>
+    <map id="668"/>
+    <map id="669"/>
+    <map id="1217"/>
+    <map id="1214"/>
+    <map id="1218">
+      <object name="WhiteTiger" x="328" y="329" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="desiSuperEvolutionEq" x="818" y="412" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="1222">
+      <object name="spiritanimalpalace" x="771" y="329" isFlipHorizontally="0" scale="1.05" time="" countID=""/>
+      <object name="XHQLshiping" x="367" y="307" isFlipHorizontally="0" scale="0.8" time="" countID=""/>
+    </map>
+    <map id="1220">
+      <object name="IceQueenSiaEq" x="693" y="285" isFlipHorizontally="0" scale="2.1" time="" countID=""/>
+    </map>
+    <map id="1221"/>
+    <map id="1223">
+      <object name="whiteTigerCom" x="479" y="287" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="sealofTiger" x="694" y="359" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11447">
+      <object name="11447Eq" x="518" y="330" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11448">
+      <object name="11448Eq" x="543" y="343" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11449">
+      <object name="11449Eq" x="458" y="355" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11450">
+      <object name="11450Eq" x="567" y="362" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11451">
+      <object name="11451Eq" x="490" y="366" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11452">
+      <object name="11452Eq" x="498" y="325" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11453">
+      <object name="11453Eq" x="521" y="335" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11454">
+      <object name="11454Eq" x="523" y="353" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11455">
+      <object name="11455Eq" x="512" y="328" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11456">
+      <object name="11456Eq" x="484" y="351" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11457">
+      <object name="11457Eq" x="517" y="321" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11458">
+      <object name="11458Eq" x="534" y="378" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1225">
+      <object name="KylinOfLightMain" x="333" y="406" isFlipHorizontally="0" scale="2" time="" countID=""/>
+      <object name="AnheiPuniEvo" x="707" y="394" isFlipHorizontally="0" scale="2.2" time="" countID=""/>
+    </map>
+    <map id="1226">
+      <object name="BeiMingXuanwuComplete" x="507" y="405" isFlipHorizontally="0" scale="1.8" time="" countID=""/>
+    </map>
+    <map id="1227"/>
+    <map id="1228">
+      <object name="SixGodCompleteBody" x="536" y="405" isFlipHorizontally="0" scale="2" time="" countID=""/>
+    </map>
+    <map id="1229"/>
+    <map id="1071">
+      <object name="yinengwangWeakenBtn" x="118" y="420" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="ShengGuangAoErDeCompMain" x="648" y="487" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="YinengwangCompleteBodySignIn" x="335" y="486" isFlipHorizontally="0" scale="0.95" time="" countID=""/>
+    </map>
+    <map id="1230"/>
+    <map id="1231">
+      <object name="theBurialOfTheKingChaoEvolutionEq" x="530" y="478" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="ShengGuangAoErDeCompMain" x="180" y="331" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+    </map>
+    <map id="1232">
+      <object name="fuckYouMarketEq" x="183" y="389" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="STLLeagueRewardExchangeEq" x="790" y="385" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="1233"/>
+    <map id="1234">
+      <object name="chaosSectorWangChaoEvolutionEq" x="753" y="417" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1235">
+      <object name="mysteriousfightfprite" x="186" y="319" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="FireAndElectricityPetIcon" x="724" y="194" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="IceShadowKingIcon" x="640" y="472" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="GetAncientdragonking" x="328" y="469" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1236">
+      <object name="jianbijijia" x="772" y="407" isFlipHorizontally="0" scale="1.6" time="" countID=""/>
+      <object name="huimiejijia" x="153" y="426" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+      <object name="machineELFKING" x="468" y="404" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+    </map>
+    <map id="1237">
+      <object name="Villain1Main" x="568" y="380" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="lifante" x="278" y="324" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1239">
+      <object name="hundunmoshi" x="499" y="316" isFlipHorizontally="0" scale="2" time="" countID=""/>
+      <object name="godOffearFight" x="723" y="400" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="theGodOfDreamsEq" x="188" y="390" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1238">
+      <object name="ThunderSoulSuperMain" x="494" y="163" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+    </map>
+    <map id="1240">
+      <object name="tv_1130" x="468" y="190" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="quanmingshenchong" x="630" y="397" isFlipHorizontally="0" scale="0.9" time="" countID=""/>
+      <object name="GodPetofPeopleIcon" x="326" y="387" isFlipHorizontally="0" scale="0.9" time="" countID=""/>
+      <object name="AYaCompMain" x="461" y="342" isFlipHorizontally="0" scale="1.8" time="" countID=""/>
+    </map>
+    <map id="1243">
+      <object name="XinXiYaMain" x="689" y="392" isFlipHorizontally="false" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1241">
+      <object name="SorensonCompleteIcon" x="478" y="264" isFlipHorizontally="0" scale="2" time="" countID=""/>
+      <object name="MoDiXiSiCompMain" x="481" y="462" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="pollutionOfTheMarshEq" x="737" y="349" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="HunDunAiLanMain" x="235" y="376" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1244">
+      <object name="AiLanMain" x="804" y="383" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="theGodOfDreamsEq" x="558" y="335" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="shenghunmaiersievo" x="264" y="319" isFlipHorizontally="0" scale="2.2" time="" countID=""/>
+    </map>
+    <map id="1245">
+      <object name="DiYaSiMain" x="388" y="297" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="shenglingAosika" x="628" y="330" isFlipHorizontally="0" scale="1.8" time="" countID=""/>
+    </map>
+    <map id="1246">
+      <object name="aluonasiComplete" x="515" y="236" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1247">
+      <object name="IceShadowKingIcon" x="290" y="400" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+    </map>
+    <map id="1248">
+      <object name="HolyPunny" x="307" y="264" isFlipHorizontally="0" scale="2" time="" countID=""/>
+      <object name="puniskin" x="727" y="407" isFlipHorizontally="0" scale="1.6" time="" countID=""/>
+    </map>
+    <map id="1249">
+      <object name="SurviveForce" x="332" y="459" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="XingyuzhihunSkinSell" x="618" y="463" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="1251">
+      <object name="HolyLightScarlettIcon" x="565" y="402" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+      <object name="shikongHuanjing" x="236" y="350" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1250"/>
+    <map id="1253">
+      <object name="shengtongmiusi" x="487" y="419" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+    </map>
+    <map id="1254">
+      <object name="brotherAndSisterJeromeEq" x="201" y="358" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="jiewang" x="651" y="504" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+    </map>
+    <map id="1255">
+      <object name="Aiensis" x="373" y="395" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+    </map>
+    <map id="1256"/>
+    <map id="1258">
+      <object name="ShengzhanGaiya" x="360" y="279" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="ShengzhanRuiersi" x="597" y="294" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1259">
+      <object name="mingyu" x="201" y="350" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1260">
+      <object name="FightingEmperorCompleteIcon" x="628" y="368" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="duankong" x="314" y="372" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1261">
+      <object name="YeRenCompleteIcon" x="664" y="309" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="ZhanHuangCompMain" x="266" y="372" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
+      <object name="aolanSuper" x="499" y="402" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1262">
+      <object name="MingwangpotianComplete" x="618" y="440" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="yingHuangCompleteBodyEq" x="267" y="421" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1263">
+      <object name="cangyueComplete" x="355" y="413" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="ShengHuangCompletelyBodyEq" x="658" y="413" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="MolingwangFreeGetMainPanel" x="509" y="232" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="1264">
+      <object name="getHaente" x="470" y="259" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="ShiShenLieHuangMain" x="284" y="459" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="OranCompletelyBodyEq" x="835" y="360" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1265">
+      <object name="HunDunDiWangMain" x="654" y="460" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="MolingwangEvo" x="325" y="458" isFlipHorizontally="0" scale="0.9" time="" countID=""/>
+    </map>
+    <map id="1266">
+      <object name="crazyKingOfSlimeEq" x="542" y="380" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1267"/>
+    <map id="1268">
+      <object name="haiseweiEvo" x="502" y="414" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+    </map>
+    <map id="1269">
+      <object name="Doluotaitan" x="466" y="288" isFlipHorizontally="0" scale="1.9" time="" countID=""/>
+      <object name="MalfurionSuperIcon" x="258" y="462" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1270">
+      <object name="chaosBlackEvolvedEq" x="479" y="312" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+    </map>
+    <map id="1271"/>
+    <map id="1273">
+      <object name="DemonKingCompleteIcon" x="482" y="410" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+    </map>
+    <map id="1272"/>
+    <map id="1274"/>
+    <map id="1275">
+      <object name="FeiLiangCompleteIcon" x="608" y="473" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1277">
+      <object name="EvilKingMorganIcon" x="534" y="287" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1278"/>
+    <map id="11605"/>
+    <map id="1279">
+      <object name="HolyLandCajasIcon" x="312" y="382" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="NewFightMain" x="484" y="472" isFlipHorizontally="0" scale="1.15" time="" countID=""/>
+    </map>
+    <map id="1280">
+      <object name="SmallMantisForAllPeopleToSendEq" x="323" y="265" isFlipHorizontally="0" scale="0.9" time="" countID=""/>
+      <object name="GodEvilDragonKingIcon" x="487" y="403" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+      <object name="YingKaLuoSiMain" x="665" y="239" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="EmilisaOutputEq" x="726" y="466" isFlipHorizontally="0" scale="1.15" time="" countID=""/>
+    </map>
+    <map id="12"/>
+    <map id="1281">
+      <object name="PunishFormYinCarlosIcon" x="482" y="235" isFlipHorizontally="0" scale="1.7" time="" countID=""/>
+    </map>
+    <map id="1283">
+      <object name="CrazeYinCarlosIcon" x="461" y="324" isFlipHorizontally="0" scale="1.5" time="" countID=""/>
+    </map>
+    <map id="1282"/>
+    <map id="1284">
+      <object name="mingDiShuraCompletelyBodyEq" x="560" y="377" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1285"/>
+    <map id="1286"/>
+    <map id="1287"/>
+    <map id="1288"/>
+    <map id="441">
+      <object name="RapalsChaosFogIcon" x="484" y="446" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="435">
+      <object name="daysStarsAbsurdStarEq" x="415" y="468" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="333">
+      <object name="classicSeer" x="446" y="427" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1289"/>
+    <map id="1290">
+      <object name="MoleculeIntensificationIcon" x="499" y="431" isFlipHorizontally="0" scale="1.8" time="" countID=""/>
+    </map>
+    <map id="1291">
+      <object name="CardCoolStarsEq" x="334" y="322" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="TwinBeatStarSweepIcon" x="487" y="465" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="24">
+      <object name="CardCoolStarsEq" x="516" y="370" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="11648">
+      <object name="CardCoolStarsEq" x="153" y="441" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="11647">
+      <object name="TwinBeatStarSweepIcon" x="495" y="417" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="48">
+      <object name="TwinBeatStarSweepIcon" x="487" y="404" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
+    </map>
+    <map id="1292"/>
+    <map id="11651"/>
+    <map id="1293">
+      <object name="GetAopeiya" x="496" y="213" isFlipHorizontally="0" scale="1.3" time="" countID=""/>
+      <object name="CiYuanWangStrengthensIcon" x="746" y="204" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+    </map>
+    <map id="1294">
+      <object name="StiaCompleteIcon" x="506" y="429" isFlipHorizontally="0" scale="1.6" time="" countID=""/>
+      <object name="PeopleOfKAluke" x="191" y="362" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="MayDayFuliB2018" x="586" y="287" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1295">
+      <object name="SarikaSuperEvoIcon" x="363" y="396" isFlipHorizontally="0" scale="1.45" time="" countID=""/>
+      <object name="MayDayFuliB2018" x="631" y="390" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1296">
+      <object name="wingsOfTheSkyTolucEq" x="289" y="294" isFlipHorizontally="0" scale="1.15" time="" countID=""/>
+      <object name="MayDayFuliB2018" x="471" y="255" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="11661">
+      <object name="seerReturnAdIcon" x="818" y="399" isFlipHorizontally="0" scale="0.7" time="" countID=""/>
+    </map>
+    <map id="1298">
+      <object name="CyberstallCompleteIcon" x="328" y="321" isFlipHorizontally="0" scale="1.1" time="" countID=""/>
+      <object name="MayDayFuliB2018" x="664" y="326" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="1299"/>
+    <map id="19"/>
+    <map id="1302"/>
+    <map id="1300"/>
+    <map id="1305"/>
+    <map id="1306"/>
+    <map id="1307"/>
+    <map id="1308"/>
+    <map id="1309"/>
+    <map id="1420">
+      <object name="michelleEnhancement_Eq" x="773" y="473" isFlipHorizontally="0" scale="1" time="" countID=""/>
+    </map>
+    <map id="90000"/>
+  </mapconfig>
+</root>

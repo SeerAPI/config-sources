@@ -1,0 +1,180 @@
+<root>
+	<levels name="普通" type="1">
+		<level id="1" name="成长之路" startRegion="1697" fightRedordValue="13106" difficulty="2" mapId="10545">
+			<boss id="1" pid="91" des="草丛里冒出的小怪物，很弱很弱的哦！">
+			</boss>
+			<boss id="2" pid="328" des="草丛里冒出的小怪物，很弱的哦！">
+			</boss>
+			<boss id="3" pid="143" des="可爱的小机器人，最怕火系的精灵了！">
+			</boss>
+			<boss id="4" pid="47" des="我是一只小蘑菇咿呀咿呀呦，最怕火系的精灵了！ ">
+			</boss>
+			<boss id="5" pid="69" des="想战胜我？哼哼哼，除了雷伊我谁都不怕！">
+			</boss>
+			<rewards items="1 400064 1701440 1701441" />
+			<specialReward item="1701437" />
+		</level>
+		<level id="2" name="初出茅庐" startRegion="1702" fightRedordValue="13107" difficulty="3" mapId="10545">
+			<boss id="1" pid="575" des="草丛里冒出的小怪物，很弱很弱的哦！">
+			</boss>
+			<boss id="2" pid="90" des="草丛里冒出的小怪物，很弱很弱的哦！">
+			</boss>
+			<boss id="3" pid="212" des="我是一只小青蛙呀啦啦啦，最怕火系的精灵了！">
+			</boss>
+			<boss id="4" pid="34" des="我要吃掉你！吃掉你！">
+			</boss>
+			<boss id="5" pid="113" des="简直就是不可思议，你竟然击败了前面的小子们！想打败我，除非用火烧死我！">
+			</boss>
+			<rewards items="1 400064 1701440 1701441" />
+			<specialReward item="1701437" />
+		</level>
+		<level id="3" name="探索之旅" startRegion="1707" fightRedordValue="13108" difficulty="4" mapId="10545">
+			<boss id="1" pid="204" des="草丛里冒出的小怪物，很弱很弱的哦！">
+			</boss>
+			<boss id="2" pid="236" des="草丛里冒出的小怪物，很弱很弱的哦！">
+			</boss>
+			<boss id="3" pid="788" des="别以为我是棵草，起始我是一只龙！">
+			</boss>
+			<boss id="4" pid="42" des="让我的火焰点燃你吧！挑战者！我只害怕草系精灵！">
+			</boss>
+			<boss id="5" pid="88" des="啊！啊！啊！啊！别以为你们可以战胜我，我可是免疫电系的攻击哦！">
+			</boss>
+			<rewards items="1 400064 1701440 1701441" />
+			<specialReward item="1701437" />
+		</level>
+		
+		<level id="4" name="欢乐草原" startRegion="1860" fightRedordValue="14134" difficulty="2" mapId="10546">
+			<boss id="1" pid="83" des="草丛里窜出一棵草！诶，好像没有什么不对！">
+			</boss>
+			<boss id="2" pid="116" des="我很厉害的哦，沙包一样大的拳头你怕不怕?">
+			</boss>
+			<boss id="2" pid="184" des="哼哼，普通系完克所有其他系，你给我小心点！">
+			</boss>
+			<boss id="2" pid="391" des="你好，我是龙！什么你敢说我胖！接招！ ">
+			</boss>
+			<boss id="2" pid="538" des="刚才那个是我小弟，我要为他报仇！">
+			</boss>
+			<rewards items="1 400065 1701440 " />
+			<specialReward item="1701437" />
+		</level>
+		<level id="5" name="永夜森林" startRegion="1865" fightRedordValue="14135" difficulty="3" mapId="10546">
+			<boss id="1" pid="198" des="草丛里窜出一条鱼！为什么草丛里会有鱼呢？">
+			</boss>
+			<boss id="2" pid="228" des="我要用我的利刃撕裂你！">
+			</boss>
+			<boss id="2" pid="235" des="我是一只小呀小青蛙，最怕电系的精灵了！">
+			</boss>
+			<boss id="2" pid="132" des="我会太极我自豪！">
+			</boss>
+			<boss id="2" pid="274" des="猜猜我是什么？猜错了我就打你哦！我才不怕战斗系的精灵呢！">
+			</boss>
+			<rewards items="1 400065 1701440 " />
+			<specialReward item="1701437" />
+		</level>
+		<level id="6" name="荆棘平原" startRegion="1870" fightRedordValue="14136" difficulty="4" mapId="10546">
+			<boss id="1" pid="265" des="哎呀！是谁踩到我了！赔赛尔豆给我！">
+			</boss>
+			<boss id="2" pid="293" des="草丛里长出来了一棵树，诶好像不是树！">
+			</boss>
+			<boss id="2" pid="373" des="我是巡逻机器人，你好，再见！">
+			</boss>
+			<boss id="2" pid="855" des="哪里有酒啊！快给我酒！我才不要喝水呢！">
+			</boss>
+			<boss id="2" pid="50" des="你知道雷伊在哪里吗？我最讨厌火了！">
+			</boss>
+			<rewards items="1 400065 1701440 " />
+			<specialReward item="1701437" />
+		</level>
+		
+		<level id="7" name="燃烧山脉" startRegion="2003" fightRedordValue="13502" difficulty="4" mapId="10546">
+			<boss id="1" pid="1210" des="不准随地大小便！汪汪汪！">
+			</boss>
+			<boss id="2" pid="638" des="别以为守在树边我就会撞上你！">
+			</boss>
+			<boss id="2" pid="1859" des="看！天上的流星！">
+			</boss>
+			<boss id="2" pid="1061" des="小孩子不要玩火！会尿床的！">
+			</boss>
+			<boss id="2" pid="187" des="胆敢踏进我的地盘！你们都得死！">
+			</boss>
+			<rewards items="1 400065 1701440 " />
+			<specialReward item="1701437" />
+		</level>
+		<level id="8" name="烈焰峡谷" startRegion="2742" fightRedordValue="13550" difficulty="4" mapId="10546">
+			<boss id="1" pid="2064" des="别以为我会怕你！">
+			</boss>
+			<boss id="2" pid="1778" des="遇到我真算你倒霉！">
+			</boss>
+			<boss id="2" pid="1678" des="喵！哦不！汪汪汪！">
+			</boss>
+			<boss id="2" pid="2058" des="就凭你也想击败我？">
+			</boss>
+			<boss id="2" pid="1923" des="普通关的boss也是有尊严的！">
+			</boss>
+			<rewards items="1 400064 1701440" />
+			<specialReward item="1701437" />
+		</level>
+		<level id="100" name="敬请期待" startRegion="1707" fightRedordValue="13108" difficulty="4" mapId="10545">
+			<boss id="1" pid="204" des="草丛里冒出的小怪物，很弱很弱的哦！">
+			</boss>
+			<boss id="2" pid="236" des="草丛里冒出的小怪物，很弱很弱的哦！">
+			</boss>
+			<boss id="2" pid="788" des="别以为我是棵草，起始我是一只龙！">
+			</boss>
+			<boss id="2" pid="42" des="让我的火焰点燃你吧！挑战者！我只害怕草系精灵！">
+			</boss>
+			<boss id="2" pid="88" des="啊！啊！啊！啊！别以为你们可以战胜我，我可是免疫电系的攻击哦！">
+			</boss>
+			<rewards items="1 400064 1701440" />
+			<specialReward item="1701437" />
+		</level>
+	</levels>
+	
+	<levels name="困难" type="2">
+		<level id="1" name="试炼之地" startRegion="1875" fightRedordValue="14137" difficulty="4" mapId="10546">
+			<boss id="1" pid="394" des="草丛里窜出一条蛇！诶，好像不是蛇！">
+			</boss>
+			<boss id="2" pid="399" des="啦~啦~啦~我最爱唱歌！谁说我跑调了！找死！">
+			</boss>
+			<boss id="2" pid="463" des="太阳晒多了真的会变黑哦！">
+			</boss>
+			<boss id="2" pid="1723" des="你也要来玩儿么？很好玩的哟！">
+			</boss>
+			<boss id="2" pid="216" des="你知道莎士比亚吗？我最怕圣者炎龙了！">
+			</boss>
+			<rewards items="1 400065 1701657 1701440 " />
+			<specialReward item="1701656" />
+		</level>
+		<level id="2" name="进阶之途" startRegion="1932" fightRedordValue="13500" difficulty="4" mapId="10546">
+			<boss id="1" pid="328" des="我又来了！你以为战胜我一次就可以了吗？">
+			</boss>
+			<boss id="2" pid="212" des="你还记得我吗？欺负我的都没有好下场！">
+			</boss>
+			<boss id="2" pid="116" des="沙包一样的拳头给你再来一发！">
+			</boss>
+			<boss id="2" pid="755" des="来陪我练练？正愁没人陪我玩呢！哇哈哈哈！">
+			</boss>
+			<boss id="2" pid="1045" des="别以为我还是以前的瑞尔斯！我也要超进化！">
+			</boss>
+			<rewards items="1 400065 1701657 1701440" />
+			<specialReward item="1701656" />
+		</level>
+		<level id="3" name="死亡峡谷" startRegion="1969" fightRedordValue="13501" difficulty="4" mapId="10546">
+		  	<boss id="1" pid="52" des="你敢说我是鸡！？诶？好像没什么不对！">
+		  	</boss>
+		  	<boss id="2" pid="848" des="看什么看！没见过大闸蟹啊？！">
+		  	</boss>
+		  	<boss id="2" pid="1158" des="亲爱的你慢慢飞！">
+		  	</boss>
+		  	<boss id="2" pid="2263" des="我不是狗我是狼！汪汪汪！">
+		  	</boss>
+		  	<boss id="2" pid="617" des="分分钟击败你！">
+		  	</boss>
+		  	<rewards items="1 400065 1701657 1701440" /> 
+		  	<specialReward item="1701656" /> 
+	  	</level>
+	</levels>
+	
+	<pet id="2322" exchangeId="3108" itemId="1701656" count="200"/>
+	<pet id="1791" exchangeId="3109" itemId="1701657" count="100"/>
+</root>

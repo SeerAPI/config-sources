@@ -213,9 +213,9 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4820" ImageID= "4820" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4821" ImageID= "4821" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <!-- <place type= "0" ID="4813" ImageID= "4813" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "0" ID="4822" ImageID= "4822" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4823" ImageID= "4823" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4824" ImageID= "4824" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4809" ImageID= "4809" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4803" ImageID= "4803" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -256,10 +256,10 @@ Desc:    刻印信息  tips的获得途径文字
 
 
 
-      <place type= "1" ID="762" monID="4477" ImageID= "1400762" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <!-- <place type= "1" ID="751" monID="4589" ImageID= "1400751" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
-	  <!-- <place type= "1" ID="752" monID="4603" ImageID= "1400752" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
-	  <!-- <place type= "1" ID="753" monID="4798" ImageID= "1400753" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "1" ID="743" monID="3697" ImageID= "1400743" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="763" monID="4823" ImageID= "1400763" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "1" ID="764" monID="3524" ImageID= "1400764" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "1" ID="765" monID="4454" ImageID= "1400765" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
       <!-- <place type= "1" ID="749" monID="4805" ImageID= "1400749" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="750" monID="4069" ImageID= "1400750" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="747" monID="4676" ImageID= "1400747" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -4511,7 +4511,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4207" DefName="弗莱特" Type="飞行" Height="80" Weight="10" Features="弗莱特是一只能够放飞自己的风筝，因为它相信命运掌握在自己手中！" Redirect="map" Go="1"/>
 	<Monster ID="4208" DefName="锢灵·舞" Type="混沌 超能" Height="160" Weight="40" Features="被复仇之力附身，稚嫩的声音背后挥舞着可以束缚灵魂和力量的锁链！" Redirect="map|module" Go="1485;app/S82GLMJMainPanel"/>
 	<Monster ID="4209" DefName="莉姿" Type="次元" Height="175" Weight="52" Features="四月巅峰圣战精灵。秉初心而前进的少女啊，反抗扭曲的荣耀将她阻止吧！你已不是孩子，你已不再迷茫，只有你有希望拯救恩师。"/>
-	<Monster ID="4210" DefName="莫伊莱" Type="轮回" Height="176" Weight="53" Features="命运之轮化身的精灵，人生就像一盒巧克力，你永远不知道下一块会是什么味道..." Redirect="map|module" Go="1485;app/SPetMoeraeMainPanel"/>
+	<Monster ID="4210" DefName="莫伊莱" Type="轮回" Height="176" Weight="53" Features="命运之轮化身的精灵，人生就像一盒巧克力，你永远不知道下一块会是什么味道..." Redirect="map|module" Go="1485;app/SPetMoeraeMainPanel" Target="150095"/>
 	<Monster ID="4211" DefName="尤斯德" Type="水 战斗" Height="193" Weight="98" Features="四月包月精灵，十二影卫之一，由水元素凝聚成的形态，灵活万变！" Target="111500"/>
 	<Monster ID="4212" DefName="风沁" Type="自然" Height="175" Weight="48" Features="枫曳酒馆的老板娘，温文尔雅，学习过治愈之术，还能够酿出一手香醇醉人的酒！" Redirect="map|module" Go="1486;app/S83FengQinMainPanel"/>
 	<Monster ID="4213" DefName="拉伯克" Type="混沌 次元" Height="120" Weight="35" Features="掉落在枫曳镇陷入昏迷重伤的少年，谁都不清楚失去了记忆的他究竟是什么身份..." Redirect="map|module" Go="1486;app/MainLineTask_3399"/>
@@ -5120,6 +5120,9 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4819" DefName="月桂小兔" Type="光 超能" Height="67" Weight="16" Features="在中秋出现的神秘小兔子，对桂花非常喜爱的它身上也常常带有桂花的香气。" Redirect="module" Go="app/FinalActivityPanel" Target="113048"/>
 	<Monster ID="4820" DefName="贝尔恩克" Type="火 暗影" Height="127" Weight="65" Features="火山星上出现的未知生物，在它的身上能够提取出贝尔鲁斯和沙恩克的基因，似乎是由死黑能量强行融合而诞生的怪物。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/323"/>
 	<Monster ID="4821" DefName="巴姆" Type="火" Height="42" Weight="8" Features="在火山星深处新发现的神奇精灵，其性格与习性均与巴多类似，初步认定为巴多的亚种。但不知受什么影响，似乎失去了进化能力。" Redirect="module" Go="app/FinalActivityPanel" Target="400012"/>
+	<Monster ID="4822" DefName="星光·里奥斯" Type="火" Height="237" Weight="98" Features="火炎巨鹿·里奥斯的星光进化形态。面临危机时，里奥斯心中的意志与星球深处的能量产生共鸣，这位火山星的守护者再度迎来了新生。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/326"/>
+	<Monster ID="4823" DefName="雪璞" Type="自然 冰" Height="162" Weight="47" Features="巅峰S8赛季【曜日】开启！日光将融化一切风雪，赤日凌空，希望永存！" Redirect="module" Go="app/FinalActivityPanel" Target="200000"/>
+	<Monster ID="4824" DefName="茸炘兔" Type="火 超能" Height="43" Weight="21" Features="茸炘兔常年生活在火山星地核区域。在毛茸茸的可爱外表下，有着极为成熟稳重的性格。" Redirect="module" Go="app/FinalActivityPanel" Target="400014"/>
 
 
 

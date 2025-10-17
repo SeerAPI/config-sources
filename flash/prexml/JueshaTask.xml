@@ -1,0 +1,11 @@
+<root>
+	<task id="1" type="2" func="alert" value="你确定要给予小绝煞80000赛尔豆来完成这个梦想吗？" total="1"/>
+	<task id="2" type="3" func="map" value="815" total="3"/>
+	<task id="3" type="1" func="fight" value="4311" total="1"/>
+	<task id="4" type="3" func="map" value="961" total="1"/>
+	<task id="5" type="2" func="map" value="1095" total="1"/>
+	<task id="6" type="1" func="fight" value="4311" total="1"/>
+	<task id="7" type="2" func="alert" value="你确定要给予小绝煞10000泰坦之灵来完成这个梦想吗？" total="1"/>
+	<task id="8" type="3" func="map" value="414" total="1"/>
+	<task id="9" type="3" func="map" value="11" total="1"/>
+</root>
