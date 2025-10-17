@@ -102,7 +102,7 @@
 	<SpMoves id="89" monster="3879" monstername="暗霆·伊修兰迪" moves="29169" movesname="断界厄影" item="1727489" itemname="深雷之羽" itemnumber="1" itemtips="使用后可为暗雷·伊修兰迪开启全新技能：断界厄影" movetype="2"/>
 	<SpMoves id="90" monster="3866" monstername="月照星魂" moves="29170" movesname="飞白渲襟" item="1727490" itemname="无缝天缎" itemnumber="1" itemtips="使用后可为月照星魂开启全新技能：飞白渲襟" movetype="2"/>
 	<SpMoves id="91" monster="4354" monstername="狂沙之主·萨特" moves="38118" movesname="枯骨遗沙镇" item="1727491" itemname="弥尘骨" itemnumber="1" itemtips="使用后可为狂沙之主·萨特开启全新技能：枯骨遗沙镇" movetype="2"/>
-	<SpMoves id="92" monster="3586" monstername="战之狂热·英卡洛斯" moves="38119" movesname="威凌昊苍斩" item="1727492" itemname="鏖战双镰" itemnumber="1" itemtips="使用后可为战之狂热·英卡洛斯开启全新技能：威凌昊苍斩" movetype="2"/>
+	<SpMoves id="92" monster="3586" monstername="战之狂热·英卡洛斯" moves="38119" movesname="虐饕伏苍斩" item="1727492" itemname="鏖战双镰" itemnumber="1" itemtips="使用后可为战之狂热·英卡洛斯开启全新技能：虐饕伏苍斩" movetype="2"/>
 
 
 
