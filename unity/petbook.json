@@ -1414,8 +1414,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4820,
-            "image_id": 4820,
+            "id": 4822,
+            "image_id": 4822,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4821,
-            "image_id": 4821,
+            "id": 4823,
+            "image_id": 4823,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1436,10 +1436,54 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 762,
-            "image_id": 1400762,
+            "id": 4824,
+            "image_id": 4824,
             "label": 0,
-            "mon_id": 4477,
+            "mon_id": 0,
+            "type": 0
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 743,
+            "image_id": 1400743,
+            "label": 0,
+            "mon_id": 3697,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 763,
+            "image_id": 1400763,
+            "label": 0,
+            "mon_id": 4823,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 764,
+            "image_id": 1400764,
+            "label": 0,
+            "mon_id": 3524,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 765,
+            "image_id": 1400765,
+            "label": 0,
+            "mon_id": 4454,
             "type": 1
           }
         ]
@@ -30681,7 +30725,7 @@
       {
         "def_name": "莫伊莱",
         "features": "命运之轮化身的精灵，人生就像一盒巧克力，你永远不知道下一块会是什么味道...",
-        "target": "",
+        "target": "150095",
         "tyjumptargetpe": "",
         "id": 4210
       },
@@ -34940,6 +34984,27 @@
         "target": "400012",
         "tyjumptargetpe": "",
         "id": 4821
+      },
+      {
+        "def_name": "星光·里奥斯",
+        "features": "火炎巨鹿·里奥斯的星光进化形态。面临危机时，里奥斯心中的意志与星球深处的能量产生共鸣，这位火山星的守护者再度迎来了新生。",
+        "target": "153201/326",
+        "tyjumptargetpe": "",
+        "id": 4822
+      },
+      {
+        "def_name": "雪璞",
+        "features": "巅峰S8赛季【曜日】开启！日光将融化一切风雪，赤日凌空，希望永存！",
+        "target": "200000",
+        "tyjumptargetpe": "",
+        "id": 4823
+      },
+      {
+        "def_name": "茸炘兔",
+        "features": "茸炘兔常年生活在火山星地核区域。在毛茸茸的可爱外表下，有着极为成熟稳重的性格。",
+        "target": "400014",
+        "tyjumptargetpe": "",
+        "id": 4824
       }
     ],
     "rec_mintmark": {

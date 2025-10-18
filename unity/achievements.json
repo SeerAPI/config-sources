@@ -8190,6 +8190,29 @@
               },
               {
                 "text": "",
+                "desc": "新因子关卡2",
+                "rule": [
+                  {
+                    "abtext": "",
+                    "ach_name": "永恒烈焰",
+                    "desc": "通关S-星光·里奥斯【地狱难度】关卡获得",
+                    "threshold": "1",
+                    "title": "永恒烈焰",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 1,
+                    "proicon": 1446,
+                    "spe_name_bonus": 557
+                  }
+                ],
+                "id": 172,
+                "is_show_pro": 0,
+                "is_single": 0
+              },
+              {
+                "text": "",
                 "desc": "高难挑战系列",
                 "rule": [
                   {
@@ -12378,6 +12401,62 @@
                     "hide": 0,
                     "id": 28,
                     "proicon": 1422,
+                    "spe_name_bonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "S8赛季猛将",
+                    "desc": "S8赛季竞技/狂野模式中首次达到猛将段位时获得",
+                    "threshold": "29",
+                    "title": "",
+                    "title_color": "",
+                    "ability_title": 0,
+                    "achievement_point": 0,
+                    "hide": 0,
+                    "id": 29,
+                    "proicon": 1442,
+                    "spe_name_bonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "S8赛季天骄",
+                    "desc": "S8赛季竞技/狂野模式中首次达到天骄段位时获得",
+                    "threshold": "30",
+                    "title": "",
+                    "title_color": "",
+                    "ability_title": 0,
+                    "achievement_point": 0,
+                    "hide": 0,
+                    "id": 30,
+                    "proicon": 1443,
+                    "spe_name_bonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "S8赛季王者",
+                    "desc": "S8赛季竞技/狂野模式中首次达到王者段位时获得",
+                    "threshold": "31",
+                    "title": "",
+                    "title_color": "",
+                    "ability_title": 0,
+                    "achievement_point": 0,
+                    "hide": 0,
+                    "id": 31,
+                    "proicon": 1444,
+                    "spe_name_bonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "S8赛季圣皇",
+                    "desc": "S8赛季竞技/狂野模式中首次达到圣皇段位时获得",
+                    "threshold": "32",
+                    "title": "",
+                    "title_color": "",
+                    "ability_title": 0,
+                    "achievement_point": 0,
+                    "hide": 0,
+                    "id": 32,
+                    "proicon": 1445,
                     "spe_name_bonus": 0
                   }
                 ],

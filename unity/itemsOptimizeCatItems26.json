@@ -2,6 +2,17 @@
   "root": {
     "items": [
       {
+        "id": 2600050,
+        "max": 99999,
+        "name": "星际礼盒",
+        "rarity": 0,
+        "sort": 35,
+        "use_max": 99,
+        "cat_id": 26,
+        "purpose": 1,
+        "wd": 1
+      },
+      {
         "id": 2600049,
         "max": 99,
         "name": "群芳礼盒",

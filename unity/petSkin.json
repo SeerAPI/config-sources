@@ -12599,6 +12599,23 @@
         "type": 3
       },
       {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "璀璨音律·凡尔斯",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 3,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 743,
+        "mon_id": 3697,
+        "type": 15
+      },
+      {
         "go": "",
         "go_type": "",
         "name": "风漪夏吻·维伊",
@@ -12920,6 +12937,57 @@
         "id": 762,
         "mon_id": 4477,
         "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "冬日礼装·雪璞",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 763,
+        "mon_id": 4823,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "源初躁动·乔列尼德",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 764,
+        "mon_id": 3524,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "极夜暮歌·黑沃德",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 765,
+        "mon_id": 4454,
+        "type": 15
       }
     ]
   }

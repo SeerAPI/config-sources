@@ -1632,6 +1632,56 @@
         "monster": 3532,
         "moves": 38064,
         "movetype": 2
+      },
+      {
+        "itemname": "黄昏之眼",
+        "movesname": "死祸咒返",
+        "id": 88,
+        "item": 1727488,
+        "itemnumber": 1,
+        "monster": 3883,
+        "moves": 38117,
+        "movetype": 2
+      },
+      {
+        "itemname": "深雷之羽",
+        "movesname": "断界厄影",
+        "id": 89,
+        "item": 1727489,
+        "itemnumber": 1,
+        "monster": 3879,
+        "moves": 29169,
+        "movetype": 2
+      },
+      {
+        "itemname": "无缝天缎",
+        "movesname": "飞白渲襟",
+        "id": 90,
+        "item": 1727490,
+        "itemnumber": 1,
+        "monster": 3866,
+        "moves": 29170,
+        "movetype": 2
+      },
+      {
+        "itemname": "弥尘骨",
+        "movesname": "枯骨遗沙镇",
+        "id": 91,
+        "item": 1727491,
+        "itemnumber": 1,
+        "monster": 4354,
+        "moves": 38118,
+        "movetype": 2
+      },
+      {
+        "itemname": "鏖战双镰",
+        "movesname": "虐饕伏苍斩",
+        "id": 92,
+        "item": 1727492,
+        "itemnumber": 1,
+        "monster": 3586,
+        "moves": 38119,
+        "movetype": 2
       }
     ]
   }

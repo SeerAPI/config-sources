@@ -68,7 +68,7 @@
         "exchange_num": 20,
         "id": 8,
         "platform": 0,
-        "reward_id": 300671,
+        "reward_id": 300136,
         "reward_num": 1,
         "sub_num": 20,
         "user_info": 124095
@@ -77,27 +77,27 @@
         "exchange_num": 20,
         "id": 9,
         "platform": 0,
-        "reward_id": 1706826,
+        "reward_id": 300405,
         "reward_num": 1,
-        "sub_num": 4,
+        "sub_num": 20,
         "user_info": 124096
       },
       {
         "exchange_num": 20,
         "id": 10,
         "platform": 0,
-        "reward_id": 300075,
+        "reward_id": 300021,
         "reward_num": 1,
-        "sub_num": 2,
+        "sub_num": 7,
         "user_info": 124097
       },
       {
         "exchange_num": 20,
         "id": 11,
         "platform": 0,
-        "reward_id": 300673,
+        "reward_id": 300075,
         "reward_num": 1,
-        "sub_num": 5,
+        "sub_num": 2,
         "user_info": 124098
       }
     ]

@@ -224,6 +224,14 @@
         "name": "黄晶矿",
         "type": 41,
         "unit": "块"
+      },
+      {
+        "collect_cnt": 5,
+        "collect_type": "挖掘",
+        "dir": 1,
+        "name": "黄晶矿",
+        "type": 42,
+        "unit": "块"
       }
     ]
   }

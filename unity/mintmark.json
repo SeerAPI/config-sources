@@ -120534,6 +120534,40 @@
         "type": 3
       },
       {
+        "des": "星火烛燎",
+        "effect_des": "防御2/25,特攻4/45,特防2/25,速度3/30,体力8/85",
+        "arg": [],
+        "base_attri_value": [
+          0,
+          2,
+          4,
+          2,
+          3,
+          8
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          0,
+          25,
+          45,
+          25,
+          30,
+          85
+        ],
+        "monster_id": [],
+        "move_id": [],
+        "grade": 5,
+        "id": 42594,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 61,
+        "quality": 5,
+        "rare": 2,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3
+      },
+      {
         "des": "小碎片",
         "effect_des": "",
         "arg": [],
