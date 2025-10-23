@@ -171,13 +171,8 @@ class Flash(Platform):
 	def get_remote_version(self) -> str:
 		coredll_swf = self._get_coredll_swf()
 		prexml_swf = self._get_prexml_swf()
-		file_hashs = frozenset(
-			(
-				get_file_hash(coredll_swf),
-				get_file_hash(prexml_swf)
-			)
-		)
-		return hashlib.sha256(str(file_hashs).encode()).hexdigest()
+		file_hashs = coredll_swf + prexml_swf
+		return get_file_hash(file_hashs)
 
 	def get_coredll_configs(self) -> None:
 		import re
