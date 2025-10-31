@@ -2,7 +2,7 @@ name: Auto Update Config
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '0 11 * * *'
 
   workflow_dispatch:
     inputs:
@@ -41,11 +41,13 @@ jobs:
       if: ${{ github.event_name == 'workflow_dispatch' && inputs.debug_enabled }}
 
     - name: run script
+      id: update
       run: |
         uv run _scripts/update_config.py
 
     - name: Repository Dispatch
       uses: peter-evans/repository-dispatch@v4
+      if: steps.update.outputs.HAS_UPDATE == 'true'
       with:
         token: ${{ secrets.PAT }}
         repository: seerapi/api-data

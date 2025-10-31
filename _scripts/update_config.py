@@ -40,6 +40,30 @@ def get_file_hash(data: bytes) -> str:
 	return hashlib.sha256(data).hexdigest()
 
 
+def write_to_github_output(name: str, value: str) -> None:
+	"""写入输出到 GitHub Actions 的 GITHUB_OUTPUT 文件
+	
+	Args:
+		name: 输出变量的名称
+		value: 输出变量的值
+	"""
+	import os
+	
+	github_output = os.getenv("GITHUB_OUTPUT")
+	if not github_output:
+		print("警告：未找到 GITHUB_OUTPUT 环境变量")
+		return
+	
+	with open(github_output, "a", encoding="utf-8") as f:
+		# 如果值包含换行符，使用 EOF 格式（多行输出）
+		if "\n" in value:
+			f.write(f"{name}<<EOF\n")
+			f.write(value)
+			f.write("\nEOF\n")
+		else:
+			f.write(f"{name}={value}\n")
+
+
 def handle_item_xml_info(data: list[dict]) -> dict:
 	result = {}
 	for obj in data:
@@ -353,10 +377,12 @@ def main() -> None:
 	# 检查 HEAD 是否改变（即是否有新的 commit）
 	if repo.head.commit == initial_head:
 		print("没有更新，跳过推送")
+		write_to_github_output("HAS_UPDATE", "false")
 		return
-
-	print("推送本地提交...")
-	repo.remotes[0].push()
+	else:
+		print("推送本地提交...")
+		repo.remotes[0].push()
+		write_to_github_output("HAS_UPDATE", "true")
 
 if __name__ == "__main__":
 	main()
