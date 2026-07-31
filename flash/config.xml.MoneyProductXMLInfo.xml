@@ -83,6 +83,7 @@
     <item name="购买皮肤尊享卡" productID="200079" itemID="1728186" price="20" vip="1" gold="1" type="-1"/>	
 	<item name="解锁高级通行证" productID="200080" itemID="1728236" price="38" vip="1" gold="1" type="-1"/>
 	<item name="限时秒杀月冕史诗皮肤" productID="200081" itemID="1728238" price="8.8" vip="1" gold="1" type="-1"/>
+	<item name="8月风尚月历" productID="200082" itemID="1728320" price="30" vip="1" gold="1" type="-1"/>
 	
 	<!-- <item name="废弃" productID="200061" itemID="" price="1" vip="1" gold="1" type="-1"/>	-->
 	<!-- <item name="废弃" productID="200062" itemID="" price="1" vip="1" gold="1" type="-1"/>	-->

@@ -24004,4 +24004,11 @@
 	<item productID="262620" icon="" itemID="1728308" price="2" type="0" vip="1" productType="-1" malldiscount="0" name="购买光影碎片"></item>
 	<item productID="262621" icon="" itemID="1728311" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="购买圣雷结晶"></item>
 	<item productID="262622" icon="" itemID="1728312" price="598" type="0" vip="1" productType="-1" malldiscount="0" name="一键觉醒圣光格劳瑞"></item>
+	<item productID="262623" icon="" itemID="1728313" price="598" type="0" vip="1" productType="-1" malldiscount="0" name="至尊获得精灵【超级噗纽】"></item>
+	<item productID="262624" icon="" itemID="1728314" price="30" type="0" vip="1" productType="-1" malldiscount="0" name="购买每日挑战次数（超级噗纽）"></item>
+	<item productID="262625" icon="" itemID="1728315" price="20" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡简单关卡（超级噗纽）"></item>
+	<item productID="262626" icon="" itemID="1728316" price="30" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡困难关卡（超级噗纽）"></item>
+	<item productID="262627" icon="" itemID="1728317" price="40" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡地狱关卡（超级噗纽）"></item>
+	<item productID="262628" icon="" itemID="1728318" price="2" type="0" vip="1" productType="-1" malldiscount="0" name="购买获得超级噗纽因子"></item>
+	<item productID="262629" icon="" itemID="1728319" price="10" type="0" vip="1" productType="-1" malldiscount="0" name="蹦蹦水母挑战次数"></item>
 </root>

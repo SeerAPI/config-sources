@@ -213,8 +213,8 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4925" ImageID= "4925" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4926" ImageID= "4926" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "0" ID="4927" ImageID= "4927" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4928" ImageID= "4928" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4921" ImageID= "4921" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4910" ImageID= "4910" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4911" ImageID= "4911" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,8 +255,8 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="858" monID="4633" ImageID= "1400858" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="859" monID="3506" ImageID= "1400859" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <!-- <place type= "1" ID="858" monID="4633" ImageID= "1400858" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <!-- <place type= "1" ID="859" monID="3506" ImageID= "1400859" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="856" monID="4657" ImageID= "1400856" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="857" monID="3488" ImageID= "1400857" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="847" monID="4911" ImageID= "1400846" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -4509,7 +4509,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4205" DefName="尼亚" Type="邪灵" Height="30" Weight="8" Features="长夜星河被黑夜统治后，玛格被感染变得浑身黑紫，并且服从于黑暗！" Redirect="map" Go="1484"/>
 	<Monster ID="4206" DefName="玛格尼亚" Type="远古 邪灵" Height="400" Weight="260" Features="玛格和尼亚被奴役后融合而成的怪物，心智被控制后变成了服从黑暗的杀戮机器！" Redirect="map|module" Go="1484;app/S81MaGeNiYaMainPanel"/>
 	<Monster ID="4207" DefName="弗莱特" Type="飞行" Height="80" Weight="10" Features="弗莱特是一只能够放飞自己的风筝，因为它相信命运掌握在自己手中！" Redirect="map" Go="1"/>
-	<Monster ID="4208" DefName="锢灵·舞" Type="混沌 超能" Height="160" Weight="40" Features="被复仇之力附身，稚嫩的声音背后挥舞着可以束缚灵魂和力量的锁链！" Redirect="map|module" Go="1485;app/S82GLMJMainPanel"/>
+	<Monster ID="4208" DefName="锢灵·舞" Type="混沌 超能" Height="160" Weight="40" Features="被复仇之力附身，稚嫩的声音背后挥舞着可以束缚灵魂和力量的锁链！" Redirect="map|module" Go="1485;app/S82GLMJMainPanel" Target="150137"/>
 	<Monster ID="4209" DefName="莉姿" Type="次元" Height="175" Weight="52" Features="四月巅峰圣战精灵。秉初心而前进的少女啊，反抗扭曲的荣耀将她阻止吧！你已不是孩子，你已不再迷茫，只有你有希望拯救恩师。"/>
 	<Monster ID="4210" DefName="莫伊莱" Type="轮回" Height="176" Weight="53" Features="命运之轮化身的精灵，人生就像一盒巧克力，你永远不知道下一块会是什么味道..." Redirect="map|module" Go="1485;app/SPetMoeraeMainPanel" Target="150095"/>
 	<Monster ID="4211" DefName="尤斯德" Type="水 战斗" Height="193" Weight="98" Features="四月包月精灵，十二影卫之一，由水元素凝聚成的形态，灵活万变！" Target="295006"/>
@@ -5225,5 +5225,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4923" DefName="莫缇" Type="地面 机械" Height="171" Weight="45" Features="魔盒的预言，似乎否定了她的价值、她的一切。但若是因此而退却，此后的半生便与走肉无异。这座都市不会只是泡影，纵使终会直面一切的坍塌，至少，让这片钢铁的森林成为指向云端之上的天枪。" Redirect="module" Go="app/FinalActivityPanel" Target="200000"/>
 	<Monster ID="4925" DefName="米罗博士" Type="草 超能" Height="146" Weight="39" Features="Λ组织二号舰穆宁号的驻舰科学官，超古代文明遗迹专家，奉命支援三号舰的玄武复活计划。她的科研空间站位于赫尔卡星的同步轨道，是玄武复活计划的核心人员之一。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/953"/>
 	<Monster ID="4926" DefName="酷酷鲨" Type="水 神秘" Height="119" Weight="27" Features="没错，酷酷鲨真的很酷。" Redirect="module" Go="app/FinalActivityPanel" Target="114105"/>
+	<Monster ID="4927" DefName="超级噗纽" Type="草 机械" Height="156" Weight="97" Features="米罗博士自研的防卫型机器人，核心处理器由噗纽升级而来。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/956"/>
+	<Monster ID="4928" DefName="维克佐斯" Type="火 暗影" Height="175" Weight="42" Features="2026年包月精灵，万象录之《励精图治之人》。他是大众眼中的引路人，汇聚多方思想为大家代言。但在灾难之后，被无数扭曲的灵魂缠身，变成了一具狰狞的怪物。" Redirect="module" Go="app/FinalActivityPanel" Target="121000"/>
 
 </root>

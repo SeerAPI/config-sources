@@ -1867,9 +1867,9 @@
 			    <Rule ID="12" Threshold="12" AchievementPoint="10" achName="圣诞礼遇" Desc="达成圣诞礼遇系列皮肤收集进度" proicon="1458" icon="1" />
 				<Rule ID="13" Threshold="13" AchievementPoint="10" achName="2026巅峰时装收集" Desc="达成2026巅峰圣战专属精灵皮肤收集进度" proicon="1468" icon="1" />
 				<Rule ID="14" Threshold="14" AchievementPoint="10" achName="运动无极限" Desc="达成运动时光系列皮肤收集进度" proicon="1474" icon="1" />
-				
-
 				<Rule ID="15" Threshold="15" AchievementPoint="10" achName="莱卡的守望" Desc="达成莱卡的守望系列皮肤收集进度" proicon="1491" icon="1" />
+				<Rule ID="16" Threshold="16" AchievementPoint="10" achName="深海之泪" Desc="达成深海绮境系列皮肤收集进度" proicon="1511" icon="1" />
+				
 			</Branch>
 			<Branch ID="176" Type="0" Desc="限定分类10" isShowPro="0">
 				<Rule ID="1" Threshold="1" AchievementPoint="5" icon="1" achName="果实品鉴家" proicon="1478" SpeNameBonus="580" title="品鉴达人" Desc="在化乐天林海完成探索解密" titleColor="0xFFFFFF"/>

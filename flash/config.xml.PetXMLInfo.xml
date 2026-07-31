@@ -80744,10 +80744,6 @@
 		  <Move ID="33992" LearningLv="53"/>
 		  <Move ID="27067" LearningLv="57" Rec="1"/>
 		  <Move ID="33993" LearningLv="61" Rec="1"/>
-		  <Move ID="38471" LearningLv="58"/>
-		  <Move ID="29412" LearningLv="54"/>
-		  <Move ID="38472" LearningLv="55"/>
-		  <Move ID="38474" LearningLv="56"/>
 		  <AdvMove ID="38471" Tag="1"/>
 		  <AdvMove ID="29412" Tag="3"/>
 		  <AdvMove ID="38472" Tag="4"/>
@@ -102896,7 +102892,53 @@
 		</ExtraMoves>
 	</Monster>
 
+	<Monster ID="4927" DefName="超级噗纽" Type="126" GrowthType="4" HP="173" Atk="133" Def="114" SpAtk="70" SpDef="114" Spd="131" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="0" PetClass="3588" FormParam="0" CharacterAttrParam="0" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="12130" LearningLv="1"/>
+			<Move ID="10224" LearningLv="5"/>
+			<Move ID="11288" LearningLv="9"/>
+			<Move ID="20365" LearningLv="13"/>
+			<Move ID="10335" LearningLv="17"/>
+			<Move ID="38474" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="12151" LearningLv="25"/>
+			<Move ID="20754" LearningLv="29"/>
+			<Move ID="20145" LearningLv="33"/>
+			<Move ID="12153" LearningLv="37"/>
+			<Move ID="12152" LearningLv="41"/>
+			<Move ID="21112" LearningLv="45"/>
+			<Move ID="29413" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="21113" LearningLv="53"/>
+			<Move ID="29414" LearningLv="57" Rec="1" Tag="3"/>
+			<Move ID="38475" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38476" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
 
+	<Monster ID="4928" DefName="维克佐斯" Type="101" GrowthType="4" HP="168" Atk="135" Def="105" SpAtk="70" SpDef="105" Spd="137" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3589" FormParam="0" CharacterAttrParam="0" GradeParam="3" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10047" LearningLv="1"/>
+			<Move ID="21739" LearningLv="5"/>
+			<Move ID="10391" LearningLv="9"/>
+			<Move ID="10413" LearningLv="13"/>
+			<Move ID="21329" LearningLv="17"/>
+			<Move ID="38477" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="11984" LearningLv="25"/>
+			<Move ID="20043" LearningLv="29"/>
+			<Move ID="10408" LearningLv="33"/>
+			<Move ID="32652" LearningLv="37"/>
+			<Move ID="22109" LearningLv="41"/>
+			<Move ID="34803" LearningLv="45"/>
+			<Move ID="29415" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="34804" LearningLv="53"/>
+			<Move ID="29416" LearningLv="57" Rec="1" Tag="3"/>
+			<Move ID="38478" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38479" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
 
 
 

@@ -13,7 +13,7 @@ SkinKind Type:  1:限时皮肤  2:永久皮肤
 LifeTime:限时天数
 Jumptarget：unity跳转，读jumptarget表
 
-SkinType：该皮肤所属的系列id（1-巅峰时装 2-星海誓约 3-夏日奇遇 4-童话梦境 5-江湖令 6-洛林卡之星 7-时代轨迹 8-月满中秋 9-铁甲小宝 10-万圣惊魂夜 11-圣诞礼遇 12-魔界之刻 13-航纪珍藏 14-锦绣春华 15-专家之证 16-运动时光 17-岁令万象 18-青春校园 19-巨樽失窃案 20-瓏域传说 21-异元时空 22-莱卡的守望 23-至臻典藏）
+SkinType：该皮肤所属的系列id（1-巅峰时装 2-星海誓约 3-夏日奇遇 4-童话梦境 5-江湖令 6-洛林卡之星 7-时代轨迹 8-月满中秋 9-铁甲小宝 10-万圣惊魂夜 11-圣诞礼遇 12-魔界之刻 13-航纪珍藏 14-锦绣春华 15-专家之证 16-运动时光 17-岁令万象 18-青春校园 19-巨樽失窃案 20-瓏域传说 21-异元时空 22-莱卡的守望 23-至臻典藏 24-K.I.S.S.乐队 25-灵籁之夏 26-深海绮境）
 Year：该皮肤所属的年份（当前仅面向巅峰时装）
 
 -->
@@ -1402,35 +1402,35 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="461" MonID="3686" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="夜法皇·兰蒂斯"  Jumptarget="510004">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="462" MonID="4377" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="11" Name="星辰之籁·蒂朵">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	<Skin ID="462" MonID="4377" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="11" Name="星辰之籁·蒂朵" Jumptarget="114117">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="24"/>
 	</Skin>
-	<Skin ID="463" MonID="4376" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="11" Name="弦灵纯律·岚">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	<Skin ID="463" MonID="4376" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="11" Name="弦灵纯律·岚" Jumptarget="114117">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="24"/>
 	</Skin>
-	<Skin ID="464" MonID="3740" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="11" Name="清凉节拍·沧岚">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	<Skin ID="464" MonID="3740" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="11" Name="清凉节拍·沧岚" Jumptarget="114117">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="24"/>
 	</Skin>
-	<Skin ID="465" MonID="3807" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="11" Name="月半舞曲·欧德内里">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	<Skin ID="465" MonID="3807" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="11" Name="月半舞曲·欧德内里" Jumptarget="114117">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="24"/>
 	</Skin>
-	<Skin ID="466" MonID="4354" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="11" Name="沸腾乐章·萨特">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	<Skin ID="466" MonID="4354" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="11" Name="沸腾乐章·萨特" Jumptarget="114117">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="24"/>
 	</Skin>
-	<Skin ID="467" MonID="4377" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="12" Name="汐风微凉·蒂朵">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	<Skin ID="467" MonID="4377" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="12" Name="汐风微凉·蒂朵" Jumptarget="114117">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="25"/>
 	</Skin>
-	<Skin ID="468" MonID="3613" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="12" Name="夏日甜心·茉蕊儿">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	<Skin ID="468" MonID="3613" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="12" Name="夏日甜心·茉蕊儿" Jumptarget="114117">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="25"/>
 	</Skin>
-	<Skin ID="469" MonID="3711" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="12" Name="海风吹拂·莫妮卡">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	<Skin ID="469" MonID="3711" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="12" Name="海风吹拂·莫妮卡" Jumptarget="114117">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="25"/>
 	</Skin>
-	<Skin ID="470" MonID="4068" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="12" Name="悠然云霞·艾希丝">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	<Skin ID="470" MonID="4068" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="12" Name="悠然云霞·艾希丝" Jumptarget="114117">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="25"/>
 	</Skin>
-	<Skin ID="471" MonID="4219" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="12" Name="烈阳盛夏·安卡">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	<Skin ID="471" MonID="4219" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="12" Name="烈阳盛夏·安卡" Jumptarget="114117">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="25"/>
 	</Skin>
 	<Skin ID="472" MonID="4377" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="百鬼签算·蒂小朵" Jumptarget="111800">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
@@ -1441,7 +1441,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="474" MonID="4377" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="喵萌冲击·蒂小朵" Jumptarget="111800">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="475" MonID="4386" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="4" Name="夏梦咏叹调·缔笙" Jumptarget="111800">
+	<Skin ID="475" MonID="4386" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="4" Name="夏梦咏叹调·缔笙" Jumptarget="114117">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="476" MonID="3631" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="兰斯洛特" >
@@ -2298,7 +2298,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>
 
 	<Skin ID="703" MonID="3740" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""  Type="3" Name="海洋幻想·沧岚"  Jumptarget="510004">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="26"/>
 	</Skin>
 
 	<Skin ID="704" MonID="4734" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="巨型仙人掌" >
@@ -2845,7 +2845,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>
 
 	<Skin ID="840" MonID="4911" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="星际领航员·艾欧丽娅" >
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="13"/>
 	</Skin>
 
 	<Skin ID="841" MonID="4760" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="闪耀探险家·嗒啦啦" >
@@ -2897,11 +2897,11 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>
 
 	<Skin ID="853" MonID="4840" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="珍珠泡泡·星礼" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114106">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="26"/>
 	</Skin>
 
 	<Skin ID="854" MonID="4186" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="龙渊镇座·乔特鲁德" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114107">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="26"/>
 	</Skin>
 
 	<Skin ID="855" MonID="4923" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="四合囚都·莫缇" Go="app/FinalActivityPanel" GoType="module" Jumptarget="202000">
@@ -2917,7 +2917,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>
 
     <Skin ID="858" MonID="4633" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="深渊诡影·克劳里菲" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114108">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="26"/>
 	</Skin>
 
     <Skin ID="859" MonID="3506" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""  Name="波塞冬" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">

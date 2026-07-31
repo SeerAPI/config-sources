@@ -591,5 +591,6 @@
 	<Fragment ID="2400590" show="1" Name="米罗博士因子" MonsterID="4925" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6422" effectId="2120" NewseConsume="270" MoveID="29409" MovesConsume="108" NeedmonID="0" NewMsglogId="2607230400" SeMsglog="2607230401" EffectMsglog="2607230402"/>
 	<Fragment ID="2400591" show="1" Name="环·龙裔因子" MonsterID="4072" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="5588" effectId="1317" NewseConsume="200" MoveID="34321" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
     <Fragment ID="2400592" show="1" Name="环·圣芒因子" MonsterID="4088" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="5601" effectId="1330" NewseConsume="200" MoveID="34402" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+    <Fragment ID="2400593" show="1" Name="超级噗纽因子" MonsterID="4927" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6425" effectId="2122" NewseConsume="200" MoveID="38476" MovesConsume="100" NeedmonID="0" NewMsglogId="2607300500" SeMsglog="2607300501" EffectMsglog="2607300502"/>
     
 </Root>
