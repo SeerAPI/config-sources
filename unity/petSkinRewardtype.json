@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "星海誓约",
-      "sort": 1,
+      "sort": 2,
       "subtype": 0,
       "subtypename": "",
       "type": 2
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "name": "夏日奇遇",
-      "sort": 2,
+      "sort": 3,
       "subtype": 0,
       "subtypename": "",
       "type": 3
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "name": "童话梦境",
-      "sort": 3,
+      "sort": 4,
       "subtype": 0,
       "subtypename": "",
       "type": 4
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "name": "江湖令",
-      "sort": 4,
+      "sort": 5,
       "subtype": 0,
       "subtypename": "",
       "type": 5
@@ -43,7 +43,7 @@
     {
       "id": 6,
       "name": "洛林卡之星",
-      "sort": 5,
+      "sort": 6,
       "subtype": 0,
       "subtypename": "",
       "type": 6
@@ -51,7 +51,7 @@
     {
       "id": 7,
       "name": "时代轨迹",
-      "sort": 6,
+      "sort": 7,
       "subtype": 0,
       "subtypename": "",
       "type": 7
@@ -59,7 +59,7 @@
     {
       "id": 8,
       "name": "月满中秋",
-      "sort": 7,
+      "sort": 8,
       "subtype": 0,
       "subtypename": "",
       "type": 8
@@ -67,7 +67,7 @@
     {
       "id": 9,
       "name": "铁甲小宝",
-      "sort": 8,
+      "sort": 9,
       "subtype": 0,
       "subtypename": "",
       "type": 9
@@ -75,7 +75,7 @@
     {
       "id": 10,
       "name": "万圣惊魂夜",
-      "sort": 9,
+      "sort": 10,
       "subtype": 0,
       "subtypename": "",
       "type": 10
@@ -83,7 +83,7 @@
     {
       "id": 11,
       "name": "圣诞礼遇",
-      "sort": 10,
+      "sort": 11,
       "subtype": 0,
       "subtypename": "",
       "type": 11
@@ -91,7 +91,7 @@
     {
       "id": 12,
       "name": "魔界之刻",
-      "sort": 11,
+      "sort": 12,
       "subtype": 0,
       "subtypename": "",
       "type": 12
@@ -99,7 +99,7 @@
     {
       "id": 13,
       "name": "航纪珍藏",
-      "sort": 12,
+      "sort": 13,
       "subtype": 0,
       "subtypename": "",
       "type": 13
@@ -107,7 +107,7 @@
     {
       "id": 14,
       "name": "锦绣春华",
-      "sort": 13,
+      "sort": 14,
       "subtype": 0,
       "subtypename": "",
       "type": 14
@@ -115,7 +115,7 @@
     {
       "id": 15,
       "name": "专家之证",
-      "sort": 98,
+      "sort": 15,
       "subtype": 0,
       "subtypename": "",
       "type": 15
@@ -123,7 +123,7 @@
     {
       "id": 16,
       "name": "运动时光",
-      "sort": 14,
+      "sort": 16,
       "subtype": 0,
       "subtypename": "",
       "type": 16
@@ -131,7 +131,7 @@
     {
       "id": 17,
       "name": "岁令万象",
-      "sort": 15,
+      "sort": 17,
       "subtype": 0,
       "subtypename": "",
       "type": 17
@@ -139,7 +139,7 @@
     {
       "id": 18,
       "name": "青春校园",
-      "sort": 16,
+      "sort": 18,
       "subtype": 0,
       "subtypename": "",
       "type": 18
@@ -147,7 +147,7 @@
     {
       "id": 19,
       "name": "巨樽失窃案",
-      "sort": 17,
+      "sort": 19,
       "subtype": 0,
       "subtypename": "",
       "type": 19
@@ -155,7 +155,7 @@
     {
       "id": 20,
       "name": "瓏域传说",
-      "sort": 18,
+      "sort": 20,
       "subtype": 0,
       "subtypename": "",
       "type": 20
@@ -163,7 +163,7 @@
     {
       "id": 21,
       "name": "异元时空",
-      "sort": 19,
+      "sort": 21,
       "subtype": 0,
       "subtypename": "",
       "type": 21
@@ -171,7 +171,7 @@
     {
       "id": 22,
       "name": "莱卡的守望",
-      "sort": 20,
+      "sort": 22,
       "subtype": 0,
       "subtypename": "",
       "type": 22
@@ -179,10 +179,34 @@
     {
       "id": 23,
       "name": "至臻典藏",
-      "sort": 21,
+      "sort": 1,
       "subtype": 0,
       "subtypename": "",
       "type": 23
+    },
+    {
+      "id": 24,
+      "name": "K.I.S.S.乐队",
+      "sort": 23,
+      "subtype": 0,
+      "subtypename": "",
+      "type": 24
+    },
+    {
+      "id": 25,
+      "name": "灵籁之夏",
+      "sort": 24,
+      "subtype": 0,
+      "subtypename": "",
+      "type": 25
+    },
+    {
+      "id": 26,
+      "name": "深海绮境",
+      "sort": 25,
+      "subtype": 0,
+      "subtypename": "",
+      "type": 26
     }
   ]
 }

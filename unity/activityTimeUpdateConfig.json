@@ -22,6 +22,17 @@
         "parameters3": 0,
         "parameters4": 0,
         "parametersDesc": "parameters1： 皮肤id| parameters2 ：名片id"
+      },
+      {
+        "beginning": "2026_7_31 10:00:00",
+        "ending": "2026_9_11 10:00:00",
+        "id": 3,
+        "name": "群星牌通行证赛季更新",
+        "parameters1": 0,
+        "parameters2": 0,
+        "parameters3": 0,
+        "parameters4": 0,
+        "parametersDesc": ""
       }
     ]
   }

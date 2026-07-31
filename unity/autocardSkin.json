@@ -127,6 +127,22 @@
       "stat": -1214218372,
       "tag": "1_经典",
       "type": 1
+    },
+    {
+      "content_id": 96,
+      "get_des": "通过玄武降临活动获得",
+      "id": 50019,
+      "ishow": 0,
+      "jump_id": 520006,
+      "name": "card_50019",
+      "position": "",
+      "rarity": 1,
+      "resource": "",
+      "series": 0,
+      "skin_name": "萌趣·玄武",
+      "stat": -1214218361,
+      "tag": "1_经典",
+      "type": 1
     }
   ]
 }

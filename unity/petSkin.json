@@ -8289,13 +8289,13 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 24,
             "type": 2,
             "year": 0
           }
         ],
         "id": 462,
-        "jump_target": 0,
+        "jump_target": 114117,
         "mon_id": 4377,
         "type": 11
       },
@@ -8307,13 +8307,13 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 24,
             "type": 2,
             "year": 0
           }
         ],
         "id": 463,
-        "jump_target": 0,
+        "jump_target": 114117,
         "mon_id": 4376,
         "type": 11
       },
@@ -8325,13 +8325,13 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 24,
             "type": 2,
             "year": 0
           }
         ],
         "id": 464,
-        "jump_target": 0,
+        "jump_target": 114117,
         "mon_id": 3740,
         "type": 11
       },
@@ -8343,13 +8343,13 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 24,
             "type": 2,
             "year": 0
           }
         ],
         "id": 465,
-        "jump_target": 0,
+        "jump_target": 114117,
         "mon_id": 3807,
         "type": 11
       },
@@ -8361,13 +8361,13 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 24,
             "type": 2,
             "year": 0
           }
         ],
         "id": 466,
-        "jump_target": 0,
+        "jump_target": 114117,
         "mon_id": 4354,
         "type": 11
       },
@@ -8379,13 +8379,13 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 25,
             "type": 2,
             "year": 0
           }
         ],
         "id": 467,
-        "jump_target": 0,
+        "jump_target": 114117,
         "mon_id": 4377,
         "type": 12
       },
@@ -8397,13 +8397,13 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 25,
             "type": 2,
             "year": 0
           }
         ],
         "id": 468,
-        "jump_target": 0,
+        "jump_target": 114117,
         "mon_id": 3613,
         "type": 12
       },
@@ -8415,13 +8415,13 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 25,
             "type": 2,
             "year": 0
           }
         ],
         "id": 469,
-        "jump_target": 0,
+        "jump_target": 114117,
         "mon_id": 3711,
         "type": 12
       },
@@ -8433,13 +8433,13 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 25,
             "type": 2,
             "year": 0
           }
         ],
         "id": 470,
-        "jump_target": 0,
+        "jump_target": 114117,
         "mon_id": 4068,
         "type": 12
       },
@@ -8451,13 +8451,13 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 25,
             "type": 2,
             "year": 0
           }
         ],
         "id": 471,
-        "jump_target": 0,
+        "jump_target": 114117,
         "mon_id": 4219,
         "type": 12
       },
@@ -8529,7 +8529,7 @@
           }
         ],
         "id": 475,
-        "jump_target": 111800,
+        "jump_target": 114117,
         "mon_id": 4386,
         "type": 4
       },
@@ -12627,7 +12627,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 26,
             "type": 2,
             "year": 0
           }
@@ -15093,7 +15093,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 13,
             "type": 2,
             "year": 0
           }
@@ -15327,7 +15327,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 26,
             "type": 2,
             "year": 0
           }
@@ -15345,7 +15345,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 26,
             "type": 2,
             "year": 0
           }
@@ -15417,7 +15417,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 26,
             "type": 2,
             "year": 0
           }

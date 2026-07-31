@@ -1765,7 +1765,34 @@
       "is_place_effect": 0
     },
     {
-      "effect_icon": "",
+      "effect_icon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "param_des": "自身受到攻击后使己方a系精灵永久获得+b/+c",
+      "id": 10203,
+      "is_death_effect": 0,
+      "is_place_effect": 0
+    },
+    {
+      "effect_icon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "param_des": "战斗阶段开始时偷取对位精灵的强毒，连击，护盾，嘲讽中的a个，每偷取一个关键词永久获得+b/+c",
+      "id": 10204,
+      "is_death_effect": 0,
+      "is_place_effect": 0
+    },
+    {
+      "effect_icon": "2",
+      "object": "卡牌",
+      "param": "a",
+      "param_des": "阵亡：对敌方对位精灵造成致死攻击溢出部分1/a的伤害",
+      "id": 10205,
+      "is_death_effect": 1,
+      "is_place_effect": 0
+    },
+    {
+      "effect_icon": "1",
       "object": "卡牌",
       "param": "a_b",
       "param_des": "自身在场时，己方a系精灵每回合前b次失去强毒时获得1次强毒",
@@ -1774,7 +1801,7 @@
       "is_place_effect": 0
     },
     {
-      "effect_icon": "",
+      "effect_icon": "1",
       "object": "卡牌",
       "param": "a_b_c_d_e",
       "param_des": "卡牌a在场时，使用b系精灵牌后，使己方场上的c系精灵永久获得+d/+e",
@@ -2450,6 +2477,60 @@
     },
     {
       "effect_icon": "",
+      "object": "技能",
+      "param": "a_b",
+      "param_des": "每累计使用a次技能后，获得b张不超过当前商店等级觉醒状态的精灵牌（距离触发：{0}）",
+      "id": 30048,
+      "is_death_effect": 0,
+      "is_place_effect": 0
+    },
+    {
+      "effect_icon": "",
+      "object": "技能",
+      "param": "a_b_c_d_e",
+      "param_des": "商店中的精灵牌获得+a/+b，每购买c张牌，额外增加+d/+e",
+      "id": 30049,
+      "is_death_effect": 0,
+      "is_place_effect": 0
+    },
+    {
+      "effect_icon": "",
+      "object": "技能",
+      "param": "a",
+      "param_des": "使用技能时记录选择的下一次战斗胜者，商店开始阶段，若选择正确，获得a枚金币",
+      "id": 30050,
+      "is_death_effect": 0,
+      "is_place_effect": 0
+    },
+    {
+      "effect_icon": "",
+      "object": "技能",
+      "param": "a",
+      "param_des": "选择一只己方精灵，使其获得等同于商店等级的攻击值",
+      "id": 30051,
+      "is_death_effect": 0,
+      "is_place_effect": 0
+    },
+    {
+      "effect_icon": "",
+      "object": "技能",
+      "param": "a",
+      "param_des": "选择一只己方精灵，使其获得等同于商店等级的生命值",
+      "id": 30052,
+      "is_death_effect": 0,
+      "is_place_effect": 0
+    },
+    {
+      "effect_icon": "",
+      "object": "技能",
+      "param": "a",
+      "param_des": "非首回合商店开始阶段，将当前技能切换为技能a",
+      "id": 30053,
+      "is_death_effect": 0,
+      "is_place_effect": 0
+    },
+    {
+      "effect_icon": "",
       "object": "商店",
       "param": "a_b_c",
       "param_des": "本次刷新次数消耗a，刷新效果：商店刷新出的随从获得+b/+c",
@@ -2904,6 +2985,33 @@
       "param": "a_b_c",
       "param_des": "选择赛季效果后，如果棋盘上有精灵卡牌a，则删除该卡牌，并召唤1张精灵卡牌b，属性值是精灵卡牌a的属性的c%",
       "id": 50089,
+      "is_death_effect": 0,
+      "is_place_effect": 0
+    },
+    {
+      "effect_icon": "",
+      "object": "赛季效果",
+      "param": "a_b_c_d_e_f_g_h",
+      "param_des": "刷新商店时，使商店中随机a张精灵牌永久获得+b/+c，其中d张为场上精灵最多的系别，每刷新e次，获得的属性值额外增加+f/+g，每刷新h次，所有精灵牌均获得加成",
+      "id": 50090,
+      "is_death_effect": 0,
+      "is_place_effect": 0
+    },
+    {
+      "effect_icon": "",
+      "object": "赛季效果",
+      "param": "a_b_c",
+      "param_des": "购买精灵牌时，若卡牌有来自BuffID(a)的额外属性值，则获得b枚金币，每回合最多触发c次",
+      "id": 50091,
+      "is_death_effect": 0,
+      "is_place_effect": 0
+    },
+    {
+      "effect_icon": "",
+      "object": "赛季效果",
+      "param": "a_b",
+      "param_des": "购买精灵牌后，将牌上通过BUFF(a)获得的额外属性值附加给己方场上的随机(b)只精灵",
+      "id": 50092,
       "is_death_effect": 0,
       "is_place_effect": 0
     }

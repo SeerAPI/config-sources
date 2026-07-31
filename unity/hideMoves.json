@@ -13280,6 +13280,18 @@
         "pet_id": 4004
       },
       {
+        "move_id": 38476,
+        "move_name1": "噗纽",
+        "move_name2": "舍身拳",
+        "pet_id": 4927
+      },
+      {
+        "move_id": 38479,
+        "move_name1": "思途",
+        "move_name2": "执枉",
+        "pet_id": 4928
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

@@ -22908,8 +22908,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]双方每有1方[color=#52a5f2]精灵先制[/color]为{0}，对手{1}下回合[color=#52a5f2]技能先制[/color]-{2}",
-        "info": "双方每有1方精灵先制为{0}，对手{1}下回合所有技能先制-{2}",
+        "analyze": "[sprite name=iconHit]双方每有1方[color=#52a5f2]精灵先制[/color]为{0}，对手下{1}回合[color=#52a5f2]技能先制[/color]-{2}",
+        "info": "双方每有1方精灵先制为{0}，对手下{1}回合所有技能先制-{2}",
         "param": [],
         "args_num": 3,
         "id": 2540,

@@ -529505,6 +529505,137 @@
         {
           "accuracy": 95,
           "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29413,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "刚性植被",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            191,
+            1192,
+            1231,
+            1391
+          ],
+          "side_effect_arg": [
+            4,
+            80,
+            0,
+            3,
+            3,
+            1
+          ],
+          "type": 8,
+          "info": "开始免疫并反弹受到的异常状态了；反馈了自身的能力下降状态；令对手麻痹了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29414,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "根茎马力",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            962,
+            977,
+            776
+          ],
+          "side_effect_arg": [
+            1,
+            3,
+            2,
+            2,
+            2,
+            1
+          ],
+          "type": 8,
+          "info": "全属性提升了；开始吸取对手的体力了；攻击变得更犀利了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29415,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "痴行片像",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            191,
+            1400,
+            1389,
+            1624
+          ],
+          "side_effect_arg": [
+            4,
+            3,
+            100,
+            2,
+            3,
+            100,
+            22,
+            2
+          ],
+          "type": 8,
+          "info": "开始免疫并反弹受到的异常状态了；自身的回合类效果与能力提升状态得到了保护；附加了异常状态",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29416,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "虚话惘思",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            1001,
+            1924,
+            843
+          ],
+          "side_effect_arg": [
+            1,
+            4,
+            300,
+            2,
+            2
+          ],
+          "type": 8,
+          "info": "全属性提升了；开始恢复体力了；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
           "atk_type": 0,
           "category": 1,
           "crit_rate": 0,
@@ -764578,6 +764709,186 @@
             30
           ],
           "type": 80,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38474,
+          "max_pp": 20,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "金属缠绕",
+          "power": 85,
+          "priority": 3,
+          "side_effect": [
+            1207,
+            1565
+          ],
+          "side_effect_arg": [
+            1,
+            1,
+            3,
+            1
+          ],
+          "type": 126,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38475,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "噗纽充能拳",
+          "power": 150,
+          "priority": 0,
+          "side_effect": [
+            797,
+            681,
+            843
+          ],
+          "side_effect_arg": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "type": 126,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38476,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "噗纽舍身拳",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            1185,
+            1161,
+            1843
+          ],
+          "side_effect_arg": [
+            2,
+            3,
+            100,
+            500,
+            80,
+            19
+          ],
+          "type": 126,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38477,
+          "max_pp": 20,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "争言",
+          "power": 85,
+          "priority": 3,
+          "side_effect": [
+            1012,
+            833
+          ],
+          "side_effect_arg": [
+            300,
+            3
+          ],
+          "type": 101,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 50,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38478,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "自诉败笔",
+          "power": 90,
+          "priority": 0,
+          "side_effect": [
+            180,
+            33,
+            1605,
+            2126
+          ],
+          "side_effect_arg": [
+            100,
+            22
+          ],
+          "type": 101,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38479,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "思途执枉",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            2363,
+            2038,
+            1878,
+            1777
+          ],
+          "side_effect_arg": [
+            41,
+            41,
+            41,
+            3,
+            70,
+            6
+          ],
+          "type": 101,
           "info": "",
           "ordinary": 0
         },

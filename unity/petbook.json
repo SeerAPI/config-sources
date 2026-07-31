@@ -1414,8 +1414,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4925,
-            "image_id": 4925,
+            "id": 4927,
+            "image_id": 4927,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1425,33 +1425,11 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4926,
-            "image_id": 4926,
+            "id": 4928,
+            "image_id": 4928,
             "label": 0,
             "mon_id": 0,
             "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 858,
-            "image_id": 1400858,
-            "label": 0,
-            "mon_id": 4633,
-            "type": 1
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 859,
-            "image_id": 1400859,
-            "label": 0,
-            "mon_id": 3506,
-            "type": 1
           }
         ]
       }
@@ -26510,7 +26488,7 @@
       {
         "def_name": "锢灵·舞",
         "features": "被复仇之力附身，稚嫩的声音背后挥舞着可以束缚灵魂和力量的锁链！",
-        "target": "",
+        "target": "150137",
         "id": 4208
       },
       {
@@ -30802,6 +30780,18 @@
         "features": "没错，酷酷鲨真的很酷。",
         "target": "114105",
         "id": 4926
+      },
+      {
+        "def_name": "超级噗纽",
+        "features": "米罗博士自研的防卫型机器人，核心处理器由噗纽升级而来。",
+        "target": "153201/956",
+        "id": 4927
+      },
+      {
+        "def_name": "维克佐斯",
+        "features": "2026年包月精灵，万象录之《励精图治之人》。他是大众眼中的引路人，汇聚多方思想为大家代言。但在灾难之后，被无数扭曲的灵魂缠身，变成了一具狰狞的怪物。",
+        "target": "121000",
+        "id": 4928
       }
     ],
     "rec_mintmark": {

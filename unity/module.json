@@ -6139,6 +6139,27 @@
       "is_full_screen": 1,
       "module_name": "autocardYoyo",
       "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1185,
+      "is_full_screen": 1,
+      "module_name": "treasureOfKukuSharkPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1186,
+      "is_full_screen": 1,
+      "module_name": "getthirteenskins",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1187,
+      "is_full_screen": 1,
+      "module_name": "autoCardActivityKaijia",
+      "res_config": []
     }
   ]
 }
