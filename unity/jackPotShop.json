@@ -174,9 +174,9 @@
           "shopkind": 1
         },
         {
-          "product_name": "墨甲·霸下",
+          "product_name": "炼神魔影",
           "product_id": [
-            2791,
+            3091,
             34174,
             5566,
             41817
@@ -191,9 +191,9 @@
           "shopkind": 1
         },
         {
-          "product_name": "晶甲·暴岩",
+          "product_name": "邪厄魔狂",
           "product_id": [
-            2799,
+            3108,
             34174,
             5566,
             41817
@@ -454,7 +454,7 @@
             3926
           ],
           "batch": 20,
-          "endtime": 20241231,
+          "endtime": 20281231,
           "exchange_id": 13982,
           "forever": 0,
           "id": 20274,
@@ -469,7 +469,7 @@
             3927
           ],
           "batch": 20,
-          "endtime": 20241231,
+          "endtime": 20281231,
           "exchange_id": 13983,
           "forever": 0,
           "id": 20275,
@@ -484,7 +484,7 @@
             3935
           ],
           "batch": 20,
-          "endtime": 20241231,
+          "endtime": 20281231,
           "exchange_id": 13984,
           "forever": 0,
           "id": 20276,
@@ -499,7 +499,7 @@
             3961
           ],
           "batch": 20,
-          "endtime": 20241231,
+          "endtime": 20281231,
           "exchange_id": 14001,
           "forever": 0,
           "id": 20277,
@@ -514,7 +514,7 @@
             3962
           ],
           "batch": 20,
-          "endtime": 20241231,
+          "endtime": 20281231,
           "exchange_id": 14002,
           "forever": 0,
           "id": 20278,
@@ -529,7 +529,7 @@
             3966
           ],
           "batch": 20,
-          "endtime": 20241231,
+          "endtime": 20281231,
           "exchange_id": 14003,
           "forever": 0,
           "id": 20279,
@@ -574,7 +574,7 @@
             3895
           ],
           "batch": 20,
-          "endtime": 20231231,
+          "endtime": 20281231,
           "exchange_id": 14006,
           "forever": 0,
           "id": 20282,
@@ -589,7 +589,7 @@
             4017
           ],
           "batch": 20,
-          "endtime": 20261231,
+          "endtime": 20281231,
           "exchange_id": 13985,
           "forever": 0,
           "id": 20283,
@@ -604,7 +604,7 @@
             4082
           ],
           "batch": 20,
-          "endtime": 20261231,
+          "endtime": 20281231,
           "exchange_id": 13986,
           "forever": 0,
           "id": 20284,
@@ -619,7 +619,7 @@
             4116
           ],
           "batch": 20,
-          "endtime": 20261231,
+          "endtime": 20281231,
           "exchange_id": 13987,
           "forever": 0,
           "id": 20285,
@@ -634,7 +634,7 @@
             4155
           ],
           "batch": 20,
-          "endtime": 20261231,
+          "endtime": 20281231,
           "exchange_id": 13988,
           "forever": 0,
           "id": 20286,
@@ -649,7 +649,7 @@
             4165
           ],
           "batch": 20,
-          "endtime": 20261231,
+          "endtime": 20281231,
           "exchange_id": 13989,
           "forever": 0,
           "id": 20287,
@@ -664,7 +664,7 @@
             3745
           ],
           "batch": 20,
-          "endtime": 20261231,
+          "endtime": 20281231,
           "exchange_id": 13990,
           "forever": 0,
           "id": 20288,
@@ -679,7 +679,7 @@
             3947
           ],
           "batch": 20,
-          "endtime": 20261231,
+          "endtime": 20281231,
           "exchange_id": 13991,
           "forever": 0,
           "id": 20289,
@@ -694,7 +694,7 @@
             3953
           ],
           "batch": 20,
-          "endtime": 20261231,
+          "endtime": 20281231,
           "exchange_id": 13993,
           "forever": 0,
           "id": 20290,
@@ -709,18 +709,93 @@
             3845
           ],
           "batch": 20,
-          "endtime": 20261231,
+          "endtime": 20281231,
           "exchange_id": 13994,
           "forever": 0,
           "id": 20291,
           "opentime": 20230505,
           "product_price": 1,
           "shopkind": 5
+        },
+        {
+          "product_name": "魂王·暗翼影因子*35",
+          "product_id": [
+            2400448,
+            3833
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13972,
+          "forever": 0,
+          "id": 20292,
+          "opentime": 20241122,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "魂王·无烬梦因子*35",
+          "product_id": [
+            2400449,
+            3830
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13973,
+          "forever": 0,
+          "id": 20293,
+          "opentime": 20241122,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "伽玛·鬼雀因子*35",
+          "product_id": [
+            2400181,
+            3887
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13974,
+          "forever": 0,
+          "id": 20294,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "伽玛·夜煞因子*35",
+          "product_id": [
+            2400182,
+            3893
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13975,
+          "forever": 0,
+          "id": 20295,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
+        },
+        {
+          "product_name": "伽玛·悍刀因子*35",
+          "product_id": [
+            2400183,
+            3876
+          ],
+          "batch": 20,
+          "endtime": 20281231,
+          "exchange_id": 13976,
+          "forever": 0,
+          "id": 20296,
+          "opentime": 20220114,
+          "product_price": 1,
+          "shopkind": 5
         }
       ],
-      "endday": "8/7",
-      "endtime": "2026/8/7",
-      "openday": "7/3"
+      "endday": "9/11",
+      "endtime": "2026/9/11",
+      "openday": "8/7"
     }
   }
 }

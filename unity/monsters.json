@@ -638735,6 +638735,294 @@
         "vip": 0
       },
       {
+        "def_name": "鬼地行者",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38482,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 11141,
+              "learning_lv": 1,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20276,
+              "learning_lv": 5,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10705,
+              "learning_lv": 9,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10703,
+              "learning_lv": 13,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20565,
+              "learning_lv": 17,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38480,
+              "learning_lv": 21,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 11147,
+              "learning_lv": 25,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20566,
+              "learning_lv": 29,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 11143,
+              "learning_lv": 33,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 18055,
+              "learning_lv": 37,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 24416,
+              "learning_lv": 41,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 18056,
+              "learning_lv": 45,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 24417,
+              "learning_lv": 49,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29417,
+              "learning_lv": 53,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 24418,
+              "learning_lv": 57,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29418,
+              "learning_lv": 61,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38481,
+              "learning_lv": 71,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 133,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 120,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 1,
+        "hp": 172,
+        "id": 4929,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3590,
+        "real_id": 0,
+        "sp_atk": 70,
+        "sp_def": 120,
+        "spd": 120,
+        "support": 0,
+        "transform": 0,
+        "type": 96,
+        "vip": 0
+      },
+      {
+        "def_name": "帝皇铠甲",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38485,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38483,
+              "learning_lv": 1,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 29419,
+              "learning_lv": 5,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 29420,
+              "learning_lv": 9,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38484,
+              "learning_lv": 13,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 151,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 115,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 1,
+        "hp": 172,
+        "id": 4930,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3591,
+        "real_id": 0,
+        "sp_atk": 70,
+        "sp_def": 115,
+        "spd": 137,
+        "support": 0,
+        "transform": 0,
+        "type": 221,
+        "vip": 0
+      },
+      {
+        "def_name": "炎龙铠甲",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38488,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38486,
+              "learning_lv": 1,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 29421,
+              "learning_lv": 5,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 29422,
+              "learning_lv": 9,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38487,
+              "learning_lv": 13,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 149,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 114,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 1,
+        "hp": 167,
+        "id": 4931,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3592,
+        "real_id": 0,
+        "sp_atk": 70,
+        "sp_def": 114,
+        "spd": 136,
+        "support": 0,
+        "transform": 0,
+        "type": 28,
+        "vip": 0
+      },
+      {
         "def_name": "圣灵谱尼",
         "extra_moves": {
           "adv_move": [],
@@ -715312,6 +715600,36 @@
         "vip": 0
       },
       {
+        "def_name": "帝皇驹",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1301170,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
         "def_name": "漆墨白羽",
         "extra_moves": null,
         "learnable_moves": null,
@@ -740953,6 +741271,66 @@
         "is_ride_pet": 0,
         "pet_class": 0,
         "real_id": 2354,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "天极圣临·帝皇铠甲",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400860,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "星海幻梦·青啼",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400861,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 0,
         "sp_atk": 0,
         "sp_def": 0,
         "spd": 0,

@@ -14780,8 +14780,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "数典追源·兰蒂斯",
         "skin_kind": [
           {
@@ -14793,13 +14793,13 @@
           }
         ],
         "id": 823,
-        "jump_target": 204000,
+        "jump_target": 0,
         "mon_id": 3686,
         "type": 15
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "四音希声·喧云",
         "skin_kind": [
           {
@@ -14811,7 +14811,7 @@
           }
         ],
         "id": 824,
-        "jump_target": 202000,
+        "jump_target": 0,
         "mon_id": 4895,
         "type": 3
       },
@@ -15302,8 +15302,8 @@
         "type": 0
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "风起流沙·阿莱克托",
         "skin_kind": [
           {
@@ -15315,13 +15315,13 @@
           }
         ],
         "id": 852,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 4200,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "珍珠泡泡·星礼",
         "skin_kind": [
           {
@@ -15333,13 +15333,13 @@
           }
         ],
         "id": 853,
-        "jump_target": 114106,
+        "jump_target": 0,
         "mon_id": 4840,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "龙渊镇座·乔特鲁德",
         "skin_kind": [
           {
@@ -15351,7 +15351,7 @@
           }
         ],
         "id": 854,
-        "jump_target": 114107,
+        "jump_target": 0,
         "mon_id": 4186,
         "type": 18
       },
@@ -15410,8 +15410,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "深渊诡影·克劳里菲",
         "skin_kind": [
           {
@@ -15423,13 +15423,13 @@
           }
         ],
         "id": 858,
-        "jump_target": 114108,
+        "jump_target": 0,
         "mon_id": 4633,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "波塞冬",
         "skin_kind": [
           {
@@ -15441,9 +15441,45 @@
           }
         ],
         "id": 859,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 3506,
         "type": 0
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "天极圣临·帝皇铠甲",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 26,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 860,
+        "jump_target": 114122,
+        "mon_id": 4930,
+        "type": 18
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "星海幻梦·青啼",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 26,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 861,
+        "jump_target": 2,
+        "mon_id": 4378,
+        "type": 3
       }
     ]
   }

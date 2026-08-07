@@ -5448,6 +5448,20 @@
       "res_config": []
     },
     {
+      "curr_app_do": 0,
+      "id": 899,
+      "is_full_screen": 0,
+      "module_name": "getDhkj",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 900,
+      "is_full_screen": 0,
+      "module_name": "getDhkjSkin",
+      "res_config": []
+    },
+    {
       "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
@@ -6159,6 +6173,48 @@
       "id": 1187,
       "is_full_screen": 1,
       "module_name": "autoCardActivityKaijia",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1188,
+      "is_full_screen": 1,
+      "module_name": "activityDuel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1189,
+      "is_full_screen": 1,
+      "module_name": "getDragonManPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1190,
+      "is_full_screen": 1,
+      "module_name": "armorHeroBattlePassMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1191,
+      "is_full_screen": 1,
+      "module_name": "kaijiayongshiEmoji",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1192,
+      "is_full_screen": 0,
+      "module_name": "kjysyypanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1193,
+      "is_full_screen": 0,
+      "module_name": "kaijiayongshiFramePanel",
       "res_config": []
     }
   ]

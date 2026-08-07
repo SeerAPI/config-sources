@@ -1414,8 +1414,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4927,
-            "image_id": 4927,
+            "id": 4929,
+            "image_id": 4929,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1425,11 +1425,44 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4928,
-            "image_id": 4928,
+            "id": 4930,
+            "image_id": 4930,
             "label": 0,
             "mon_id": 0,
             "type": 0
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 4931,
+            "image_id": 4931,
+            "label": 0,
+            "mon_id": 0,
+            "type": 0
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 860,
+            "image_id": 1400860,
+            "label": 0,
+            "mon_id": 4930,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 861,
+            "image_id": 1400861,
+            "label": 0,
+            "mon_id": 4378,
+            "type": 1
           }
         ]
       }
@@ -30754,7 +30787,7 @@
       {
         "def_name": "天堂极龙兽",
         "features": "传说中的神兽自天堂来袭，这一次它必将终结所有罪恶!",
-        "target": "114116",
+        "target": "",
         "id": 4921
       },
       {
@@ -30778,7 +30811,7 @@
       {
         "def_name": "酷酷鲨",
         "features": "没错，酷酷鲨真的很酷。",
-        "target": "114105",
+        "target": "",
         "id": 4926
       },
       {
@@ -30792,6 +30825,24 @@
         "features": "2026年包月精灵，万象录之《励精图治之人》。他是大众眼中的引路人，汇聚多方思想为大家代言。但在灾难之后，被无数扭曲的灵魂缠身，变成了一具狰狞的怪物。",
         "target": "121000",
         "id": 4928
+      },
+      {
+        "def_name": "鬼地行者",
+        "features": "被虚空淬成的议会利刃，沉默地执行每一条指令，也沉默地记着每一笔账。",
+        "target": "153201/959",
+        "id": 4929
+      },
+      {
+        "def_name": "帝皇铠甲",
+        "features": "集合五行力量，五行万物般的终极威力，由五套光影铠甲组合而成的光之铠甲所诞生的最强战士，能依靠太阳的力量巨大化。",
+        "target": "114120",
+        "id": 4930
+      },
+      {
+        "def_name": "炎龙铠甲",
+        "features": "由召唤人和火之炎龙铠甲合体而成的战士。五行中属火，战斗风格为在近距离以拳击与对方进行格斗战。",
+        "target": "114123",
+        "id": 4931
       }
     ],
     "rec_mintmark": {

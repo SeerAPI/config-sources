@@ -22791,7 +22791,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=iconHit]双方场上的[color=#f35555]五行印记[/color]每剩余{0}回合，[color=#52a5f2]己方[/color]{1}回合内免疫[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]",
         "info": "双方场上的五行印记每剩余{0}回合，己方{1}回合内免疫固定伤害、百分比伤害",
         "param": [],
         "args_num": 2,
@@ -22800,7 +22800,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手时，自身下[color=#52a5f2]回合开始[/color]时恢复最大体力的1/{0}并使自身下次攻击后附加恢复量{1}%的[color=#52a5f2]百分比伤害[/color]",
         "info": "击败对手时，自身下回合开始时恢复最大体力的1/{0}并使自身下次攻击后附加恢复量{1}%的百分比伤害",
         "param": [],
         "args_num": 2,
@@ -22809,25 +22809,33 @@
         "type": 0
       },
       {
-        "analyze": "",
-        "info": "{0}回合内若对手处于{1}则无法行动",
-        "param": [],
+        "analyze": "[sprite name=iconHit]{0}回合内若对手处于[color=#57c975]{1}[/color]则对手无法行动",
+        "info": "{0}回合内若对手处于{1}则对手无法行动",
+        "param": [
+          1,
+          1,
+          1
+        ],
         "args_num": 2,
         "id": 2529,
         "key": "",
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，未触发则解除自身所处的异常状态",
         "info": "{0}%令对手{1}，未触发则解除自身所处的异常状态",
-        "param": [],
+        "param": [
+          1,
+          1,
+          1
+        ],
         "args_num": 2,
         "id": 2530,
         "key": "",
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=iconHit]场上每有1种[color=#f35555]五行印记[/color]，自身造成的攻击伤害提升{0}%",
         "info": "场上每有1种五行印记，自身造成的攻击伤害提升{0}%",
         "param": [],
         "args_num": 1,
@@ -22836,7 +22844,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=iconHit]本场战斗[color=#52a5f2]己方[/color]精灵每在场下受到{0}点伤害，汲取对手{1}点体力恢复至[color=#52a5f2]己方[/color]不在场精灵，最高不超过对手最大体力的{2}%",
         "info": "本场战斗己方精灵每在场下受到{0}点伤害，汲取对手{1}点体力恢复至己方不在场精灵，最高不超过对手最大体力的{2}%",
         "param": [],
         "args_num": 3,
@@ -22845,9 +22853,13 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，未触发则恢复自身所有技能{2}点PP值",
         "info": "{0}%令对手{1}，未触发则恢复自身所有技能{2}点PP值",
-        "param": [],
+        "param": [
+          1,
+          1,
+          1
+        ],
         "args_num": 3,
         "id": 2533,
         "key": "",

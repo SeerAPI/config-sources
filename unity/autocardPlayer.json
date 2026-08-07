@@ -209,6 +209,48 @@
       "move_speed": 3,
       "rarity": 1,
       "stat": -1214218472
+    },
+    {
+      "action_1": "spact_1",
+      "action_2": "",
+      "action_3": "",
+      "book_action_1": "spact_1",
+      "book_action_2": "attack",
+      "book_action_3": "",
+      "des": "炎龙铠甲是拥有火焰力量的火之铠甲，其拥有的烈焰足以烧尽一切黑暗。",
+      "get_des": "群星牌相关活动获取",
+      "name": "炎龙铠甲",
+      "pos": "-10,0",
+      "resource": "yanlongxia",
+      "skin_name": "经典之作",
+      "tag": "2_经典",
+      "id": 11,
+      "jumpinfo": 510001,
+      "max_level": 0,
+      "move_speed": 3,
+      "rarity": 1,
+      "stat": -1214218471
+    },
+    {
+      "action_1": "spact_1",
+      "action_2": "spact_2",
+      "action_3": "",
+      "book_action_1": "spact_1,spact_2",
+      "book_action_2": "attack,attack_sp",
+      "book_action_3": "",
+      "des": "帝皇铠甲是拥有五行力量的终极铠甲，帝皇铠甲所到之处，一切黑暗将无所遁形。",
+      "get_des": "群星牌相关活动获取",
+      "name": "帝皇铠甲",
+      "pos": "-10,0",
+      "resource": "dihuangxia",
+      "skin_name": "经典之作",
+      "tag": "4_史诗",
+      "id": 12,
+      "jumpinfo": 510001,
+      "max_level": 0,
+      "move_speed": 3,
+      "rarity": 2,
+      "stat": -1214218470
     }
   ]
 }

@@ -2,6 +2,10 @@
   "unbind_activity": {
     "unbindmintinfo": [
       {
+        "mintmark_id": 42716,
+        "need_consume_num": 348
+      },
+      {
         "mintmark_id": 42691,
         "need_consume_num": 348
       },

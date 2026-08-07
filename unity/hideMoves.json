@@ -13292,6 +13292,24 @@
         "pet_id": 4928
       },
       {
+        "move_id": 38482,
+        "move_name1": "狂沙",
+        "move_name2": "行者破",
+        "pet_id": 4929
+      },
+      {
+        "move_id": 38485,
+        "move_name1": "帝皇降魔",
+        "move_name2": "歼灭斩",
+        "pet_id": 4930
+      },
+      {
+        "move_id": 38488,
+        "move_name1": "封魔",
+        "move_name2": "斩",
+        "pet_id": 4931
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",
