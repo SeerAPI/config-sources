@@ -2214,7 +2214,9 @@
 		<item moveId="38473" petId="4004" moveName1="王" moveName2="圣鸣净界"/>
 		<item moveId="38476" petId="4927" moveName1="噗纽" moveName2="舍身拳"/>
 		<item moveId="38479" petId="4928" moveName1="思途" moveName2="执枉"/>
-
+		<item moveId="38482" petId="4929" moveName1="狂沙" moveName2="行者破"/>
+		<item moveId="38485" petId="4930" moveName1="帝皇降魔" moveName2="歼灭斩"/>
+		<item moveId="38488" petId="4931" moveName1="封魔" moveName2="斩"/>
 
 		<item moveId="31143" petId="5000" moveName1="神灵" moveName2="救世光"/>
 

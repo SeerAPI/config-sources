@@ -213,9 +213,9 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4927" ImageID= "4927" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4928" ImageID= "4928" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <!-- <place type= "0" ID="4921" ImageID= "4921" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "0" ID="4929" ImageID= "4929" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4930" ImageID= "4930" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4931" ImageID= "4931" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4910" ImageID= "4910" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4911" ImageID= "4911" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,8 +255,8 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <!-- <place type= "1" ID="858" monID="4633" ImageID= "1400858" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
-      <!-- <place type= "1" ID="859" monID="3506" ImageID= "1400859" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "1" ID="860" monID="4930" ImageID= "1400860" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="861" monID="4378" ImageID= "1400861" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "1" ID="856" monID="4657" ImageID= "1400856" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="857" monID="3488" ImageID= "1400857" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="847" monID="4911" ImageID= "1400846" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -5220,12 +5220,15 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4918" DefName="波比提尔" Type="暗影 水" Height="157" Weight="40" Features="2026年包月精灵，万象录之《追求自我之人》。因执念而生的顶尖人偶师，为了追求极致的艺术而改造自身，最终灵魂化为人偶，在废墟中献上永不谢幕的演出。" Redirect="module" Go="app/FinalActivityPanel" Target="121000"/>
 	<Monster ID="4919" DefName="卡鲁维德" Type="虚空" Height="162" Weight="80" Features="由卡鲁克斯被虚空能量污染并改造而来。退化了相当程度的智能，眼中只有杀戮和对主人的服从。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/942"/>
 	<Monster ID="4920" DefName="弗勒克斯" Type="冰 火" Height="174" Weight="57" Features="为了维护正义，勇敢的游侠独自完成了对自我的改造，双枪的配合给予了他更强的火力。" Redirect="module" Go="app/FinalActivityPanel" Target="113026"/>
-	<Monster ID="4921" DefName="天堂极龙兽" Type="圣灵 光" Height="400" Weight="385" Features="传说中的神兽自天堂来袭，这一次它必将终结所有罪恶!" Redirect="module" Go="app/FinalActivityPanel" Target="114116"/>
+	<Monster ID="4921" DefName="天堂极龙兽" Type="圣灵 光" Height="400" Weight="385" Features="传说中的神兽自天堂来袭，这一次它必将终结所有罪恶!" />
 	<Monster ID="4922" DefName="墟婆" Type="自然 神秘" Height="176" Weight="52" Features="墟婆，大墟泽的管理者。在玄武仍然在世的时候，墟婆就是玄武信仰最为虔诚的追随者。玄武死后，她一直守护着墟冢，守护者玄武的遗产。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/950"/>
 	<Monster ID="4923" DefName="莫缇" Type="地面 机械" Height="171" Weight="45" Features="魔盒的预言，似乎否定了她的价值、她的一切。但若是因此而退却，此后的半生便与走肉无异。这座都市不会只是泡影，纵使终会直面一切的坍塌，至少，让这片钢铁的森林成为指向云端之上的天枪。" Redirect="module" Go="app/FinalActivityPanel" Target="200000"/>
 	<Monster ID="4925" DefName="米罗博士" Type="草 超能" Height="146" Weight="39" Features="Λ组织二号舰穆宁号的驻舰科学官，超古代文明遗迹专家，奉命支援三号舰的玄武复活计划。她的科研空间站位于赫尔卡星的同步轨道，是玄武复活计划的核心人员之一。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/953"/>
-	<Monster ID="4926" DefName="酷酷鲨" Type="水 神秘" Height="119" Weight="27" Features="没错，酷酷鲨真的很酷。" Redirect="module" Go="app/FinalActivityPanel" Target="114105"/>
+	<Monster ID="4926" DefName="酷酷鲨" Type="水 神秘" Height="119" Weight="27" Features="没错，酷酷鲨真的很酷。" />
 	<Monster ID="4927" DefName="超级噗纽" Type="草 机械" Height="156" Weight="97" Features="米罗博士自研的防卫型机器人，核心处理器由噗纽升级而来。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/956"/>
 	<Monster ID="4928" DefName="维克佐斯" Type="火 暗影" Height="175" Weight="42" Features="2026年包月精灵，万象录之《励精图治之人》。他是大众眼中的引路人，汇聚多方思想为大家代言。但在灾难之后，被无数扭曲的灵魂缠身，变成了一具狰狞的怪物。" Redirect="module" Go="app/FinalActivityPanel" Target="121000"/>
+	<Monster ID="4929" DefName="鬼地行者" Type="混沌 地面" Height="190" Weight="100" Features="被虚空淬成的议会利刃，沉默地执行每一条指令，也沉默地记着每一笔账。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/959"/>
+	<Monster ID="4930" DefName="帝皇铠甲" Type="王" Height="183" Weight="55" Features="集合五行力量，五行万物般的终极威力，由五套光影铠甲组合而成的光之铠甲所诞生的最强战士，能依靠太阳的力量巨大化。" Redirect="module" Go="app/FinalActivityPanel" Target="114120"/>
+	<Monster ID="4931" DefName="炎龙铠甲" Type="火 龙" Height="178" Weight="51" Features="由召唤人和火之炎龙铠甲合体而成的战士。五行中属火，战斗风格为在近距离以拳击与对方进行格斗战。" Redirect="module" Go="app/FinalActivityPanel" Target="114123"/>
 
 </root>

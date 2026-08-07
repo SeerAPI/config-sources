@@ -10,6 +10,15 @@
 -->
 <Root>
 	<UnbindActivity CurStage="1" >
+
+		<!--以下为铠甲勇士系列-->
+        <Unbindmintinfo MintmarkID="42716" NeedConsumeID="1724169" NeedConsumeNum="348" NewMsglogId=""/>
+		<!--0814更新-->
+
+
+
+
+
 		<!--以下为赤洲龙子系列-->
         <Unbindmintinfo MintmarkID="42691" NeedConsumeID="1724169" NeedConsumeNum="348" NewMsglogId=""/>
         <Unbindmintinfo MintmarkID="42692" NeedConsumeID="1724169" NeedConsumeNum="348" NewMsglogId=""/>

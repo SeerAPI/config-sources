@@ -2776,11 +2776,11 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
-	<Skin ID="823" MonID="3686" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="数典追源·兰蒂斯" Go="app/FinalActivityPanel" GoType="module" Jumptarget="204000">
+	<Skin ID="823" MonID="3686" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="数典追源·兰蒂斯" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="15"/>
 	</Skin>
 
-	<Skin ID="824" MonID="4895" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="四音希声·喧云" Go="app/FinalActivityPanel" GoType="module" Jumptarget="202000">
+	<Skin ID="824" MonID="4895" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="四音希声·喧云" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2026"/>
 	</Skin>
 	
@@ -2892,15 +2892,15 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="852" MonID="4200" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="风起流沙·阿莱克托" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+	<Skin ID="852" MonID="4200" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="风起流沙·阿莱克托" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="853" MonID="4840" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="珍珠泡泡·星礼" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114106">
+	<Skin ID="853" MonID="4840" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="珍珠泡泡·星礼" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="26"/>
 	</Skin>
 
-	<Skin ID="854" MonID="4186" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="龙渊镇座·乔特鲁德" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114107">
+	<Skin ID="854" MonID="4186" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="龙渊镇座·乔特鲁德" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="26"/>
 	</Skin>
 
@@ -2916,12 +2916,20 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-    <Skin ID="858" MonID="4633" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="深渊诡影·克劳里菲" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114108">
+    <Skin ID="858" MonID="4633" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="深渊诡影·克劳里菲" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="26"/>
 	</Skin>
 
-    <Skin ID="859" MonID="3506" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""  Name="波塞冬" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+    <Skin ID="859" MonID="3506" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""  Name="波塞冬" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
+    <Skin ID="860" MonID="4930" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="天极圣临·帝皇铠甲" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114122">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="26"/>
+	</Skin>
+
+    <Skin ID="861" MonID="4378" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="星海幻梦·青啼" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="26"/>
 	</Skin>
 
 	<!-- <Skin ID="000" MonID="000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="复制模版"> -->

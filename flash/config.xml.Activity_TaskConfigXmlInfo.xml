@@ -405,4 +405,10 @@
 	<item id="542" activityid="33" activityname="艾欧丽娅的试炼" describe="累计达成过3种试炼条件" value="3" time="0" timelimit="1" timestart="1781229600" timeend="1783044000" rewardinfo="1_300810_2" userinfo="152077" userbitbuf2="152078_4" />
 	<item id="543" activityid="33" activityname="艾欧丽娅的试炼" describe="累计试炼进度达到10点" value="10" time="0" timelimit="1" timestart="1781229600" timeend="1783044000" rewardinfo="6_846_1" userinfo="152076" userbitbuf2="152078_5" />
 	<item id="544" activityid="33" activityname="艾欧丽娅的试炼" describe="累计试炼进度达到20点" value="20" time="0" timelimit="1" timestart="1781229600" timeend="1783044000" rewardinfo="6_847_1" userinfo="152076" userbitbuf2="152078_6" />
+	<item id="545" activityid="34" activityname="决战紫禁之巅" describe="通关5个简单难度" value="5" time="0" timelimit="1" timestart="1786068000" timeend="1788487200" rewardinfo="1_1723855_15000" userinfo="152153" userbitbuf2="152104_1" />
+	<item id="546" activityid="34" activityname="决战紫禁之巅" describe="通关5个中等难度" value="5" time="0" timelimit="1" timestart="1786068000" timeend="1788487200" rewardinfo="1_1301166_1" userinfo="152154" userbitbuf2="152104_2" />
+	<item id="547" activityid="34" activityname="决战紫禁之巅" describe="通关5个专家难度" value="5" time="0" timelimit="1" timestart="1786068000" timeend="1788487200" rewardinfo="1_1723855_20000" userinfo="152155" userbitbuf2="152104_3" />
+	<item id="548" activityid="34" activityname="决战紫禁之巅" describe="完成3场决战" value="3" time="0" timelimit="1" timestart="1786068000" timeend="1788487200" rewardinfo="1_1723855_10000" userinfo="152105" userbitbuf2="152104_4" />
+	<item id="549" activityid="34" activityname="决战紫禁之巅" describe="完成5场决战" value="5" time="0" timelimit="1" timestart="1786068000" timeend="1788487200" rewardinfo="1_1723855_10000" userinfo="152105" userbitbuf2="152104_5" />
+	<item id="550" activityid="34" activityname="决战紫禁之巅" describe="完成10场决战" value="10" time="0" timelimit="1" timestart="1786068000" timeend="1788487200" rewardinfo="1_1723855_20000" userinfo="152105" userbitbuf2="152104_6" />
 </root>

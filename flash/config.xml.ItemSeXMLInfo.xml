@@ -1358,6 +1358,27 @@ AddArgs：       背包展示套装增加的属性：0 固定值  1 百分比  �
 		<Rank Lv="1" Attribute="0 0 0 0 0 0" AddWay="1" BattleLv="0 0 0 0 0 0" OtherAttribute="0 0 0" EffectID="" EffectArgs=""  Desc=""/>
 	</Equip>
 	
+	
+	<Equip ID="347" ItemID="1301167" Quality="3" Occasion="0" Part="0" Target="0" MonID="0" SuitID="479" SuitNewseId="7773" AddArgs="0 60 60 60 60 60 0" Name="帝皇战甲头盔" Desc="己方精灵攻击+60、特攻+60、防御+60、特防+60、速度+60 (所有对战有效)">
+		<Rank Lv="0" Attribute="0 0 0 0 0 0" AddWay="1" BattleLv="0 0 0 0 0 0" OtherAttribute="0 0 0" EffectID="" EffectArgs=""  Desc=""/>
+	</Equip>
+	<Equip ID="348" ItemID="1301168" Quality="3" Occasion="0" Part="3" Target="0" MonID="0" SuitID="479" SuitNewseId="7773" AddArgs="0 60 60 60 60 60 0" Name="帝皇战甲臂铠" Desc="己方精灵攻击+60、特攻+60、防御+60、特防+60、速度+60 (所有对战有效)">
+		<Rank Lv="1" Attribute="0 0 0 0 0 0" AddWay="1" BattleLv="0 0 0 0 0 0" OtherAttribute="0 0 0" EffectID="" EffectArgs=""  Desc=""/>
+	</Equip>
+	<Equip ID="349" ItemID="1301169" Quality="3" Occasion="0" Part="4" Target="0" MonID="0" SuitID="479" SuitNewseId="7773" AddArgs="0 60 60 60 60 60 0" Name="帝皇战甲战靴" Desc="己方精灵攻击+60、特攻+60、防御+60、特防+60、速度+60 (所有对战有效)">
+		<Rank Lv="1" Attribute="0 0 0 0 0 0" AddWay="1" BattleLv="0 0 0 0 0 0" OtherAttribute="0 0 0" EffectID="" EffectArgs=""  Desc=""/>
+	</Equip>
+	
+	<Equip ID="350" ItemID="1301165" Quality="3" Occasion="0" Part="1" Target="0" MonID="" SuitID="" SuitEffectID="" SuitEffectArgs="" Name="炎龙腰带"  Desc="己方精灵防御+50、特防+50 (所有对战有效)">
+		<Rank Lv="0" Attribute="0 0 50 0 50 0" AddWay="0" BattleLv="0 0 0 0 0 0" OtherAttribute="0 0 0" EffectID="" EffectArgs=""  Desc="己方精灵防御+50、特防+50 (所有对战有效)"/>
+	</Equip>	
+	
+	<Equip ID="351" ItemID="1301166" Quality="3" Occasion="0" Part="1" Target="0" MonID="" SuitID="" SuitEffectID="" SuitEffectArgs="" Name="帝皇铠甲腰带"  Desc="己方精灵体力+10%(所有对战有效)">
+		<Rank Lv="0" Attribute="10 0 0 0 0 0" AddWay="1" BattleLv="0 0 0 0 0 0" OtherAttribute="0 0 0" EffectID="" EffectArgs=""  Desc="己方精灵体力+110 (所有对战有效)"/>
+	</Equip>	
+	
+
+
 </Equips>
 
 	<!--petInfo.attack, petInfo.defence, petInfo.s_a, petInfo.s_d, petInfo.speed, petInfo.maxHp-->

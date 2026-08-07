@@ -2366,13 +2366,13 @@
 	<Effect id="2524" argsNum="0" info="伤害结算时，若对手处于能力提升状态，则将对手攻击、特攻中的最高值计入自身此技能类型对应的属性值" analyze="[sprite name=iconInherent]伤害结算时，若对手处于能力提升状态，则将对手攻击、特攻中的最高值计入自身此技能类型对应的属性值"/>
 	<Effect id="2525" argsNum="0" info="战斗开始时，为己方设下四象门" analyze="[sprite name=iconInherent]战斗开始时，为己方设下[color=#f35555]四象门[/color]"/>
 	<Effect id="2526" argsNum="0" info="战斗开始时，为自身召唤1具咽咎尸骸，自身登场时，令双方1只阵亡精灵消逝以召唤1具咽咎尸骸" analyze="[sprite name=iconInherent]战斗开始时，为自身召唤1具咽咎尸骸，自身登场时，令双方1只阵亡精灵消逝以召唤1具[color=#f35555]咽咎尸骸[/color]"/>
-	<Effect id="2527" argsNum="2" info="双方场上的五行印记每剩余{0}回合，己方{1}回合内免疫固定伤害、百分比伤害" analyze=""/>
-	<Effect id="2528" argsNum="2" info="击败对手时，自身下回合开始时恢复最大体力的1/{0}并使自身下次攻击后附加恢复量{1}%的百分比伤害" analyze=""/>
-	<Effect id="2529" argsNum="2" info="{0}回合内若对手处于{1}则无法行动" analyze=""/>
-	<Effect id="2530" argsNum="2" info="{0}%令对手{1}，未触发则解除自身所处的异常状态" analyze=""/>
-	<Effect id="2531" argsNum="1" info="场上每有1种五行印记，自身造成的攻击伤害提升{0}%" analyze=""/>
-	<Effect id="2532" argsNum="3" info="本场战斗己方精灵每在场下受到{0}点伤害，汲取对手{1}点体力恢复至己方不在场精灵，最高不超过对手最大体力的{2}%" analyze=""/>
-	<Effect id="2533" argsNum="3" info="{0}%令对手{1}，未触发则恢复自身所有技能{2}点PP值" analyze=""/>
+	<Effect id="2527" argsNum="2" info="双方场上的五行印记每剩余{0}回合，己方{1}回合内免疫固定伤害、百分比伤害" analyze="[sprite name=iconHit]双方场上的[color=#f35555]五行印记[/color]每剩余{0}回合，[color=#52a5f2]己方[/color]{1}回合内免疫[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]"/>
+	<Effect id="2528" argsNum="2" info="击败对手时，自身下回合开始时恢复最大体力的1/{0}并使自身下次攻击后附加恢复量{1}%的百分比伤害" analyze="[sprite name=iconHit][color=#57c975]击败[/color]对手时，自身下[color=#52a5f2]回合开始[/color]时恢复最大体力的1/{0}并使自身下次攻击后附加恢复量{1}%的[color=#52a5f2]百分比伤害[/color]"/>
+	<Effect id="2529" argsNum="2" info="{0}回合内若对手处于{1}则对手无法行动" param="1,1,1" analyze="[sprite name=iconHit]{0}回合内若对手处于[color=#57c975]{1}[/color]则对手无法行动"/>
+	<Effect id="2530" argsNum="2" info="{0}%令对手{1}，未触发则解除自身所处的异常状态" param="1,1,1" analyze="[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，未触发则解除自身所处的异常状态"/>
+	<Effect id="2531" argsNum="1" info="场上每有1种五行印记，自身造成的攻击伤害提升{0}%" analyze="[sprite name=iconHit]场上每有1种[color=#f35555]五行印记[/color]，自身造成的攻击伤害提升{0}%"/>
+	<Effect id="2532" argsNum="3" info="本场战斗己方精灵每在场下受到{0}点伤害，汲取对手{1}点体力恢复至己方不在场精灵，最高不超过对手最大体力的{2}%" analyze="[sprite name=iconHit]本场战斗[color=#52a5f2]己方[/color]精灵每在场下受到{0}点伤害，汲取对手{1}点体力恢复至[color=#52a5f2]己方[/color]不在场精灵，最高不超过对手最大体力的{2}%"/>
+	<Effect id="2533" argsNum="3" info="{0}%令对手{1}，未触发则恢复自身所有技能{2}点PP值" param="1,1,1" analyze="[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，未触发则恢复自身所有技能{2}点PP值"/>
 	<Effect id="2534" argsNum="0" info="己方拥有蜃都之序时，若己方蜃都之序的转化顺序位于蜃都之理之后则不受PP值限制" analyze="[sprite name=iconInherent][color=#52a5f2]己方[/color]拥有[color=#f35555]蜃都之序[/color]时，若[color=#52a5f2]己方[/color][color=#f35555]蜃都之序[/color]的转化顺序位于[color=#f35555]蜃都之理[/color]之后则[color=#57c975]不受PP值限制[/color]"/>
 	<Effect id="2535" argsNum="0" info="己方拥有蜃都之源时，若己方蜃都之源的转化顺序位于蜃都之序之后则先制+1" analyze="[sprite name=iconInherent][color=#52a5f2]己方[/color]拥有[color=#f35555]蜃都之源[/color]时，若[color=#52a5f2]己方[/color][color=#f35555]蜃都之源[/color]的转化顺序位于[color=#f35555]蜃都之序[/color]之后则此[color=#52a5f2]技能先制[/color]+1"/>
 	<Effect id="2536" argsNum="0" info="己方拥有蜃都之逐时，若己方蜃都之逐的转化顺序位于蜃都之源之后则令对手冻伤" analyze="[sprite name=iconHit][color=#52a5f2]己方[/color]拥有[color=#f35555]蜃都之逐[/color]时，若[color=#52a5f2]己方[/color][color=#f35555]蜃都之逐[/color]的转化顺序位于[color=#f35555]蜃都之源[/color]之后则令对手[color=#57c975]冻伤[/color]"/>
