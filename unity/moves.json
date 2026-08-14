@@ -765715,7 +765715,7 @@
           "accuracy": 95,
           "atk_num": 0,
           "atk_type": 0,
-          "category": 1,
+          "category": 2,
           "crit_rate": 0,
           "friend_side_effect": [],
           "friend_side_effect_arg": [],
@@ -765753,7 +765753,7 @@
           "max_pp": 5,
           "mon_id": 0,
           "must_hit": 1,
-          "name": "神魔绝灭劈",
+          "name": "神魔灭绝劈",
           "power": 160,
           "priority": 0,
           "side_effect": [
