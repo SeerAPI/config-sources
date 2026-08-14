@@ -2905,7 +2905,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>
 
 	<Skin ID="855" MonID="4923" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="四合囚都·莫缇" Go="app/FinalActivityPanel" GoType="module" Jumptarget="202000">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2026"/>
 	</Skin>
 
 	<Skin ID="856" MonID="4657" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="双仪极刃·卓尔布" Go="app/FinalActivityPanel" GoType="module" Jumptarget="204000">
@@ -2925,11 +2925,15 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>
 
     <Skin ID="860" MonID="4930" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="天极圣临·帝皇铠甲" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114122">
-		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="26"/>
+		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
     <Skin ID="861" MonID="4378" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="星海幻梦·青啼" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
-		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="26"/>
+		<SkinKind ID="1" Type="2" LifeTime="0" />
+	</Skin>
+
+    <Skin ID="862" MonID="4933" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="猎影逐渊·修罗铠甲" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114122">
+		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
 	<!-- <Skin ID="000" MonID="000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="复制模版"> -->

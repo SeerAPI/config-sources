@@ -1369,14 +1369,17 @@ AddArgs：       背包展示套装增加的属性：0 固定值  1 百分比  �
 		<Rank Lv="1" Attribute="0 0 0 0 0 0" AddWay="1" BattleLv="0 0 0 0 0 0" OtherAttribute="0 0 0" EffectID="" EffectArgs=""  Desc=""/>
 	</Equip>
 	
-	<Equip ID="350" ItemID="1301165" Quality="3" Occasion="0" Part="1" Target="0" MonID="" SuitID="" SuitEffectID="" SuitEffectArgs="" Name="炎龙腰带"  Desc="">
+	<Equip ID="350" ItemID="1301165" Quality="3" Occasion="0" Part="2" Target="0" MonID="" SuitID="" SuitEffectID="" SuitEffectArgs="" Name="炎龙腰带"  Desc="">
 		<Rank Lv="0" Attribute="0 0 50 0 50 0" AddWay="0" BattleLv="0 0 0 0 0 0" OtherAttribute="0 0 0" EffectID="" EffectArgs=""  Desc="己方精灵防御+50、特防+50 (所有对战有效)"/>
 	</Equip>	
 	
-	<Equip ID="351" ItemID="1301166" Quality="3" Occasion="0" Part="1" Target="0" MonID="" SuitID="" SuitEffectID="" SuitEffectArgs="" Name="帝皇铠甲腰带"  Desc="">
+	<Equip ID="351" ItemID="1301166" Quality="3" Occasion="0" Part="2" Target="0" MonID="" SuitID="" SuitEffectID="" SuitEffectArgs="" Name="帝皇铠甲腰带"  Desc="">
 		<Rank Lv="0" Attribute="10 0 0 0 0 0" AddWay="1" BattleLv="0 0 0 0 0 0" OtherAttribute="0 0 0" EffectID="" EffectArgs=""  Desc="己方精灵体力+10%(所有对战有效)"/>
 	</Equip>	
-	
+
+	<Equip ID="352" ItemID="1301171" Quality="3" Occasion="0" Part="2" Target="0" MonID="" SuitID="" SuitEffectID="" SuitEffectArgs="" Name="修罗铠甲腰带腰带"  Desc="">
+		<Rank Lv="0" Attribute="0 50 0 50 0 0" AddWay="0" BattleLv="0 0 0 0 0 0" OtherAttribute="0 0 0" EffectID="" EffectArgs=""  Desc="己方精灵攻击+50、特攻+50(所有对战有效)"/>
+	</Equip>		
 
 
 </Equips>

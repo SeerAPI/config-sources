@@ -723,4 +723,6 @@
 	<item id="2178" name="β场景占位" Ename="Destination Reached" pic="2178" sound="1" PlayerXYZ="467,404" MapRatio="1" />
 	<item id="2179" name="大墟泽" notes="剧情场景" Ename="Destination Reached" pic="2179" sound="BGM_438" PlayerXYZ="820,370" MapRatio="1" />
 	<item id="2180" name="大墟泽" notes="真实场景" Ename="Destination Reached" pic="2180" sound="BGM_438" GroupID="20113" PlayerXYZ="820,370" WildBossNum="3" WildBossPoint="60,410_130,390_170,430_230,400_360,380_450,430_560,400_650,390_770,410_830,400" WildBossLifeTime="8" WildBossID="3598" WildBossWeight="1" MapRatio="1" />
+	<item id="2181" name="α场景占位" notes="剧情场景" Ename="Destination Reached" pic="2181" />
+	<item id="2182" name="α场景占位" notes="真实场景" Ename="Destination Reached" pic="2182" />
 </root>

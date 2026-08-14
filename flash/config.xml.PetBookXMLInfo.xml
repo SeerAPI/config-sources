@@ -213,9 +213,9 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4929" ImageID= "4929" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4930" ImageID= "4930" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4931" ImageID= "4931" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "0" ID="4932" ImageID= "4932" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4933" ImageID= "4933" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4934" ImageID= "4934" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4910" ImageID= "4910" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4911" ImageID= "4911" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,8 +255,8 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="860" monID="4930" ImageID= "1400860" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="861" monID="4378" ImageID= "1400861" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="862" monID="4933" ImageID= "1400862" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <!-- <place type= "1" ID="861" monID="4378" ImageID= "1400861" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="856" monID="4657" ImageID= "1400856" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="857" monID="3488" ImageID= "1400857" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="847" monID="4911" ImageID= "1400846" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -5230,5 +5230,8 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4929" DefName="鬼地行者" Type="混沌 地面" Height="190" Weight="100" Features="被虚空淬成的议会利刃，沉默地执行每一条指令，也沉默地记着每一笔账。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/959"/>
 	<Monster ID="4930" DefName="帝皇铠甲" Type="王" Height="183" Weight="55" Features="集合五行力量，五行万物般的终极威力，由五套光影铠甲组合而成的光之铠甲所诞生的最强战士，能依靠太阳的力量巨大化。" Redirect="module" Go="app/FinalActivityPanel" Target="114120"/>
 	<Monster ID="4931" DefName="炎龙铠甲" Type="火 龙" Height="178" Weight="51" Features="由召唤人和火之炎龙铠甲合体而成的战士。五行中属火，战斗风格为在近距离以拳击与对方进行格斗战。" Redirect="module" Go="app/FinalActivityPanel" Target="114123"/>
+	<Monster ID="4932" DefName="工程型TOH" Type="机械" Height="3580" Weight="4600" Features="由工程师苏克设计改装的工程机械精灵，集破土、推平、压实于一身，为行星计算机的建造奔赴每一颗星球。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/962"/>
+	<Monster ID="4933" DefName="修罗铠甲" Type="混沌 圣灵" Height="181" Weight="54" Features="唯有具备天地间最强之气者方可驾驭，正可成王，邪可成魔！" Redirect="module" Go="app/FinalActivityPanel" Target="114121"/>
+	<Monster ID="4934" DefName="刑天铠甲" Type="电 次元" Height="179" Weight="50" Features="综合型铠甲，远攻近战能力兼备，为银河系正义而战！" Redirect="module" Go="app/FinalActivityPanel" Target="114124"/>
 
 </root>

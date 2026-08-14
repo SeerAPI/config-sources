@@ -102965,7 +102965,7 @@
 		</ExtraMoves>
 	</Monster>
 
-	<Monster ID="4930" DefName="帝皇铠甲" Type="221" GrowthType="4" HP="172" Atk="151" Def="115" SpAtk="70" SpDef="115" Spd="137" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3591" FormParam="0" CharacterAttrParam="0" GradeParam="5" AddSeParam="1" Resist="0">
+	<Monster ID="4930" DefName="帝皇铠甲" Type="221" GrowthType="4" HP="172" Atk="151" Def="115" SpAtk="70" SpDef="115" Spd="137" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3591" FormParam="0" CharacterAttrParam="0" GradeParam="5" AddSeParam="1" Resist="1">
 		<LearnableMoves>
 			<Move ID="38483" LearningLv="1" Rec="1" Tag="1"/>
 			<Move ID="29419" LearningLv="5" Rec="1" Tag="2"/>
@@ -102977,7 +102977,7 @@
 		</ExtraMoves>
 	</Monster>
 	
-	<Monster ID="4931" DefName="炎龙铠甲" Type="28" GrowthType="4" HP="167" Atk="149" Def="114" SpAtk="70" SpDef="114" Spd="136" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3592" FormParam="0" CharacterAttrParam="0" GradeParam="5" AddSeParam="1" Resist="0">
+	<Monster ID="4931" DefName="炎龙铠甲" Type="28" GrowthType="4" HP="167" Atk="149" Def="114" SpAtk="70" SpDef="114" Spd="136" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3592" FormParam="0" CharacterAttrParam="0" GradeParam="5" AddSeParam="1" Resist="1">
 		<LearnableMoves>
 			<Move ID="38486" LearningLv="1" Rec="1" Tag="1"/>
 			<Move ID="29421" LearningLv="5" Rec="1" Tag="2"/>
@@ -102989,9 +102989,58 @@
 		</ExtraMoves>
 	</Monster>
 
+	<Monster ID="4932" DefName="工程型TOH" Type="6" GrowthType="4" HP="164" Atk="138" Def="114" SpAtk="70" SpDef="114" Spd="135" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="0" PetClass="3593" FormParam="0" CharacterAttrParam="0" GradeParam="5" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10001" LearningLv="1"/>
+			<Move ID="20071" LearningLv="5"/>
+			<Move ID="10327" LearningLv="9"/>
+			<Move ID="10089" LearningLv="13"/>
+			<Move ID="20090" LearningLv="17"/>
+			<Move ID="10226" LearningLv="21"/>
+			<Move ID="10137" LearningLv="25"/>
+			<Move ID="10182" LearningLv="29"/>
+			<Move ID="10605" LearningLv="33"/>
+			<Move ID="20195" LearningLv="37"/>
+			<Move ID="10608" LearningLv="41"/>
+			<Move ID="10606" LearningLv="45"/>
+			<Move ID="20263" LearningLv="49"/>
+			<Move ID="10609" LearningLv="53"/>
+			<Move ID="10607" LearningLv="57"/>
+			<Move ID="20264" LearningLv="61"/>
+			<Move ID="10610" LearningLv="71"/>
+			<Move ID="38489" LearningLv="72" Rec="1" Tag="1"/>
+			<Move ID="29423" LearningLv="73" Rec="1" Tag="2"/>
+			<Move ID="29424" LearningLv="74" Rec="1" Tag="3"/>
+			<Move ID="38490" LearningLv="75" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38491" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
 
+	<Monster ID="4933" DefName="修罗铠甲" Type="89" GrowthType="4" HP="168" Atk="111" Def="116" SpAtk="111" SpDef="116" Spd="138" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3594" FormParam="0" CharacterAttrParam="4" GradeParam="5" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="38492" LearningLv="1" Rec="1" Tag="1"/>
+			<Move ID="29425" LearningLv="5" Rec="1" Tag="2"/>
+			<Move ID="29426" LearningLv="9" Rec="1" Tag="3"/>
+			<Move ID="38493" LearningLv="13" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38494" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
 
-
+	<Monster ID="4934" DefName="刑天铠甲" Type="76" GrowthType="4" HP="174" Atk="139" Def="111" SpAtk="70" SpDef="111" Spd="135" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3595" FormParam="0" CharacterAttrParam="0" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="38495" LearningLv="1" Rec="1" Tag="1"/>
+			<Move ID="29427" LearningLv="5" Rec="1" Tag="2"/>
+			<Move ID="29428" LearningLv="9" Rec="1" Tag="3"/>
+			<Move ID="38496" LearningLv="13" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38497" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
 
 <Monster ID="5000" DefName="圣灵谱尼" Type="223" GrowthType="5" HP="180" Atk="110" Def="120" SpAtk="150" SpDef="120" Spd="140" YieldingExp="130" CatchRate="0" YieldingEV="0 0 0 1 0 1" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="0" PetClass="3780" FormParam="0" CharacterAttrParam="4" GradeParam="5" AddSeParam="1" Resist="1">
 <LearnableMoves>
@@ -116355,6 +116404,7 @@
   <Monster ID="1400859" DefName="波塞冬" RealId="2354"/>
   <Monster ID="1400860" DefName="天极圣临·帝皇铠甲" RealId=""/>
   <Monster ID="1400861" DefName="星海幻梦·青啼" RealId=""/>
+  <Monster ID="1400862" DefName="猎影逐渊·修罗铠甲" RealId=""/>
 
 
 

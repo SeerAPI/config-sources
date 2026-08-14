@@ -3711,7 +3711,7 @@
 	<MintMark ID="42608" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 3 0 3 3 9" MaxAttriValue="50 30 0 30 30 90" MonsterID="4829" Level="100" Max="99" Des="卡布达超级形态专属全能刻印" EffectDes="攻击5/50,防御3/30,特防3/30,速度3/30,体力9/90"/>
 	<MintMark ID="42609" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 2 0 2 3 9" MaxAttriValue="52 25 0 25 38 90" MonsterID="4830" Level="100" Max="99" Des="鲨鱼辣椒超级形态专属全能刻印" EffectDes="攻击5/52,防御2/25,特防2/25,速度3/38,体力9/90"/>
 	<MintMark ID="42610" Type="3" Rare="4" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 4 4 4 2 8" MaxAttriValue="0 40 40 40 20 80" Level="100" Max="99" Des="永噤之夜" EffectDes="防御4/40,特攻4/40,特防4/40,速度2/20,体力8/80" Rarity="3" MintmarkClass="65" ExtraAttriValue="0 5 5 5 0 5"/>
-    <MintMark ID="42611" Type="3" Rare="4" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 3 0 3 3 13" MaxAttriValue="40 30 0 30 30 130" MintmarkClass="11" Level="100" Max="99" Des="航行6000天" EffectDes="攻击4/40,防御3/30,特防3/30,速度3/30,体力13/130"/>
+    <MintMark ID="42611" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 3 0 3 3 13" MaxAttriValue="40 30 0 30 30 130" MintmarkClass="11" Level="100" Max="99" Des="航行6000天" EffectDes="攻击4/40,防御3/30,特防3/30,速度3/30,体力13/130"/>
     <MintMark ID="42612" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 4 3 3 8" MaxAttriValue="0 30 46 30 37 87" MonsterID="4840" Level="100" Max="99" Des="霞冠·星礼专属全能刻印" EffectDes="防御3/30,特攻5/46,特防3/30,速度3/37,体力8/87"/>
     <MintMark ID="42613" Type="3" Rare="3" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 6 2 3 9" MaxAttriValue="0 25 65 25 30 90" Level="100" Max="99" MintmarkClass="61" Des="赫尔卡余晖" EffectDes="体力9/90,防御2/25,特攻6/65,特防2/25,速度3/30"/>
     <MintMark ID="42614" Type="3" Rare="3" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 4 2 2 9" MaxAttriValue="0 27 46 27 27 93" Level="100" Max="99" MintmarkClass="32" Des="好朋友徽章" EffectDes="体力9/93,防御2/27,特攻4/46,特防2/27,速度2/27"/>
@@ -3812,11 +3812,18 @@
 	<MintMark ID="42713" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 3 0 3 4 9" MaxAttriValue="50 30 0 30 40 90" MonsterID="4912" Level="100" Max="99" Des="生之焰·灰蛾专属全能刻印" EffectDes="攻击5/50,防御3/30,特防3/30,速度4/40,体力9/90"/>
     <MintMark ID="42714" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 3 0 3 3 13" MaxAttriValue="45 34 0 34 32 135" MintmarkClass="11" Level="100" Max="99" Des="17闪耀" EffectDes="攻击4/45,防御3/34,特防3/34,速度3/32,体力13/135"/>
 	<MintMark ID="42715" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 2 0 2 3 9" MaxAttriValue="40 20 0 20 35 110" MonsterID="4921" Level="100" Max="99" Des="天堂极龙兽专属全能刻印" EffectDes="攻击4/40,防御2/20,特防2/20,速度3/35,体力11/110"/>
-
     <MintMark ID="42716" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 5 5 5 0 11" MaxAttriValue="50 50 50 50 0 110" MintmarkClass="97" Level="100" Max="99" Des="帝皇·无极" EffectDes="攻击5/50,防御5/50,特攻5/50,特防5/50,体力11/110"/>
-	<!--42717-42724预留-->
+	<MintMark ID="42717" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 7 3 3 9" MaxAttriValue="0 41 60 41 45 93" MintmarkClass="97" Level="100" Max="99" Des="炎龙·炽焰" EffectDes="防御4/41,特攻6/60,特防4/41,速度4/45,体力9/93"/>
+	<MintMark ID="42718" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="7 3 0 3 3 9" MaxAttriValue="60 41 0 41 45 93" MintmarkClass="97" Level="100" Max="99" Des="炎龙·火舞" EffectDes="攻击6/60,防御4/41,特防4/41,速度4/45,体力9/93"/>
+	<MintMark ID="42719" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 7 3 3 9" MaxAttriValue="0 37 75 37 39 92" MintmarkClass="97" Level="100" Max="99" Des="修罗·镇星" EffectDes="防御3/37,特攻7/75,特防3/37,速度3/39,体力9/92"/>
+	<MintMark ID="42720" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="7 3 0 3 3 9" MaxAttriValue="75 37 0 37 39 92" MintmarkClass="97" Level="100" Max="99" Des="修罗·寂灭" EffectDes="攻击7/75,防御3/37,特防3/37,速度3/39,体力9/92"/>
+	<MintMark ID="42721" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 6 3 6 2 10" MaxAttriValue="0 65 30 65 20 100" MintmarkClass="97" Level="100" Max="99" Des="刑天·破岳" EffectDes="防御6/65,特攻3/30,特防6/65,速度2/20,体力10/100"/>
+	<MintMark ID="42722" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="3 6 0 6 2 10" MaxAttriValue="30 65 0 65 20 100" MintmarkClass="97" Level="100" Max="99" Des="刑天·威临" EffectDes="攻击3/30,防御6/65,特防6/65,速度2/20,体力10/100"/>
+	<MintMark ID="42723" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 4 3 3 13" MaxAttriValue="0 32 47 32 34 135" MintmarkClass="97" Level="100" Max="99" Des="拿瓦·熔岩" EffectDes="防御3/33,特攻4/46,特防3/33,速度3/33,体力13/135"/>
+	<MintMark ID="42724" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 3 0 3 3 13" MaxAttriValue="46 33 0 33 33 135" MintmarkClass="97" Level="100" Max="99" Des="拿瓦·焚阳" EffectDes="攻击4/46,防御3/33,特防3/33,速度3/33,体力13/135"/>
 	<MintMark ID="42725" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 2 0 2 4 9" MaxAttriValue="45 25 0 25 40 100" MonsterID="4930" Level="100" Max="99" Des="帝皇铠甲专属全能刻印" EffectDes="攻击4/45,防御2/25,特防2/25,速度3/40,体力10/100"/>
 	<MintMark ID="42726" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 2 0 2 3 9" MaxAttriValue="40 25 0 25 35 90" MonsterID="4931" Level="100" Max="99" Des="炎龙铠甲专属全能刻印" EffectDes="攻击4/40,防御2/25,特防2/25,速度3/35,体力9/90"/>
+	<MintMark ID="42727" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 4 5 4 4 0" MaxAttriValue="55 42 55 42 41 0" MonsterID="4933" Level="100" Max="99" Des="修罗铠甲专属全能刻印" EffectDes="攻击5/55,防御4/42,特攻5/55,特防4/42,速度4/41"/>
 
 
 
@@ -3912,7 +3919,7 @@
 	<MintMark ID="45072" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 3 2 2 12" MaxAttriValue="0 25 30 25 20 120" MintmarkClass="89" Level="100" Max="99" Des="记忆之证·魔王" EffectDes="防御2/25,特攻3/30,特防2/25,速度2/20,体力12/120" Hide="1" Connect="42583" ExtraAttriValue="0 4 13 4 10 14"/>
 	<MintMark ID="45073" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="2 4 0 4 2 8" MaxAttriValue="20 45 0 45 20 80" MintmarkClass="89" Level="100" Max="99" Des="记忆之证·矿藏" EffectDes="攻击2/20,防御4/45,特防4/45,速度2/20,体力8/80" Hide="1" Connect="42584" ExtraAttriValue="5 10 0 10 0 20"/>
 	<MintMark ID="45074" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 4 2 4 2 8" MaxAttriValue="0 45 20 45 20 80" MintmarkClass="89" Level="100" Max="99" Des="记忆之证·琉梦" EffectDes="防御4/45,特攻2/20,特防4/45,速度2/20,体力8/80" Hide="1" Connect="42585" ExtraAttriValue="0 10 5 10 0 20"/>
-	<MintMark ID="45075" Type="3" Rare="4" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 3 0 3 3 13" MaxAttriValue="40 30 0 30 30 130" MintmarkClass="11" Level="100" Max="99" Des="航行6000天" EffectDes="攻击4/40,防御3/30,特防3/30,速度3/30,体力13/130" Hide="1" Connect="42611"/>	
+	<MintMark ID="45075" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 3 0 3 3 13" MaxAttriValue="40 30 0 30 30 130" MintmarkClass="11" Level="100" Max="99" Des="航行6000天" EffectDes="攻击4/40,防御3/30,特防3/30,速度3/30,体力13/130" Hide="1" Connect="42611"/>	
 	
 	
 	
