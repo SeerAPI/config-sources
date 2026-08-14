@@ -15363,9 +15363,9 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 1,
             "type": 2,
-            "year": 0
+            "year": 2026
           }
         ],
         "id": 855,
@@ -15480,6 +15480,24 @@
         "jump_target": 2,
         "mon_id": 4378,
         "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "猎影逐渊·修罗铠甲",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 862,
+        "jump_target": 114122,
+        "mon_id": 4933,
+        "type": 18
       }
     ]
   }

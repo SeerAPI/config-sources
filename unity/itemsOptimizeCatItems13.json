@@ -4,6 +4,22 @@
       {
         "bean": 0,
         "hide": 0,
+        "id": 1301171,
+        "max": 0,
+        "name": "修罗铠甲腰带",
+        "sort": 2,
+        "use_max": 0,
+        "vip_only": 0,
+        "cat_id": 13,
+        "is_special": 0,
+        "purpose": 0,
+        "speed": 0.0,
+        "type": "waist",
+        "wd": 1
+      },
+      {
+        "bean": 0,
+        "hide": 0,
         "id": 1301170,
         "max": 0,
         "name": "帝皇驹",

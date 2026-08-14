@@ -5462,6 +5462,13 @@
       "res_config": []
     },
     {
+      "curr_app_do": 0,
+      "id": 901,
+      "is_full_screen": 0,
+      "module_name": "getXlkj",
+      "res_config": []
+    },
+    {
       "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
@@ -6215,6 +6222,48 @@
       "id": 1193,
       "is_full_screen": 0,
       "module_name": "kaijiayongshiFramePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1194,
+      "is_full_screen": 1,
+      "module_name": "armorHeroXTGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1195,
+      "is_full_screen": 0,
+      "module_name": "kaijiayongshiMintmarkPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1196,
+      "is_full_screen": 1,
+      "module_name": "asuraArmorShow",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1197,
+      "is_full_screen": 1,
+      "module_name": "armorHeroNWGameEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1198,
+      "is_full_screen": 1,
+      "module_name": "armorHeroNWGameEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1199,
+      "is_full_screen": 0,
+      "module_name": "niedaluoActivity",
       "res_config": []
     }
   ]

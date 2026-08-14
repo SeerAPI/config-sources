@@ -35009,6 +35009,36 @@
       "tagBboss": 1,
       "tagC": "",
       "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 0,
+      "formattingAdjustment": "",
+      "id": 2554,
+      "ifTextItalic": "",
+      "info": "将自身攻击、特攻值之和作为攻击、特攻值进行伤害计算",
+      "isif": 0,
+      "tagA": "",
+      "tagAboss": 1,
+      "tagB": "",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 1,
+      "formattingAdjustment": "",
+      "id": 2555,
+      "ifTextItalic": "击败对手时",
+      "info": "击败对手时，{0}回合内自身的法之意念不会减少",
+      "isif": 1,
+      "tagA": "",
+      "tagAboss": 1,
+      "tagB": "",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
     }
   ]
 }
