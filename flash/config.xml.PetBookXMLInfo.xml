@@ -5233,7 +5233,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4932" DefName="工程型TOH" Type="机械" Height="3580" Weight="4600" Features="由工程师苏克设计改装的工程机械精灵，集破土、推平、压实于一身，为行星计算机的建造奔赴每一颗星球。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/962"/>
 	<Monster ID="4933" DefName="修罗铠甲" Type="混沌 圣灵" Height="181" Weight="54" Features="唯有具备天地间最强之气者方可驾驭，正可成王，邪可成魔！" Redirect="module" Go="app/FinalActivityPanel" Target="114121"/>
 	<Monster ID="4934" DefName="刑天铠甲" Type="电 次元" Height="179" Weight="50" Features="综合型铠甲，远攻近战能力兼备，为银河系正义而战！" Redirect="module" Go="app/FinalActivityPanel" Target="114124"/>
-	<Monster ID="4935" DefName="苔岩·磐岳" Type="地面" Height="153" Weight="92" Features="与雷纳多身上剥落的纳格晶体产生共鸣之后，悠悠迎来了他的全新形态：苔岩·磐岳。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/964"/>
+	<Monster ID="4935" DefName="苔岩·磐岳" Type="地面" Height="153" Weight="92" Features="与纳多雷身上剥落的纳格晶体产生共鸣之后，悠悠迎来了他的全新形态：苔岩·磐岳。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/964"/>
 	<Monster ID="4936" DefName="拿瓦铠甲" Type="火 战斗" Height="183" Weight="55" Features="焰之拿瓦铠甲，是焚烧邪念的铠甲，拥有吞噬猛焰的无穷力量，焚尽一切邪恶。" Redirect="module" Go="app/FinalActivityPanel" Target="114125"/>
 
 </root>
