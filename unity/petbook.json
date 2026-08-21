@@ -1414,8 +1414,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4932,
-            "image_id": 4932,
+            "id": 4935,
+            "image_id": 4935,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4933,
-            "image_id": 4933,
+            "id": 4936,
+            "image_id": 4936,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1436,21 +1436,43 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4934,
-            "image_id": 4934,
+            "id": 863,
+            "image_id": 1400863,
             "label": 0,
-            "mon_id": 0,
-            "type": 0
+            "mon_id": 4887,
+            "type": 1
           },
           {
             "desc": "",
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 862,
-            "image_id": 1400862,
+            "id": 864,
+            "image_id": 1400864,
             "label": 0,
-            "mon_id": 4933,
+            "mon_id": 4894,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 865,
+            "image_id": 1400865,
+            "label": 0,
+            "mon_id": 3414,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 866,
+            "image_id": 1400866,
+            "label": 0,
+            "mon_id": 4004,
             "type": 1
           }
         ]
@@ -26462,7 +26484,7 @@
       {
         "def_name": "阿莱克托",
         "features": "黑夜三女神之一，被弑序神罗召唤后帮助拥护黑夜，手中的长鞭毁灭一切光明！",
-        "target": "",
+        "target": "150138",
         "id": 4200
       },
       {
@@ -30850,6 +30872,18 @@
         "features": "综合型铠甲，远攻近战能力兼备，为银河系正义而战！",
         "target": "114124",
         "id": 4934
+      },
+      {
+        "def_name": "苔岩·磐岳",
+        "features": "与雷纳多身上剥落的纳格晶体产生共鸣之后，悠悠迎来了他的全新形态：苔岩·磐岳。",
+        "target": "153201/964",
+        "id": 4935
+      },
+      {
+        "def_name": "拿瓦铠甲",
+        "features": "焰之拿瓦铠甲，是焚烧邪念的铠甲，拥有吞噬猛焰的无穷力量，焚尽一切邪恶。",
+        "target": "114125",
+        "id": 4936
       }
     ],
     "rec_mintmark": {

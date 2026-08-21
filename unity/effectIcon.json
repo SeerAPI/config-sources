@@ -51653,7 +51653,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]登场时[/color]自身开启武道，初始为[color=#f35555]血之道[/color]，武道会以[color=#f35555]血之道[/color]、[color=#f35555]邪之道[/color]、[color=#f35555]天之道[/color]、[color=#f35555]血之道[/color]的轨迹进行衍化，每完成一次完成轨迹的衍化，自身恢复全部PP值|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]自身恢复最大体力的1/6，自身处于[color=#f35555]血之道[/color]时效果翻倍；自身使用技能时附加对手最大体力1/6的[color=#52a5f2]百分比伤害[/color]，自身处于[color=#f35555]邪之道[/color]时效果翻倍；自身造成的攻击伤害提升50%，自身处于[color=#f35555]天之道[/color]时效果翻倍",
+        "analyze": "[sprite name=dot4][color=#57c975]登场时[/color]自身开启武道，初始为[color=#f35555]血之道[/color]，武道会以[color=#f35555]血之道[/color]、[color=#f35555]邪之道[/color]、[color=#f35555]天之道[/color]、[color=#f35555]血之道[/color]的[color=#f35555]轨迹[/color]进行衍化，每完成一次完成[color=#f35555]轨迹[/color]的衍化，自身恢复全部PP值|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]自身恢复最大体力的1/6，自身处于[color=#f35555]血之道[/color]时效果翻倍；自身使用技能时附加对手最大体力1/6的[color=#52a5f2]百分比伤害[/color]，自身处于[color=#f35555]邪之道[/color]时效果翻倍；自身造成的攻击伤害提升50%，自身处于[color=#f35555]天之道[/color]时效果翻倍",
         "args": "6 6 50 1",
         "come": "",
         "des": [],
@@ -55902,6 +55902,58 @@
         "effect_id": 2538,
         "icon_id": 2129,
         "id": 2129,
+        "intensify": 0,
+        "is_adv": 0,
+        "label": 0,
+        "limited_type": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，使自身防御+6、特防+0，[color=#52a5f2]然后[/color]自身每有1级防御能力等级，[color=#52a5f2]当回合[/color]使用攻击技能后附加自身防御值10%的[color=#52a5f2]百分比伤害[/color]并使本场战斗此效果获得的防御能力提升等级-1，特防能力等级提升+1|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身上述效果中的防御能力提升的等级已为+0，则自身专属特性中的“防御”、“特防”交换",
+        "args": "1 0",
+        "come": "",
+        "des": [],
+        "tag": [],
+        "tips": "回合开始时，使自身防御+6、特防+0，然后自身每有1级防御能力等级，当回合使用攻击技能后附加自身防御值10%的百分比伤害并使本场战斗此效果获得的防御能力提升等级-1，特防能力等级提升+1|战斗阶段结束时，若自身上述效果中的防御能力提升的等级已为+0，则自身专属特性中的“防御”、“特防”交换|（boss无效）",
+        "kind": [
+          14,
+          11
+        ],
+        "pet_id": [
+          4935
+        ],
+        "specific_id": [],
+        "effect_id": 2541,
+        "icon_id": 2130,
+        "id": 2130,
+        "intensify": 0,
+        "is_adv": 0,
+        "label": 0,
+        "limited_type": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，消除对手的能力提升状态，若消除成功则令对手[color=#57c975]烧伤[/color]，对手处于[color=#57c975]烧伤[/color]时改为50%令对手[color=#57c975]焚烬[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若对手处于[color=#57c975]烧伤[/color]，则本次在场自身造成的攻击伤害提升50%，最高150%",
+        "args": "1 0",
+        "come": "",
+        "des": [],
+        "tag": [],
+        "tips": "回合开始时，消除对手的能力提升状态，若消除成功则令对手烧伤，对手处于烧伤时改为50%令对手焚烬|战斗阶段结束时，若对手处于烧伤，则本次在场自身造成的攻击伤害提升50%，最高150%|（boss无效）",
+        "kind": [
+          18,
+          10
+        ],
+        "pet_id": [
+          4936
+        ],
+        "specific_id": [],
+        "effect_id": 2540,
+        "icon_id": 2131,
+        "id": 2131,
         "intensify": 0,
         "is_adv": 0,
         "label": 0,

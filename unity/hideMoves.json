@@ -13328,6 +13328,18 @@
         "pet_id": 4934
       },
       {
+        "move_id": 38500,
+        "move_name1": "沙海",
+        "move_name2": "芒芒",
+        "pet_id": 4935
+      },
+      {
+        "move_id": 38503,
+        "move_name1": "焰炬",
+        "move_name2": "熔麟煞",
+        "pet_id": 4936
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

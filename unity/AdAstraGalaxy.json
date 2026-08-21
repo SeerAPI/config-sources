@@ -169,7 +169,7 @@
       "unlockTime": 7
     },
     {
-      "endTime": 1787277600,
+      "endTime": 1789696800,
       "galaxyId": 10,
       "galaxyName": "叠加域",
       "galaxyNameEn": "Superpositio‌ Regio",
@@ -180,10 +180,10 @@
       "starName": "静态基准",
       "starProgressAll": 15,
       "unlockStar": "",
-      "unlockTime": 1784858400
+      "unlockTime": 1787277600
     },
     {
-      "endTime": 1787277600,
+      "endTime": 1789696800,
       "galaxyId": 10,
       "galaxyName": "叠加域",
       "galaxyNameEn": "Superpositio‌ Regio",
@@ -194,10 +194,10 @@
       "starName": "动域干涉",
       "starProgressAll": 30,
       "unlockStar": "12",
-      "unlockTime": 1785463200
+      "unlockTime": 1787882400
     },
     {
-      "endTime": 1787277600,
+      "endTime": 1789696800,
       "galaxyId": 10,
       "galaxyName": "叠加域",
       "galaxyNameEn": "Superpositio‌ Regio",
@@ -208,7 +208,7 @@
       "starName": "坍缩临界",
       "starProgressAll": 45,
       "unlockStar": "35",
-      "unlockTime": 1786068000
+      "unlockTime": 1788487200
     },
     {
       "endTime": 0,

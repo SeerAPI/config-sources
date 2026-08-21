@@ -530051,6 +530051,139 @@
         {
           "accuracy": 95,
           "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29429,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "岩壁建构",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            191,
+            876,
+            1661
+          ],
+          "side_effect_arg": [
+            4,
+            30,
+            300,
+            100,
+            9
+          ],
+          "type": 8,
+          "info": "开始免疫并反弹受到的异常状态了；附加了一定的百分比伤害；获得了护盾",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29430,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "苔痕侵蚀",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            1326,
+            615,
+            843,
+            573
+          ],
+          "side_effect_arg": [
+            1,
+            3,
+            300,
+            2,
+            2,
+            2,
+            3,
+            100,
+            1,
+            3
+          ],
+          "type": 8,
+          "info": "全属性提升了；开始恢复体力了；出手变得更快了；开始保护自身的能力提升了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29431,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "焰熔麟力",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            191,
+            2233,
+            152
+          ],
+          "side_effect_arg": [
+            4,
+            4,
+            1,
+            300,
+            4,
+            100,
+            22
+          ],
+          "type": 8,
+          "info": "开始免疫受到的异常状态了；对手开始受到固定伤害了；封锁了对手的属性技能",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29432,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "焰熔麟火",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            893,
+            1065,
+            843
+          ],
+          "side_effect_arg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "type": 8,
+          "info": "全属性提升了；开始恢复体力并附加百分比伤害了；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
           "atk_type": 0,
           "category": 1,
           "crit_rate": 0,
@@ -765867,6 +766000,187 @@
             1
           ],
           "type": 76,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38498,
+          "max_pp": 20,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "沙骨朵",
+          "power": 85,
+          "priority": 3,
+          "side_effect": [
+            453,
+            1672
+          ],
+          "side_effect_arg": [
+            10,
+            300
+          ],
+          "type": 7,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38499,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "敲一岩",
+          "power": 150,
+          "priority": 0,
+          "side_effect": [
+            1272,
+            1752,
+            1401
+          ],
+          "side_effect_arg": [
+            200,
+            200,
+            1,
+            100,
+            9,
+            2
+          ],
+          "type": 7,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38500,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "沙海芒芒",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            1523,
+            1120,
+            633,
+            964
+          ],
+          "side_effect_arg": [
+            300,
+            300,
+            300,
+            1,
+            300,
+            100
+          ],
+          "type": 7,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38501,
+          "max_pp": 20,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "熔焰螺旋拳",
+          "power": 85,
+          "priority": 3,
+          "side_effect": [
+            1114,
+            1472
+          ],
+          "side_effect_arg": [
+            2,
+            50
+          ],
+          "type": 47,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38502,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "熔焰分魔劈",
+          "power": 150,
+          "priority": 0,
+          "side_effect": [
+            1208,
+            883,
+            1960
+          ],
+          "side_effect_arg": [
+            1,
+            10,
+            50,
+            2
+          ],
+          "type": 47,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38503,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "焰炬熔麟煞",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            1734,
+            405,
+            863,
+            2012
+          ],
+          "side_effect_arg": [
+            100,
+            2,
+            50,
+            300,
+            1
+          ],
+          "type": 47,
           "info": "",
           "ordinary": 0
         },

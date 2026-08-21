@@ -4709,6 +4709,23 @@
         "type": 7,
         "unavailable": 0,
         "unlocktype": 1
+      },
+      {
+        "checkown": 0,
+        "desc": "收集“沙海之恋”活动皮肤获得",
+        "finishTime": 0,
+        "goto": "",
+        "hide": 0,
+        "icon": 61,
+        "id": 278,
+        "name": "涅达洛之恋",
+        "rarity": 4,
+        "spine": "",
+        "tab": 0,
+        "text": "我是名片",
+        "type": 3,
+        "unavailable": 0,
+        "unlocktype": 1
       }
     ]
   }

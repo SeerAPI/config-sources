@@ -5469,6 +5469,13 @@
       "res_config": []
     },
     {
+      "curr_app_do": 0,
+      "id": 902,
+      "is_full_screen": 0,
+      "module_name": "SuolunsenVoteSkin",
+      "res_config": []
+    },
+    {
       "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
@@ -6264,6 +6271,27 @@
       "id": 1199,
       "is_full_screen": 0,
       "module_name": "niedaluoActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1200,
+      "is_full_screen": 1,
+      "module_name": "getalktmain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1201,
+      "is_full_screen": 1,
+      "module_name": "niedaluozhilianSkinSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1202,
+      "is_full_screen": 0,
+      "module_name": "rayGaiaAssembleMainPanel",
       "res_config": []
     }
   ]

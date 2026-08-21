@@ -13705,6 +13705,28 @@
       "shopid": 5,
       "top": 0,
       "type": 1
+    },
+    {
+      "bitset_id": 0,
+      "limit_cnt": 0,
+      "limittype": 0,
+      "popid": 655,
+      "subtag": 20,
+      "user_info_bit_pos": 0,
+      "user_info_id": 0,
+      "batch": 918,
+      "boundmonster": 0,
+      "coinid": 1727037,
+      "cointype": 43,
+      "count": 0,
+      "id": 807,
+      "isjustone": 0,
+      "monappend": "",
+      "price": 21,
+      "realid": 2400241,
+      "shopid": 5,
+      "top": 0,
+      "type": 1
     }
   ]
 }

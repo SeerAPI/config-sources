@@ -20487,7 +20487,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit]自身每点亮1颗雷辰[color=#52a5f2]威力[/color]提升{0}点，若自身未点亮雷辰则[color=#52a5f2]己方[/color]每存活1只精灵造成的攻击伤害不低于{1}",
+        "analyze": "[sprite name=iconHit]自身每点亮1颗[color=#f35555]雷辰[/color][color=#52a5f2]威力[/color]提升{0}点，若自身未点亮[color=#f35555]雷辰[/color]则[color=#52a5f2]己方[/color]每存活1只精灵造成的攻击伤害不低于{1}",
         "info": "自身每点亮1颗雷辰威力提升{0}点，若自身未点亮雷辰则己方每存活1只精灵造成的攻击伤害不低于{1}",
         "param": [],
         "args_num": 2,
@@ -20505,7 +20505,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身武道衍化轨迹为正转时{0}回合内对手无法通过技能恢复体力，为逆转时{1}回合内对手造成的攻击伤害减少{2}%",
+        "analyze": "[sprite name=iconHit]自身[color=#f35555]武道[/color]衍化[color=#f35555]轨迹[/color]为正转时{0}回合内对手无法通过技能恢复体力，为逆转时{1}回合内对手造成的攻击伤害减少{2}%",
         "info": "自身武道衍化轨迹为正转时{0}回合内对手无法通过技能恢复体力，为逆转时{1}回合内对手造成的攻击伤害减少{2}%",
         "param": [],
         "args_num": 3,
@@ -20514,7 +20514,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]将自身的武道衍化轨迹改为逆转并将武道正转期间抵挡的伤害[color=#52a5f2]以[/color][color=#52a5f2]固定伤害[/color]的形式反馈给对手，最高不超过自身最大体力的{0}%",
+        "analyze": "[sprite name=iconHit]将自身的[color=#f35555]武道[/color]衍化[color=#f35555]轨迹[/color]改为逆转并将武道正转期间抵挡的伤害以[color=#52a5f2]固定伤害[/color]的形式反馈给对手，最高不超过自身最大体力的{0}%",
         "info": "将自身的武道衍化轨迹改为逆转并将武道正转期间抵挡的伤害以固定伤害的形式反馈给对手，最高不超过自身最大体力的{0}%",
         "param": [],
         "args_num": 1,
@@ -20523,7 +20523,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]复原自身的武道衍化轨迹，下{0}次衍化时时[color=#52a5f2]全属性[/color]+1",
+        "analyze": "[sprite name=iconHit]复原自身的[color=#f35555]武道[/color]衍化[color=#f35555]轨迹[/color]，下{0}次衍化时时[color=#52a5f2]全属性[/color]+1",
         "info": "复原自身的武道衍化轨迹，下{0}次衍化时时全属性+1",
         "param": [],
         "args_num": 1,
@@ -20532,7 +20532,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]衍化自身的武道",
+        "analyze": "[sprite name=iconHit]衍化自身的[color=#f35555]武道[/color]",
         "info": "衍化自身的武道",
         "param": [],
         "args_num": 0,

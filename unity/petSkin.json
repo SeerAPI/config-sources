@@ -13497,7 +13497,7 @@
           }
         ],
         "id": 751,
-        "jump_target": 0,
+        "jump_target": 114128,
         "mon_id": 4589,
         "type": 17
       },
@@ -13515,7 +13515,7 @@
           }
         ],
         "id": 752,
-        "jump_target": 0,
+        "jump_target": 114128,
         "mon_id": 4603,
         "type": 17
       },
@@ -15464,8 +15464,8 @@
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "星海幻梦·青啼",
         "skin_kind": [
           {
@@ -15477,7 +15477,7 @@
           }
         ],
         "id": 861,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 4378,
         "type": 3
       },
@@ -15498,6 +15498,78 @@
         "jump_target": 114122,
         "mon_id": 4933,
         "type": 18
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "沙海之恋·托勒斯 ",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 863,
+        "jump_target": 114126,
+        "mon_id": 4887,
+        "type": 17
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "沙海之恋·安瑟伦",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 864,
+        "jump_target": 114126,
+        "mon_id": 4894,
+        "type": 17
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "地核之寂·索伦森",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 13,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 865,
+        "jump_target": 114127,
+        "mon_id": 3414,
+        "type": 19
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "格劳瑞",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 866,
+        "jump_target": 2,
+        "mon_id": 4004,
+        "type": 0
       }
     ]
   }
