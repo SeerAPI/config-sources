@@ -2126,10 +2126,10 @@
 	<Effect id="2286" argsNum="2" info="对手下{0}次回合类效果、能力提升效果被消除时，体力上限减少{1}点" analyze="[sprite name=iconHit]对手下{0}次[color=#52a5f2]回合类效果[/color]、能力提升效果被消除时，体力上限减少{1}点"/>
 	<Effect id="2287" argsNum="2" info="{0}回合内使用技能恢复自身最大体力的1/{1}并造成等量百分比伤害，恢复效果溢出时转化为等量的护盾" analyze="[sprite name=iconHit]{0}回合内使用技能恢复自身最大体力的1/{1}并造成等量[color=#52a5f2]百分比伤害[/color]，恢复效果溢出时[color=#52a5f2]转化[/color]为等量的[color=#57c975]护盾[/color]"/>
 	<Effect id="2288" argsNum="0" info="技能无效时，为对手附加3回合的琼花仙荼" sp="1" analyze="[sprite name=iconInherent]技能无效时，为对手附加3回合的[color=#f35555]琼花仙荼[/color]" type="1"/>
-	<Effect id="2289" argsNum="2" info="自身每点亮1颗雷辰威力提升{0}点，若自身未点亮雷辰则己方每存活1只精灵造成的攻击伤害不低于{1}" sp="1" analyze="[sprite name=iconHit]自身每点亮1颗雷辰[color=#52a5f2]威力[/color]提升{0}点，若自身未点亮雷辰则[color=#52a5f2]己方[/color]每存活1只精灵造成的攻击伤害不低于{1}"/>
+	<Effect id="2289" argsNum="2" info="自身每点亮1颗雷辰威力提升{0}点，若自身未点亮雷辰则己方每存活1只精灵造成的攻击伤害不低于{1}" sp="1" analyze="[sprite name=iconHit]自身每点亮1颗[color=#f35555]雷辰[/color][color=#52a5f2]威力[/color]提升{0}点，若自身未点亮[color=#f35555]雷辰[/color]则[color=#52a5f2]己方[/color]每存活1只精灵造成的攻击伤害不低于{1}"/>
 	<Effect id="2290" argsNum="0" info="自身每点亮1颗雷辰全属性+1" sp="1" analyze="[sprite name=iconHit]自身每点亮1颗雷辰[color=#52a5f2]全属性[/color]+1"/>
-	<Effect id="2291" argsNum="3" info="自身武道衍化轨迹为正转时{0}回合内对手无法通过技能恢复体力，为逆转时{1}回合内对手造成的攻击伤害减少{2}%" sp="1" analyze="[sprite name=iconHit]自身武道衍化轨迹为正转时{0}回合内对手无法通过技能恢复体力，为逆转时{1}回合内对手造成的攻击伤害减少{2}%"/>
-	<Effect id="2292" argsNum="1" info="将自身的武道衍化轨迹改为逆转并将武道正转期间抵挡的伤害以固定伤害的形式反馈给对手，最高不超过自身最大体力的{0}%" sp="1" analyze="[sprite name=iconHit]将自身的武道衍化轨迹改为逆转并将武道正转期间抵挡的伤害[color=#52a5f2]以[/color][color=#52a5f2]固定伤害[/color]的形式反馈给对手，最高不超过自身最大体力的{0}%"/>
+	<Effect id="2291" argsNum="3" info="自身武道衍化轨迹为正转时{0}回合内对手无法通过技能恢复体力，为逆转时{1}回合内对手造成的攻击伤害减少{2}%" sp="1" analyze="[sprite name=iconHit]自身[color=#f35555]武道[/color]衍化轨迹为正转时{0}回合内对手无法通过技能恢复体力，为逆转时{1}回合内对手造成的攻击伤害减少{2}%"/>
+	<Effect id="2292" argsNum="1" info="将自身的武道衍化轨迹改为逆转并将武道正转期间抵挡的伤害以固定伤害的形式反馈给对手，最高不超过自身最大体力的{0}%" sp="1" analyze="[sprite name=iconHit]将自身的[color=#f35555]武道[/color]衍化轨迹改为[color=#f35555]逆转(555)[/color]并将武道正转期间抵挡的伤害以[color=#52a5f2]固定伤害[/color]的形式反馈给对手，最高不超过自身最大体力的{0}%"/>
 	<Effect id="2293" argsNum="1" info="复原自身的武道衍化轨迹，下{0}次衍化时时全属性+1" sp="1" analyze="[sprite name=iconHit]复原自身的武道衍化轨迹，下{0}次衍化时时[color=#52a5f2]全属性[/color]+1"/>
 	<Effect id="2294" argsNum="0" info="衍化自身的武道" sp="1" analyze="[sprite name=iconHit]衍化自身的武道"/>
 	<Effect id="2295" argsNum="0" info="废除此技能，恢复对方精灵的全部体力，消耗此技能的全部PP值并获得等量的魔王咒怨，然后若魔王咒怨层数高于5则秒杀对手且造成的攻击伤害不低于对方精灵体力上限之和" sp="1" analyze="[sprite name=iconHit]废除此技能，恢复对方精灵的全部体力，消耗此技能的全部PP值并获得等量的[color=#f35555]魔王咒怨[/color]，[color=#52a5f2]然后[/color]若[color=#f35555]魔王咒怨[/color]层数高于5则[color=#52a5f2]秒杀[/color]对手且造成的攻击伤害不低于对方精灵体力上限之和"/>

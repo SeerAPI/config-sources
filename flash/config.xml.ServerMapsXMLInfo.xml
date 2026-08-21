@@ -15578,6 +15578,12 @@ eg:
 			<Monster ID="3598" Lv="17 17"/>
 		</Monsters>
     </Map>
+	
+	<Map ID="2181" Name="阿尔法星溶洞" InitX="580" InitY="440">
+    </Map>
+	
+	<Map ID="2182" Name="阿尔法星溶洞" InitX="580" InitY="440">
+    </Map>
 
 
 
@@ -18591,6 +18597,6 @@ eg:
 		<DefaultMap ID="3" RandMaps="1224" Desc="新手登录场景"/>
 	</DefaultMaps>
 	<VersionNumber>
-		<Version ID="20260814" Desc="每次发版需同步更新版本号"/>
+		<Version ID="20260821" Desc="每次发版需同步更新版本号"/>
 	</VersionNumber>
 </Maps>

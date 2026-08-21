@@ -213,9 +213,9 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4932" ImageID= "4932" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4933" ImageID= "4933" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4934" ImageID= "4934" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "0" ID="4935" ImageID= "4935" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4936" ImageID= "4936" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <!-- <place type= "0" ID="4934" ImageID= "4934" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4910" ImageID= "4910" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4911" ImageID= "4911" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,10 +255,10 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="862" monID="4933" ImageID= "1400862" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <!-- <place type= "1" ID="861" monID="4378" ImageID= "1400861" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
-	  <!-- <place type= "1" ID="856" monID="4657" ImageID= "1400856" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
-	  <!-- <place type= "1" ID="857" monID="3488" ImageID= "1400857" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "1" ID="863" monID="4887" ImageID= "1400863" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="864" monID="4894" ImageID= "1400864" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "1" ID="865" monID="3414" ImageID= "1400865" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "1" ID="866" monID="4004" ImageID= "1400866" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
       <!-- <place type= "1" ID="847" monID="4911" ImageID= "1400846" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="842" monID="4909" ImageID= "1400842" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="747" monID="4676" ImageID= "1400747" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -4501,7 +4501,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4197" DefName="巨藤武士" Type="草 暗影" Height="250" Weight="200" Features="吸取森林之力所化成的巨藤武士，生命力惊人，常年看守着牢狱！" Redirect="map|module" Go="1147;app/PveRewardMallMainPanel" jumptarget="18/4_5" Target="164510"/>
 	<Monster ID="4198" DefName="魔花仙灵" Type="草" Height="177" Weight="55" Features="魔花仙子的完全体，进化后的魔花仙灵有了人的形态，散发出优雅迷人的气息！" Redirect="map" Go="1"/>
 	<Monster ID="4199" DefName="K·锁魂" Type="暗影" Height="170" Weight="70" Features="锁魂领主经过邪影实验第二阶段改造后的产物，比第一代实验品更加邪恶强大！" Redirect="map" Go="0"/>
-	<Monster ID="4200" DefName="阿莱克托" Type="混沌 战斗" Height="180" Weight="55" Features="黑夜三女神之一，被弑序神罗召唤后帮助拥护黑夜，手中的长鞭毁灭一切光明！" Redirect="map|module" Go="1483;app/S80ALaiKeTuoMainPanel"/>
+	<Monster ID="4200" DefName="阿莱克托" Type="混沌 战斗" Height="180" Weight="55" Features="黑夜三女神之一，被弑序神罗召唤后帮助拥护黑夜，手中的长鞭毁灭一切光明！" Redirect="map|module" Go="1483;app/S80ALaiKeTuoMainPanel" Target="150138"/>
 	<Monster ID="4201" DefName="米诺迪斯" Type="战斗" Height="300" Weight="200" Features="米诺斯的进化形态，在邪能的影响下变得更加暴虐，战斗力也有了很大提升！" Redirect="alarm" Go="挑战《赛尔号巅峰之战》SPT副本获得！" jumptarget="56/3_1"/>
 	<Monster ID="4202" DefName="纳西斯" Type="飞行 超能" Height="171" Weight="45" Features="纳西斯来自遥远的天鹅座，她从星光中苏醒，力量正在逐渐汇聚..." Redirect="map|module" Go="1;app/SignInInAprilOfQingmingFestivalMainPanel"/>
 	<Monster ID="4203" DefName="卞玉儿" Type="冰 电" Height="174" Weight="50" Features="三国时期魏国的皇后卞氏，灿如春华，皎如秋月！" Redirect="map" Go="103"/>
@@ -5233,5 +5233,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4932" DefName="工程型TOH" Type="机械" Height="3580" Weight="4600" Features="由工程师苏克设计改装的工程机械精灵，集破土、推平、压实于一身，为行星计算机的建造奔赴每一颗星球。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/962"/>
 	<Monster ID="4933" DefName="修罗铠甲" Type="混沌 圣灵" Height="181" Weight="54" Features="唯有具备天地间最强之气者方可驾驭，正可成王，邪可成魔！" Redirect="module" Go="app/FinalActivityPanel" Target="114121"/>
 	<Monster ID="4934" DefName="刑天铠甲" Type="电 次元" Height="179" Weight="50" Features="综合型铠甲，远攻近战能力兼备，为银河系正义而战！" Redirect="module" Go="app/FinalActivityPanel" Target="114124"/>
+	<Monster ID="4935" DefName="苔岩·磐岳" Type="地面" Height="153" Weight="92" Features="与雷纳多身上剥落的纳格晶体产生共鸣之后，悠悠迎来了他的全新形态：苔岩·磐岳。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/964"/>
+	<Monster ID="4936" DefName="拿瓦铠甲" Type="火 战斗" Height="183" Weight="55" Features="焰之拿瓦铠甲，是焚烧邪念的铠甲，拥有吞噬猛焰的无穷力量，焚尽一切邪恶。" Redirect="module" Go="app/FinalActivityPanel" Target="114125"/>
 
 </root>

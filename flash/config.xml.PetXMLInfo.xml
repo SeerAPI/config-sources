@@ -103041,6 +103041,43 @@
 			<Move ID="38497" LearningLv="76"/>
 		</ExtraMoves>
 	</Monster>
+	
+	<Monster ID="4935" DefName="苔岩·磐岳" Type="7" GrowthType="4" HP="165" Atk="120" Def="130" SpAtk="70" SpDef="130" Spd="120" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="2" PetClass="3596" FormParam="0" CharacterAttrParam="0" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10001" LearningLv="1"/>
+			<Move ID="10129" LearningLv="5"/>
+			<Move ID="20004" LearningLv="9"/>
+			<Move ID="10284" LearningLv="13"/>
+			<Move ID="10258" LearningLv="17"/>
+			<Move ID="20117" LearningLv="21"/>
+			<Move ID="10285" LearningLv="25"/>
+			<Move ID="20002" LearningLv="29"/>
+			<Move ID="10283" LearningLv="33"/>
+			<Move ID="10286" LearningLv="37"/>
+			<Move ID="38498" LearningLv="41" Rec="1" Tag="1"/>
+			<Move ID="29429" LearningLv="45" Rec="1" Tag="2"/>
+			<Move ID="29430" LearningLv="49" Rec="1" Tag="3"/>
+			<Move ID="38499" LearningLv="53" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38500" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+	
+	<Monster ID="4936" DefName="拿瓦铠甲" Type="47" GrowthType="4" HP="166" Atk="137" Def="114" SpAtk="70" SpDef="114" Spd="134" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3597" FormParam="0" CharacterAttrParam="0" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="38501" LearningLv="1" Rec="1" Tag="1"/>
+			<Move ID="29431" LearningLv="5" Rec="1" Tag="2"/>
+			<Move ID="29432" LearningLv="9" Rec="1" Tag="3"/>
+			<Move ID="38502" LearningLv="13" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38503" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+
+	
+	
 
 <Monster ID="5000" DefName="圣灵谱尼" Type="223" GrowthType="5" HP="180" Atk="110" Def="120" SpAtk="150" SpDef="120" Spd="140" YieldingExp="130" CatchRate="0" YieldingEV="0 0 0 1 0 1" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="0" PetClass="3780" FormParam="0" CharacterAttrParam="4" GradeParam="5" AddSeParam="1" Resist="1">
 <LearnableMoves>
@@ -116405,6 +116442,10 @@
   <Monster ID="1400860" DefName="天极圣临·帝皇铠甲" RealId=""/>
   <Monster ID="1400861" DefName="星海幻梦·青啼" RealId=""/>
   <Monster ID="1400862" DefName="猎影逐渊·修罗铠甲" RealId=""/>
+  <Monster ID="1400863" DefName="沙海之恋·托勒斯 " RealId=""/>
+  <Monster ID="1400864" DefName="沙海之恋·安瑟伦" RealId=""/>
+  <Monster ID="1400865" DefName="地核之寂·索伦森" RealId=""/>
+  <Monster ID="1400866" DefName="格劳瑞 " RealId="3150"/>
 
 
 

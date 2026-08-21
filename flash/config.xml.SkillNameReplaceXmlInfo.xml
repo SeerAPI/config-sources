@@ -16,5 +16,6 @@
 	<Moves ID="14" MoveID="28815" Name="百体怪兽装填" NewName="赤红战场" SkinID="660"/>
 	<Moves ID="15" MoveID="37039" Name="晟锋断宵诀" NewName="恒·真心共鸣" moveName1="恒" moveName2="真心共鸣" SkinID="751" Url="37039001"/>
 	<Moves ID="16" MoveID="37109" Name="净眸清灵语" NewName="恒·真心共鸣" moveName1="恒" moveName2="真心共鸣" SkinID="752" Url="37109001"/>
-	
+	<Moves ID="17" MoveID="38327" Name="谐·万灵归一" NewName="契·沙海之恋" moveName1="契" moveName2="沙海之恋" SkinID="863" Url="38327001"/>
+	<Moves ID="18" MoveID="38351" Name="信·惊悸神罚" NewName="契·沙海之恋" moveName1="契" moveName2="沙海之恋" SkinID="864" Url="38351001"/>
 </Move>

@@ -2928,11 +2928,27 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
-    <Skin ID="861" MonID="4378" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="星海幻梦·青啼" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+    <Skin ID="861" MonID="4378" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="星海幻梦·青啼" >
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
     <Skin ID="862" MonID="4933" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="猎影逐渊·修罗铠甲" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114122">
+		<SkinKind ID="1" Type="2" LifeTime="0" />
+	</Skin>
+
+    <Skin ID="863" MonID="4887" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="17" Name="沙海之恋·托勒斯 " Go="app/FinalActivityPanel" GoType="module" Jumptarget="114126">
+		<SkinKind ID="1" Type="2" LifeTime="0" />
+	</Skin>
+
+    <Skin ID="864" MonID="4894" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="17" Name="沙海之恋·安瑟伦" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114126">
+		<SkinKind ID="1" Type="2" LifeTime="0" />
+	</Skin>
+
+    <Skin ID="865" MonID="3414" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="19" Name="地核之寂·索伦森" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114127">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="13"/>
+	</Skin>
+
+    <Skin ID="866" MonID="4004" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""  Name="格劳瑞" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
