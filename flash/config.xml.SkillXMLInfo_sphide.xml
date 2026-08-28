@@ -143,6 +143,7 @@
 	<SpMoves id="129" monster="3814" monstername="八岐大蛇" moves="29400" movesname="八歧坏世" item="1728294" itemname="坏世歧角" itemnumber="1" itemtips="使用后可为八岐大蛇开启全新技能：八歧坏世" movetype="2"/>
 	<SpMoves id="130" monster="3455" monstername="洛刹" moves="29401" movesname="神恩永怀" item="1728295" itemname="焕生之痴" itemnumber="1" itemtips="使用后可为洛刹开启全新技能：神念挽引" movetype="2"/>
 	<SpMoves id="131" monster="3488" monstername="阴灵魂姬" moves="29402" movesname="黄泉妖偈" item="1728296" itemname="双源魂蒂" itemnumber="1" itemtips="使用后可为阴灵魂姬开启全新技能：黄泉妖偈" movetype="2"/>
+	<SpMoves id="132" monster="4258" monstername="环·源" moves="38515" movesname="源·神庭轰坠" item="1728404" itemname="源式核心" itemnumber="1" itemtips="使用后可为环·源开启全新第五技能：源·神庭轰坠" movetype="1"/>
 
 
 

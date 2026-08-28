@@ -595,5 +595,7 @@
     <Fragment ID="2400594" show="1" Name="鬼地行者因子" MonsterID="4929" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6427" effectId="2124" NewseConsume="200" MoveID="38482" MovesConsume="100" NeedmonID="0" NewMsglogId="2608060500" SeMsglog="2608060501" EffectMsglog="2608060502"/>
     <Fragment ID="2400595" show="1" Name="工程型TOH因子" MonsterID="4932" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6428" effectId="2127" NewseConsume="200" MoveID="38491" MovesConsume="100" NeedmonID="0" NewMsglogId="2608130700" SeMsglog="2608130701" EffectMsglog="2608130702"/>
     <Fragment ID="2400596" show="1" Name="苔岩·磐岳因子" MonsterID="4935" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6432" effectId="2130" NewseConsume="200" MoveID="38500" MovesConsume="100" NeedmonID="0" NewMsglogId="2608200400" SeMsglog="2608200401" EffectMsglog="2608200402"/>
-    
+    <Fragment ID="2400598" show="1" Name="星光·雷纳多因子" MonsterID="4937" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6435" effectId="2132" NewseConsume="270" MoveID="38506" MovesConsume="108" NeedmonID="0" NewMsglogId="2608270800" SeMsglog="2608270801" EffectMsglog="2608270802"/>
+	<Fragment ID="2400599" show="1" Name="决囚钢骨因子" MonsterID="4939" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6433" effectId="2134" NewseConsume="200" MoveID="38514" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+   
 </Root>

@@ -89,13 +89,13 @@ BonusIds="0 0 0 0 0 0 0 0 0 0 0 0" StatLog="0" Desc="2016年vip包月"/>
 	MonstersID="4708 4720 4733 4741 4751 4759 4781 4799 4809 4817 4832 4843"
 	BonusIds="2299 2300 2301 2302 2303 2304 2305 2306 2307 2308 2309 2310" YearTimeFlag="978" StatLog="0" Desc="2025年vip包月"/>
 	
-	<Item ID="11" CurYear="2026" CurMonth="8" MonsterID="4928" MonthTimeFlag="981" NewSeID="6426" RechargeMonthInfo="100750"
+	<Item ID="11" CurYear="2026" CurMonth="9" MonsterID="4938" MonthTimeFlag="981" NewSeID="6434" RechargeMonthInfo="100750"
 	 Grad="1" NotVipNeed="1" VipNeed="0"
 	GotFlagInfo="141013 141014 141015 141016 141017 141018 141019 141020 141021 141022 141023 141024"
-	MonstersID="4851 4868 4880 4892 4900 4906 4918 4928 0 0 0 0"
+	MonstersID="4851 4868 4880 4892 4900 4906 4918 4928 4938 0 0 0"
 	BonusIds="2311 2312 2313 2314 2315 2316 2317 2318 2319 2320 2321 2322" YearTimeFlag="980" StatLog="0" Desc="2026年vip包月"/>
 	
-	<CurYearMonth ID="202608" Desc="包月精灵当前生效年月,包月配表需同步更新"/>
+	<CurYearMonth ID="202609" Desc="包月精灵当前生效年月,包月配表需同步更新"/>
 	<pet id="4708">
 		<des page="1">
 			<![CDATA[

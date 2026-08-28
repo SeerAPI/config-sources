@@ -2047,6 +2047,12 @@ eg:
 		</Out>
 	</Bonus>
 	
+	<Bonus ID="2319" NewStatId="" Desc="20260828 九月包月精灵">
+		<Out ID="1" >
+			<Monster ID="4938" ExtraMove="1" NewSeID="6434" Lv="100" Name="塞壬斯"/>
+		</Out>
+	</Bonus>
+	
 	
 	
 	
@@ -2176,52 +2182,52 @@ eg:
 	
 <Bonus ID="2499" TimeFlag="1057" Desc="20250214 刻印抽奖机" >
         <Out ID="1">
-            <Mintmark ID="42387" Count="1" Name=""/>
+            <Mintmark ID="41315" Count="1" Name=""/>
         </Out>
         <Out ID="2">
-            <Mintmark ID="42388" Count="1" Name=""/>
+            <Mintmark ID="41314" Count="1" Name=""/>
         </Out>
         <Out ID="3">
-            <Mintmark ID="42389" Count="1" Name=""/>
+            <Mintmark ID="41324" Count="1" Name=""/>
         </Out>
         <Out ID="4">
-            <Mintmark ID="42390" Count="1" Name=""/>
+            <Mintmark ID="41313" Count="1" Name=""/>
         </Out>
         <Out ID="5">
-            <Mintmark ID="42391" Count="1" Name=""/>
+            <Mintmark ID="41316" Count="1" Name=""/>
         </Out>
         <Out ID="6">
-            <Mintmark ID="42392" Count="1" Name=""/>
+            <Mintmark ID="41323" Count="1" Name=""/>
         </Out>
         <Out ID="7">
-            <Mintmark ID="42393" Count="1" Name=""/>
+            <Mintmark ID="41317" Count="1" Name=""/>
         </Out>
         <Out ID="8">
-            <Mintmark ID="42394" Count="1" Name=""/>
+            <Mintmark ID="41318" Count="1" Name=""/>
         </Out>
         <Out ID="9">
-            <Mintmark ID="42395" Count="1" Name=""/>
+            <Mintmark ID="41322" Count="1" Name=""/>
         </Out>
         <Out ID="10">
-            <Mintmark ID="42396" Count="1" Name=""/>
+            <Mintmark ID="41319" Count="1" Name=""/>
         </Out>
         <Out ID="11">
-            <Mintmark ID="42397" Count="1" Name=""/>
+            <Mintmark ID="41320" Count="1" Name=""/>
         </Out>
         <Out ID="12">
-            <Mintmark ID="42398" Count="1" Name=""/>
+            <Mintmark ID="41321" Count="1" Name=""/>
         </Out>
         <Out ID="13">
-            <Mintmark ID="42399" Count="1" Name=""/>
+            <Mintmark ID="41325" Count="1" Name=""/>
         </Out>
         <Out ID="14">
-            <Mintmark ID="42400" Count="1" Name=""/>
+            <Mintmark ID="41326" Count="1" Name=""/>
         </Out>
         <Out ID="15">
-            <Mintmark ID="42401" Count="1" Name=""/>
+            <Mintmark ID="41327" Count="1" Name=""/>
         </Out>
         <Out ID="16">
-            <Mintmark ID="42402" Count="1" Name=""/>
+            <Mintmark ID="41328" Count="1" Name=""/>
         </Out>
     </Bonus>
 	

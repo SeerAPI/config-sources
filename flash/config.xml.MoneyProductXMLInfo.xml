@@ -86,7 +86,8 @@
 	<item name="8月风尚月历" productID="200082" itemID="1728320" price="30" vip="1" gold="1" type="-1"/>
 	<item name="购买极光御令进阶版" productID="200083" itemID="1728335" price="15" vip="1" gold="1" type="-1"/> 
 	<item name="完成封印任务购买帝皇铠甲小小精灵" productID="200084" itemID="1728337" price="12" vip="1" gold="1" type="-1"/> 
-	<item name="直接购买帝皇铠甲小小精灵" productID="200085" itemID="1728338" price="30" vip="1" gold="1" type="-1"/> 
+	<item name="直接购买帝皇铠甲小小精灵" productID="200085" itemID="1728338" price="30" vip="1" gold="1" type="-1"/>
+	<item name="9月风尚月历" productID="200086" itemID="1728407" price="30" vip="1" gold="1" type="-1"/>
 	
 	<!-- <item name="废弃" productID="200061" itemID="" price="1" vip="1" gold="1" type="-1"/>	-->
 	<!-- <item name="废弃" productID="200062" itemID="" price="1" vip="1" gold="1" type="-1"/>	-->

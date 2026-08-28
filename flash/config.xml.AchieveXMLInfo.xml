@@ -903,6 +903,7 @@
 				<Rule ID="14" Threshold="14" AchievementPoint="10" icon="1" achName="创造之化身" proicon="1500" SpeNameBonus="597" title="创造之化身" Desc="通关S-西曼德妮【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 				<Rule ID="15" Threshold="15" AchievementPoint="10" icon="1" achName="虚空战士" proicon="1505" SpeNameBonus="599" title="虚空战士" Desc="通关S-卡鲁维德【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 				<Rule ID="16" Threshold="16" AchievementPoint="10" icon="1" achName="古文明专家" proicon="1510" SpeNameBonus="600" title="古文明专家" Desc="通关S-米罗博士【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
+				<Rule ID="17" Threshold="17" AchievementPoint="10" icon="1" achName="原型装甲" proicon="1512" SpeNameBonus="601" title="原型装甲" Desc="通关S-星光·雷纳多【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 			</Branch>
 			
 			<Branch ID="169" Desc="高难挑战系列" > 

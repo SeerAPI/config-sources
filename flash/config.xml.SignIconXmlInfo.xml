@@ -235,7 +235,10 @@ sort标记展示序列 1为自己给自己的效果 2为队友给自己的效果
 	<item id="198" dec="水之掩藏" tips="水之掩藏" className="*" sort="5" isShowNum="1" NumDes="剩余回合数" Des="己方场下的精灵指定己方在场精灵为目标时将其取消"/>
 	<item id="199" dec="火土之烈岩" tips="火土之烈岩" className="*" sort="4" isShowNum="1" NumDes="剩余回合数" Des="己方精灵攻击无视对手伤害减少类效果至50%，还有己方异常状态抗性的唯一最高项提升至100%"/>
 	<item id="200" dec="法之意念" tips="法之意念" className="*" sort="1" isShowNum="1" NumDes="当前点数" Des="回合开始时，若自身为正气状态，则消耗法之意念平均恢复至信仰对象为自身的精灵，若自身为邪气状态，则消耗法之意念使自身下次攻击时附加等量的固定伤害"/>
-
+	<item id="201" dec="执行者" tips="执行者" className="*" sort="4" isShowNum="1" NumDes="剩余回合数" Des="己方精灵PP值被清除后保留5点PP值"/>
+	<item id="202" dec="1" tips="1" className="*" sort="4" isShowNum="1" NumDes="剩余回合数" Des="己方精灵PP值被清除后保留5点PP值"/>
+	<item id="203" dec="2" tips="2" className="*" sort="4" isShowNum="1" NumDes="剩余回合数" Des=""/>
+	<item id="204" dec="3" tips="3" className="*" sort="4" isShowNum="1" NumDes="剩余回合数" Des=""/>
 <!--<item id="" dec="" tips="" className="*" sort="1"/>-->
 	<item id="1000" dec="折叠icon" tips="【点击查看详情】" className="SignBuffView_1000" sort="100"/>
 

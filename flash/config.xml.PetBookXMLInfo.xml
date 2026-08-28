@@ -213,9 +213,9 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4935" ImageID= "4935" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4936" ImageID= "4936" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <!-- <place type= "0" ID="4934" ImageID= "4934" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "0" ID="4937" ImageID= "4937" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4938" ImageID= "4938" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4939" ImageID= "4939" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4910" ImageID= "4910" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4911" ImageID= "4911" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,10 +255,10 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="863" monID="4887" ImageID= "1400863" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="864" monID="4894" ImageID= "1400864" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "1" ID="865" monID="3414" ImageID= "1400865" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "1" ID="866" monID="4004" ImageID= "1400866" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="867" monID="4258" ImageID= "1400867" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <!-- <place type= "1" ID="864" monID="4894" ImageID= "1400864" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+	  <!-- <place type= "1" ID="865" monID="3414" ImageID= "1400865" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+	  <!-- <place type= "1" ID="866" monID="4004" ImageID= "1400866" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="847" monID="4911" ImageID= "1400846" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="842" monID="4909" ImageID= "1400842" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="747" monID="4676" ImageID= "1400747" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -3695,7 +3695,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3385" DefName="步练师" Type="冰 超能" Height="170" Weight="70" Features="拥有倾国美貌的吴国夫人，是孙权的贤内助，辅佐他成为江东霸主！" mapID="103"/>
 	<Monster ID="3386" DefName="坚壁机甲" Type="机械" Height="180" Weight="90" Features="机械系精灵王马尔修斯坚壁形态的进阶，拥有更强的护甲和更高的防御力！" mapID="1236" Label="1" jumptarget="99" Target="150039"/>
 	<Monster ID="3387" DefName="瑞泽" Type="次元 战斗" Height="180" Weight="80" Features="来自异次元的神秘精灵，掌握了空间的所有法则，不停在不同次元之间进行穿梭！" mapID="103"/>
-	<Monster ID="3388" DefName="昔兰尼加" Type="电 暗影" Height="179" Weight="71" Features="魔君的强悍使者，被派往魂帝的身边，协助对抗精灵王！" mapID="1237"/>
+	<Monster ID="3388" DefName="昔兰尼加" Type="电 暗影" Height="179" Weight="71" Features="魔君的强悍使者，被派往魂帝的身边，协助对抗精灵王！" mapID="1237" Target="150139"/>
 	<Monster ID="3389" DefName="费德约克" Type="机械" Height="155" Weight="84" Features="费约克的超进化形态，拥有了更精细的装甲和更强大的战斗能力！" mapID="103"/>
 	<Monster ID="3390" DefName="毁灭机甲" Type="机械" Height="186" Weight="84" Features="机械系精灵王马尔修斯毁灭形态的进阶，拥有破坏一切的毁灭力量！" mapID="1236" Label="1" jumptarget="97" Target="150040"/>
 	<Monster ID="3391" DefName="黎凡特" Type="暗影 战斗" Height="180" Weight="80" Features="魔君的第二位使者，前往铸魂塔为魔君搜寻力量融合的信息！" mapID="1"/>
@@ -5235,5 +5235,8 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4934" DefName="刑天铠甲" Type="电 次元" Height="179" Weight="50" Features="综合型铠甲，远攻近战能力兼备，为银河系正义而战！" Redirect="module" Go="app/FinalActivityPanel" Target="114124"/>
 	<Monster ID="4935" DefName="苔岩·磐岳" Type="地面" Height="153" Weight="92" Features="与纳多雷身上剥落的纳格晶体产生共鸣之后，悠悠迎来了他的全新形态：苔岩·磐岳。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/964"/>
 	<Monster ID="4936" DefName="拿瓦铠甲" Type="火 战斗" Height="183" Weight="55" Features="焰之拿瓦铠甲，是焚烧邪念的铠甲，拥有吞噬猛焰的无穷力量，焚尽一切邪恶。" Redirect="module" Go="app/FinalActivityPanel" Target="114125"/>
+	<Monster ID="4937" DefName="星光·雷纳多" Type="机械" Height="89" Weight="130" Features="自沉睡中苏醒的磁性晶体之躯，循着跨越星海的共鸣回到亲人身边。他是浴火重生、再度肩负守护之责的星光·雷纳多。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/966"/>
+	<Monster ID="4938" DefName="塞壬斯" Type="暗影 电" Height="168" Weight="68" Features="2026年包月精灵，万象录之《探索真理之人》。他是过去阿派罗尼亚最为年轻的学者之一，即便变为了怪物，也不曾停止对真理的追求。" Redirect="module" Go="app/FinalActivityPanel" Target="121000"/>
+	<Monster ID="4939" DefName="决囚钢骨" Type="次元 机械" Height="208" Weight="289" Features="来自█‌‌█城遗址的报告：截至█‌█发现身体结构完整的遇难者共1名，经确认系‌‌‌█‌历‌█‌█年█‌█‌█‌事件失踪者之一。但其衰老状况与身份存在明显不符，推测和‌本次█‌█‌█事件再现具有直接联系。" Redirect="module" Go="app/FinalActivityPanel" Target="113037"/>
 
 </root>

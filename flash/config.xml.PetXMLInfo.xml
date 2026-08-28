@@ -87081,6 +87081,9 @@
 <ExtraMoves>
 		  <Move ID="35288" LearningLv="76"/>
 </ExtraMoves>
+<SpExtraMoves>
+		  <Move ID="38515" LearningLv="76"/>
+</SpExtraMoves>
 </Monster>
 
 <Monster ID="4259" DefName="吉威特" Type="61" GrowthType="4" HP="160" Atk="137" Def="100" SpAtk="70" SpDef="105" Spd="133" YieldingExp="70" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="2919" FormParam="0" CharacterAttrParam="0" GradeParam="3" AddSeParam="1" Resist="1">
@@ -103076,6 +103079,96 @@
 		</ExtraMoves>
 	</Monster>
 
+	<Monster ID="4937" DefName="星光·雷纳多" Type="6" GrowthType="4" HP="171" Atk="70" Def="114" SpAtk="141" SpDef="114" Spd="130" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="0" PetClass="3598" FormParam="0" CharacterAttrParam="4" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10127" LearningLv="1"/>
+			<Move ID="20045" LearningLv="5"/>
+			<Move ID="20111" LearningLv="9"/>
+			<Move ID="10051" LearningLv="13"/>
+			<Move ID="10328" LearningLv="17"/>
+			<Move ID="10047" LearningLv="21"/>
+			<Move ID="20144" LearningLv="25"/>
+			<Move ID="10329" LearningLv="29"/>
+			<Move ID="10330" LearningLv="33"/>
+			<Move ID="21549" LearningLv="37"/>
+			<Move ID="10333" LearningLv="41"/>
+			<Move ID="20073" LearningLv="45"/>
+			<Move ID="10334" LearningLv="49"/>
+			<Move ID="10332" LearningLv="53"/>
+			<Move ID="12979" LearningLv="57"/>
+			<Move ID="10335" LearningLv="61"/>
+			<Move ID="10331" LearningLv="71"/>
+			<Move ID="10336" LearningLv="72"/>
+			<Move ID="21550" LearningLv="73"/>
+			<Move ID="20145" LearningLv="74"/>
+			<Move ID="12980" LearningLv="75"/>
+			<Move ID="21551" LearningLv="76"/>
+			<Move ID="12981" LearningLv="77"/>
+			<Move ID="38504" LearningLv="78" Rec="1" Tag="1"/>
+			<Move ID="29433" LearningLv="79" Rec="1" Tag="2"/>
+			<Move ID="29434" LearningLv="80" Rec="1" Tag="3"/>
+			<Move ID="38505" LearningLv="81" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38506" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+
+	<Monster ID="4938" DefName="塞壬斯" Type="36" GrowthType="4" HP="166" Atk="129" Def="111" SpAtk="70" SpDef="111" Spd="133" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3599" FormParam="0" CharacterAttrParam="0" GradeParam="3" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10001" LearningLv="1"/>
+			<Move ID="20002" LearningLv="5"/>
+			<Move ID="20023" LearningLv="9"/>
+			<Move ID="20018" LearningLv="13"/>
+			<Move ID="10048" LearningLv="17"/>
+			<Move ID="38507" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="10010" LearningLv="25"/>
+			<Move ID="10049" LearningLv="29"/>
+			<Move ID="10050" LearningLv="33"/>
+			<Move ID="10051" LearningLv="37"/>
+			<Move ID="20024" LearningLv="41"/>
+			<Move ID="10052" LearningLv="45"/>
+			<Move ID="29435" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="37847" LearningLv="53"/>
+			<Move ID="29436" LearningLv="57" Rec="1" Tag="3"/>
+			<Move ID="38508" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38509" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+	
+	<Monster ID="4939" DefName="决囚钢骨" Type="72" GrowthType="4" HP="160" Atk="136" Def="125" SpAtk="70" SpDef="100" Spd="129" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="0" PetClass="3600" FormParam="0" CharacterAttrParam="0" GradeParam="2" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10157" LearningLv="1"/>
+			<Move ID="20030" LearningLv="5"/>
+			<Move ID="12804" LearningLv="9"/>
+			<Move ID="10333" LearningLv="13"/>
+			<Move ID="21747" LearningLv="17"/>
+			<Move ID="38510" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="13106" LearningLv="25"/>
+			<Move ID="20513" LearningLv="29"/>
+			<Move ID="14042" LearningLv="33"/>
+			<Move ID="18133" LearningLv="37"/>
+			<Move ID="29437" LearningLv="41"/>
+			<Move ID="38511" LearningLv="45"/>
+			<Move ID="29438" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="29439" LearningLv="53" Rec="1" Tag="3"/>
+			<Move ID="38512" LearningLv="57"/>
+			<Move ID="38513" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38514" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+
+	
+	
+	
+	
+	
+	
+	
 	
 	
 
@@ -116446,6 +116539,7 @@
   <Monster ID="1400864" DefName="沙海之恋·安瑟伦" RealId=""/>
   <Monster ID="1400865" DefName="地核之寂·索伦森" RealId=""/>
   <Monster ID="1400866" DefName="格劳瑞 " RealId="3150"/>
+  <Monster ID="1400867" DefName="告死天使·莫蒂" RealId=""/>
 
 
 
