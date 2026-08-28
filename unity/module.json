@@ -5476,6 +5476,34 @@
       "res_config": []
     },
     {
+      "curr_app_do": 0,
+      "id": 903,
+      "is_full_screen": 0,
+      "module_name": "DeathAngelMorty",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 904,
+      "is_full_screen": 1,
+      "module_name": "getWtslRay",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 905,
+      "is_full_screen": 1,
+      "module_name": "getBmzhGaia",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 906,
+      "is_full_screen": 1,
+      "module_name": "getRayGaiaChoose",
+      "res_config": []
+    },
+    {
       "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
@@ -6292,6 +6320,48 @@
       "id": 1202,
       "is_full_screen": 0,
       "module_name": "rayGaiaAssembleMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1203,
+      "is_full_screen": 1,
+      "module_name": "dangoFood",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1204,
+      "is_full_screen": 0,
+      "module_name": "countgameActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1205,
+      "is_full_screen": 1,
+      "module_name": "CyrenaicaMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1206,
+      "is_full_screen": 1,
+      "module_name": "assiyaHeroActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1207,
+      "is_full_screen": 1,
+      "module_name": "turnofLuckSkinActivityPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1208,
+      "is_full_screen": 1,
+      "module_name": "LevantMainPanel",
       "res_config": []
     }
   ]

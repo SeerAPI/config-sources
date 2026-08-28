@@ -2878,6 +2878,14 @@
         ]
       },
       {
+        "id": 2319,
+        "out": [
+          {
+            "mintmark": null
+          }
+        ]
+      },
+      {
         "id": 760,
         "out": [
           {
@@ -2926,82 +2934,82 @@
         "out": [
           {
             "mintmark": {
-              "id": 42387
+              "id": 41315
             }
           },
           {
             "mintmark": {
-              "id": 42388
+              "id": 41314
             }
           },
           {
             "mintmark": {
-              "id": 42389
+              "id": 41324
             }
           },
           {
             "mintmark": {
-              "id": 42390
+              "id": 41313
             }
           },
           {
             "mintmark": {
-              "id": 42391
+              "id": 41316
             }
           },
           {
             "mintmark": {
-              "id": 42392
+              "id": 41323
             }
           },
           {
             "mintmark": {
-              "id": 42393
+              "id": 41317
             }
           },
           {
             "mintmark": {
-              "id": 42394
+              "id": 41318
             }
           },
           {
             "mintmark": {
-              "id": 42395
+              "id": 41322
             }
           },
           {
             "mintmark": {
-              "id": 42396
+              "id": 41319
             }
           },
           {
             "mintmark": {
-              "id": 42397
+              "id": 41320
             }
           },
           {
             "mintmark": {
-              "id": 42398
+              "id": 41321
             }
           },
           {
             "mintmark": {
-              "id": 42399
+              "id": 41325
             }
           },
           {
             "mintmark": {
-              "id": 42400
+              "id": 41326
             }
           },
           {
             "mintmark": {
-              "id": 42401
+              "id": 41327
             }
           },
           {
             "mintmark": {
-              "id": 42402
+              "id": 41328
             }
           }
         ]

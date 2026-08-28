@@ -2077,7 +2077,7 @@
       "id": 260,
       "monster_id": "2635",
       "need_mon_id": "2648",
-      "newest": 1,
+      "newest": 0,
       "price": "8"
     },
     {
@@ -2085,7 +2085,7 @@
       "id": 261,
       "monster_id": "2648",
       "need_mon_id": "3194",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2093,7 +2093,7 @@
       "id": 262,
       "monster_id": "3194",
       "need_mon_id": "3665",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2101,7 +2101,7 @@
       "id": 263,
       "monster_id": "2657",
       "need_mon_id": "2652",
-      "newest": 1,
+      "newest": 0,
       "price": "8"
     },
     {
@@ -2109,7 +2109,7 @@
       "id": 264,
       "monster_id": "2652",
       "need_mon_id": "3162",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2117,7 +2117,7 @@
       "id": 265,
       "monster_id": "1533",
       "need_mon_id": "1534",
-      "newest": 1,
+      "newest": 0,
       "price": "8"
     },
     {
@@ -2125,7 +2125,7 @@
       "id": 266,
       "monster_id": "1534",
       "need_mon_id": "2620",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2133,7 +2133,7 @@
       "id": 267,
       "monster_id": "2620",
       "need_mon_id": "3217",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2141,7 +2141,7 @@
       "id": 268,
       "monster_id": "2883",
       "need_mon_id": "2888",
-      "newest": 1,
+      "newest": 0,
       "price": "8"
     },
     {
@@ -2149,7 +2149,7 @@
       "id": 269,
       "monster_id": "2888",
       "need_mon_id": "2893",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2157,7 +2157,7 @@
       "id": 270,
       "monster_id": "2893",
       "need_mon_id": "3214",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2165,7 +2165,7 @@
       "id": 271,
       "monster_id": "2684",
       "need_mon_id": "2694",
-      "newest": 1,
+      "newest": 0,
       "price": "8"
     },
     {
@@ -2173,7 +2173,7 @@
       "id": 272,
       "monster_id": "2694",
       "need_mon_id": "2695",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2181,7 +2181,7 @@
       "id": 273,
       "monster_id": "2695",
       "need_mon_id": "3140",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2189,7 +2189,7 @@
       "id": 274,
       "monster_id": "3233",
       "need_mon_id": "3234",
-      "newest": 1,
+      "newest": 0,
       "price": "8"
     },
     {
@@ -2197,7 +2197,7 @@
       "id": 275,
       "monster_id": "1118",
       "need_mon_id": "1119",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2205,7 +2205,7 @@
       "id": 276,
       "monster_id": "1119",
       "need_mon_id": "1120",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2213,7 +2213,7 @@
       "id": 277,
       "monster_id": "1120",
       "need_mon_id": "1121",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2221,7 +2221,7 @@
       "id": 278,
       "monster_id": "1121",
       "need_mon_id": "2821",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2229,7 +2229,7 @@
       "id": 279,
       "monster_id": "2821",
       "need_mon_id": "3803",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2237,7 +2237,7 @@
       "id": 280,
       "monster_id": "1165",
       "need_mon_id": "1166",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2245,7 +2245,7 @@
       "id": 281,
       "monster_id": "1166",
       "need_mon_id": "1167",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2253,7 +2253,7 @@
       "id": 282,
       "monster_id": "1167",
       "need_mon_id": "2437",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2261,7 +2261,7 @@
       "id": 283,
       "monster_id": "2437",
       "need_mon_id": "2837",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2269,7 +2269,7 @@
       "id": 284,
       "monster_id": "2837",
       "need_mon_id": "3804",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2277,7 +2277,7 @@
       "id": 285,
       "monster_id": "1213",
       "need_mon_id": "1214",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2285,7 +2285,7 @@
       "id": 286,
       "monster_id": "1214",
       "need_mon_id": "1215",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2293,7 +2293,7 @@
       "id": 287,
       "monster_id": "1215",
       "need_mon_id": "2441",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2301,7 +2301,7 @@
       "id": 288,
       "monster_id": "2441",
       "need_mon_id": "2831",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2309,7 +2309,7 @@
       "id": 289,
       "monster_id": "2831",
       "need_mon_id": "3778",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2317,7 +2317,7 @@
       "id": 290,
       "monster_id": "1335",
       "need_mon_id": "1336",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2325,7 +2325,7 @@
       "id": 291,
       "monster_id": "1336",
       "need_mon_id": "1860",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2333,7 +2333,7 @@
       "id": 292,
       "monster_id": "1860",
       "need_mon_id": "2451",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2341,7 +2341,7 @@
       "id": 293,
       "monster_id": "2451",
       "need_mon_id": "2848",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2349,7 +2349,7 @@
       "id": 294,
       "monster_id": "2848",
       "need_mon_id": "3777",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2357,7 +2357,7 @@
       "id": 295,
       "monster_id": "671",
       "need_mon_id": "672",
-      "newest": 1,
+      "newest": 0,
       "price": "3"
     },
     {
@@ -2365,7 +2365,7 @@
       "id": 296,
       "monster_id": "672",
       "need_mon_id": "3874",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2373,7 +2373,7 @@
       "id": 297,
       "monster_id": "1891",
       "need_mon_id": "1892",
-      "newest": 1,
+      "newest": 0,
       "price": "3"
     },
     {
@@ -2381,7 +2381,7 @@
       "id": 298,
       "monster_id": "1892",
       "need_mon_id": "4265",
-      "newest": 1,
+      "newest": 0,
       "price": "5"
     },
     {
@@ -2389,7 +2389,7 @@
       "id": 299,
       "monster_id": "1963",
       "need_mon_id": "1964",
-      "newest": 1,
+      "newest": 0,
       "price": "3"
     },
     {
@@ -2397,6 +2397,262 @@
       "id": 300,
       "monster_id": "1964",
       "need_mon_id": "4047",
+      "newest": 0,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 301,
+      "monster_id": "2429",
+      "need_mon_id": "2821",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 302,
+      "monster_id": "125",
+      "need_mon_id": "2782",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 303,
+      "monster_id": "2032",
+      "need_mon_id": "2033",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 304,
+      "monster_id": "2033",
+      "need_mon_id": "2575",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 305,
+      "monster_id": "2575",
+      "need_mon_id": "2576",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 306,
+      "monster_id": "2576",
+      "need_mon_id": "3078",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 307,
+      "monster_id": "3078",
+      "need_mon_id": "4421",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 308,
+      "monster_id": "2477",
+      "need_mon_id": "2613",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 309,
+      "monster_id": "1384",
+      "need_mon_id": "1385",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 310,
+      "monster_id": "1385",
+      "need_mon_id": "1947",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 311,
+      "monster_id": "2360",
+      "need_mon_id": "2361",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 312,
+      "monster_id": "2361",
+      "need_mon_id": "2362",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 313,
+      "monster_id": "2362",
+      "need_mon_id": "2758",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 314,
+      "monster_id": "2758",
+      "need_mon_id": "3240",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 315,
+      "monster_id": "3240",
+      "need_mon_id": "3561",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 316,
+      "monster_id": "4464",
+      "need_mon_id": "4465",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 317,
+      "monster_id": "2168",
+      "need_mon_id": "2169",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 318,
+      "monster_id": "2169",
+      "need_mon_id": "2496",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 319,
+      "monster_id": "2496",
+      "need_mon_id": "3031",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 320,
+      "monster_id": "3031",
+      "need_mon_id": "3940",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 321,
+      "monster_id": "1436",
+      "need_mon_id": "1437",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 322,
+      "monster_id": "1437",
+      "need_mon_id": "1806",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 323,
+      "monster_id": "1806",
+      "need_mon_id": "3766",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 324,
+      "monster_id": "2367",
+      "need_mon_id": "2368",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 325,
+      "monster_id": "2368",
+      "need_mon_id": "3411",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 326,
+      "monster_id": "3411",
+      "need_mon_id": "3813",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 327,
+      "monster_id": "2736",
+      "need_mon_id": "3134",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 328,
+      "monster_id": "3134",
+      "need_mon_id": "3631",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 329,
+      "monster_id": "2920",
+      "need_mon_id": "2928",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 330,
+      "monster_id": "2928",
+      "need_mon_id": "2940",
+      "newest": 1,
+      "price": "8"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 331,
+      "monster_id": "2940",
+      "need_mon_id": "3250",
+      "newest": 1,
+      "price": "5"
+    },
+    {
+      "coin_id": "1725705",
+      "id": 332,
+      "monster_id": "3250",
+      "need_mon_id": "3255",
       "newest": 1,
       "price": "5"
     }

@@ -530184,6 +530184,243 @@
         {
           "accuracy": 95,
           "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29433,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "星光·合金壁垒",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            191,
+            1753,
+            1683,
+            433
+          ],
+          "side_effect_arg": [
+            4,
+            300,
+            3,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "type": 8,
+          "info": "开始免疫并反弹受到的异常状态了；获得了护盾；自身的能力提升开始得到保护；自身的能力开始提升",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29434,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "星光·涡轮增压",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            1397,
+            1065,
+            1926,
+            843
+          ],
+          "side_effect_arg": [
+            1,
+            2,
+            4,
+            2,
+            3,
+            1,
+            2,
+            2
+          ],
+          "type": 8,
+          "info": "全属性提升了；开始恢复体力并附加等量百分比伤害了；攻击变得更加锐利了；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29435,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "扭曲片像",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            191,
+            159,
+            1540
+          ],
+          "side_effect_arg": [
+            4,
+            2,
+            100,
+            0,
+            2,
+            300
+          ],
+          "type": 8,
+          "info": "开始免疫并反弹受到的异常状态了；令对手麻痹了；吸取了对手的体力",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29436,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "滋生钢骨",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            1397,
+            1875,
+            843
+          ],
+          "side_effect_arg": [
+            1,
+            3,
+            4,
+            3,
+            2,
+            3,
+            1
+          ],
+          "type": 8,
+          "info": "全属性提升了；开始恢复体力；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29437,
+          "max_pp": 10,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "隙间制动",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            39
+          ],
+          "side_effect_arg": [
+            100,
+            2
+          ],
+          "type": 8,
+          "info": "降低了对手的PP值",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29438,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "十里枯监",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            191,
+            2306,
+            570
+          ],
+          "side_effect_arg": [
+            4,
+            1,
+            19,
+            200,
+            1
+          ],
+          "type": 8,
+          "info": "开始免疫并反弹受到的异常状态了；开始免疫对手的攻击了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29439,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "削山骼网",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            2193,
+            1855,
+            619
+          ],
+          "side_effect_arg": [
+            100,
+            6,
+            3,
+            1,
+            1,
+            1,
+            0,
+            1,
+            -1,
+            1,
+            2,
+            4,
+            3,
+            3,
+            2,
+            2
+          ],
+          "type": 8,
+          "info": "令对手感到害怕；开始恢复体力了；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
           "atk_type": 0,
           "category": 1,
           "crit_rate": 0,
@@ -766181,6 +766418,351 @@
             1
           ],
           "type": 47,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38504,
+          "max_pp": 20,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "星光·极速射线",
+          "power": 85,
+          "priority": 3,
+          "side_effect": [
+            1032,
+            2540
+          ],
+          "side_effect_arg": [
+            1,
+            0,
+            1,
+            1
+          ],
+          "type": 6,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38505,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "星光·能源吸收",
+          "power": 150,
+          "priority": 0,
+          "side_effect": [
+            948,
+            894,
+            2564
+          ],
+          "side_effect_arg": [
+            19,
+            250,
+            2
+          ],
+          "type": 6,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38506,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "星光·魔动能量",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            2363,
+            882,
+            1198,
+            2366
+          ],
+          "side_effect_arg": [
+            10,
+            100,
+            300,
+            1,
+            100
+          ],
+          "type": 6,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38507,
+          "max_pp": 20,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "吱呀作响",
+          "power": 85,
+          "priority": 3,
+          "side_effect": [
+            868,
+            1133
+          ],
+          "side_effect_arg": [
+            2,
+            1,
+            60
+          ],
+          "type": 36,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38508,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "苦痛奇迹",
+          "power": 150,
+          "priority": 0,
+          "side_effect": [
+            1481,
+            938
+          ],
+          "side_effect_arg": [
+            30,
+            1
+          ],
+          "type": 36,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38509,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "强植自髓",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            55,
+            759,
+            811,
+            121
+          ],
+          "side_effect_arg": [
+            5,
+            3,
+            1,
+            -2,
+            100
+          ],
+          "type": 36,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38510,
+          "max_pp": 10,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "搅碎",
+          "power": 110,
+          "priority": 2,
+          "side_effect": [
+            1767,
+            1157
+          ],
+          "side_effect_arg": [
+            1
+          ],
+          "type": 72,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38511,
+          "max_pp": 10,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "降维处决",
+          "power": 130,
+          "priority": 0,
+          "side_effect": [
+            456
+          ],
+          "side_effect_arg": [
+            200
+          ],
+          "type": 72,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38512,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "裂解坍压",
+          "power": 140,
+          "priority": 0,
+          "side_effect": [
+            1380
+          ],
+          "side_effect_arg": [
+            1,
+            1,
+            3
+          ],
+          "type": 72,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38513,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "狂椎散闪斩",
+          "power": 2,
+          "priority": 0,
+          "side_effect": [
+            1807,
+            484
+          ],
+          "side_effect_arg": [
+            100,
+            25,
+            200
+          ],
+          "type": 72,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38514,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "幽骸锁魂阵",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            1734,
+            1674,
+            2351
+          ],
+          "side_effect_arg": [
+            100,
+            16,
+            100,
+            2,
+            4,
+            400,
+            1,
+            1
+          ],
+          "type": 72,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38515,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "源·神庭轰坠",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            699,
+            2566,
+            2565,
+            2240
+          ],
+          "side_effect_arg": [
+            40
+          ],
+          "type": 103,
           "info": "",
           "ordinary": 0
         },

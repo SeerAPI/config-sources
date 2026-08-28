@@ -2192,6 +2192,16 @@
         "monster": 3488,
         "moves": 29402,
         "movetype": 2
+      },
+      {
+        "itemname": "源式核心",
+        "movesname": "源·神庭轰坠",
+        "id": 132,
+        "item": 1728404,
+        "itemnumber": 1,
+        "monster": 4258,
+        "moves": 38515,
+        "movetype": 1
       }
     ]
   }

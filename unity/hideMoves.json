@@ -13340,6 +13340,30 @@
         "pet_id": 4936
       },
       {
+        "move_id": 38506,
+        "move_name1": "星光",
+        "move_name2": "魔动能量",
+        "pet_id": 4937
+      },
+      {
+        "move_id": 38509,
+        "move_name1": "强植",
+        "move_name2": "自髓",
+        "pet_id": 4938
+      },
+      {
+        "move_id": 38514,
+        "move_name1": "幽骸",
+        "move_name2": "锁魂阵",
+        "pet_id": 4939
+      },
+      {
+        "move_id": 38515,
+        "move_name1": "源",
+        "move_name2": "神庭轰坠",
+        "pet_id": 4258
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",
