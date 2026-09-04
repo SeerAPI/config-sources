@@ -904,6 +904,7 @@
 				<Rule ID="15" Threshold="15" AchievementPoint="10" icon="1" achName="虚空战士" proicon="1505" SpeNameBonus="599" title="虚空战士" Desc="通关S-卡鲁维德【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 				<Rule ID="16" Threshold="16" AchievementPoint="10" icon="1" achName="古文明专家" proicon="1510" SpeNameBonus="600" title="古文明专家" Desc="通关S-米罗博士【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 				<Rule ID="17" Threshold="17" AchievementPoint="10" icon="1" achName="原型装甲" proicon="1512" SpeNameBonus="601" title="原型装甲" Desc="通关S-星光·雷纳多【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
+				<Rule ID="18" Threshold="18" AchievementPoint="10" icon="1" achName="王座守卫" proicon="1513" SpeNameBonus="602" title="王座守卫" Desc="通关S-王座守卫·古亚尼斯【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 			</Branch>
 			
 			<Branch ID="169" Desc="高难挑战系列" > 
@@ -1306,6 +1307,9 @@
 				<Rule ID="1" Threshold="1" AchievementPoint="15" achName="战皇" Desc="任意赛季竞技模式首次达成5连胜" proicon="1325" icon="2" />
 				<Rule ID="2" Threshold="2" AchievementPoint="20" achName="战神" Desc="任意赛季竞技模式首次达成10连胜" proicon="1326" icon="4" />
 				<Rule ID="3" Threshold="3" AchievementPoint="30" achName="不可能完成的任务" Desc="任意赛季竞技模式首次达成30连胜" proicon="1327" icon="3" />
+				<Rule ID="4" Threshold="4" AchievementPoint="15" achName="战皇·大师" proicon="1514" Desc="任意赛季大师模式首次达成5连胜" icon="2"/>
+				<Rule ID="5" Threshold="5" AchievementPoint="20" achName="战神·大师" proicon="1515" Desc="任意赛季大师模式首次达成10连胜" icon="4" />
+				<Rule ID="6" Threshold="6" AchievementPoint="30" achName="不可能完成的任务·大师" proicon="1516" Desc="任意赛季大师模式首次达成30连胜" icon="3" />
 			</Branch>
 			<Branch ID="163" Desc="对战次数成就" introl="" proicon=""  type="2">
 				<Rule ID="1" Threshold="1" AchievementPoint="10" achName="初入巅峰" Desc="任意赛季竞技/休闲模式中进行1次对战" proicon="1321" icon="1" />

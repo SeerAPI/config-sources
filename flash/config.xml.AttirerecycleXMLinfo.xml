@@ -1366,7 +1366,7 @@
 	<Attirerecycle ID="344" ItemID="1721966" ItemName="神奇的护符" OutputNum="20"/>
 	<Attirerecycle ID="345" ItemID="1721967" ItemName="万能的护符" OutputNum="20"/> -->
 
-<!-- 20250704第二十三期 -->
+<!-- 20250704第二十三期
     <Attirerecycle ID="1" ItemID="1709795" ItemName="夜刃碎片" OutputNum="20"/>
     <Attirerecycle ID="2" ItemID="1709798" ItemName="六一活动奖励兑换道具-凯撒奥拉夫" OutputNum="20"/>
     <Attirerecycle ID="3" ItemID="1709867" ItemName="天枢之光" OutputNum="20"/>
@@ -1499,7 +1499,7 @@
     <Attirerecycle ID="130" ItemID="1721942" ItemName="晶色的书信碎片" OutputNum="20"/>
     <Attirerecycle ID="131" ItemID="1721806" ItemName="踏春絮语50优惠券" OutputNum="20"/>
 
-<!-- 20251017第二十四期 -->
+20251017第二十四期
 	<Attirerecycle ID="132" ItemID="1711572" ItemName="三折折扣券" OutputNum="20"/>
 	<Attirerecycle ID="133" ItemID="1711573" ItemName="五折折扣券" OutputNum="20"/>
 	<Attirerecycle ID="134" ItemID="1711574" ItemName="七折折扣券" OutputNum="20"/>
@@ -1556,7 +1556,7 @@
 	<Attirerecycle ID="185" ItemID="1721424" ItemName="圣金星石" OutputNum="20"/>
 
 
-<!-- 20260130第二十五期 -->
+20260130第二十五期
 	<Attirerecycle ID="186" ItemID="1718868" ItemName="圣诞摇摇券" OutputNum="20"/>
 	<Attirerecycle ID="187" ItemID="1718873" ItemName="麋鹿的治疗包" OutputNum="20"/>
 	<Attirerecycle ID="188" ItemID="1718874" ItemName="麋鹿的胡萝卜" OutputNum="20"/>
@@ -1608,7 +1608,7 @@
 	<Attirerecycle ID="234" ItemID="1724889" ItemName="湮灭逸能" OutputNum="20"/>
 	<Attirerecycle ID="235" ItemID="1724950" ItemName="神秘的麋鹿包裹" OutputNum="20"/>
 
-<!-- 20260515第二十六期 -->
+20260515第二十六期
 	<Attirerecycle ID="236" ItemID="1725006" ItemName="霜寒核心" OutputNum="20"/>
 	<Attirerecycle ID="237" ItemID="1725014" ItemName="新春福币" OutputNum="20"/>
 	<Attirerecycle ID="238" ItemID="1725016" ItemName="神经矩阵皮肤优惠券" OutputNum="20"/>
@@ -1658,7 +1658,109 @@
 	<Attirerecycle ID="282" ItemID="1725839" ItemName="茶会甜点" OutputNum="20"/>
 	<Attirerecycle ID="283" ItemID="1725877" ItemName="棋弈之元" OutputNum="20"/>
 	<Attirerecycle ID="284" ItemID="1725911" ItemName="绚烂烟花" OutputNum="20"/>
-	<Attirerecycle ID="285" ItemID="1725939" ItemName="晖金铸币" OutputNum="20"/>
+	<Attirerecycle ID="285" ItemID="1725939" ItemName="晖金铸币" OutputNum="20"/>-->
+
+<!-- 20260904第二十七期-->
+    <Attirerecycle ID="1" ItemID="1717631" ItemName="米修莉50钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="2" ItemID="1717632" ItemName="米修莉80钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="3" ItemID="1717633" ItemName="米修莉120钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="4" ItemID="1717634" ItemName="米修莉150钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="5" ItemID="1717640" ItemName="冰结之蔟" OutputNum="20"/>
+	<Attirerecycle ID="6" ItemID="1717661" ItemName="素咔第五技能兑换券" OutputNum="20"/>
+	<Attirerecycle ID="7" ItemID="1717662" ItemName="素咔专属特性兑换券" OutputNum="20"/>
+	<Attirerecycle ID="8" ItemID="1717663" ItemName="混沌之沙" OutputNum="20"/>
+	<Attirerecycle ID="9" ItemID="1717719" ItemName="泰坦之花花种" OutputNum="20"/>
+	<Attirerecycle ID="10" ItemID="1717734" ItemName="巧果芝麻" OutputNum="20"/>
+	<Attirerecycle ID="11" ItemID="1717735" ItemName="巧果饴糖" OutputNum="20"/>
+	<Attirerecycle ID="12" ItemID="1717736" ItemName="巧果面粉" OutputNum="20"/>
+	<Attirerecycle ID="13" ItemID="1717737" ItemName="巧果鸡蛋" OutputNum="20"/>
+	<Attirerecycle ID="14" ItemID="1717741" ItemName="月光果" OutputNum="20"/>
+	<Attirerecycle ID="15" ItemID="1717761" ItemName="糖果儿50钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="16" ItemID="1717762" ItemName="糖果儿80钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="17" ItemID="1717763" ItemName="糖果儿120钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="18" ItemID="1717764" ItemName="糖果儿150钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="19" ItemID="1717780" ItemName="浪漫游乐园棉花糖" OutputNum="20"/>
+	<Attirerecycle ID="20" ItemID="1717782" ItemName="浪漫游乐园气球" OutputNum="20"/>
+	<Attirerecycle ID="21" ItemID="1717783" ItemName="浪漫游乐园炸弹" OutputNum="20"/>
+	<Attirerecycle ID="22" ItemID="1717790" ItemName="葬生之莲传说级皮肤8折券" OutputNum="20"/>
+	<Attirerecycle ID="23" ItemID="1717791" ItemName="葬生之莲传说级皮肤6折券" OutputNum="20"/>
+	<Attirerecycle ID="24" ItemID="1717792" ItemName="葬生之莲传说级皮肤5折券" OutputNum="20"/>
+	<Attirerecycle ID="25" ItemID="1717793" ItemName="葬生之莲传说级皮肤3折券" OutputNum="20"/>
+	<Attirerecycle ID="26" ItemID="1717851" ItemName="莫比乌斯之椅" OutputNum="20"/>
+	<Attirerecycle ID="27" ItemID="1717858" ItemName="灵魂之尘" OutputNum="20"/>
+	<Attirerecycle ID="28" ItemID="1717859" ItemName="恶龙之息" OutputNum="20"/>
+	<Attirerecycle ID="29" ItemID="1717860" ItemName="邪火晶石" OutputNum="20"/>
+	<Attirerecycle ID="30" ItemID="1717861" ItemName="翡翠灵果" OutputNum="20"/>
+	<Attirerecycle ID="31" ItemID="1717862" ItemName="灿光之铃" OutputNum="20"/>
+	<Attirerecycle ID="32" ItemID="1717863" ItemName="超大雪球" OutputNum="20"/>
+	<Attirerecycle ID="33" ItemID="1717868" ItemName="石胎玉" OutputNum="20"/>
+	<Attirerecycle ID="34" ItemID="1717869" ItemName="隐竹泉水" OutputNum="20"/>
+	<Attirerecycle ID="35" ItemID="1717870" ItemName="御灵翡翠" OutputNum="20"/>
+	<Attirerecycle ID="36" ItemID="1717881" ItemName="彩晶石" OutputNum="20"/>
+	<Attirerecycle ID="37" ItemID="1717882" ItemName="多西石" OutputNum="20"/>
+	<Attirerecycle ID="38" ItemID="1717908" ItemName="狐小媚50钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="39" ItemID="1717909" ItemName="狐小媚80钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="40" ItemID="1717910" ItemName="狐小媚120钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="41" ItemID="1717911" ItemName="狐小媚150钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="42" ItemID="1717933" ItemName="石化之城泪石" OutputNum="20"/>
+	<Attirerecycle ID="43" ItemID="1717942" ItemName="写完的作业" OutputNum="20"/>
+	<Attirerecycle ID="44" ItemID="1717943" ItemName="开学摸底试卷" OutputNum="20"/>
+	<Attirerecycle ID="45" ItemID="1717977" ItemName="2018赛尔号大电影礼包兑换券" OutputNum="20"/>
+	<Attirerecycle ID="46" ItemID="1717978" ItemName="开学精灵自然之灵" OutputNum="20"/>
+	<Attirerecycle ID="47" ItemID="1717979" ItemName="开学精灵文学之灵" OutputNum="20"/>
+	<Attirerecycle ID="48" ItemID="1717980" ItemName="开学精灵原力之灵" OutputNum="20"/>
+	<Attirerecycle ID="49" ItemID="1718071" ItemName="月食汤剂" OutputNum="20"/>
+	<Attirerecycle ID="50" ItemID="1718072" ItemName="残月汤剂" OutputNum="20"/>
+	<Attirerecycle ID="51" ItemID="1718073" ItemName="半月汤剂" OutputNum="20"/>
+	<Attirerecycle ID="52" ItemID="1718074" ItemName="圆月汤剂" OutputNum="20"/>
+	<Attirerecycle ID="53" ItemID="1718075" ItemName="月食药水" OutputNum="20"/>
+	<Attirerecycle ID="54" ItemID="1718076" ItemName="残月药水" OutputNum="20"/>
+	<Attirerecycle ID="55" ItemID="1718077" ItemName="半月药水" OutputNum="20"/>
+	<Attirerecycle ID="56" ItemID="1718078" ItemName="圆月药水" OutputNum="20"/>
+	<Attirerecycle ID="57" ItemID="1718079" ItemName="咕噜草" OutputNum="20"/>
+	<Attirerecycle ID="58" ItemID="1718080" ItemName="丽芽草" OutputNum="20"/>
+	<Attirerecycle ID="59" ItemID="1718081" ItemName="月石粉末" OutputNum="20"/>
+	<Attirerecycle ID="60" ItemID="1718082" ItemName="清柳露" OutputNum="20"/>
+	<Attirerecycle ID="61" ItemID="1718083" ItemName="魇梅" OutputNum="20"/>
+	<Attirerecycle ID="62" ItemID="1718104" ItemName="苍天歌50钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="63" ItemID="1718105" ItemName="苍天歌80钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="64" ItemID="1718106" ItemName="苍天歌120钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="65" ItemID="1718107" ItemName="苍天歌150钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="66" ItemID="1718110" ItemName="亡者能量" OutputNum="20"/>
+	<Attirerecycle ID="67" ItemID="1718142" ItemName="千秋一泪" OutputNum="20"/>
+	<Attirerecycle ID="68" ItemID="1718147" ItemName="月光一族月光神石" OutputNum="20"/>
+	<Attirerecycle ID="69" ItemID="1718148" ItemName="月光一族月光之晖" OutputNum="20"/>
+	<Attirerecycle ID="70" ItemID="1718185" ItemName="精钢外壳" OutputNum="20"/>
+	<Attirerecycle ID="71" ItemID="1718186" ItemName="泰坦晶管" OutputNum="20"/>
+	<Attirerecycle ID="72" ItemID="1718187" ItemName="动能核心" OutputNum="20"/>
+	<Attirerecycle ID="73" ItemID="1718202" ItemName="冥火重重普通木材" OutputNum="20"/>
+	<Attirerecycle ID="74" ItemID="1718203" ItemName="冥火重重精木" OutputNum="20"/>
+	<Attirerecycle ID="75" ItemID="1718204" ItemName="冥火重重普通火种" OutputNum="20"/>
+	<Attirerecycle ID="76" ItemID="1718205" ItemName="冥火重重精火" OutputNum="20"/>
+	<Attirerecycle ID="77" ItemID="1718218" ItemName="精灵王王者之徽" OutputNum="20"/>
+	<Attirerecycle ID="78" ItemID="1718219" ItemName="精灵王徽章碎片" OutputNum="20"/>
+	<Attirerecycle ID="79" ItemID="1718220" ItemName="精灵王水之晶源" OutputNum="20"/>
+	<Attirerecycle ID="80" ItemID="1718221" ItemName="精灵王羽之晶源" OutputNum="20"/>
+	<Attirerecycle ID="81" ItemID="1718222" ItemName="精灵王地之晶源" OutputNum="20"/>
+	<Attirerecycle ID="82" ItemID="1718231" ItemName="荧光草" OutputNum="20"/>
+	<Attirerecycle ID="83" ItemID="1718235" ItemName="生命水晶簇" OutputNum="20"/>
+	<Attirerecycle ID="84" ItemID="1718254" ItemName="生命之源巨坚之石" OutputNum="20"/>
+	<Attirerecycle ID="85" ItemID="1718255" ItemName="生命之源永恒之露" OutputNum="20"/>
+	<Attirerecycle ID="86" ItemID="1718256" ItemName="生命之源创世之晶" OutputNum="20"/>
+	<Attirerecycle ID="87" ItemID="1718257" ItemName="生命之源魔灵之音" OutputNum="20"/>
+	<Attirerecycle ID="88" ItemID="1718258" ItemName="生命之源天魔之息" OutputNum="20"/>
+	<Attirerecycle ID="89" ItemID="1718259" ItemName="生命之源容器雏形" OutputNum="20"/>
+	<Attirerecycle ID="90" ItemID="1718262" ItemName="永恒之心" OutputNum="20"/>
+	<Attirerecycle ID="91" ItemID="1718321" ItemName="圣灵之魂" OutputNum="20"/>
+	<Attirerecycle ID="92" ItemID="1718326" ItemName="勇士勋章" OutputNum="20"/>
+	<Attirerecycle ID="93" ItemID="1718327" ItemName="丰收麦穗" OutputNum="20"/>
+	<Attirerecycle ID="94" ItemID="1718328" ItemName="烟波草" OutputNum="20"/>
+	<Attirerecycle ID="95" ItemID="1718329" ItemName="翡翠石乳" OutputNum="20"/>
+	<Attirerecycle ID="96" ItemID="1718337" ItemName="一捆麦草" OutputNum="20"/>
+	<Attirerecycle ID="97" ItemID="1718354" ItemName="伊特丽丝50钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="98" ItemID="1718355" ItemName="伊特丽丝80钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="99" ItemID="1718356" ItemName="伊特丽丝120钻代金券" OutputNum="20"/>
+	<Attirerecycle ID="100" ItemID="1718357" ItemName="伊特丽丝150钻代金券" OutputNum="20"/>
 
 
 

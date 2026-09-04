@@ -103162,7 +103162,58 @@
 		</ExtraMoves>
 	</Monster>
 
+	<Monster ID="4940" DefName="王座守卫·古亚尼斯" Type="80" GrowthType="4" HP="176" Atk="140" Def="114" SpAtk="70" SpDef="114" Spd="126" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="0" PetClass="3601" FormParam="0" CharacterAttrParam="0" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10001" LearningLv="1"/>
+			<Move ID="20196" LearningLv="5"/>
+			<Move ID="10454" LearningLv="9"/>
+			<Move ID="10455" LearningLv="13"/>
+			<Move ID="20013" LearningLv="17"/>
+			<Move ID="37731" LearningLv="21"/>
+			<Move ID="20127" LearningLv="25"/>
+			<Move ID="10106" LearningLv="29"/>
+			<Move ID="10459" LearningLv="33"/>
+			<Move ID="37732" LearningLv="37"/>
+			<Move ID="10456" LearningLv="41"/>
+			<Move ID="10460" LearningLv="45"/>
+			<Move ID="28929" LearningLv="49"/>
+			<Move ID="10457" LearningLv="53"/>
+			<Move ID="37733" LearningLv="57"/>
+			<Move ID="28930" LearningLv="61"/>
+			<Move ID="37734" LearningLv="71"/>
+			<Move ID="38516" LearningLv="72" Rec="1" Tag="1"/>
+			<Move ID="29440" LearningLv="73" Rec="1" Tag="2"/>
+			<Move ID="29441" LearningLv="74" Rec="1" Tag="3"/>
+			<Move ID="38517" LearningLv="75" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38518" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
 	
+	<Monster ID="4941" DefName="瑞丁" Type="85" GrowthType="4" HP="174" Atk="120" Def="100" SpAtk="70" SpDef="104" Spd="132" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3602" FormParam="0" CharacterAttrParam="0" GradeParam="1" AddSeParam="0" Resist="1">
+		<LearnableMoves>
+			<Move ID="10127" LearningLv="1"/>
+			<Move ID="20496" LearningLv="5"/>
+			<Move ID="13527" LearningLv="9"/>
+			<Move ID="14045" LearningLv="13"/>
+			<Move ID="20769" LearningLv="17"/>
+			<Move ID="38519" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="13532" LearningLv="25"/>
+			<Move ID="21021" LearningLv="29"/>
+			<Move ID="32820" LearningLv="33"/>
+			<Move ID="26502" LearningLv="37"/>
+			<Move ID="33083" LearningLv="41"/>
+			<Move ID="26629" LearningLv="45"/>
+			<Move ID="29442" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="26630" LearningLv="53"/>
+			<Move ID="29443" LearningLv="57" Rec="1" Tag="3"/>
+			<Move ID="38520" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38521" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
 	
 	
 	
@@ -116540,7 +116591,7 @@
   <Monster ID="1400865" DefName="地核之寂·索伦森" RealId=""/>
   <Monster ID="1400866" DefName="格劳瑞 " RealId="3150"/>
   <Monster ID="1400867" DefName="告死天使·莫蒂" RealId=""/>
-
+  <Monster ID="1400867" DefName="龙墟寻迹·帕妮丝" RealId=""/>
 
 
 

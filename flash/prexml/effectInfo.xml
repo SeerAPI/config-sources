@@ -538,7 +538,7 @@
 	<Effect id="696" argsNum="3" info="暴击率提升{0}%，每次使用额外提升{1}%，最高概率{2}%" analyze="[sprite name=iconHit]暴击率提升{0}%，每次使用额外提升{1}%，最高概率{2}%（boss有效）"/>
 	<Effect id="697" argsNum="0" info="无视伤害限制效果" analyze="[sprite name=iconInherent]无视伤害限制效果（boss有效）" type="1"/>
 	<Effect id="698" argsNum="2" info="当回合击败对手时，对方下只精灵出战时{0}%{1}" param="1,1,1" analyze="[sprite name=iconHit][color=#52a5f2]当回合[/color][color=#57c975]击败[/color]对手时，对方下只精灵[color=#57c975]出战时[/color]{0}%[color=#57c975]{1}[/color]"/>
-	<Effect id="699" argsNum="0" info="无视攻击免疫效果" analyze="[sprite name=iconInherent]无视攻击免疫效果（boss有效）" type="1"/>
+	<Effect id="699" argsNum="0" info="无视攻击免疫效果" analyze="[sprite name=iconInherent]无视[color=#52a5f2]攻击免疫效果[/color] （boss有效）" type="1"/>
 	<Effect id="700" argsNum="1" info="先出手时降低对手所有PP{0}点" analyze="[sprite name=iconHit]先出手时降低对手所有PP{0}点"/>
 	<Effect id="701" argsNum="1" info="若对手本回合恢复体力，则下{0}回合自身所有攻击致命一击" analyze="[sprite name=iconHit]若对手本回合恢复体力，则下{0}回合自身所有攻击[color=#57c975]致命一击[/color]（boss有效）"/>
 	<Effect id="702" argsNum="1" info="下{0}回合若打出致命一击则必定恢复全部体力" analyze="[sprite name=iconHit]下{0}回合若打出[color=#57c975]致命一击[/color]则必定恢复全部体力（boss有效）"/>
@@ -1346,7 +1346,7 @@
 	<Effect id="1505" argsNum="0" info="黑暗之种成长期时附加200点固定伤害，黑暗之种长大后固定伤害翻倍" sp="1" analyze="[sprite name=iconHit][color=#f35555]黑暗之种[/color]成长期时附加200点[color=#52a5f2]固定伤害[/color]，[color=#f35555]黑暗之种[/color]长大后[color=#52a5f2]固定伤害[/color]翻倍"/>
 	<Effect id="1506" argsNum="1" info="若对手不是龙系精灵则恢复自身{0}点体力" analyze="[sprite name=iconHit]若对手不是龙系精灵则恢复自身{0}点体力（boss有效）"/>
 	<Effect id="1507" argsNum="2" info="{0}回合内自身受到攻击则随机附加{1}种异常状态，未触发则消除对手回合类效果" analyze="[sprite name=iconHit]{0}回合内自身受到攻击则随机附加{1}种异常状态，[color=#52a5f2]未触发[/color]则消除对手[color=#52a5f2]回合类效果[/color]"/>
-	<Effect id="1508" argsNum="0" info="先出手时无视攻击免疫效果" analyze="[sprite name=iconInherent]先出手时无视攻击免疫效果（boss有效）" type="1"/>
+	<Effect id="1508" argsNum="0" info="先出手时无视攻击免疫效果" analyze="[sprite name=iconInherent]先出手时无视[color=#52a5f2]攻击免疫效果[/color]（boss有效）" type="1"/>
 	<Effect id="1509" argsNum="2" info="令对手全属性-{0}且随机{1}个技能PP值归零，技能无效时消耗自身全部体力并令对手全属性-1，然后对手下3次使用技能消耗的PP值为3倍" analyze="[sprite name=iconComp]令对手[color=#52a5f2]全属性[/color]-{0}且随机{1}个技能PP值归零，技能无效时消耗自身全部体力并令对手[color=#52a5f2]全属性[/color]-1，[color=#52a5f2]然后[/color]对手下3次使用技能消耗的PP值为3倍" type="3"/>
 	<Effect id="1510" argsNum="3" info="{0}回合内对手主动切换精灵则回合开始后{1}%随机附加{2}种异常状态" analyze="[sprite name=iconHit]{0}回合内对手[color=#52a5f2]主动切换[/color]精灵则回合开始后{1}%随机附加{2}种异常状态"/>
 	<Effect id="1511" argsNum="1" info="先出手时免疫当回合受到的攻击伤害，若对手为自身天敌则免疫并反弹给对手造成伤害值{0}%的百分比伤害" analyze="[sprite name=iconHit]先出手时免疫[color=#52a5f2]当回合[/color]受到的攻击伤害，若对手为自身天敌则免疫并[color=#52a5f2]反弹[/color]给对手造成伤害值{0}%的[color=#52a5f2]百分比伤害[/color]"/>
@@ -1763,7 +1763,7 @@
 	<Effect id="1923" argsNum="1" info="{0}回合内令对手使用的攻击技能无效" analyze="[sprite name=iconHit]{0}回合内令对手使用的攻击技能无效（boss有效）"/>
 	<Effect id="1924" argsNum="2" info="{0}回合内每回合使用技能恢复自身{1}点体力并造成等量固定伤害" analyze="[sprite name=iconHit]{0}回合内每回合使用技能恢复自身{1}点体力并造成等量[color=#52a5f2]固定伤害[/color]（boss有效）"/>
 	<Effect id="1925" argsNum="1" info="吸取对手最大体力的1/{0}" analyze="[sprite name=iconHit][color=#52a5f2]吸取[/color]对手最大体力的1/{0}"/>
-	<Effect id="1926" argsNum="1" info="下{0}次攻击技能无视攻击免疫效果" analyze="[sprite name=iconHit]下{0}次攻击技能无视攻击免疫效果"/>
+	<Effect id="1926" argsNum="1" info="下{0}次攻击技能无视攻击免疫效果" analyze="[sprite name=iconHit]下{0}次攻击技能无视[color=#52a5f2]攻击免疫效果[/color]"/>
 	<Effect id="1927" argsNum="3" info="{0}回合内每回合使用技能则吸取对手{1}点体力，吸取体力时若自身体力低于最大体力的1/{2}则吸取效果翻倍" analyze="[sprite name=iconHit]{0}回合内每回合使用技能则[color=#52a5f2]吸取[/color]对手{1}点体力，[color=#52a5f2]吸取[/color]体力时若自身体力低于最大体力的1/{2}则[color=#52a5f2]吸取[/color]效果翻倍（boss有效）"/>
 	<Effect id="1928" argsNum="1" info="吸取对手能力提升状态，若对手不处于能力提升状态则吸取对手最大体力的1/{0}" analyze="[sprite name=iconHit][color=#52a5f2]吸取[/color]对手能力提升状态，若对手不处于能力提升状态则[color=#52a5f2]吸取[/color]对手最大体力的1/{0}"/>
 	<Effect id="1929" argsNum="3" info="{0}%令对手{1}，未触发则随机附加{2}种异常状态" param="1,1,1" analyze="[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，[color=#52a5f2]未触发[/color]则随机附加{2}种异常状态"/>
@@ -1967,7 +1967,7 @@
 	<Effect id="2127" argsNum="0" info="技能无效时，消除对手回合类效果、能力提升效果，令对手烧伤" analyze="[sprite name=iconInherent]技能无效时，消除对手[color=#52a5f2]回合类效果[/color]、能力提升效果，令对手[color=#57c975]烧伤[/color]" type="1"/>
 	<Effect id="2128" argsNum="2" info="对手不处于异常状态时对手{0}回合内体力恢复效果减少{1}%" analyze="[sprite name=iconHit]对手不处于异常状态时对手{0}回合内体力恢复效果减少{1}%"/>
 	<Effect id="2129" argsNum="2" info="攻击后附加造成伤害{0}%的百分比伤害，先出手时效果提升{1}%，附加后若对手体力未减少则额外附加等量的真实伤害" analyze="[sprite name=iconHit]攻击后附加造成伤害{0}%的[color=#52a5f2]百分比伤害[/color]，先出手时效果提升{1}%，附加后若对手体力未减少则额外附加等量的[color=#52a5f2]真实伤害[/color]"/>
-	<Effect id="2130" argsNum="0" info="对手持有失能时必定命中且无视攻击免疫效果" sp="1" analyze="[sprite name=iconInherent]对手持有[color=#f35555]失能[/color]时[color=#52a5f2]必定命中[/color]且无视攻击免疫效果" type="1"/>
+	<Effect id="2130" argsNum="0" info="对手持有失能时必定命中且无视攻击免疫效果" sp="1" analyze="[sprite name=iconInherent]对手持有[color=#f35555]失能[/color]时[color=#52a5f2]必定命中[/color]且无视[color=#52a5f2]攻击免疫效果[/color]" type="1"/>
 	<Effect id="2131" argsNum="1" info="自身持有回能时先制+1且附加对手最大体力1/{0}的百分比伤害" sp="1" analyze="[sprite name=iconComp]自身持有[color=#f35555]回能[/color]时[color=#52a5f2]先制[/color]+1且附加对手最大体力1/{0}的[color=#52a5f2]百分比伤害[/color]" type="3"/>
 	<Effect id="2132" argsNum="0" info="对手持有失体时造成伤害提升100%，否则为对手附加3回合的失体并令对手害怕" sp="1" analyze="[sprite name=iconHit]对手持有[color=#f35555]失体[/color]时造成伤害提升100%，否则为对手附加3回合的[color=#f35555]失体[/color]并令对手[color=#57c975]害怕[/color]"/>
 	<Effect id="2133" argsNum="0" info="自身持有回体时先制+1，否则为自身附加3回合的回体并令对手疲惫" sp="1" analyze="[sprite name=iconComp]自身持有[color=#f35555]回体[/color]时[color=#52a5f2]先制[/color]+1，否则为自身附加3回合的[color=#f35555]回体[/color]并令对手[color=#57c975]疲惫[/color]" type="3"/>
@@ -2014,7 +2014,7 @@
 	<Effect id="2174" argsNum="1" info="双方每有1项技能PP值为0吸取对手{0}点体力，若对手未受到固定伤害则额外附加等量真实伤害" analyze="[sprite name=iconHit]双方每有1项技能PP值为0[color=#52a5f2]吸取[/color]对手{0}点体力，若对手未受到[color=#52a5f2]固定伤害[/color]则额外附加等量[color=#52a5f2]真实伤害[/color]"/>
 	<Effect id="2175" argsNum="0" info="技能无效时，随机附加2种非限制类异常状态" analyze="[sprite name=iconInherent]技能无效时，随机附加2种非限制类异常状态" type="1"/>
 	<Effect id="2176" argsNum="2" info="{0}%令对手{1}，未触发则令对手威力最高的攻击技能PP值归0" param="1,1,1" analyze="[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，[color=#52a5f2]未触发[/color]则令对手[color=#52a5f2]威力[/color]最高的攻击技能PP值归0"/>
-	<Effect id="2177" argsNum="0" info="获得无尽的八荒之力直到下场，若已获得则改为使自身所有技能无视攻击免疫效果、能力提升效果直到下场" sp="1" analyze="[sprite name=iconHit]获得无尽的八荒之力直到下场，若已获得则改为使自身所有技能无视攻击免疫效果、能力提升效果直到下场"/>
+	<Effect id="2177" argsNum="0" info="获得无尽的八荒之力直到下场，若已获得则改为使自身所有技能无视攻击免疫效果、能力提升效果直到下场" sp="1" analyze="[sprite name=iconHit]获得无尽的八荒之力直到下场，若已获得则改为使自身所有技能无视[color=#52a5f2]攻击免疫效果[/color]、能力提升效果直到下场"/>
 	<Effect id="2178" argsNum="1" info="对手处于星芳之缠时造成的攻击伤害提升{0}%，若自身体力低于对手则效果翻倍" sp="1" analyze="[sprite name=iconHit]对手处于[color=#f35555]星芳之缠[/color]时造成的攻击伤害提升{0}%，若自身体力低于对手则效果翻倍（boss有效）"/>
 	<Effect id="2179" argsNum="1" info="对手处于星火之灼时造成的攻击伤害提升{0}%，若自身体力低于对手则效果翻倍" sp="1" analyze="[sprite name=iconHit]对手处于[color=#f35555]星火之灼[/color]时造成的攻击伤害提升{0}%，若自身体力低于对手则效果翻倍（boss有效）"/>
 	<Effect id="2180" argsNum="1" info="对手处于星海之浸时造成的攻击伤害提升{0}%，若自身体力低于对手则效果翻倍" sp="1" analyze="[sprite name=iconHit]对手处于[color=#f35555]星海之浸[/color]时造成的攻击伤害提升{0}%，若自身体力低于对手则效果翻倍（boss有效）"/>
@@ -2150,7 +2150,7 @@
 	<Effect id="2310" argsNum="2" info="若对手处于异常状态则自身下{0}次攻击技能造成的伤害提升{1}%" analyze="[sprite name=iconHit]若对手处于异常状态则自身下{0}次攻击技能造成的伤害提升{1}%"/>
 	<Effect id="2311" argsNum="1" info="消除对手的护盾、护罩，消除成功自身所有技能PP值+{0}" analyze="[sprite name=iconHit]消除对手的[color=#57c975]护盾[/color]、[color=#57c975]护罩[/color]，消除成功自身所有技能PP值+{0}"/>
 	<Effect id="2312" argsNum="4" info="恢复自身最大体力的1/{0}，恢复成功则{1}回合内自身技能额外附加恢复量{2}%的百分比伤害，对手未受到百分比伤害时随机附加{3}种非限制类异常状态" analyze="[sprite name=iconHit]恢复自身最大体力的1/{0}，恢复成功则{1}回合内自身技能额外附加恢复量{2}%的[color=#52a5f2]百分比伤害[/color]，对手未受到[color=#52a5f2]百分比伤害[/color]时随机附加{3}种非限制类异常状态"/>
-	<Effect id="2313" argsNum="1" info="无视攻击免疫效果，对手不处于攻击免疫效果时吸取对手最大体力的1/{0}" analyze="[sprite name=iconHit]无视攻击免疫效果，对手不处于攻击免疫效果时[color=#52a5f2]吸取[/color]对手最大体力的1/{0}"/>
+	<Effect id="2313" argsNum="1" info="无视攻击免疫效果，对手不处于攻击免疫效果时吸取对手最大体力的1/{0}" analyze="[sprite name=iconHit]无视[color=#52a5f2]攻击免疫效果[/color]，对手不处于[color=#52a5f2]攻击免疫效果[/color]时[color=#52a5f2]吸取[/color]对手最大体力的1/{0}"/>
 	<Effect id="2314" argsNum="0" info="自身每触发过1次登场效果先制+1且忽略对手特防值的25%，未击败对手时重置自身登场效果的触发次数" analyze="[sprite name=iconComp]自身每触发过1次[color=#57c975]登场[/color]效果[color=#52a5f2]先制[/color]+1且忽略对手特防值的25%，未[color=#57c975]击败[/color]对手时重置自身[color=#57c975]登场[/color]效果的触发次数" type="3"/>
 	<Effect id="2315" argsNum="3" info="汲取对方场下损失PP值最多的精灵{0}点体力，该精灵每损失{1}点PP值，汲取效果提升{2}点，造成致死伤害时令其保留1点体力" analyze="[sprite name=iconHit]汲取对方场下损失PP值最多的精灵{0}点体力，该精灵每损失{1}点PP值，汲取效果提升{2}点，造成[color=#52a5f2]致死伤害[/color]时令其[color=#52a5f2]保留[/color]1点体力"/>
 	<Effect id="2316" argsNum="1" info="{0}回合内任意一方处于能力下降状态时自身免疫对手的攻击" analyze="[sprite name=iconHit]{0}回合内任意一方处于能力下降状态时自身[color=#52a5f2]免疫对手的攻击[/color]"/>
@@ -2168,7 +2168,7 @@
 	<Effect id="2328" argsNum="1" info="后出手时威力提升{0}%" analyze="[sprite name=iconHit]后出手时[color=#52a5f2]威力[/color]提升{0}%"/>
 	<Effect id="2329" argsNum="0" info="复制对手的能力等级，若自身能力等级总和增加则获得1层逆命之威，否则自身每有1层逆命之威为对手附加1层荒古之慑" analyze="[sprite name=iconHit]复制对手的能力等级，若自身能力等级总和增加则获得1层逆命之威，否则自身每有1层逆命之威为对手附加1层荒古之慑"/>
 	<Effect id="2330" argsNum="1" info="附加上回合双方所受固定伤害之和{0}%的百分比伤害" analyze="[sprite name=iconHit]附加上回合双方所受[color=#52a5f2]固定伤害[/color]之和{0}%的[color=#52a5f2]百分比伤害[/color]"/>
-	<Effect id="2331" argsNum="0" info="无视对手攻击免疫效果，无视成功消除对手回合类效果" analyze="[sprite name=iconComp]无视对手攻击免疫效果，无视成功消除对手[color=#52a5f2]回合类效果[/color]" type="3"/>
+	<Effect id="2331" argsNum="0" info="无视对手攻击免疫效果，无视成功消除对手回合类效果" analyze="[sprite name=iconComp]无视对手[color=#52a5f2]攻击免疫效果[/color]，无视成功消除对手[color=#52a5f2]回合类效果[/color]" type="3"/>
 	<Effect id="2332" argsNum="1" info="解除自身所处异常状态，解除成功下{0}回合对手无法主动切换精灵" analyze="[sprite name=iconHit]解除自身所处异常状态，解除成功下{0}回合对手无法[color=#52a5f2]主动切换[/color]精灵"/>
 	<Effect id="2333" argsNum="2" info="击败对手时对手每有1层荒古之慑增加{0}点体力上限并恢复全部体力，未击败对手则恢复自身已损失体力值的{1}%" analyze="[sprite name=iconHit][color=#57c975]击败[/color]对手时对手每有1层荒古之慑增加{0}点体力上限并恢复全部体力，未[color=#57c975]击败[/color]对手则恢复自身[color=#52a5f2]已损失体力[/color]值的{1}%"/>
 	<Effect id="2334" argsNum="1" info="打出致命一击时下{0}回合免疫对手的攻击" analyze="[sprite name=iconHit]打出[color=#57c975]致命一击[/color]时下{0}回合[color=#52a5f2]免疫对手的攻击[/color]"/>
@@ -2196,7 +2196,7 @@
 	<Effect id="2356" argsNum="2" info="{0}回合内自身技能额外消除对手护盾，消除成功附加消除量{1}%的真实伤害" analyze="[sprite name=iconHit]{0}回合内自身技能额外消除对手[color=#57c975]护盾[/color]，消除成功附加消除量{1}%的[color=#52a5f2]真实伤害[/color]"/>
 	<Effect id="2357" argsNum="0" info="击败对手时，恢复自身全部体力且己方和平对抗的回合数+1，己方每有1个B-ROBO对抗回合数+1" analyze="[sprite name=iconHit][color=#57c975]击败[/color]对手时，恢复自身全部体力且[color=#52a5f2]己方[/color][color=#f35555]和平对抗[/color]的回合数+1，[color=#52a5f2]己方[/color]每有1个B-ROBO对抗回合数+1"/>
 	<Effect id="2358" argsNum="0" info="玄源之㡣阵亡时不受PP值限制、无视对手的能力提升效果" key="1_玄源之㡣_1_300" analyze="[sprite name=iconInherent]玄源之㡣阵亡时不受PP值限制、无视对手的能力提升效果" type="1"/>
-	<Effect id="2359" argsNum="0" info="金祖之龍阵亡时不受PP值限制、无视对手的攻击免疫效果" key="1_金祖之龍_1_300" analyze="[sprite name=iconInherent]金祖之龍阵亡时不受PP值限制、无视对手的攻击免疫效果" type="1"/>
+	<Effect id="2359" argsNum="0" info="金祖之龍阵亡时不受PP值限制、无视对手的攻击免疫效果" key="1_金祖之龍_1_300" analyze="[sprite name=iconInherent]金祖之龍阵亡时不受PP值限制、无视对手的[color=#52a5f2]攻击免疫效果[/color]" type="1"/>
 	<Effect id="2360" argsNum="1" info="消除双方能力提升状态、能力下降状态、护盾、护罩，消除成功时附加对手最大体力{0}%的百分比伤害且免疫下次对手攻击的伤害并附加免疫量的真实伤害" analyze="[sprite name=iconHit]消除双方能力提升状态、能力下降状态、[color=#57c975]护盾[/color]、[color=#57c975]护罩[/color]，消除成功时附加对手最大体力{0}%的[color=#52a5f2]百分比伤害[/color]且免疫下次对手攻击的伤害并附加免疫量的[color=#52a5f2]真实伤害[/color]"/>
 	<Effect id="2361" argsNum="1" info="吸取对手能力提升状态，吸取成功使自身{0}" param="1,0,0" analyze="[sprite name=iconHit][color=#52a5f2]吸取[/color]对手能力提升状态，[color=#52a5f2]吸取[/color]成功使自身[color=#57c975]{0}[/color]"/>
 	<Effect id="2362" argsNum="1" info="附加自身最大体力{0}%的百分比伤害，自身处于异常状态时效果翻倍" analyze="[sprite name=iconHit]附加自身最大体力{0}%的[color=#52a5f2]百分比伤害[/color]，自身处于异常状态时效果翻倍"/>
@@ -2400,9 +2400,9 @@
 
 
 
-	<Effect id="2564" argsNum="1" info="吸取对手所有技能{0}点PP值"/>
-	<Effect id="2565" argsNum="0" info="获得等同于自身能力下降的能力提升状态，若自身不处于能力下降状态则消除对手回合类效果"/>
-	<Effect id="2566" argsNum="0" info="自身拥有来自执行者的伤害免疫效果时，此技能的所有效果取消触发条件"/>
+	<Effect id="2564" argsNum="1" info="吸取对手所有技能{0}点PP值" analyze="[sprite name=iconHit]吸取对手所有技能{0}点PP值"/>
+	<Effect id="2565" argsNum="0" info="获得等同于自身能力下降的能力提升状态，若自身不处于能力下降状态则消除对手回合类效果" analyze="[sprite name=iconHit]获得等同于自身能力下降的能力提升状态，若自身不处于能力下降状态则消除对手[color=#52a5f2]回合类效果[/color]"/>
+	<Effect id="2566" argsNum="0" info="此技能额外拥有零·神庭轰坠的效果，自身拥有来自执行者的伤害免疫效果时，此技能的所有效果取消触发条件" analyze="[sprite name=iconHit]此技能额外拥有零·神庭轰坠的效果，自身拥有来自[color=#f35555]执行者[/color]的伤害免疫效果时，此技能的所有效果取消触发条件"/>
 
 
 

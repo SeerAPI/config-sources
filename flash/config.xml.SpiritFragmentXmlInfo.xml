@@ -597,5 +597,6 @@
     <Fragment ID="2400596" show="1" Name="苔岩·磐岳因子" MonsterID="4935" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6432" effectId="2130" NewseConsume="200" MoveID="38500" MovesConsume="100" NeedmonID="0" NewMsglogId="2608200400" SeMsglog="2608200401" EffectMsglog="2608200402"/>
     <Fragment ID="2400598" show="1" Name="星光·雷纳多因子" MonsterID="4937" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6435" effectId="2132" NewseConsume="270" MoveID="38506" MovesConsume="108" NeedmonID="0" NewMsglogId="2608270800" SeMsglog="2608270801" EffectMsglog="2608270802"/>
 	<Fragment ID="2400599" show="1" Name="决囚钢骨因子" MonsterID="4939" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6433" effectId="2134" NewseConsume="200" MoveID="38514" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
-   
+    <Fragment ID="2400600" show="1" Name="王座守卫·古亚尼斯因子" MonsterID="4940" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6444" effectId="2140" NewseConsume="270" MoveID="38518" MovesConsume="108" NeedmonID="0" NewMsglogId="2609031300" SeMsglog="2609031301" EffectMsglog="2609031302"/>
+	
 </Root>

@@ -2252,7 +2252,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="14"/>
 	</Skin>
 
-	<Skin ID="692" MonID="4717" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="文明之忏·尤纳斯"  Jumptarget="510007" >
+	<Skin ID="692" MonID="4717" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="文明之忏·尤纳斯"   >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
@@ -2413,7 +2413,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="732" MonID="4717" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="3" Name="黑日之灾·尤纳斯"   Jumptarget="510007">
+	<Skin ID="732" MonID="4717" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="3" Name="黑日之灾·尤纳斯"   Jumptarget="510004">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
@@ -2477,7 +2477,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="5"/>
 	</Skin>
 
-	<Skin ID="748" MonID="4421" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="3"  Name="沧浪龙吟·赵云"  Jumptarget="510007">
+	<Skin ID="748" MonID="4421" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="3"  Name="沧浪龙吟·赵云"  Jumptarget="510004">
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="5"/>
 	</Skin>
 
@@ -2489,11 +2489,11 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="751" MonID="4589" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="17"  Name="永曜晶铠·文森特"  Jumptarget="114128">
+	<Skin ID="751" MonID="4589" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="17"  Name="永曜晶铠·文森特"  >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="4"/>
 	</Skin>
 
-	<Skin ID="752" MonID="4603" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="17"  Name="不渝咏叹·贾斯" Jumptarget="114128">
+	<Skin ID="752" MonID="4603" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="17"  Name="不渝咏叹·贾斯" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="4"/>
 	</Skin>
 
@@ -2828,7 +2828,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	
-	<Skin ID="836" MonID="4834" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="派鲁基达" Go="app/FinalActivityPanel" >
+	<Skin ID="836" MonID="4834" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="派鲁基达"  >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
@@ -2936,11 +2936,11 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
-    <Skin ID="863" MonID="4887" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="17" Name="沙海之恋·托勒斯 " Go="app/FinalActivityPanel" GoType="module" Jumptarget="114126">
+    <Skin ID="863" MonID="4887" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="17" Name="沙海之恋·托勒斯 " >
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
-    <Skin ID="864" MonID="4894" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="17" Name="沙海之恋·安瑟伦" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114126">
+    <Skin ID="864" MonID="4894" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="17" Name="沙海之恋·安瑟伦" >
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
@@ -2948,11 +2948,15 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="13"/>
 	</Skin>
 
-    <Skin ID="866" MonID="4004" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""  Name="格劳瑞" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+    <Skin ID="866" MonID="4004" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""  Name="格劳瑞" >
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
 	<Skin ID="867" MonID="4258" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="告死天使·莫蒂" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114129">
+	<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
+	<Skin ID="868" MonID="4516" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="龙墟寻迹·帕妮丝 " Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
 	<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 

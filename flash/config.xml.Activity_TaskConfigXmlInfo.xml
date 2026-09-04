@@ -419,4 +419,7 @@
 	<item id="565" activityid="35" activityname="铠甲厨神" describe="累计参与30次游戏" value="30" time="0" timelimit="1" timestart="1786672800" timeend="1788487200" rewardinfo="4_4934_1" userinfo="400177" userbitbuf2="400179_6" />
 	<item id="566" activityid="35" activityname="铠甲厨神" describe="一次游戏内通关5波" value="5" time="0" timelimit="1" timestart="1786672800" timeend="1788487200" rewardinfo="1_300065_3" userinfo="400178" userbitbuf2="400179_7" />
 	<item id="567" activityid="35" activityname="铠甲厨神" describe="一次游戏内通关8波" value="8" time="0" timelimit="1" timestart="1786672800" timeend="1788487200" rewardinfo="1_300063_2" userinfo="400178" userbitbuf2="400179_8" />
+	<item id="568" activityid="36" activityname="深渊呓语" describe="累计通过3关" value="3" time="0" timelimit="1" timestart="1788487200" timeend="1789092000" rewardinfo="1_2500005_15" userbitbuf2="408035_1" />
+	<item id="569" activityid="36" activityname="深渊呓语" describe="累计通过6关" value="6" time="0" timelimit="1" timestart="1788487200" timeend="1789092000" rewardinfo="1_2500005_15" userbitbuf2="408035_2" />
+	<item id="570" activityid="36" activityname="深渊呓语" describe="累计通过9关" value="9" time="0" timelimit="1" timestart="1788487200" timeend="1789092000" rewardinfo="1_300697_5" userbitbuf2="408035_3" />
 </root>
