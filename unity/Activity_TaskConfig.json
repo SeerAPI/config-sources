@@ -6719,6 +6719,54 @@
       "userbitbuf2": "400179_8",
       "userinfo": 400178,
       "value": 8
+    },
+    {
+      "activityid": 36,
+      "describe": "累计通过3关",
+      "id": 568,
+      "rewardinfo": "1_2500005_15",
+      "tasksubtype": 0,
+      "time": 0,
+      "timeend": "1789092000",
+      "timelimit": "1",
+      "timestart": "1788487200",
+      "title": "",
+      "userbitbuf": 0,
+      "userbitbuf2": "408035_1",
+      "userinfo": 0,
+      "value": 3
+    },
+    {
+      "activityid": 36,
+      "describe": "累计通过6关",
+      "id": 569,
+      "rewardinfo": "1_2500005_15",
+      "tasksubtype": 0,
+      "time": 0,
+      "timeend": "1789092000",
+      "timelimit": "1",
+      "timestart": "1788487200",
+      "title": "",
+      "userbitbuf": 0,
+      "userbitbuf2": "408035_2",
+      "userinfo": 0,
+      "value": 6
+    },
+    {
+      "activityid": 36,
+      "describe": "累计通过9关",
+      "id": 570,
+      "rewardinfo": "1_300697_5",
+      "tasksubtype": 0,
+      "time": 0,
+      "timeend": "1789092000",
+      "timelimit": "1",
+      "timestart": "1788487200",
+      "title": "",
+      "userbitbuf": 0,
+      "userbitbuf2": "408035_3",
+      "userinfo": 0,
+      "value": 9
     }
   ]
 }

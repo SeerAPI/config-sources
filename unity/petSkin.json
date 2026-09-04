@@ -12435,7 +12435,7 @@
           }
         ],
         "id": 692,
-        "jump_target": 510007,
+        "jump_target": 0,
         "mon_id": 4717,
         "type": 18
       },
@@ -13155,7 +13155,7 @@
           }
         ],
         "id": 732,
-        "jump_target": 510007,
+        "jump_target": 510004,
         "mon_id": 4717,
         "type": 3
       },
@@ -13443,7 +13443,7 @@
           }
         ],
         "id": 748,
-        "jump_target": 510007,
+        "jump_target": 510004,
         "mon_id": 4421,
         "type": 3
       },
@@ -13497,7 +13497,7 @@
           }
         ],
         "id": 751,
-        "jump_target": 114128,
+        "jump_target": 0,
         "mon_id": 4589,
         "type": 17
       },
@@ -13515,7 +13515,7 @@
           }
         ],
         "id": 752,
-        "jump_target": 114128,
+        "jump_target": 0,
         "mon_id": 4603,
         "type": 17
       },
@@ -15014,7 +15014,7 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
+        "go": "",
         "go_type": "",
         "name": "派鲁基达",
         "skin_kind": [
@@ -15446,8 +15446,8 @@
         "type": 0
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "天极圣临·帝皇铠甲",
         "skin_kind": [
           {
@@ -15459,7 +15459,7 @@
           }
         ],
         "id": 860,
-        "jump_target": 114122,
+        "jump_target": 0,
         "mon_id": 4930,
         "type": 18
       },
@@ -15482,8 +15482,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "猎影逐渊·修罗铠甲",
         "skin_kind": [
           {
@@ -15495,13 +15495,13 @@
           }
         ],
         "id": 862,
-        "jump_target": 114122,
+        "jump_target": 0,
         "mon_id": 4933,
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "沙海之恋·托勒斯 ",
         "skin_kind": [
           {
@@ -15513,13 +15513,13 @@
           }
         ],
         "id": 863,
-        "jump_target": 114126,
+        "jump_target": 0,
         "mon_id": 4887,
         "type": 17
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "沙海之恋·安瑟伦",
         "skin_kind": [
           {
@@ -15531,7 +15531,7 @@
           }
         ],
         "id": 864,
-        "jump_target": 114126,
+        "jump_target": 0,
         "mon_id": 4894,
         "type": 17
       },
@@ -15554,8 +15554,8 @@
         "type": 19
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "格劳瑞",
         "skin_kind": [
           {
@@ -15567,13 +15567,13 @@
           }
         ],
         "id": 866,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 4004,
         "type": 0
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "告死天使·莫蒂",
         "skin_kind": [
           {
@@ -15585,8 +15585,26 @@
           }
         ],
         "id": 867,
-        "jump_target": 114129,
+        "jump_target": 0,
         "mon_id": 4258,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "龙墟寻迹·帕妮丝 ",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 868,
+        "jump_target": 2,
+        "mon_id": 4516,
         "type": 3
       }
     ]

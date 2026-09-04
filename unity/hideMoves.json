@@ -13364,6 +13364,18 @@
         "pet_id": 4258
       },
       {
+        "move_id": 38518,
+        "move_name1": "奔雷",
+        "move_name2": "极光斩",
+        "pet_id": 4940
+      },
+      {
+        "move_id": 38521,
+        "move_name1": "知识",
+        "move_name2": "渗透压",
+        "pet_id": 4941
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

@@ -640038,6 +640038,320 @@
         "vip": 0
       },
       {
+        "def_name": "王座守卫·古亚尼斯",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38518,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 10001,
+              "learning_lv": 1,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20196,
+              "learning_lv": 5,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10454,
+              "learning_lv": 9,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10455,
+              "learning_lv": 13,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20013,
+              "learning_lv": 17,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 37731,
+              "learning_lv": 21,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20127,
+              "learning_lv": 25,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10106,
+              "learning_lv": 29,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10459,
+              "learning_lv": 33,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 37732,
+              "learning_lv": 37,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10456,
+              "learning_lv": 41,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10460,
+              "learning_lv": 45,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 28929,
+              "learning_lv": 49,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10457,
+              "learning_lv": 53,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 37733,
+              "learning_lv": 57,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 28930,
+              "learning_lv": 61,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 37734,
+              "learning_lv": 71,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38516,
+              "learning_lv": 72,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 29440,
+              "learning_lv": 73,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 29441,
+              "learning_lv": 74,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38517,
+              "learning_lv": 75,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 140,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 114,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 0,
+        "hp": 176,
+        "id": 4940,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3601,
+        "real_id": 0,
+        "sp_atk": 70,
+        "sp_def": 114,
+        "spd": 126,
+        "support": 0,
+        "transform": 0,
+        "type": 80,
+        "vip": 0
+      },
+      {
+        "def_name": "瑞丁",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38521,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 10127,
+              "learning_lv": 1,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20496,
+              "learning_lv": 5,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 13527,
+              "learning_lv": 9,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 14045,
+              "learning_lv": 13,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20769,
+              "learning_lv": 17,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38519,
+              "learning_lv": 21,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 13532,
+              "learning_lv": 25,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 21021,
+              "learning_lv": 29,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 32820,
+              "learning_lv": 33,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 26502,
+              "learning_lv": 37,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 33083,
+              "learning_lv": 41,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 26629,
+              "learning_lv": 45,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29442,
+              "learning_lv": 49,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 26630,
+              "learning_lv": 53,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29443,
+              "learning_lv": 57,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38520,
+              "learning_lv": 61,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 120,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 100,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 1,
+        "hp": 174,
+        "id": 4941,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3602,
+        "real_id": 0,
+        "sp_atk": 70,
+        "sp_def": 104,
+        "spd": 132,
+        "support": 0,
+        "transform": 0,
+        "type": 85,
+        "vip": 0
+      },
+      {
         "def_name": "圣灵谱尼",
         "extra_moves": {
           "adv_move": [],
@@ -742506,6 +742820,36 @@
       },
       {
         "def_name": "告死天使·莫蒂",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400867,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "龙墟寻迹·帕妮丝",
         "extra_moves": null,
         "learnable_moves": null,
         "move": null,

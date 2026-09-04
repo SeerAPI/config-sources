@@ -8582,6 +8582,20 @@
                     "id": 17,
                     "proicon": 1512,
                     "spe_name_bonus": 601
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "王座守卫",
+                    "desc": "通关S-王座守卫·古亚尼斯【地狱难度】关卡获得",
+                    "threshold": "18",
+                    "title": "王座守卫",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 18,
+                    "proicon": 1513,
+                    "spe_name_bonus": 602
                   }
                 ],
                 "id": 172,
@@ -12317,6 +12331,48 @@
                     "id": 3,
                     "proicon": 1327,
                     "spe_name_bonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "战皇·大师",
+                    "desc": "任意赛季大师模式首次达成5连胜",
+                    "threshold": "4",
+                    "title": "",
+                    "title_color": "",
+                    "ability_title": 0,
+                    "achievement_point": 15,
+                    "hide": 0,
+                    "id": 4,
+                    "proicon": 1514,
+                    "spe_name_bonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "战神·大师",
+                    "desc": "任意赛季大师模式首次达成10连胜",
+                    "threshold": "5",
+                    "title": "",
+                    "title_color": "",
+                    "ability_title": 0,
+                    "achievement_point": 20,
+                    "hide": 0,
+                    "id": 5,
+                    "proicon": 1515,
+                    "spe_name_bonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "不可能完成的任务·大师",
+                    "desc": "任意赛季大师模式首次达成30连胜",
+                    "threshold": "6",
+                    "title": "",
+                    "title_color": "",
+                    "ability_title": 0,
+                    "achievement_point": 30,
+                    "hide": 0,
+                    "id": 6,
+                    "proicon": 1516,
+                    "spe_name_bonus": 0
                   }
                 ],
                 "id": 162,
@@ -12330,7 +12386,7 @@
                   {
                     "abtext": "",
                     "ach_name": "初入巅峰",
-                    "desc": "任意赛季竞技/休闲模式中进行1次对战",
+                    "desc": "玩家在任意赛季非自由模式中进行1次对战",
                     "threshold": "1",
                     "title": "",
                     "title_color": "",
@@ -12344,7 +12400,7 @@
                   {
                     "abtext": "",
                     "ach_name": "巅峰对战（一）",
-                    "desc": "任意赛季竞技/休闲模式进行50次对战",
+                    "desc": "玩家在任意赛季非自由模式中进行50次对战",
                     "threshold": "2",
                     "title": "",
                     "title_color": "",
@@ -12358,7 +12414,7 @@
                   {
                     "abtext": "",
                     "ach_name": "巅峰对战（二）",
-                    "desc": "任意赛季竞技/休闲模式进行500次对战",
+                    "desc": "玩家在任意赛季非自由模式中进行500次对战",
                     "threshold": "3",
                     "title": "",
                     "title_color": "",
@@ -12372,7 +12428,7 @@
                   {
                     "abtext": "",
                     "ach_name": "巅峰对战（三）",
-                    "desc": "任意赛季竞技/休闲模式进行5000次对战",
+                    "desc": "玩家在任意赛季非自由模式中进行5000次对战",
                     "threshold": "4",
                     "title": "",
                     "title_color": "",
@@ -12395,7 +12451,7 @@
                   {
                     "abtext": "",
                     "ach_name": "无敌猛将",
-                    "desc": "任意赛季竞技模式首次达到猛将段位时获得",
+                    "desc": "任意赛季竞技/大师模式首次达到猛将段位时获得",
                     "threshold": "1",
                     "title": "",
                     "title_color": "",
@@ -12409,7 +12465,7 @@
                   {
                     "abtext": "",
                     "ach_name": "出世天骄",
-                    "desc": "任意赛季竞技模式首次达到天骄段位时获得",
+                    "desc": "任意赛季竞技/大师模式首次达到天骄段位时获得",
                     "threshold": "2",
                     "title": "",
                     "title_color": "",
@@ -12423,7 +12479,7 @@
                   {
                     "abtext": "",
                     "ach_name": "巅峰王者",
-                    "desc": "任意赛季竞技模式首次达到王者段位时获得",
+                    "desc": "任意赛季竞技/大师模式首次达到王者段位时获得",
                     "threshold": "3",
                     "title": "",
                     "title_color": "",
@@ -12437,7 +12493,7 @@
                   {
                     "abtext": "",
                     "ach_name": "宇宙圣皇",
-                    "desc": "任意赛季竞技模式首次达到圣皇段位时获得",
+                    "desc": "任意赛季竞技/大师模式首次达到圣皇段位时获得",
                     "threshold": "4",
                     "title": "",
                     "title_color": "",
@@ -13029,7 +13085,7 @@
                   {
                     "abtext": "",
                     "ach_name": "S11赛季猛将",
-                    "desc": "S11赛季竞技/狂野模式中首次达到猛将段位时获得",
+                    "desc": "S11赛季竞技/大师/狂野模式首次达到猛将段位获得",
                     "threshold": "9",
                     "title": "",
                     "title_color": "",
@@ -13043,7 +13099,7 @@
                   {
                     "abtext": "",
                     "ach_name": "S11赛季天骄",
-                    "desc": "S11赛季竞技/狂野模式中首次达到天骄段位时获得",
+                    "desc": "S11赛季竞技/大师/狂野模式首次达到天骄段位获得",
                     "threshold": "10",
                     "title": "",
                     "title_color": "",
@@ -13057,7 +13113,7 @@
                   {
                     "abtext": "",
                     "ach_name": "S11赛季王者",
-                    "desc": "S11赛季竞技/狂野模式中首次达到王者段位时获得",
+                    "desc": "S11赛季竞技/大师/狂野模式首次达到王者段位获得",
                     "threshold": "11",
                     "title": "",
                     "title_color": "",
@@ -13071,7 +13127,7 @@
                   {
                     "abtext": "",
                     "ach_name": "S11赛季圣皇",
-                    "desc": "S11赛季竞技/狂野模式中首次达到圣皇段位时获得",
+                    "desc": "S11赛季竞技/大师/狂野模式首次达到圣皇段位获得",
                     "threshold": "12",
                     "title": "",
                     "title_color": "",

@@ -13,7 +13,7 @@
         "tips": "",
         "id": 1,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -29,7 +29,7 @@
         "tips": "",
         "id": 2,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -45,7 +45,7 @@
         "tips": "",
         "id": 3,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -68,7 +68,7 @@
         "tips": "",
         "id": 4,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -88,7 +88,7 @@
         "tips": "",
         "id": 5,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 1,
         "sort": 5
       },
@@ -110,7 +110,7 @@
         "tips": "",
         "id": 6,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -131,7 +131,7 @@
         "tips": "",
         "id": 7,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -151,7 +151,7 @@
         "tips": "",
         "id": 8,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -177,7 +177,7 @@
         "tips": "",
         "id": 9,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -195,7 +195,9 @@
         "tips": "",
         "id": 10,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "1_4032_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -213,7 +215,9 @@
         "tips": "",
         "id": 11,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "1_4032_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -231,7 +235,9 @@
         "tips": "",
         "id": 12,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "1_4032_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -249,7 +255,9 @@
         "tips": "",
         "id": 13,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "1_4032_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -267,7 +275,9 @@
         "tips": "",
         "id": 14,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "1_4032_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -285,7 +295,9 @@
         "tips": "",
         "id": 15,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "1_4032_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -301,7 +313,7 @@
         "tips": "",
         "id": 16,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -317,7 +329,7 @@
         "tips": "",
         "id": 17,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -337,7 +349,7 @@
         "tips": "",
         "id": 18,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -357,7 +369,7 @@
         "tips": "",
         "id": 19,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -376,7 +388,7 @@
         "tips": "",
         "id": 20,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -392,7 +404,7 @@
         "tips": "",
         "id": 21,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -408,7 +420,7 @@
         "tips": "",
         "id": 22,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -424,7 +436,7 @@
         "tips": "",
         "id": 23,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 2
       },
@@ -444,7 +456,7 @@
         "tips": "龙胆",
         "id": 24,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -466,7 +478,7 @@
         "tips": "灭神之箭",
         "id": 25,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -486,7 +498,7 @@
         "tips": "天雷银椋",
         "id": 26,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -506,7 +518,7 @@
         "tips": "未来奇点",
         "id": 27,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -524,7 +536,7 @@
         "tips": "技能解析",
         "id": 28,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -540,7 +552,7 @@
         "tips": "爵刻",
         "id": 29,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -563,7 +575,7 @@
         "tips": "永昌玺",
         "id": 30,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -579,7 +591,7 @@
         "tips": "君临天下",
         "id": 31,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -595,7 +607,7 @@
         "tips": "霜寒封印",
         "id": 32,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -611,7 +623,7 @@
         "tips": "辛之印记",
         "id": 33,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 2
       },
@@ -627,7 +639,7 @@
         "tips": "灵烁之箭",
         "id": 34,
         "is_show_num": 1,
-        "show_monster": 4484,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -654,7 +666,7 @@
         "tips": "胜天之力",
         "id": 35,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 3
       },
@@ -670,7 +682,7 @@
         "tips": "回能",
         "id": 36,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -686,7 +698,7 @@
         "tips": "失能",
         "id": 37,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -702,7 +714,7 @@
         "tips": "圣辉之羽",
         "id": 38,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -718,7 +730,7 @@
         "tips": "圣雷华冠",
         "id": 39,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -734,7 +746,7 @@
         "tips": "挫折预言",
         "id": 40,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -750,7 +762,7 @@
         "tips": "迷失预言",
         "id": 41,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -766,7 +778,7 @@
         "tips": "凯旋预言",
         "id": 42,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -782,7 +794,7 @@
         "tips": "回体",
         "id": 43,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -798,7 +810,7 @@
         "tips": "失体",
         "id": 44,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -814,7 +826,7 @@
         "tips": "拥君之盾",
         "id": 45,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -830,7 +842,7 @@
         "tips": "绝缘之罩",
         "id": 46,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -846,7 +858,7 @@
         "tips": "力量",
         "id": 47,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -862,7 +874,7 @@
         "tips": "红色龙鳞",
         "id": 48,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -878,7 +890,7 @@
         "tips": "黄色龙鳞",
         "id": 49,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -894,7 +906,7 @@
         "tips": "蓝色龙鳞",
         "id": 50,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -910,7 +922,7 @@
         "tips": "白色龙鳞",
         "id": 51,
         "is_show_num": 2,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -928,7 +940,9 @@
         "tips": "北冥之刃",
         "id": 52,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "1_4515_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -948,7 +962,9 @@
         "tips": "北冥狂刃",
         "id": 53,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [
+          "1_4515_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -966,7 +982,9 @@
         "tips": "强击形态",
         "id": 54,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "1_4515_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -984,7 +1002,9 @@
         "tips": "无罔形态",
         "id": 55,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "1_4515_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -1002,7 +1022,9 @@
         "tips": "威破形态",
         "id": 56,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "1_4515_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -1018,7 +1040,7 @@
         "tips": "法天象地",
         "id": 57,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1034,7 +1056,7 @@
         "tips": "法天象地",
         "id": 58,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1050,7 +1072,7 @@
         "tips": "谧夜之幕",
         "id": 59,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1066,7 +1088,7 @@
         "tips": "异常免疫",
         "id": 60,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -1082,7 +1104,7 @@
         "tips": "星皇之赐",
         "id": 61,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 2
       },
@@ -1098,7 +1120,7 @@
         "tips": "星皇之佑",
         "id": 62,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 2
       },
@@ -1114,7 +1136,7 @@
         "tips": "刻",
         "id": 63,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 2
       },
@@ -1130,7 +1152,7 @@
         "tips": "痕",
         "id": 64,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -1151,7 +1173,7 @@
         "tips": "诡符",
         "id": 65,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -1167,7 +1189,7 @@
         "tips": "堕龙残怨",
         "id": 66,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1183,7 +1205,7 @@
         "tips": "黯龙余恨",
         "id": 67,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1201,7 +1223,9 @@
         "tips": "圣谕形态",
         "id": 68,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "1_4554_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -1219,7 +1243,9 @@
         "tips": "邪魇形态",
         "id": 69,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "1_4554_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -1239,7 +1265,7 @@
         "tips": "圣告",
         "id": 70,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -1259,7 +1285,7 @@
         "tips": "邪诲",
         "id": 71,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -1275,7 +1301,7 @@
         "tips": "暗影护盾",
         "id": 72,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1291,7 +1317,7 @@
         "tips": "幽冥之盾",
         "id": 73,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1311,7 +1337,7 @@
         "tips": "天霆之律",
         "id": 74,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -1327,7 +1353,7 @@
         "tips": "空妄诗章",
         "id": 75,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1343,7 +1369,7 @@
         "tips": "绿茵庇护",
         "id": 76,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 2
       },
@@ -1370,7 +1396,9 @@
         "tips": "命起",
         "id": 77,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [
+          "0_4599_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -1397,7 +1425,9 @@
         "tips": "魂落",
         "id": 78,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [
+          "0_4599_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -1413,7 +1443,7 @@
         "tips": "未来链接",
         "id": 79,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 2
       },
@@ -1429,7 +1459,7 @@
         "tips": "未来指令",
         "id": 80,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1458,7 +1488,7 @@
         "tips": "碧叶猛毒",
         "id": 81,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -1486,7 +1516,9 @@
         "tips": "烛",
         "id": 82,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "1_4620_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -1511,7 +1543,9 @@
         "tips": "灵茉之芯",
         "id": 83,
         "is_show_num": 1,
-        "show_monster": 3613,
+        "show_monster": [
+          "0_3613_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -1527,7 +1561,7 @@
         "tips": "芳馨祝福",
         "id": 84,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 2
       },
@@ -1543,7 +1577,7 @@
         "tips": "窥目",
         "id": 85,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -1559,7 +1593,7 @@
         "tips": "战意",
         "id": 86,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1575,7 +1609,7 @@
         "tips": "命运庇护",
         "id": 87,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1591,7 +1625,7 @@
         "tips": "回命",
         "id": 88,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -1607,7 +1641,7 @@
         "tips": "失命",
         "id": 89,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1635,7 +1669,7 @@
         "tips": "晦暗之因",
         "id": 90,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -1664,7 +1698,9 @@
         "tips": "秽黯之根",
         "id": 91,
         "is_show_num": 1,
-        "show_monster": 3941,
+        "show_monster": [
+          "0_3941_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -1680,7 +1716,7 @@
         "tips": "佑灵灼火",
         "id": 92,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 2
       },
@@ -1744,7 +1780,9 @@
         "tips": "德莱赫默",
         "id": 93,
         "is_show_num": 0,
-        "show_monster": 4644,
+        "show_monster": [
+          "0_4644_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -1812,7 +1850,7 @@
         "tips": "星执",
         "id": 94,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 2
       },
@@ -1828,7 +1866,7 @@
         "tips": "星执者",
         "id": 95,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 2
       },
@@ -1844,7 +1882,7 @@
         "tips": "星芳之缠",
         "id": 96,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -1860,7 +1898,7 @@
         "tips": "星海之浸",
         "id": 97,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -1876,7 +1914,7 @@
         "tips": "星火之灼",
         "id": 98,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -1892,7 +1930,7 @@
         "tips": "浪潮聚焦",
         "id": 99,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -1908,7 +1946,7 @@
         "tips": "异常免疫",
         "id": 100,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -1924,7 +1962,7 @@
         "tips": "蚩庸之锁",
         "id": 101,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -1940,7 +1978,7 @@
         "tips": "星盘",
         "id": 102,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1956,7 +1994,7 @@
         "tips": "光辉能量",
         "id": 103,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1978,7 +2016,7 @@
         "tips": "命运晨星",
         "id": 104,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -1994,7 +2032,7 @@
         "tips": "灵籁泳馆",
         "id": 105,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -2010,7 +2048,7 @@
         "tips": "星璨舞台",
         "id": 106,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -2031,7 +2069,7 @@
         "tips": "支援",
         "id": 107,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 2
       },
@@ -2066,7 +2104,9 @@
         "tips": "永恒之水",
         "id": 108,
         "is_show_num": 1,
-        "show_monster": 3740,
+        "show_monster": [
+          "0_3740_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -2087,7 +2127,7 @@
         "tips": "蚀砚之泪",
         "id": 109,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -2108,7 +2148,9 @@
         "tips": "寂杀之魄",
         "id": 110,
         "is_show_num": 1,
-        "show_monster": 3886,
+        "show_monster": [
+          "0_3886_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -2124,7 +2166,7 @@
         "tips": "肃霜之禁",
         "id": 111,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -2140,7 +2182,7 @@
         "tips": "炙光火种",
         "id": 112,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -2162,7 +2204,7 @@
         "tips": "支援",
         "id": 113,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 2
       },
@@ -2178,7 +2220,7 @@
         "tips": "神羽",
         "id": 114,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -2194,7 +2236,7 @@
         "tips": "狩杀之魂",
         "id": 115,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -2212,7 +2254,7 @@
         "tips": "狩杀之的",
         "id": 116,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -2228,7 +2270,7 @@
         "tips": "琼花仙荼",
         "id": 117,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -2335,7 +2377,9 @@
         "tips": "雷辰",
         "id": 118,
         "is_show_num": 0,
-        "show_monster": 4765,
+        "show_monster": [
+          "0_4765_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -2361,7 +2405,9 @@
         "tips": "觉醒",
         "id": 119,
         "is_show_num": 1,
-        "show_monster": 4765,
+        "show_monster": [
+          "0_4765_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -2391,7 +2437,9 @@
         "tips": "武道",
         "id": 120,
         "is_show_num": 0,
-        "show_monster": 4766,
+        "show_monster": [
+          "0_4766_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -2407,7 +2455,7 @@
         "tips": "魔王咒怨",
         "id": 121,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -2423,7 +2471,7 @@
         "tips": "希望之花",
         "id": 122,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -2439,7 +2487,7 @@
         "tips": "希望",
         "id": 123,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -2455,7 +2503,7 @@
         "tips": "痴愚",
         "id": 124,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -2480,7 +2528,9 @@
         "tips": "封邪之嶂",
         "id": 125,
         "is_show_num": 1,
-        "show_monster": 3516,
+        "show_monster": [
+          "0_3516_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -2496,7 +2546,7 @@
         "tips": "留魂之蛊",
         "id": 126,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -2512,7 +2562,7 @@
         "tips": "算力",
         "id": 127,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -2534,7 +2584,9 @@
         "tips": "灼阳之焰",
         "id": 128,
         "is_show_num": 0,
-        "show_monster": 4219,
+        "show_monster": [
+          "0_4219_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -2550,7 +2602,7 @@
         "tips": "入魅",
         "id": 129,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -2576,7 +2628,9 @@
         "tips": "逆命之威",
         "id": 130,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [
+          "0_3524_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -2592,7 +2646,7 @@
         "tips": "荒古之慑",
         "id": 131,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -2617,7 +2671,7 @@
         "tips": "赛博共振器",
         "id": 132,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 2
       },
@@ -2633,7 +2687,7 @@
         "tips": "英雄之耀",
         "id": 133,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -2649,7 +2703,7 @@
         "tips": "亮节",
         "id": 134,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -2665,7 +2719,7 @@
         "tips": "威怯",
         "id": 135,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -2681,7 +2735,7 @@
         "tips": "武诛",
         "id": 136,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -2697,7 +2751,7 @@
         "tips": "英雄之诫",
         "id": 137,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -2713,7 +2767,7 @@
         "tips": "和平对抗",
         "id": 138,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -2737,7 +2791,11 @@
         "tips": "金祖之龍",
         "id": 139,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "0_4186_0_1",
+          "1_4186_1_1",
+          "2_4186_0_1"
+        ],
         "show_time": 0,
         "sort": 4
       },
@@ -2761,7 +2819,11 @@
         "tips": "玄源之㡣",
         "id": 140,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "0_4186_0_1",
+          "1_4186_1_1",
+          "2_4186_0_1"
+        ],
         "show_time": 0,
         "sort": 4
       },
@@ -2777,7 +2839,7 @@
         "tips": "曝",
         "id": 141,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -3817,7 +3879,9 @@
         "tips": "唱词",
         "id": 142,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "0_4853_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -3833,7 +3897,7 @@
         "tips": "苍茫树海",
         "id": 143,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -3861,7 +3925,7 @@
         "tips": "幕",
         "id": 144,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -3877,7 +3941,7 @@
         "tips": "虚之彩",
         "id": 145,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -3893,7 +3957,7 @@
         "tips": "符文咒印",
         "id": 146,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -3916,7 +3980,9 @@
         "tips": "旧日之晷",
         "id": 147,
         "is_show_num": 1,
-        "show_monster": 4125,
+        "show_monster": [
+          "0_4125_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -3932,7 +3998,7 @@
         "tips": "宙变之殢",
         "id": 148,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -3948,7 +4014,7 @@
         "tips": "虚饰弧光",
         "id": 149,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -3964,7 +4030,7 @@
         "tips": "百天浮世络",
         "id": 150,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -3992,7 +4058,9 @@
         "tips": "态",
         "id": 151,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "2_4872_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -4008,7 +4076,7 @@
         "tips": "风龙结",
         "id": 152,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -4024,7 +4092,7 @@
         "tips": "神惧劫炎",
         "id": 153,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -4040,7 +4108,7 @@
         "tips": "暖雪",
         "id": 154,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -4063,7 +4131,9 @@
         "tips": "宁界之律",
         "id": 155,
         "is_show_num": 1,
-        "show_monster": 3711,
+        "show_monster": [
+          "0_3711_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -4079,7 +4149,7 @@
         "tips": "琼华之庇",
         "id": 156,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -4095,7 +4165,7 @@
         "tips": "天之门",
         "id": 157,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -4111,7 +4181,7 @@
         "tips": "地之门",
         "id": 158,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -4127,7 +4197,7 @@
         "tips": "神之门",
         "id": 159,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -4149,7 +4219,9 @@
         "tips": "黯穹之尘",
         "id": 160,
         "is_show_num": 0,
-        "show_monster": 4354,
+        "show_monster": [
+          "0_4354_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -4172,7 +4244,9 @@
         "tips": "群芳加护",
         "id": 161,
         "is_show_num": 1,
-        "show_monster": 4364,
+        "show_monster": [
+          "0_4364_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -4194,7 +4268,9 @@
         "tips": "群辉加护",
         "id": 162,
         "is_show_num": 0,
-        "show_monster": 4364,
+        "show_monster": [
+          "0_4364_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -4222,7 +4298,7 @@
         "tips": "天在此",
         "id": 163,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -4480,7 +4556,7 @@
         "tips": "音符",
         "id": 164,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -4496,7 +4572,7 @@
         "tips": "金色龙鳞",
         "id": 165,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -4512,7 +4588,7 @@
         "tips": "玄色龙鳞",
         "id": 166,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -4528,7 +4604,7 @@
         "tips": "缚神结界",
         "id": 167,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -4544,7 +4620,7 @@
         "tips": "邪龙之噬",
         "id": 168,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -4563,7 +4639,9 @@
         "tips": "鬼祰·魑",
         "id": 169,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "0_4444_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -4582,7 +4660,9 @@
         "tips": "鬼祰·魅",
         "id": 170,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "0_4444_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -4601,7 +4681,9 @@
         "tips": "鬼祰·魍",
         "id": 171,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "0_4444_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -4620,7 +4702,9 @@
         "tips": "鬼祰·魉",
         "id": 172,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [
+          "0_4444_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -4636,7 +4720,7 @@
         "tips": "四杀鬼囹",
         "id": 173,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -4657,7 +4741,9 @@
         "tips": "九劫之痕",
         "id": 174,
         "is_show_num": 1,
-        "show_monster": 3407,
+        "show_monster": [
+          "0_3407_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -4678,7 +4764,9 @@
         "tips": "百炼之炎",
         "id": 175,
         "is_show_num": 1,
-        "show_monster": 3407,
+        "show_monster": [
+          "0_3407_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -4694,7 +4782,7 @@
         "tips": "九劫之痕",
         "id": 176,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -4710,7 +4798,7 @@
         "tips": "百炼之炎",
         "id": 177,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -4726,7 +4814,7 @@
         "tips": "黄金万象",
         "id": 178,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -4742,7 +4830,7 @@
         "tips": "异常免疫",
         "id": 179,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -4758,7 +4846,7 @@
         "tips": "渐烬",
         "id": 180,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -4774,7 +4862,7 @@
         "tips": "天烬海",
         "id": 181,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -4790,7 +4878,7 @@
         "tips": "骑士决斗",
         "id": 182,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -4806,7 +4894,7 @@
         "tips": "骑士决斗·落败",
         "id": 183,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -4822,7 +4910,7 @@
         "tips": "骑士决斗·落败",
         "id": 184,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -4838,7 +4926,7 @@
         "tips": "事象观测",
         "id": 185,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -4854,7 +4942,7 @@
         "tips": "血月",
         "id": 186,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -4870,7 +4958,7 @@
         "tips": "寒月",
         "id": 187,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -4894,7 +4982,7 @@
         "tips": "四象门",
         "id": 188,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -4910,7 +4998,7 @@
         "tips": "咽咎尸骸",
         "id": 189,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -4926,7 +5014,7 @@
         "tips": "命世之岐",
         "id": 190,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -4948,7 +5036,7 @@
         "tips": "阴冥之择",
         "id": 191,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -4964,7 +5052,7 @@
         "tips": "蜃楼",
         "id": 192,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -5045,7 +5133,7 @@
         "tips": "蜃都",
         "id": 193,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -5069,7 +5157,9 @@
         "tips": "神圣之霆",
         "id": 194,
         "is_show_num": 1,
-        "show_monster": 4004,
+        "show_monster": [
+          "0_4004_0_1"
+        ],
         "show_time": 0,
         "sort": 1
       },
@@ -5085,7 +5175,7 @@
         "tips": "荣光之裁",
         "id": 195,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -5101,7 +5191,7 @@
         "tips": "金之肃革",
         "id": 196,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -5117,7 +5207,7 @@
         "tips": "木之伸曲",
         "id": 197,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -5133,7 +5223,7 @@
         "tips": "水之掩藏",
         "id": 198,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 5
       },
@@ -5149,7 +5239,7 @@
         "tips": "火土之烈岩",
         "id": 199,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -5165,7 +5255,7 @@
         "tips": "法之意念",
         "id": 200,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 1
       },
@@ -5181,14 +5271,14 @@
         "tips": "1",
         "id": 201,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
       {
         "class_name": "*",
         "dec": "执行者",
-        "des": "环·源的所有攻击技能必定命中、拥有零·神庭轰坠的效果，且每有1架，环·源的非速度能力值提升40点；执行者的数量大于1时，每回合开始，根据环·源以外的对手特性及其衍生中含有的伤害免疫效果，己方在场精灵获得等量同类型的免疫效果各1回合，效果结束时摧毁一架执行者；最多5架",
+        "des": "环·源的所有攻击技能必定命中且每有1架，环·源的能力值提升8点；执行者的数量大于1时，每回合开始，根据环·源以外的对手特性及其衍生中含有的伤害免疫效果，己方在场精灵获得等量同类型的免疫效果各1回合，效果结束时摧毁一架执行者；最多5架",
         "frame": [],
         "num_des": "当前架数",
         "sp_des": [],
@@ -5197,7 +5287,7 @@
         "tips": "执行者",
         "id": 202,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -5213,7 +5303,7 @@
         "tips": "2",
         "id": 203,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -5229,7 +5319,7 @@
         "tips": "3",
         "id": 204,
         "is_show_num": 1,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 4
       },
@@ -5245,7 +5335,7 @@
         "tips": "【点击查看详情】",
         "id": 1000,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": [],
         "show_time": 0,
         "sort": 100
       }
