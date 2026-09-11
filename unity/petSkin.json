@@ -15536,8 +15536,8 @@
         "type": 17
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "地核之寂·索伦森",
         "skin_kind": [
           {
@@ -15549,7 +15549,7 @@
           }
         ],
         "id": 865,
-        "jump_target": 114127,
+        "jump_target": 0,
         "mon_id": 3414,
         "type": 19
       },
@@ -15606,6 +15606,24 @@
         "jump_target": 2,
         "mon_id": 4516,
         "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "无尽夏的夜宴·阿克希亚",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 869,
+        "jump_target": 114131,
+        "mon_id": 4942,
+        "type": 18
       }
     ]
   }

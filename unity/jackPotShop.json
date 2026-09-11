@@ -174,9 +174,9 @@
           "shopkind": 1
         },
         {
-          "product_name": "炼神魔影",
+          "product_name": "满分君",
           "product_id": [
-            3091,
+            3822,
             34174,
             5566,
             41817
@@ -191,9 +191,9 @@
           "shopkind": 1
         },
         {
-          "product_name": "邪厄魔狂",
+          "product_name": "学神",
           "product_id": [
-            3108,
+            4195,
             34174,
             5566,
             41817
@@ -353,66 +353,6 @@
           "exchange_id": 13992,
           "forever": 0,
           "id": 20265,
-          "opentime": 20260102,
-          "product_price": 1,
-          "shopkind": 5
-        },
-        {
-          "product_name": "魅·夜翼因子*30",
-          "product_id": [
-            2400538,
-            4057
-          ],
-          "batch": 20,
-          "endtime": 20281231,
-          "exchange_id": 13995,
-          "forever": 0,
-          "id": 20268,
-          "opentime": 20260102,
-          "product_price": 1,
-          "shopkind": 5
-        },
-        {
-          "product_name": "焰·绯云因子*30",
-          "product_id": [
-            2400539,
-            4101
-          ],
-          "batch": 20,
-          "endtime": 20281231,
-          "exchange_id": 13996,
-          "forever": 0,
-          "id": 20269,
-          "opentime": 20260102,
-          "product_price": 1,
-          "shopkind": 5
-        },
-        {
-          "product_name": "冰·寒凌因子*30",
-          "product_id": [
-            2400540,
-            4084
-          ],
-          "batch": 20,
-          "endtime": 20281231,
-          "exchange_id": 13997,
-          "forever": 0,
-          "id": 20270,
-          "opentime": 20260102,
-          "product_price": 1,
-          "shopkind": 5
-        },
-        {
-          "product_name": "清·炫羽因子*30",
-          "product_id": [
-            2400541,
-            4064
-          ],
-          "batch": 20,
-          "endtime": 20281231,
-          "exchange_id": 13998,
-          "forever": 0,
-          "id": 20271,
           "opentime": 20260102,
           "product_price": 1,
           "shopkind": 5
@@ -793,9 +733,9 @@
           "shopkind": 5
         }
       ],
-      "endday": "9/11",
-      "endtime": "2026/9/11",
-      "openday": "8/7"
+      "endday": "10/16",
+      "endtime": "2026/10/16",
+      "openday": "9/11"
     }
   }
 }

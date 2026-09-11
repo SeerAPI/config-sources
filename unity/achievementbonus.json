@@ -9935,6 +9935,30 @@
       "rewardcnt": "10000",
       "rewardid": "1400352",
       "rewardtype": 1
+    },
+    {
+      "branch": 175,
+      "rule": 5,
+      "id": 1241,
+      "rewardcnt": "100",
+      "rewardid": "1728396",
+      "rewardtype": 1
+    },
+    {
+      "branch": 175,
+      "rule": 6,
+      "id": 1242,
+      "rewardcnt": "200",
+      "rewardid": "1728396",
+      "rewardtype": 1
+    },
+    {
+      "branch": 175,
+      "rule": 7,
+      "id": 1243,
+      "rewardcnt": "300",
+      "rewardid": "1728396",
+      "rewardtype": 1
     }
   ]
 }

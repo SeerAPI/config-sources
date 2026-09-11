@@ -417650,7 +417650,15 @@
               "tag": 0
             }
           ],
-          "sp_move": []
+          "sp_move": [
+            {
+              "id": 38525,
+              "learning_lv": 0,
+              "rec": 0,
+              "tag": 0,
+              "tag2": 0
+            }
+          ]
         },
         "move": null,
         "show_extra_moves": null,
@@ -418413,7 +418421,15 @@
               "tag": 0
             }
           ],
-          "sp_move": []
+          "sp_move": [
+            {
+              "id": 29448,
+              "learning_lv": 0,
+              "rec": 0,
+              "tag": 0,
+              "tag2": 0
+            }
+          ]
         },
         "move": null,
         "show_extra_moves": null,
@@ -458295,7 +458311,18 @@
         },
         "move": null,
         "show_extra_moves": null,
-        "sp_extra_moves": null,
+        "sp_extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38526,
+              "learning_lv": 70,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
         "atk": 135,
         "character_attr_param": 0,
         "combo": 0,
@@ -475521,7 +475548,15 @@
               "tag": 0
             }
           ],
-          "sp_move": []
+          "sp_move": [
+            {
+              "id": 29446,
+              "learning_lv": 0,
+              "rec": 0,
+              "tag": 0,
+              "tag2": 0
+            }
+          ]
         },
         "move": null,
         "show_extra_moves": null,
@@ -511939,7 +511974,15 @@
               "tag": 0
             }
           ],
-          "sp_move": []
+          "sp_move": [
+            {
+              "id": 29447,
+              "learning_lv": 0,
+              "rec": 0,
+              "tag": 0,
+              "tag2": 0
+            }
+          ]
         },
         "move": null,
         "show_extra_moves": null,
@@ -640352,6 +640395,208 @@
         "vip": 0
       },
       {
+        "def_name": "极度冰凌·阿克希亚",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38524,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 10200,
+              "learning_lv": 1,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10201,
+              "learning_lv": 5,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20056,
+              "learning_lv": 9,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20057,
+              "learning_lv": 13,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10202,
+              "learning_lv": 17,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10204,
+              "learning_lv": 21,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10203,
+              "learning_lv": 25,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20058,
+              "learning_lv": 29,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10205,
+              "learning_lv": 33,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10206,
+              "learning_lv": 37,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20059,
+              "learning_lv": 41,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10218,
+              "learning_lv": 45,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20060,
+              "learning_lv": 49,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 13176,
+              "learning_lv": 53,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10208,
+              "learning_lv": 57,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10207,
+              "learning_lv": 61,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10209,
+              "learning_lv": 71,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10210,
+              "learning_lv": 72,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 21668,
+              "learning_lv": 73,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 13177,
+              "learning_lv": 74,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 21669,
+              "learning_lv": 75,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 13178,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38522,
+              "learning_lv": 77,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 29444,
+              "learning_lv": 78,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 29445,
+              "learning_lv": 79,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38523,
+              "learning_lv": 80,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 70,
+        "character_attr_param": 4,
+        "combo": 0,
+        "def": 115,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 2,
+        "hp": 172,
+        "id": 4942,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3603,
+        "real_id": 0,
+        "sp_atk": 142,
+        "sp_def": 115,
+        "spd": 136,
+        "support": 0,
+        "transform": 0,
+        "type": 9,
+        "vip": 0
+      },
+      {
         "def_name": "圣灵谱尼",
         "extra_moves": {
           "adv_move": [],
@@ -742865,7 +743110,37 @@
         "free_forbidden": 0,
         "gender": 0,
         "hp": 0,
-        "id": 1400867,
+        "id": 1400868,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "无尽夏的夜宴·阿克希亚",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400869,
         "is_fly_pet": 0,
         "is_ride_pet": 0,
         "pet_class": 0,

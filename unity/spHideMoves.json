@@ -2202,6 +2202,56 @@
         "monster": 4258,
         "moves": 38515,
         "movetype": 1
+      },
+      {
+        "itemname": "圣婴之环",
+        "movesname": "星界圣令",
+        "id": 133,
+        "item": 1728432,
+        "itemnumber": 1,
+        "monster": 3425,
+        "moves": 38525,
+        "movetype": 2
+      },
+      {
+        "itemname": "深瞳伏伺",
+        "movesname": "大命诗篇",
+        "id": 134,
+        "item": 1728433,
+        "itemnumber": 1,
+        "monster": 3797,
+        "moves": 29446,
+        "movetype": 2
+      },
+      {
+        "itemname": "天玄神颂",
+        "movesname": "傲天荣眼",
+        "id": 135,
+        "item": 1728434,
+        "itemnumber": 1,
+        "monster": 4037,
+        "moves": 29447,
+        "movetype": 2
+      },
+      {
+        "itemname": "伦纳旧印",
+        "movesname": "圣光之月",
+        "id": 136,
+        "item": 1728435,
+        "itemnumber": 1,
+        "monster": 3430,
+        "moves": 29448,
+        "movetype": 2
+      },
+      {
+        "itemname": "残怨血灵",
+        "movesname": "混沌君临诏",
+        "id": 137,
+        "item": 1728436,
+        "itemnumber": 1,
+        "monster": 3683,
+        "moves": 38526,
+        "movetype": 1
       }
     ]
   }

@@ -36,6 +36,11 @@
       "pic_id": "ground"
     },
     {
+      "id": 9,
+      "name": "冰",
+      "pic_id": "ice"
+    },
+    {
       "id": 15,
       "name": "龙",
       "pic_id": "dragon"

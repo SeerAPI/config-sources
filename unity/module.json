@@ -5525,6 +5525,20 @@
       "res_config": []
     },
     {
+      "curr_app_do": 0,
+      "id": 910,
+      "is_full_screen": 0,
+      "module_name": "autoCardDialogS2",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 911,
+      "is_full_screen": 0,
+      "module_name": "zhenshixuanwu",
+      "res_config": []
+    },
+    {
       "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
@@ -6439,6 +6453,48 @@
       "id": 1216,
       "is_full_screen": 1,
       "module_name": "akxySummerSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1217,
+      "is_full_screen": 1,
+      "module_name": "hollyWillingShow",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1218,
+      "is_full_screen": 1,
+      "module_name": "bubbleActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1219,
+      "is_full_screen": 1,
+      "module_name": "akexiyaGoods",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1220,
+      "is_full_screen": 1,
+      "module_name": "2026NationalDayPerksPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1221,
+      "is_full_screen": 1,
+      "module_name": "getkehd",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1222,
+      "is_full_screen": 1,
+      "module_name": "getkehd",
       "res_config": []
     }
   ]

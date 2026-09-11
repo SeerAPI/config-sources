@@ -22487,8 +22487,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害为0时，与对手交换体力",
-        "info": "造成的攻击伤害为0时，与对手交换体力",
+        "analyze": "[sprite name=iconHit]造成的攻击伤害为0时，若自身体力低于对手则与对手交换体力",
+        "info": "造成的攻击伤害为0时，若自身体力低于对手则与对手交换体力",
         "param": [],
         "args_num": 0,
         "id": 2496,
@@ -23076,6 +23076,110 @@
         "type": 0
       },
       {
+        "analyze": "[sprite name=iconInherent]战斗开始时，己方获得[color=#f35555]熔之加护[/color]、[color=#f35555]霜之加护[/color]、[color=#f35555]灿之加护[/color]",
+        "info": "战斗开始时，己方获得熔之加护、霜之加护、灿之加护",
+        "param": [],
+        "args_num": 0,
+        "id": 2556,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]，消除成功则令对手[color=#57c975]{0}[/color]、[color=#57c975]{1}[/color]、[color=#57c975]{2}[/color]",
+        "info": "消除对手回合类效果，消除成功则令对手{0}、{1}、{2}",
+        "param": [
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
+        "args_num": 3,
+        "id": 2557,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]消除对手能力提升状态，消除成功则令对手[color=#57c975]{0}[/color]、[color=#57c975]{1}[/color]、[color=#57c975]{2}[/color]",
+        "info": "消除对手能力提升状态，消除成功则令对手{0}、{1}、{2}",
+        "param": [
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
+        "args_num": 3,
+        "id": 2558,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]战斗开始时，剥离自身的混沌系并转化为[color=#f35555]混沌魔眼[/color]，之后本场战斗自身免疫[color=#57c975]诅咒[/color]状态",
+        "info": "战斗开始时，剥离自身的混沌系并转化为混沌魔眼，之后本场战斗自身免疫诅咒状态",
+        "param": [],
+        "args_num": 0,
+        "id": 2559,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]{0}回合内每回合使用技能额外{1}%令对手[color=#57c975]{2}[/color]，未触发则恢复自身最大体力的1/{3}",
+        "info": "{0}回合内每回合使用技能额外{1}%令对手{2}，未触发则恢复自身最大体力的1/{3}",
+        "param": [
+          1,
+          2,
+          2
+        ],
+        "args_num": 4,
+        "id": 2560,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]战斗开始时，剥离自身的混沌系并转化为[color=#f35555]堕灵神谕[/color]，之后本场战斗自身每次登场时若对手不处于控制类异常状态则令对手下1次属性技能无效",
+        "info": "战斗开始时，剥离自身的混沌系并转化为堕灵神谕，之后本场战斗自身每次登场时若对手不处于控制类异常状态则令对手下1次属性技能无效",
+        "param": [],
+        "args_num": 0,
+        "id": 2561,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]若上回合结束时自身不处于异常状态，则消除对手[color=#52a5f2]回合类效果[/color]并令对手[color=#57c975]{0}[/color]",
+        "info": "若上回合结束时自身不处于异常状态，则消除对手回合类效果并令对手{0}",
+        "param": [
+          1,
+          0,
+          0
+        ],
+        "args_num": 1,
+        "id": 2562,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]为自身附加{0}回合[color=#57c975]{1}[/color]，未触发则对手{2}回合内属性技能命中效果失效",
+        "info": "为自身附加{0}回合{1}，未触发则对手{2}回合内属性技能命中效果失效",
+        "param": [
+          1,
+          1,
+          1
+        ],
+        "args_num": 3,
+        "id": 2563,
+        "key": "",
+        "type": 0
+      },
+      {
         "analyze": "[sprite name=iconHit]吸取对手所有技能{0}点PP值",
         "info": "吸取对手所有技能{0}点PP值",
         "param": [],
@@ -23099,6 +23203,33 @@
         "param": [],
         "args_num": 0,
         "id": 2566,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]获得{0}回合[color=#f35555]冰呪[/color]",
+        "info": "获得{0}回合冰呪",
+        "param": [],
+        "args_num": 1,
+        "id": 2567,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]反转自身能力下降状态，反转成功则令对手下{0}次属性技能无效",
+        "info": "反转自身能力下降状态，反转成功则使对手下{0}次属性技能无效",
+        "param": [],
+        "args_num": 1,
+        "id": 2568,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#52a5f2]对方[/color]存在含有[color=#52a5f2]“秒杀”[/color]特性的精灵时，自身专属特性中的被击败效果取消被击败要求，且每有1个含有[color=#52a5f2]“秒杀”[/color]的特性，此技能命中值提升100、20%的概率不消耗PP值",
+        "info": "若对方存在含有“秒杀”的特性，则自身的被击败效果取消被击败要求，且每有1个含有“秒杀”的特性，此技能命中值提升100、20%的概率不消耗PP值",
+        "param": [],
+        "args_num": 0,
+        "id": 2569,
         "key": "",
         "type": 0
       }

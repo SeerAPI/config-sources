@@ -31,6 +31,18 @@
       "id": 5
     },
     {
+      "des": "商店开始阶段触发对应效果",
+      "name": "生长",
+      "resource_name": "effectIcon_7",
+      "id": 7
+    },
+    {
+      "des": "冰系精灵达成条件后增加层数，达到指定层数后触发对应效果",
+      "name": "寒潮",
+      "resource_name": "effectIcon_8",
+      "id": 8
+    },
+    {
       "des": "对方精灵必须优先攻击带有嘲讽的精灵",
       "name": "嘲讽",
       "resource_name": "effectIcon_11",
@@ -47,6 +59,18 @@
       "name": "吸附",
       "resource_name": "",
       "id": 13
+    },
+    {
+      "des": "攻击前与己方下一个没有冻伤的精灵交换位置，并由该精灵发动攻击",
+      "name": "冻伤",
+      "resource_name": "effectIcon_13",
+      "id": 14
+    },
+    {
+      "des": "下个攻击轮次无法行动",
+      "name": "冰封",
+      "resource_name": "effectIcon_14",
+      "id": 15
     }
   ]
 }

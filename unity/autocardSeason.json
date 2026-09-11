@@ -6,7 +6,7 @@
       "currscores_userinfo": "407102",
       "id": 1,
       "maxscores_userinfo": "407103",
-      "name": "S1沧澜",
+      "name": "S1元素王座",
       "rankgroup": "0_2000_4000_6000_8000_10000",
       "reward_useinfo": "407104",
       "scorereward1": "1_2700001_2",
@@ -21,6 +21,28 @@
       "seasonreward4": "9_253_1;1_1728123_20",
       "seasonreward5": "9_254_1;1_1728123_20",
       "seasonreward6": "9_255_1;1_1728123_20"
+    },
+    {
+      "Drawing_times": "5",
+      "battletimes_userinfo": "407105",
+      "currscores_userinfo": "407106",
+      "id": 2,
+      "maxscores_userinfo": "407107",
+      "name": "S2凛冬王冠",
+      "rankgroup": "0_2000_4000_6000_8000_10000",
+      "reward_useinfo": "407108",
+      "scorereward1": "1_2700010_2",
+      "scorereward2": "1_2700010_5",
+      "scorereward3": "1_2700010_8",
+      "scorereward4": "10_175_5;1_2700010_12",
+      "scorereward5": "10_175_6;1_2700010_16",
+      "scorereward6": "10_175_7;1_2700010_20",
+      "seasonreward1": "1_1728123_10",
+      "seasonreward2": "1_1728123_15",
+      "seasonreward3": "1_1728123_15",
+      "seasonreward4": "9_296_1;1_1728123_20",
+      "seasonreward5": "9_297_1;1_1728123_20",
+      "seasonreward6": "9_298_1;1_1728123_20"
     }
   ]
 }
