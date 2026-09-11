@@ -938,6 +938,9 @@
 				<Rule ID="2" Threshold="2" AchievementPoint="0" achName="S1赛季群星牌专家" Desc="S1赛季群星牌首次达到专家段位" proicon="1501" icon="1"/>
 				<Rule ID="3" Threshold="3" AchievementPoint="0" achName="S1赛季群星牌传奇" Desc="S1赛季群星牌首次达到传奇段位" proicon="1502" icon="1"/>
 				<Rule ID="4" Threshold="4" AchievementPoint="0" achName="S1赛季群星牌群星之巅" Desc="S1赛季群星牌首次达到群星之巅段位" proicon="1503" icon="1"/>
+				<Rule ID="5" Threshold="5" AchievementPoint="0" achName="S2赛季群星牌专家" Desc="S2赛季群星牌首次达到专家段位" proicon="1517" icon="1"/>
+				<Rule ID="6" Threshold="6" AchievementPoint="0" achName="S2赛季群星牌传奇" Desc="S2赛季群星牌首次达到传奇段位" proicon="1518" icon="1"/>
+				<Rule ID="7" Threshold="7" AchievementPoint="0" achName="S2赛季群星牌群星之巅" Desc="S2赛季群星牌首次达到群星之巅段位" proicon="1519" icon="1"/>
 			</Branch>
 		</Branches>
 
@@ -1312,16 +1315,16 @@
 				<Rule ID="6" Threshold="6" AchievementPoint="30" achName="不可能完成的任务·大师" proicon="1516" Desc="任意赛季大师模式首次达成30连胜" icon="3" />
 			</Branch>
 			<Branch ID="163" Desc="对战次数成就" introl="" proicon=""  type="2">
-				<Rule ID="1" Threshold="1" AchievementPoint="10" achName="初入巅峰" Desc="任意赛季竞技/休闲模式中进行1次对战" proicon="1321" icon="1" />
-				<Rule ID="2" Threshold="2" AchievementPoint="10" achName="巅峰对战（一）" Desc="任意赛季竞技/休闲模式进行50次对战" proicon="1322" icon="1" />
-				<Rule ID="3" Threshold="3" AchievementPoint="10" achName="巅峰对战（二）" Desc="任意赛季竞技/休闲模式进行500次对战" proicon="1323" icon="1" />
-				<Rule ID="4" Threshold="4" AchievementPoint="15" achName="巅峰对战（三）" Desc="任意赛季竞技/休闲模式进行5000次对战" proicon="1324" icon="2" />
+				<Rule ID="1" Threshold="1" AchievementPoint="10" achName="初入巅峰" Desc="玩家在任意赛季非自由模式中进行1次对战" proicon="1321" icon="1" />
+				<Rule ID="2" Threshold="2" AchievementPoint="10" achName="巅峰对战（一）" Desc="玩家在任意赛季非自由模式中进行50次对战" proicon="1322" icon="1" />
+				<Rule ID="3" Threshold="3" AchievementPoint="10" achName="巅峰对战（二）" Desc="玩家在任意赛季非自由模式中进行500次对战" proicon="1323" icon="1" />
+				<Rule ID="4" Threshold="4" AchievementPoint="15" achName="巅峰对战（三）" Desc="玩家在任意赛季非自由模式中进行5000次对战" proicon="1324" icon="2" />
 			</Branch>
 			<Branch ID="164" Desc="新巅峰非赛季非系列成就" introl="" proicon=""  type="2" isShowPro="0">
-				<Rule ID="1" Threshold="1" AchievementPoint="10" achName="无敌猛将" Desc="任意赛季竞技模式首次达到猛将段位时获得" proicon="1317" icon="1" />
-				<Rule ID="2" Threshold="2" AchievementPoint="10" achName="出世天骄" Desc="任意赛季竞技模式首次达到天骄段位时获得" proicon="1318" icon="1" />
-				<Rule ID="3" Threshold="3" AchievementPoint="10" achName="巅峰王者" Desc="任意赛季竞技模式首次达到王者段位时获得" proicon="1319" icon="1" />
-				<Rule ID="4" Threshold="4" AchievementPoint="20" achName="宇宙圣皇" Desc="任意赛季竞技模式首次达到圣皇段位时获得" proicon="1320" icon="1" />
+				<Rule ID="1" Threshold="1" AchievementPoint="10" achName="无敌猛将" Desc="任意赛季竞技/大师模式首次达到猛将段位时获得" proicon="1317" icon="1" />
+				<Rule ID="2" Threshold="2" AchievementPoint="10" achName="出世天骄" Desc="任意赛季竞技/大师模式首次达到天骄段位时获得" proicon="1318" icon="1" />
+				<Rule ID="3" Threshold="3" AchievementPoint="10" achName="巅峰王者" Desc="任意赛季竞技/大师模式首次达到王者段位时获得" proicon="1319" icon="1" />
+				<Rule ID="4" Threshold="4" AchievementPoint="20" achName="宇宙圣皇" Desc="任意赛季竞技/大师模式首次达到圣皇段位时获得" proicon="1320" icon="1" />
 			</Branch>
 			<Branch ID="165" Desc="赛季成就" introl="" proicon=""  type="2" isShowPro="0">
 				<Rule ID="1" Threshold="1" AchievementPoint="0" achName="S1赛季猛将" Desc="S1赛季竞技模式首次达到猛将段位时获得" proicon="1313" icon="1" />
@@ -1369,10 +1372,10 @@
 				<Rule ID="6" Threshold="6" AchievementPoint="0" achName="S10赛季天骄" Desc="S10赛季竞技/狂野模式中首次达到天骄段位时获得" proicon="1484" icon="1" />
 				<Rule ID="7" Threshold="7" AchievementPoint="0" achName="S10赛季王者" Desc="S10赛季竞技/狂野模式中首次达到王者段位时获得" proicon="1485" icon="1" />
 				<Rule ID="8" Threshold="8" AchievementPoint="0" achName="S10赛季圣皇" Desc="S10赛季竞技/狂野模式中首次达到圣皇段位时获得" proicon="1486" icon="1" />
-				<Rule ID="9" Threshold="9" AchievementPoint="0" achName="S11赛季猛将" Desc="S11赛季竞技/狂野模式中首次达到猛将段位时获得" proicon="1506" icon="1" />
-				<Rule ID="10" Threshold="10" AchievementPoint="0" achName="S11赛季天骄" Desc="S11赛季竞技/狂野模式中首次达到天骄段位时获得" proicon="1507" icon="1" />
-				<Rule ID="11" Threshold="11" AchievementPoint="0" achName="S11赛季王者" Desc="S11赛季竞技/狂野模式中首次达到王者段位时获得" proicon="1508" icon="1" />
-				<Rule ID="12" Threshold="12" AchievementPoint="0" achName="S11赛季圣皇" Desc="S11赛季竞技/狂野模式中首次达到圣皇段位时获得" proicon="1509" icon="1" />				
+				<Rule ID="9" Threshold="9" AchievementPoint="0" achName="S11赛季猛将" Desc="S11赛季竞技/大师/狂野模式首次达到猛将段位获得" proicon="1506" icon="1" />
+				<Rule ID="10" Threshold="10" AchievementPoint="0" achName="S11赛季天骄" Desc="S11赛季竞技/大师/狂野模式首次达到天骄段位获得" proicon="1507" icon="1" />
+				<Rule ID="11" Threshold="11" AchievementPoint="0" achName="S11赛季王者" Desc="S11赛季竞技/大师/狂野模式首次达到王者段位获得" proicon="1508" icon="1" />
+				<Rule ID="12" Threshold="12" AchievementPoint="0" achName="S11赛季圣皇" Desc="S11赛季竞技/大师/狂野模式首次达到圣皇段位获得" proicon="1509" icon="1" />				
 			</Branch>
 
 		</Branches>

@@ -23,7 +23,7 @@
 
 
 <root>
-	<BlueChipShops Opentime="2026/8/7" Endtime="2026/9/11" Openday="8/7" Endday="9/11" ImageName="time1.png">
+	<BlueChipShops Opentime="2026/9/11" Endtime="2026/10/16" Openday="9/11" Endday="10/16" ImageName="time1.png">
 		<!--<BulechipShop ID="1"  shopkind="1" productType="1" productID="3385_30833_2606_40958" productName="步练师" productAmount="1" Needchips="1" productPrice="30" Opentime="20210312" Endtime="20281231" buyMax="1" exchangeId="13288" forever="109784" frameIndex="1"/>-->
 		<!--<BulechipShop ID="2"  shopkind="1" productType="1" productID="3192_19932_2382_40692" productName="天香小乔" productAmount="1" Needchips="1" productPrice="30" Opentime="20210312" Endtime="20281231" buyMax="1" exchangeId="13289" forever="109785" frameIndex="2"/>-->
 		<BulechipShop ID="3" shopkind="2" productType="2" productID="300675" productName="攻击性格转化剂Ω" productAmount="1" Needchips="1" productPrice="1" Opentime="20210924" Endtime="20281231" buyMax="0" exchangeId="13290" POPID="443" batch="50"/>
@@ -175,10 +175,12 @@
 		<BulechipShop ID="10003" shopkind="1" productType="1" productID="3653_34174_5566_41817" productName="德马斯克" productAmount="1" Needchips="1" productPrice="40" Opentime="20260102" Endtime="20280426" buyMax="1" exchangeId="13971" forever="125054" frameIndex="17" POPID="829" batch="1"/>
 		<BulechipShop ID="10002" shopkind="1" productType="1" productID="2791_34174_5566_41817" productName="墨甲·霸下" productAmount="1" Needchips="1" productPrice="15" Opentime="20260102" Endtime="20280426" buyMax="1" exchangeId="13970" forever="125053" frameIndex="16" POPID="828" batch="1"/>
 		<BulechipShop ID="10003" shopkind="1" productType="1" productID="2799_34174_5566_41817" productName="晶甲·暴岩" productAmount="1" Needchips="1" productPrice="15" Opentime="20260102" Endtime="20280426" buyMax="1" exchangeId="13971" forever="125054" frameIndex="17" POPID="829" batch="1"/>
-		-->
-		<BulechipShop ID="10001" shopkind="1" productType="1" productID="3506_34174_5566_41817" productName="惊涛海皇·波塞冬" productAmount="1" Needchips="1" productPrice="80" Opentime="20260101" Endtime="20991231" buyMax="1" exchangeId="14017" forever="140227" frameIndex="17" POPID="829" batch="1"/>
 		<BulechipShop ID="10002" shopkind="1" productType="1" productID="3091_34174_5566_41817" productName="炼神魔影" productAmount="1" Needchips="1" productPrice="15" Opentime="20260102" Endtime="20280426" buyMax="1" exchangeId="13970" forever="125053" frameIndex="16" POPID="828" batch="1"/>
 		<BulechipShop ID="10003" shopkind="1" productType="1" productID="3108_34174_5566_41817" productName="邪厄魔狂" productAmount="1" Needchips="1" productPrice="15" Opentime="20260102" Endtime="20280426" buyMax="1" exchangeId="13971" forever="125054" frameIndex="17" POPID="829" batch="1"/>
+		-->
+		<BulechipShop ID="10001" shopkind="1" productType="1" productID="3506_34174_5566_41817" productName="惊涛海皇·波塞冬" productAmount="1" Needchips="1" productPrice="80" Opentime="20260101" Endtime="20991231" buyMax="1" exchangeId="14017" forever="140227" frameIndex="17" POPID="829" batch="1"/>
+		<BulechipShop ID="10002" shopkind="1" productType="1" productID="3822_34174_5566_41817" productName="满分君" productAmount="1" Needchips="1" productPrice="15" Opentime="20260102" Endtime="20280426" buyMax="1" exchangeId="13970" forever="125053" frameIndex="16" POPID="828" batch="1"/>
+		<BulechipShop ID="10003" shopkind="1" productType="1" productID="4195_34174_5566_41817" productName="学神" productAmount="1" Needchips="1" productPrice="15" Opentime="20260102" Endtime="20280426" buyMax="1" exchangeId="13971" forever="125054" frameIndex="17" POPID="829" batch="1"/>
 
 
 
@@ -426,10 +428,10 @@
 		<BulechipShop ID="20265" shopkind="5" productType="2" productID="2400535_3679" productName="鬼蚀豹尊因子*35" productAmount="1" Needchips="1" productPrice="1" Opentime="20260102" Endtime="20281231" buyMax="0" exchangeId="13992" POPID="743" batch="20"/>
 		<!--<BulechipShop ID="20266" shopkind="5" productType="2" productID="2400536_1534" productName="恶灵兽因子*50" productAmount="1" Needchips="1" productPrice="1" Opentime="20260102" Endtime="20281231" buyMax="0" exchangeId="13993" POPID="743" batch="20"/>
 		<BulechipShop ID="20267" shopkind="5" productType="2" productID="2400537_2620" productName="邪冥兽因子*30" productAmount="1" Needchips="1" productPrice="1" Opentime="20260102" Endtime="20281231" buyMax="0" exchangeId="13994" POPID="743" batch="20"/>-->
-		<BulechipShop ID="20268" shopkind="5" productType="2" productID="2400538_4057" productName="魅·夜翼因子*30" productAmount="1" Needchips="1" productPrice="1" Opentime="20260102" Endtime="20281231" buyMax="0" exchangeId="13995" POPID="743" batch="20"/>
+		<!--<BulechipShop ID="20268" shopkind="5" productType="2" productID="2400538_4057" productName="魅·夜翼因子*30" productAmount="1" Needchips="1" productPrice="1" Opentime="20260102" Endtime="20281231" buyMax="0" exchangeId="13995" POPID="743" batch="20"/>
 		<BulechipShop ID="20269" shopkind="5" productType="2" productID="2400539_4101" productName="焰·绯云因子*30" productAmount="1" Needchips="1" productPrice="1" Opentime="20260102" Endtime="20281231" buyMax="0" exchangeId="13996" POPID="743" batch="20"/>
 		<BulechipShop ID="20270" shopkind="5" productType="2" productID="2400540_4084" productName="冰·寒凌因子*30" productAmount="1" Needchips="1" productPrice="1" Opentime="20260102" Endtime="20281231" buyMax="0" exchangeId="13997" POPID="743" batch="20"/>
-		<BulechipShop ID="20271" shopkind="5" productType="2" productID="2400541_4064" productName="清·炫羽因子*30" productAmount="1" Needchips="1" productPrice="1" Opentime="20260102" Endtime="20281231" buyMax="0" exchangeId="13998" POPID="743" batch="20"/>
+		<BulechipShop ID="20271" shopkind="5" productType="2" productID="2400541_4064" productName="清·炫羽因子*30" productAmount="1" Needchips="1" productPrice="1" Opentime="20260102" Endtime="20281231" buyMax="0" exchangeId="13998" POPID="743" batch="20"/>-->
 		<BulechipShop ID="20272" shopkind="5" productType="2" productID="2400542_3303" productName="灵兽·萨尔蒙因子*30" productAmount="1" Needchips="1" productPrice="1" Opentime="20260102" Endtime="20281231" buyMax="0" exchangeId="13999" POPID="743" batch="20"/>
 		<BulechipShop ID="20273" shopkind="5" productType="2" productID="2400543_3304" productName="灵宫圣威·萨尔蒙因子*35" productAmount="1" Needchips="1" productPrice="1" Opentime="20260102" Endtime="20281231" buyMax="0" exchangeId="14000" POPID="743" batch="20"/>
 

@@ -235,10 +235,22 @@ sort标记展示序列 1为自己给自己的效果 2为队友给自己的效果
 	<item id="198" dec="水之掩藏" tips="水之掩藏" className="*" sort="5" isShowNum="1" NumDes="剩余回合数" Des="己方场下的精灵指定己方在场精灵为目标时将其取消"/>
 	<item id="199" dec="火土之烈岩" tips="火土之烈岩" className="*" sort="4" isShowNum="1" NumDes="剩余回合数" Des="己方精灵攻击无视对手伤害减少类效果至50%，还有己方异常状态抗性的唯一最高项提升至100%"/>
 	<item id="200" dec="法之意念" tips="法之意念" className="*" sort="1" isShowNum="1" NumDes="当前点数" Des="回合开始时，若自身为正气状态，则消耗法之意念平均恢复至信仰对象为自身的精灵，若自身为邪气状态，则消耗法之意念使自身下次攻击时附加等量的固定伤害"/>
-	<item id="201" dec="1" tips="1" className="*" sort="4" isShowNum="1" NumDes="当前架数"/>
-	<item id="202" dec="执行者" tips="执行者" className="*" sort="4" isShowNum="1" NumDes="当前架数" Des="环·源的所有攻击技能必定命中、拥有零·神庭轰坠的效果，且每有1架，环·源的非速度能力值提升40点；执行者的数量大于1时，每回合开始，根据环·源以外的对手特性及其衍生中含有的伤害免疫效果，己方在场精灵获得等量同类型的免疫效果各1回合，效果结束时摧毁一架执行者；最多5架"/>
+	<item id="201" dec="冰呪" tips="冰呪" className="*" sort="4" isShowNum="1" NumDes="剩余回合数" Des="自身的攻击技能必定打出致命一击且无视对手20%的伤害减少类效果"/>
+	<item id="202" dec="执行者" tips="执行者" className="*" sort="4" isShowNum="1" NumDes="当前架数" Des="环·源的所有攻击技能必定命中且每有1架，环·源的能力值提升8点；执行者的数量大于1时，每回合开始，根据环·源以外的对手特性及其衍生中含有的伤害免疫效果，己方在场精灵获得等量同类型的免疫效果各1回合，效果结束时摧毁一架执行者；最多5架"/>
 	<item id="203" dec="2" tips="2" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
 	<item id="204" dec="3" tips="3" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
+	<item id="205" dec="3" tips="3" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
+	<item id="206" dec="3" tips="3" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
+	<item id="207" dec="3" tips="3" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
+	<item id="208" dec="3" tips="3" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
+	<item id="209" dec="熔之加护" tips="熔之加护" spicon="1_1 2_2" className="*" sort="4" isShowNum="0" Des="回合结束时，己方在场精灵解除所处的烧伤、焚烬，解除成功时若奥斯卡不在场则此效果失效直到奥斯卡登场，若在场则下回合奥斯卡先制+1"/>
+	<item id="210" dec="霜之加护" tips="霜之加护" spicon="1_1 2_2" className="*" sort="4" isShowNum="0" Des="回合结束时，己方在场精灵解除所处的冻伤、冰封，解除成功时若奥斯卡不在场则此效果失效直到奥斯卡登场，若在场则下回合奥斯卡先制+1"/>
+	<item id="211" dec="灿之加护" tips="灿之加护" spicon="1_1 2_2" className="*" sort="4" isShowNum="0" Des="回合结束时，己方在场精灵解除所处的混乱、麻痹，解除成功时若奥斯卡不在场则此效果失效直到奥斯卡登场，若在场则下回合奥斯卡先制+1"/>
+	<item id="212" dec="混沌魔眼" tips="混沌魔眼" className="*" sort="4" isShowNum="0" Des="己方含有混沌系的技能获得本系加成；己方精灵每次在场首次执行诅咒状态附加效果时概率提升至100%，之后概率下降至0%，其受到技能伤害时重置"/>
+	<item id="213" dec="堕灵神谕" tips="堕灵神谕" className="*" sort="4" isShowNum="0" Des="己方随机附加异常状态时，若范围中存在诅咒，则改为从诅咒类状态中进行随机，且随机附加的种数+1"/>
+
+	
+	
 <!--<item id="" dec="" tips="" className="*" sort="1"/>-->
 	<item id="1000" dec="折叠icon" tips="【点击查看详情】" className="SignBuffView_1000" sort="100"/>
 

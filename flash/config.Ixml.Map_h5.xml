@@ -2,7 +2,7 @@
 	<item id="2001" name="新兵训练营" Ename="Destination Reached" pic="2001" sound="BGM_001" PlayerXYZ="300,300" NPCID="5,13,4,3,11,10,9,8,7,6,2,12" NPCScale="1" NPCXYZ="583,288_171,360_249,396_337,438_855,332_890,364_950,396_583,397_657,396_623,439_762,420_583,471" hidenAllPlayers="1" />
 	<item id="2002" name="船长室" Ename="Destination Reached" pic="4" sound="2" GroupID="10101" PlayerXYZ="104,446" NPCID="27" NPCScale="1" NPCXYZ="380,370" />
 	<item id="2003" name="精灵中心" Ename="Destination Reached" pic="5" sound="embed_5" GroupID="10102" PlayerXYZ="707,429" NPCID="33" NPCScale="1" NPCXYZ="365,380" />
-	<item id="2004" name="传送舱" Ename="Destination Reached" pic="1" sound="1" GroupID="10103" PlayerXYZ="467,404" NPCID="28" NPCScale="1" NPCXYZ="350,430" enterMap="1" />
+	<item id="2004" name="传送舱" Ename="Destination Reached" pic="1" sound="1" GroupID="10103" PlayerXYZ="467,404" NPCID="28" NPCScale="1" NPCXYZ="350,430" />
 	<item id="2005" name="瞭望舱" Ename="Destination Reached" pic="7" sound="BGM_104A" GroupID="10104" PlayerXYZ="190,485" NPCID="32" NPCScale="1" NPCXYZ="865,390" />
 	<item id="2006" name="瞭望露台" Ename="Destination Reached" pic="103" sound="2" GroupID="10105" PlayerXYZ="200,460" NPCID="35" NPCScale="1" NPCXYZ="325,455" />
 	<item id="2007" name="发明室" Ename="Destination Reached" pic="107" sound="3" GroupID="10106" PlayerXYZ="300,270" NPCID="26" NPCScale="1" NPCXYZ="870,410" />
@@ -719,10 +719,11 @@
 	<item id="2174" name="众星博物馆" Ename="Destination Reached" pic="2174" sound="APL_story3" GroupID="22005" GroupName="阿派罗尼亚" PlayerXYZ="240,880" MapRatio="1" />
 	<item id="2175" name="传送舱" notes="17周年庆" Ename="Destination Reached" pic="2175" sound="BGM_151A" GroupID="10103" PlayerXYZ="467,404" NPCID="28" NPCScale="1" NPCXYZ="145,404" MapRatio="1" />
 	<item id="2176" name="凯旋殿堂" notes="剧情场景" Ename="Destination Reached" pic="2176" sound="1" PlayerXYZ="780,431" MapRatio="1" />
-	<item id="2177" name="0807场景占位" notes="字段弃用，后续重启" Ename="Destination Reached" pic="2177" sound="1" PlayerXYZ="650,440" MapRatio="1" />
-	<item id="2178" name="β场景占位" notes="字段弃用，后续重启" Ename="Destination Reached" pic="2178" sound="1" PlayerXYZ="467,404" MapRatio="1" />
+	<item id="2177" name="0924场景占位" notes="活动场景" Ename="Destination Reached" pic="2177" sound="BGM_438" PlayerXYZ="470,390" MapRatio="1" />
+	<item id="2178" name="0924场景占位" notes="真实场景" Ename="Destination Reached" pic="2178" sound="BGM_438" PlayerXYZ="470,390" MapRatio="1" />
 	<item id="2179" name="大墟泽" notes="剧情场景" Ename="Destination Reached" pic="2179" sound="BGM_438" PlayerXYZ="820,370" MapRatio="1" />
 	<item id="2180" name="大墟泽" notes="真实场景" Ename="Destination Reached" pic="2180" sound="BGM_438" GroupID="20113" PlayerXYZ="820,370" WildBossNum="3" WildBossPoint="60,410_130,390_170,430_230,400_360,380_450,430_560,400_650,390_770,410_830,400" WildBossLifeTime="8" WildBossID="3598" WildBossWeight="1" MapRatio="1" />
 	<item id="2181" name="阿尔法星溶洞" notes="剧情场景" Ename="Destination Reached" pic="2181" sound="BGM_851" PlayerXYZ="225,400" MapRatio="1" />
 	<item id="2182" name="阿尔法星溶洞" notes="真实场景" Ename="Destination Reached" pic="2182" sound="BGM_851" GroupID="20106" PlayerXYZ="225,400" MapRatio="1" />
+	<item id="2183" name="塞西利亚花海" notes="真实场景" Ename="Destination Reached" pic="2183" sound="BGM_852" GroupID="20108" PlayerXYZ="220,400" NPCID="306" NPCScale="0.45" NPCXYZ="500,330" enterMap="1" MapRatio="1" />
 </root>

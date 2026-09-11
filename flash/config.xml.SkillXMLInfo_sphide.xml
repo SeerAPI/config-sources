@@ -145,6 +145,11 @@
 	<SpMoves id="131" monster="3488" monstername="阴灵魂姬" moves="29402" movesname="黄泉妖偈" item="1728296" itemname="双源魂蒂" itemnumber="1" itemtips="使用后可为阴灵魂姬开启全新技能：黄泉妖偈" movetype="2"/>
 	<SpMoves id="132" monster="4258" monstername="环·源" moves="38515" movesname="源·神庭轰坠" item="1728404" itemname="源式核心" itemnumber="1" itemtips="使用后可为环·源开启全新第五技能：源·神庭轰坠" movetype="1"/>
 
+	<SpMoves id="133" monster="3425" monstername="圣灵守护奥斯卡" moves="38525" movesname="星界圣令" item="1728432" itemname="圣婴之环" itemnumber="1" itemtips="使用后可为圣灵守护奥斯卡开启全新技能：星界圣令" movetype="2"/>
+	<SpMoves id="134" monster="3797" monstername="混沌魔眼耶里梅斯" moves="29446" movesname="大命诗篇" item="1728433" itemname="深瞳伏伺" itemnumber="1" itemtips="使用后可为混沌魔眼耶里梅斯开启全新技能：大命诗篇" movetype="2"/>
+	<SpMoves id="135" monster="4037" monstername="天玄界神" moves="29447" movesname="傲天荣眼" item="1728434" itemname="天玄神颂" itemnumber="1" itemtips="使用后可为天玄界神开启全新技能：傲天荣眼" movetype="2"/>
+	<SpMoves id="136" monster="3430" monstername="星域之魂" moves="29448" movesname="圣光之月" item="1728435" itemname="伦纳旧印" itemnumber="1" itemtips="使用后可为星域之魂开启全新技能：圣光之月" movetype="2"/>
+	<SpMoves id="137" monster="3683" monstername="混沌魔尊" moves="38526" movesname="混沌君临诏" item="1728436" itemname="残怨血灵" itemnumber="1" itemtips="使用后可为混沌魔尊开启全新第五技能：混沌君临诏" movetype="1"/>
 
 
 

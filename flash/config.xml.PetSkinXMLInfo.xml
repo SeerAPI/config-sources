@@ -2924,7 +2924,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-    <Skin ID="860" MonID="4930" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="天极圣临·帝皇铠甲" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114122">
+    <Skin ID="860" MonID="4930" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="天极圣临·帝皇铠甲" >
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
@@ -2932,7 +2932,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
-    <Skin ID="862" MonID="4933" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="猎影逐渊·修罗铠甲" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114122">
+    <Skin ID="862" MonID="4933" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="猎影逐渊·修罗铠甲" >
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
@@ -2944,7 +2944,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
-    <Skin ID="865" MonID="3414" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="19" Name="地核之寂·索伦森" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114127">
+    <Skin ID="865" MonID="3414" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="19" Name="地核之寂·索伦森" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="13"/>
 	</Skin>
 
@@ -2952,11 +2952,15 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
-	<Skin ID="867" MonID="4258" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="告死天使·莫蒂" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114129">
+	<Skin ID="867" MonID="4258" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="告死天使·莫蒂" >
 	<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
 	<Skin ID="868" MonID="4516" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="龙墟寻迹·帕妮丝 " Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+	<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
+	<Skin ID="869" MonID="4942" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="无尽夏的夜宴·阿克希亚" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114131">
 	<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 

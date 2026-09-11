@@ -422,4 +422,11 @@
 	<item id="568" activityid="36" activityname="深渊呓语" describe="累计通过3关" value="3" time="0" timelimit="1" timestart="1788487200" timeend="1789092000" rewardinfo="1_2500005_15" userbitbuf2="408035_1" />
 	<item id="569" activityid="36" activityname="深渊呓语" describe="累计通过6关" value="6" time="0" timelimit="1" timestart="1788487200" timeend="1789092000" rewardinfo="1_2500005_15" userbitbuf2="408035_2" />
 	<item id="570" activityid="36" activityname="深渊呓语" describe="累计通过9关" value="9" time="0" timelimit="1" timestart="1788487200" timeend="1789092000" rewardinfo="1_300697_5" userbitbuf2="408035_3" />
+	<item id="571" activityid="37" activityname="圣光的意志" describe="今日游玩1次游戏" value="1" time="1" timelimit="1" timestart="1789092000" timeend="1789696800" rewardinfo="1_1727739_20" userinfo="203335" userbitbuf2="203337_1" />
+	<item id="572" activityid="37" activityname="圣光的意志" describe="今日击溃60点虚空之力" value="60" time="1" timelimit="1" timestart="1789092000" timeend="1789696800" rewardinfo="1_1727738_40" userinfo="203336" userbitbuf2="203337_2" />
+	<item id="573" activityid="37" activityname="圣光的意志" describe="累计击溃100点虚空之力" value="100" time="0" timelimit="1" timestart="1789092000" timeend="1789696800" rewardinfo="1_2500004_1" userinfo="408037" userbitbuf2="408038_1" />
+	<item id="574" activityid="37" activityname="圣光的意志" describe="累计击溃200点虚空之力" value="200" time="0" timelimit="1" timestart="1789092000" timeend="1789696800" rewardinfo="1_2500004_1" userinfo="408037" userbitbuf2="408038_2" />
+	<item id="575" activityid="37" activityname="圣光的意志" describe="累计击溃300点虚空之力" value="300" time="0" timelimit="1" timestart="1789092000" timeend="1789696800" rewardinfo="1_2500004_1" userinfo="408037" userbitbuf2="408038_3" />
+	<item id="576" activityid="37" activityname="圣光的意志" describe="累计击溃400点虚空之力" value="400" time="0" timelimit="1" timestart="1789092000" timeend="1789696800" rewardinfo="1_2500004_2" userinfo="408037" userbitbuf2="408038_4" />
+	<item id="577" activityid="37" activityname="圣光的意志" describe="累计击溃500点虚空之力" value="500" time="0" timelimit="1" timestart="1789092000" timeend="1789696800" rewardinfo="1_300066_1" userinfo="408037" userbitbuf2="408038_5" />
 </root>

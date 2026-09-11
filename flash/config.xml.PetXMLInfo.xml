@@ -65642,6 +65642,7 @@
 		  <Move ID="31055" LearningLv="53"/>
 		  <Move ID="25636" LearningLv="57" Rec="1"/>
 		  <Move ID="31056" LearningLv="61" Rec="1"/>
+		  <SpMove ID="38525"/>
 </LearnableMoves>
 <ExtraMoves>
 		  <Move ID="31057" LearningLv="76"/>
@@ -65772,6 +65773,7 @@
 		  <Move ID="31083" LearningLv="53"/>
 		  <Move ID="25650" LearningLv="57" Rec="1"/>
 		  <Move ID="31084" LearningLv="61" Rec="1"/>
+		  <SpMove ID="29448"/>
 </LearnableMoves>
 <ExtraMoves>
 		  <Move ID="31085" LearningLv="76"/>
@@ -72524,6 +72526,9 @@
 <ExtraMoves>
 		  <Move ID="32396" LearningLv="70"/>
 </ExtraMoves>
+<SpExtraMoves>
+		  <Move ID="38526" LearningLv="70"/>
+</SpExtraMoves>
 </Monster>
 
 <Monster ID="3684" DefName="闪光艾丝可玲" Type="91" GrowthType="4" HP="150" Atk="72" Def="98" SpAtk="128" SpDef="98" Spd="124" YieldingExp="70" CatchRate="0" YieldingEV="0 0 0 1 0 1" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="2" PetClass="2344" FormParam="0" CharacterAttrParam="4" GradeParam="3" AddSeParam="0" Resist="1" VipBtlAdj="1">
@@ -75431,6 +75436,7 @@
 		  <Move ID="32955" LearningLv="53"/>
 		  <Move ID="26568" LearningLv="57" Rec="1"/>
 		  <Move ID="32956" LearningLv="61" Rec="1"/>
+		  <SpMove ID="29446"/>
 </LearnableMoves>
 <ExtraMoves>
 		  <Move ID="32957" LearningLv="70"/>
@@ -81576,6 +81582,7 @@
 		  <Move ID="34147" LearningLv="53"/>
 		  <Move ID="27141" LearningLv="57" Rec="1"/>
 		  <Move ID="34148" LearningLv="61" Rec="1"/>
+		  <SpMove ID="29447"/>
 </LearnableMoves>
 <ExtraMoves>
 		 <Move ID="34149" LearningLv="71"/>
@@ -103215,7 +103222,40 @@
 		</ExtraMoves>
 	</Monster>
 	
-	
+	<Monster ID="4942" DefName="极度冰凌·阿克希亚" Type="9" GrowthType="4" HP="172" Atk="70" Def="115" SpAtk="142" SpDef="115" Spd="136" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="2" PetClass="3603" FormParam="0" CharacterAttrParam="4" GradeParam="5" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10200" LearningLv="1"/>
+			<Move ID="10201" LearningLv="5"/>
+			<Move ID="20056" LearningLv="9"/>
+			<Move ID="20057" LearningLv="13"/>
+			<Move ID="10202" LearningLv="17"/>
+			<Move ID="10204" LearningLv="21"/>
+			<Move ID="10203" LearningLv="25"/>
+			<Move ID="20058" LearningLv="29"/>
+			<Move ID="10205" LearningLv="33"/>
+			<Move ID="10206" LearningLv="37"/>
+			<Move ID="20059" LearningLv="41"/>
+			<Move ID="10218" LearningLv="45"/>
+			<Move ID="20060" LearningLv="49"/>
+			<Move ID="13176" LearningLv="53"/>
+			<Move ID="10208" LearningLv="57"/>
+			<Move ID="10207" LearningLv="61"/>
+			<Move ID="10209" LearningLv="71"/>
+			<Move ID="10210" LearningLv="72"/>
+			<Move ID="21668" LearningLv="73"/>
+			<Move ID="13177" LearningLv="74"/>
+			<Move ID="21669" LearningLv="75"/>
+			<Move ID="13178" LearningLv="76"/>
+			<Move ID="38522" LearningLv="77" Rec="1" Tag="1"/>
+			<Move ID="29444" LearningLv="78" Rec="1" Tag="2"/>
+			<Move ID="29445" LearningLv="79" Rec="1" Tag="3"/>
+			<Move ID="38523" LearningLv="80" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38524" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+
 	
 	
 	
@@ -116591,8 +116631,8 @@
   <Monster ID="1400865" DefName="地核之寂·索伦森" RealId=""/>
   <Monster ID="1400866" DefName="格劳瑞 " RealId="3150"/>
   <Monster ID="1400867" DefName="告死天使·莫蒂" RealId=""/>
-  <Monster ID="1400867" DefName="龙墟寻迹·帕妮丝" RealId=""/>
-
+  <Monster ID="1400868" DefName="龙墟寻迹·帕妮丝" RealId=""/>
+  <Monster ID="1400869" DefName="无尽夏的夜宴·阿克希亚" RealId=""/>
 
 
 </Monsters>
