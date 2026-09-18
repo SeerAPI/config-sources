@@ -132439,6 +132439,44 @@
         "hide": 0
       },
       {
+        "des": "克律莎专属全能刻印",
+        "effect_des": "攻击4/44,防御3/30,特防3/30,速度3/35,体力8/81",
+        "arg": [],
+        "base_attri_value": [
+          4,
+          3,
+          0,
+          3,
+          3,
+          8
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          44,
+          30,
+          0,
+          30,
+          35,
+          81
+        ],
+        "monster_id": [
+          4944
+        ],
+        "move_id": [],
+        "grade": 5,
+        "id": 42728,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 0,
+        "quality": 5,
+        "rare": 1,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
         "des": "十年·筑梦",
         "effect_des": "体力8/87,攻击4/48,防御2/28,特防2/28,速度3/39",
         "arg": [],

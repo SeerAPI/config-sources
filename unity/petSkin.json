@@ -15590,8 +15590,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "龙墟寻迹·帕妮丝 ",
         "skin_kind": [
           {
@@ -15603,7 +15603,7 @@
           }
         ],
         "id": 868,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 4516,
         "type": 3
       },
@@ -15624,6 +15624,24 @@
         "jump_target": 114131,
         "mon_id": 4942,
         "type": 18
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "阿克希亚",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 870,
+        "jump_target": 2,
+        "mon_id": 4942,
+        "type": 0
       }
     ]
   }

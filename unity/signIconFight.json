@@ -1030,14 +1030,14 @@
       },
       {
         "class_name": "*",
-        "dec": "法天象地",
+        "dec": "法天象地·圣",
         "des": "开启时重置自身的体力值、PP值并解除所处的异常状态；自身免疫异常状态，所有技能先制+1且攻击技能必定打出致命一击",
         "frame": [],
         "num_des": "剩余回合数",
         "sp_des": [],
         "sp_icon": [],
         "sp_tips": [],
-        "tips": "法天象地",
+        "tips": "法天象地·圣",
         "id": 57,
         "is_show_num": 1,
         "show_monster": [],
@@ -1046,14 +1046,14 @@
       },
       {
         "class_name": "*",
-        "dec": "法天象地",
+        "dec": "法天象地·君",
         "des": "开启时重置自身的体力值、PP值并解除所处的异常状态；自身免疫异常状态，所有技能先制+1且攻击技能使用后吸取对手300点体力",
         "frame": [],
         "num_des": "剩余回合数",
         "sp_des": [],
         "sp_icon": [],
         "sp_tips": [],
-        "tips": "法天象地",
+        "tips": "法天象地·君",
         "id": 58,
         "is_show_num": 1,
         "show_monster": [],
@@ -5293,7 +5293,7 @@
       },
       {
         "class_name": "*",
-        "dec": "2",
+        "dec": "bw",
         "des": "",
         "frame": [],
         "num_des": "剩余回合数",
@@ -5309,7 +5309,7 @@
       },
       {
         "class_name": "*",
-        "dec": "3",
+        "dec": "szd",
         "des": "",
         "frame": [],
         "num_des": "剩余回合数",
@@ -5321,11 +5321,11 @@
         "is_show_num": 1,
         "show_monster": [],
         "show_time": 0,
-        "sort": 4
+        "sort": 1
       },
       {
         "class_name": "*",
-        "dec": "3",
+        "dec": "cl",
         "des": "",
         "frame": [],
         "num_des": "剩余回合数",
@@ -5341,7 +5341,7 @@
       },
       {
         "class_name": "*",
-        "dec": "3",
+        "dec": "cl",
         "des": "",
         "frame": [],
         "num_des": "剩余回合数",
@@ -5353,11 +5353,11 @@
         "is_show_num": 1,
         "show_monster": [],
         "show_time": 0,
-        "sort": 4
+        "sort": 1
       },
       {
         "class_name": "*",
-        "dec": "3",
+        "dec": "t",
         "des": "",
         "frame": [],
         "num_des": "剩余回合数",
@@ -5373,7 +5373,7 @@
       },
       {
         "class_name": "*",
-        "dec": "3",
+        "dec": "lz",
         "des": "",
         "frame": [],
         "num_des": "剩余回合数",
@@ -5458,7 +5458,7 @@
         "is_show_num": 0,
         "show_monster": [],
         "show_time": 0,
-        "sort": 4
+        "sort": 5
       },
       {
         "class_name": "*",
@@ -5474,7 +5474,39 @@
         "is_show_num": 0,
         "show_monster": [],
         "show_time": 0,
-        "sort": 4
+        "sort": 5
+      },
+      {
+        "class_name": "*",
+        "dec": "lz",
+        "des": "",
+        "frame": [],
+        "num_des": "剩余回合数",
+        "sp_des": [],
+        "sp_icon": [],
+        "sp_tips": [],
+        "tips": "3",
+        "id": 214,
+        "is_show_num": 1,
+        "show_monster": [],
+        "show_time": 0,
+        "sort": 1
+      },
+      {
+        "class_name": "*",
+        "dec": "lz",
+        "des": "",
+        "frame": [],
+        "num_des": "",
+        "sp_des": [],
+        "sp_icon": [],
+        "sp_tips": [],
+        "tips": "3",
+        "id": 215,
+        "is_show_num": 1,
+        "show_monster": [],
+        "show_time": 0,
+        "sort": 1
       },
       {
         "class_name": "SignBuffView_1000",

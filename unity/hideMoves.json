@@ -13388,6 +13388,18 @@
         "pet_id": 3683
       },
       {
+        "move_id": 38529,
+        "move_name1": "乱石",
+        "move_name2": "落土击",
+        "pet_id": 4943
+      },
+      {
+        "move_id": 38532,
+        "move_name1": "万雷",
+        "move_name2": "俯首令",
+        "pet_id": 4944
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

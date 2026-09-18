@@ -640597,6 +640597,314 @@
         "vip": 0
       },
       {
+        "def_name": "瑞特拉尼",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38529,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 10001,
+              "learning_lv": 1,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20222,
+              "learning_lv": 5,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10142,
+              "learning_lv": 9,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20331,
+              "learning_lv": 13,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10706,
+              "learning_lv": 17,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10121,
+              "learning_lv": 21,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20855,
+              "learning_lv": 25,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10516,
+              "learning_lv": 29,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20690,
+              "learning_lv": 33,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 11716,
+              "learning_lv": 37,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20856,
+              "learning_lv": 41,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10665,
+              "learning_lv": 45,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 11717,
+              "learning_lv": 49,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20857,
+              "learning_lv": 53,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 11715,
+              "learning_lv": 57,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 11718,
+              "learning_lv": 61,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38527,
+              "learning_lv": 71,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 29449,
+              "learning_lv": 72,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 29450,
+              "learning_lv": 73,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38528,
+              "learning_lv": 74,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 130,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 118,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 1,
+        "hp": 175,
+        "id": 4943,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3604,
+        "real_id": 0,
+        "sp_atk": 70,
+        "sp_def": 118,
+        "spd": 124,
+        "support": 0,
+        "transform": 0,
+        "type": 7,
+        "vip": 0
+      },
+      {
+        "def_name": "克律莎",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38532,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 10008,
+              "learning_lv": 1,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20273,
+              "learning_lv": 5,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10171,
+              "learning_lv": 9,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20144,
+              "learning_lv": 13,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10556,
+              "learning_lv": 17,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38530,
+              "learning_lv": 21,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 20521,
+              "learning_lv": 25,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10107,
+              "learning_lv": 29,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 23030,
+              "learning_lv": 33,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10110,
+              "learning_lv": 37,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 23031,
+              "learning_lv": 41,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 15513,
+              "learning_lv": 45,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29451,
+              "learning_lv": 49,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 23032,
+              "learning_lv": 53,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29452,
+              "learning_lv": 57,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38531,
+              "learning_lv": 61,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 129,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 107,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 2,
+        "hp": 166,
+        "id": 4944,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3605,
+        "real_id": 0,
+        "sp_atk": 70,
+        "sp_def": 107,
+        "spd": 136,
+        "support": 0,
+        "transform": 0,
+        "type": 127,
+        "vip": 0
+      },
+      {
         "def_name": "圣灵谱尼",
         "extra_moves": {
           "adv_move": [],
@@ -743145,6 +743453,36 @@
         "is_ride_pet": 0,
         "pet_class": 0,
         "real_id": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "阿克希亚",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400870,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 50,
         "sp_atk": 0,
         "sp_def": 0,
         "spd": 0,

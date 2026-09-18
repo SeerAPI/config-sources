@@ -5534,8 +5534,22 @@
     {
       "curr_app_do": 0,
       "id": 911,
-      "is_full_screen": 0,
+      "is_full_screen": 1,
       "module_name": "zhenshixuanwu",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 912,
+      "is_full_screen": 0,
+      "module_name": "liumengSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 913,
+      "is_full_screen": 0,
+      "module_name": "sign260924",
       "res_config": []
     },
     {
@@ -6038,7 +6052,7 @@
     {
       "curr_app_do": 1,
       "id": 1124,
-      "is_full_screen": 0,
+      "is_full_screen": 1,
       "module_name": "xuanwuRenascorActivitycenter",
       "res_config": []
     },
@@ -6495,6 +6509,55 @@
       "id": 1222,
       "is_full_screen": 1,
       "module_name": "getkehd",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1223,
+      "is_full_screen": 1,
+      "module_name": "ShenglingshouhuaosikaMegaPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1224,
+      "is_full_screen": 1,
+      "module_name": "getzksnewskinpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1225,
+      "is_full_screen": 1,
+      "module_name": "rayGaiaUniversalWelfareMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1226,
+      "is_full_screen": 1,
+      "module_name": "activityMineralSorter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1227,
+      "is_full_screen": 1,
+      "module_name": "midAutumnSkinReturnSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1228,
+      "is_full_screen": 1,
+      "module_name": "wargame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1229,
+      "is_full_screen": 1,
+      "module_name": "yanmiezhizhuzhakesiSkinActivityPanel",
       "res_config": []
     }
   ]
