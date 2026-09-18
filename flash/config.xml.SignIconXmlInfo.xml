@@ -91,8 +91,8 @@ sort标记展示序列 1为自己给自己的效果 2为队友给自己的效果
 	<item id="54" dec="强击形态" tips="强击形态" className="*" sort="1" NumDes="当前形态" frame="1_1" Des="霍光持有时若拥有北冥之刃则造成的致命一击伤害提升50%，拥有北冥狂刃则增伤效果翻倍，下场后保留" showmonster="1_4515_0_1"/>
 	<item id="55" dec="无罔形态" tips="无罔形态" className="*" sort="1" NumDes="当前形态" frame="1_1" Des="霍光持有时若拥有北冥之刃则攻击技能伤害计算时克制倍数至少为1，拥有北冥狂刃则克制倍数至少为2，下场后保留" showmonster="1_4515_0_1"/>
 	<item id="56" dec="威破形态" tips="威破形态" className="*" sort="1" NumDes="当前形态" frame="1_1" Des="霍光持有时若拥有北冥之刃则每次对手主动切换精灵，该精灵出战时100%进入束缚状态，拥有北冥狂刃则束缚效果转变为害怕，下场后保留" showmonster="1_4515_0_1"/>
-	<item id="57" dec="法天象地" tips="法天象地" className="*" sort="1" isShowNum="1" NumDes="剩余回合数" Des="开启时重置自身的体力值、PP值并解除所处的异常状态；自身免疫异常状态，所有技能先制+1且攻击技能必定打出致命一击"/>
-	<item id="58" dec="法天象地" tips="法天象地" className="*" sort="1" isShowNum="1" NumDes="剩余回合数" Des="开启时重置自身的体力值、PP值并解除所处的异常状态；自身免疫异常状态，所有技能先制+1且攻击技能使用后吸取对手300点体力"/>
+	<item id="57" dec="法天象地·圣" tips="法天象地·圣" className="*" sort="1" isShowNum="1" NumDes="剩余回合数" Des="开启时重置自身的体力值、PP值并解除所处的异常状态；自身免疫异常状态，所有技能先制+1且攻击技能必定打出致命一击"/>
+	<item id="58" dec="法天象地·君" tips="法天象地·君" className="*" sort="1" isShowNum="1" NumDes="剩余回合数" Des="开启时重置自身的体力值、PP值并解除所处的异常状态；自身免疫异常状态，所有技能先制+1且攻击技能使用后吸取对手300点体力"/>
 	<item id="59" dec="谧夜之幕" tips="谧夜之幕" className="*" sort="1" isShowNum="1" NumDes="剩余回合数" Des="对手攻击技能先制效果失效、自身攻击技能必定命中且每回合结束时恢复所有技能PP值"/>
 	<item id="60" dec="异常免疫" tips="异常免疫" className="*" sort="4" isShowNum="1" NumDes="免疫次数" Des="可以帮助己方精灵免疫受到的异常状态"/>
 	<item id="61" dec="星皇之赐" tips="星皇之赐" className="*" sort="2" NumDes="庇护生效中" Des="持有精灵每回合出手流程结束后恢复其最大体力的1/8（该效果无需出手也可触发）"/>
@@ -237,17 +237,19 @@ sort标记展示序列 1为自己给自己的效果 2为队友给自己的效果
 	<item id="200" dec="法之意念" tips="法之意念" className="*" sort="1" isShowNum="1" NumDes="当前点数" Des="回合开始时，若自身为正气状态，则消耗法之意念平均恢复至信仰对象为自身的精灵，若自身为邪气状态，则消耗法之意念使自身下次攻击时附加等量的固定伤害"/>
 	<item id="201" dec="冰呪" tips="冰呪" className="*" sort="4" isShowNum="1" NumDes="剩余回合数" Des="自身的攻击技能必定打出致命一击且无视对手20%的伤害减少类效果"/>
 	<item id="202" dec="执行者" tips="执行者" className="*" sort="4" isShowNum="1" NumDes="当前架数" Des="环·源的所有攻击技能必定命中且每有1架，环·源的能力值提升8点；执行者的数量大于1时，每回合开始，根据环·源以外的对手特性及其衍生中含有的伤害免疫效果，己方在场精灵获得等量同类型的免疫效果各1回合，效果结束时摧毁一架执行者；最多5架"/>
-	<item id="203" dec="2" tips="2" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
-	<item id="204" dec="3" tips="3" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
-	<item id="205" dec="3" tips="3" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
-	<item id="206" dec="3" tips="3" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
-	<item id="207" dec="3" tips="3" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
-	<item id="208" dec="3" tips="3" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
+	<item id="203" dec="bw" tips="2" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
+	<item id="204" dec="szd" tips="3" className="*" sort="1" isShowNum="1" NumDes="剩余回合数"/>
+	<item id="205" dec="cl" tips="3" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
+	<item id="206" dec="cl" tips="3" className="*" sort="1" isShowNum="1" NumDes="剩余回合数"/>
+	<item id="207" dec="t" tips="3" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
+	<item id="208" dec="lz" tips="3" className="*" sort="4" isShowNum="1" NumDes="剩余回合数"/>
 	<item id="209" dec="熔之加护" tips="熔之加护" spicon="1_1 2_2" className="*" sort="4" isShowNum="0" Des="回合结束时，己方在场精灵解除所处的烧伤、焚烬，解除成功时若奥斯卡不在场则此效果失效直到奥斯卡登场，若在场则下回合奥斯卡先制+1"/>
 	<item id="210" dec="霜之加护" tips="霜之加护" spicon="1_1 2_2" className="*" sort="4" isShowNum="0" Des="回合结束时，己方在场精灵解除所处的冻伤、冰封，解除成功时若奥斯卡不在场则此效果失效直到奥斯卡登场，若在场则下回合奥斯卡先制+1"/>
 	<item id="211" dec="灿之加护" tips="灿之加护" spicon="1_1 2_2" className="*" sort="4" isShowNum="0" Des="回合结束时，己方在场精灵解除所处的混乱、麻痹，解除成功时若奥斯卡不在场则此效果失效直到奥斯卡登场，若在场则下回合奥斯卡先制+1"/>
-	<item id="212" dec="混沌魔眼" tips="混沌魔眼" className="*" sort="4" isShowNum="0" Des="己方含有混沌系的技能获得本系加成；己方精灵每次在场首次执行诅咒状态附加效果时概率提升至100%，之后概率下降至0%，其受到技能伤害时重置"/>
-	<item id="213" dec="堕灵神谕" tips="堕灵神谕" className="*" sort="4" isShowNum="0" Des="己方随机附加异常状态时，若范围中存在诅咒，则改为从诅咒类状态中进行随机，且随机附加的种数+1"/>
+	<item id="212" dec="混沌魔眼" tips="混沌魔眼" className="*" sort="5" isShowNum="0" Des="己方含有混沌系的技能获得本系加成；己方精灵每次在场首次执行诅咒状态附加效果时概率提升至100%，之后概率下降至0%，其受到技能伤害时重置"/>
+	<item id="213" dec="堕灵神谕" tips="堕灵神谕" className="*" sort="5" isShowNum="0" Des="己方随机附加异常状态时，若范围中存在诅咒，则改为从诅咒类状态中进行随机，且随机附加的种数+1"/>
+	<item id="214" dec="lz" tips="3" className="*" sort="1" isShowNum="1" NumDes="剩余回合数"/>
+	<item id="215" dec="lz" tips="3" className="*" sort="1" isShowNum="1" NumDes=""/>
 
 	
 	

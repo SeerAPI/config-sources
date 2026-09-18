@@ -2956,13 +2956,17 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
-	<Skin ID="868" MonID="4516" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="龙墟寻迹·帕妮丝 " Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+	<Skin ID="868" MonID="4516" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="龙墟寻迹·帕妮丝 " >
 	<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
 	<Skin ID="869" MonID="4942" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="无尽夏的夜宴·阿克希亚" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114131">
 	<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
+	
+	<Skin ID="870" MonID="4942" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""  Name="阿克希亚" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+		<SkinKind ID="1" Type="2" LifeTime="0" />
+	</Skin>
 
 	<!-- <Skin ID="000" MonID="000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="复制模版"> -->
 	<!-- <SkinKind ID="1" Type="2" LifeTime="0"/> -->

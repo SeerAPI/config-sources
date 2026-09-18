@@ -15565,6 +15565,12 @@ eg:
 	<Map ID="2175" Name="传送舱" InitX="580" InitY="440">
     </Map>
 	
+	<Map ID="2177" Name="0924版本占位" InitX="580" InitY="440">
+    </Map>
+	
+	<Map ID="2178" Name="0924版本占位" InitX="580" InitY="440">
+    </Map>
+	
 	<Map ID="2180" Name="大墟泽" InitX="580" InitY="440">
 	    <Monsters>
 			<Monster ID="3598" Lv="17 17"/>
@@ -18600,6 +18606,6 @@ eg:
 		<DefaultMap ID="3" RandMaps="1224" Desc="新手登录场景"/>
 	</DefaultMaps>
 	<VersionNumber>
-		<Version ID="20260911" Desc="每次发版需同步更新版本号"/>
+		<Version ID="20260918" Desc="每次发版需同步更新版本号"/>
 	</VersionNumber>
 </Maps>

@@ -213,8 +213,8 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4942" ImageID= "4942" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <!-- <place type= "0" ID="4941" ImageID= "4941" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "0" ID="4943" ImageID= "4943" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4944" ImageID= "4944" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4939" ImageID= "4939" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4910" ImageID= "4910" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4911" ImageID= "4911" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,7 +255,7 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="869" monID="4942" ImageID= "1400869" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="870" monID="4942" ImageID= "1400870" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
       <!-- <place type= "1" ID="864" monID="4894" ImageID= "1400864" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="865" monID="3414" ImageID= "1400865" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="866" monID="4004" ImageID= "1400866" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -3738,7 +3738,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3428" DefName="疾·阿洛纳斯" Type="飞行" Height="180" Weight="80" Features="风暴之神的完全体形态，借助风暴和混沌的力量，速度和能力都更上一层！" mapID="1246" jumptarget="120" Target="150046"/>
 	<Monster ID="3429" DefName="弗拉德" Type="神秘" Height="170" Weight="83" Features="暗月星球上对魔君效忠的当地精灵，如今是暗月星球上混沌教徒的领主！" mapID="1246"/>
 	<Monster ID="3430" DefName="星域之魂" Type="超能" Height="170" Weight="48" Features="混沌军团攻陷星域之后，因抵抗而被魔君索伦森吞噬力量的星域守护者的魂魄！" mapID="1246"/>
-	<Monster ID="3432" DefName="柯尔霍德" Type="冰 暗影" Height="182" Weight="73" Features="冰系精灵王柯尔德和暗影系精灵王霍德尔的合体形态，成为了冰、暗影双属性的精灵王，既有冰雪的凛冽，也有暗影的诡谲！" mapID="1235"/>
+	<Monster ID="3432" DefName="柯尔霍德" Type="冰 暗影" Height="182" Weight="73" Features="冰系精灵王柯尔德和暗影系精灵王霍德尔的合体形态，成为了冰、暗影双属性的精灵王，既有冰雪的凛冽，也有暗影的诡谲！" mapID="1235" Target="150147"/>
 	<Monster ID="3433" DefName="圣光之子" Type="圣灵" Height="150" Weight="50" Features="圣光结界的能量聚合而成的小生灵，体内的圣灵能量纯洁而温和！" mapID="1"/>
 	<Monster ID="3434" DefName="天父·奥丁" Type="远古" Height="177" Weight="76" Features="奥丁的超进化形态，觉醒了神灵的力量，成为了诸神真正的天父！" mapID="103"/>
 	<Monster ID="3435" DefName="伊丽莎白" Type="战斗 龙" Height="175" Weight="60" Features="来自龙族的少女，文静的外表下却是一颗狂热追求战斗的强者之心！" mapID="103" Target="295002"/>
@@ -5241,5 +5241,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4940" DefName="王座守卫·古亚尼斯" Type="圣灵 电" Height="199" Weight="68" Features="当雷伊坐上王座，古斯便会挣脱休眠进化为古亚尼斯。这位持握能量球的王座守卫，会在无人注视之时悄然消失，是圣殿铭文中从未记载的谜团之一。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/975"/>
 	<Monster ID="4941" DefName="瑞丁" Type="飞行 暗影" Height="58" Weight="17" Features="喜欢看书并提问的神秘小精灵，答对它的问题会得到惊喜奖励哟！"/>
 	<Monster ID="4942" DefName="极度冰凌·阿克希亚" Type="冰" Height="179" Weight="57" Features="于绝境中完成自我突破的冰雪女王——当这片土地回应了她的守护，风雪与冰霜，皆为她而战。" Redirect="module" Go="app/FinalActivityPanel" Target="150142"/>
+	<Monster ID="4943" DefName="瑞特拉尼" Type="地面" Height="146" Weight="80" Features="瑞特拉尼，瑞特拉一族的虫王。它诞生于星球解放之后的春天，替整族携着千万年的记忆，在山川河泽之间缓缓前行。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/984"/>
+	<Monster ID="4944" DefName="克律莎" Type="远古 电" Height="162" Weight="45" Features="一位从遗迹中苏醒的神秘少女，身体内似乎隐藏着神秘的力量。" Redirect="module" Go="app/FinalActivityPanel" Target="113041"/>
 
 </root>

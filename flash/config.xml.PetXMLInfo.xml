@@ -103256,8 +103256,58 @@
 		</ExtraMoves>
 	</Monster>
 
-	
-	
+	<Monster ID="4943" DefName="瑞特拉尼" Type="7" GrowthType="4" HP="175" Atk="130" Def="118" SpAtk="70" SpDef="118" Spd="124" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3604" FormParam="0" CharacterAttrParam="0" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10001" LearningLv="1"/>
+			<Move ID="20222" LearningLv="5"/>
+			<Move ID="10142" LearningLv="9"/>
+			<Move ID="20331" LearningLv="13"/>
+			<Move ID="10706" LearningLv="17"/>
+			<Move ID="10121" LearningLv="21"/>
+			<Move ID="20855" LearningLv="25"/>
+			<Move ID="10516" LearningLv="29"/>
+			<Move ID="20690" LearningLv="33"/>
+			<Move ID="11716" LearningLv="37"/>
+			<Move ID="20856" LearningLv="41"/>
+			<Move ID="10665" LearningLv="45"/>
+			<Move ID="11717" LearningLv="49"/>
+			<Move ID="20857" LearningLv="53"/>
+			<Move ID="11715" LearningLv="57"/>
+			<Move ID="11718" LearningLv="61"/>
+			<Move ID="38527" LearningLv="71" Rec="1" Tag="1"/>
+			<Move ID="29449" LearningLv="72" Rec="1" Tag="2"/>
+			<Move ID="29450" LearningLv="73" Rec="1" Tag="3"/>
+			<Move ID="38528" LearningLv="74" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38529" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+
+	<Monster ID="4944" DefName="克律莎" Type="127" GrowthType="4" HP="166" Atk="129" Def="107" SpAtk="70" SpDef="107" Spd="136" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="2" PetClass="3605" FormParam="0" CharacterAttrParam="0" GradeParam="3" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10008" LearningLv="1"/>
+			<Move ID="20273" LearningLv="5"/>
+			<Move ID="10171" LearningLv="9"/>
+			<Move ID="20144" LearningLv="13"/>
+			<Move ID="10556" LearningLv="17"/>
+			<Move ID="38530" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="20521" LearningLv="25"/>
+			<Move ID="10107" LearningLv="29"/>
+			<Move ID="23030" LearningLv="33"/>
+			<Move ID="10110" LearningLv="37"/>
+			<Move ID="23031" LearningLv="41"/>
+			<Move ID="15513" LearningLv="45"/>
+			<Move ID="29451" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="23032" LearningLv="53"/>
+			<Move ID="29452" LearningLv="57" Rec="1" Tag="3"/>
+			<Move ID="38531" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38532" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+
 	
 	
 	
@@ -116633,6 +116683,7 @@
   <Monster ID="1400867" DefName="告死天使·莫蒂" RealId=""/>
   <Monster ID="1400868" DefName="龙墟寻迹·帕妮丝" RealId=""/>
   <Monster ID="1400869" DefName="无尽夏的夜宴·阿克希亚" RealId=""/>
+  <Monster ID="1400870" DefName="阿克希亚" RealId="50"/>
 
 
 </Monsters>

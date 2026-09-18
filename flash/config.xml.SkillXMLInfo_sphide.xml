@@ -274,4 +274,13 @@
 	<ShowMoves id="10086" monster="3407" monstername="格劳恩斯" moves="38407" movesname="云烨竭天" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="2"/>
 	<ShowMoves id="10087" monster="3407" monstername="格劳恩斯" moves="38408" movesname="王·祭炼昭灼" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="2"/>
 	<ShowMoves id="10088" monster="3407" monstername="格劳恩斯" moves="38409" movesname="王·焚罡九虺" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="1"/>
+
+	<ShowMoves id="10089" monster="4125" monstername="洪荒·列奥尼达" moves="29253" movesname="末法迪知" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="2"/>
+	<ShowMoves id="10090" monster="4125" monstername="洪荒·列奥尼达" moves="38247" movesname="荒墟辟易" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="2"/>
+	<ShowMoves id="10091" monster="4125" monstername="洪荒·列奥尼达" moves="38248" movesname="王·宿世归泯" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="2"/>
+	<ShowMoves id="10092" monster="4125" monstername="洪荒·列奥尼达" moves="38249" movesname="王·天衍星霜" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="1"/>
+
+
+
+
 </config>

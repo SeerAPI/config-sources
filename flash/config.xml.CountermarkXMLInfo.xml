@@ -3824,6 +3824,7 @@
 	<MintMark ID="42725" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 2 0 2 4 9" MaxAttriValue="45 25 0 25 40 100" MonsterID="4930" Level="100" Max="99" Des="帝皇铠甲专属全能刻印" EffectDes="攻击4/45,防御2/25,特防2/25,速度3/40,体力10/100"/>
 	<MintMark ID="42726" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 2 0 2 3 9" MaxAttriValue="40 25 0 25 35 90" MonsterID="4931" Level="100" Max="99" Des="炎龙铠甲专属全能刻印" EffectDes="攻击4/40,防御2/25,特防2/25,速度3/35,体力9/90"/>
 	<MintMark ID="42727" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 4 5 4 4 0" MaxAttriValue="55 42 55 42 41 0" MonsterID="4933" Level="100" Max="99" Des="修罗铠甲专属全能刻印" EffectDes="攻击5/55,防御4/42,特攻5/55,特防4/42,速度4/41"/>
+	<MintMark ID="42728" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 3 0 3 3 8" MaxAttriValue="44 30 0 30 35 81" MonsterID="4944" Level="100" Max="99" Des="克律莎专属全能刻印" EffectDes="攻击4/44,防御3/30,特防3/30,速度3/35,体力8/81"/>
 
 
 

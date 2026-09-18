@@ -1853,7 +1853,7 @@
 				<Rule ID="27" Threshold="27" AchievementPoint="10" icon="1" achName="敌月神" proicon="1455" SpeNameBonus="564" title="敌月神" Desc="成为2026年费VIP" titleColor="0xFFFFFF" AbilityTitle="1" abtext="攻击+30、特攻+30、防御+30、特防+30、体力+50"/>
 				<Rule ID="28" Threshold="28" AchievementPoint="10" icon="1" achName="除虫高手" proicon="1459" SpeNameBonus="567" title="除虫高手" Desc="在犹尔尼斯星探索中获得的实力证明" titleColor="0xFFFFFF"/>
 
-				<Rule ID="29" Threshold="29" AchievementPoint="10" icon="1" achName="岁业拔除" proicon="1469" SpeNameBonus="572" title="岁业拔除" Desc="2026年春节活动中，购买妙时天女至尊礼包获得" titleColor="0xFFFFFF" AbilityTitle="1" abtext="防御+20，特防+20，速度+20，体力+90"/>
+				<Rule ID="29" Threshold="29" AchievementPoint="10" icon="1" achName="岁业祓除" proicon="1469" SpeNameBonus="572" title="岁业祓除" Desc="2026年春节活动中，购买妙时天女至尊礼包获得" titleColor="0xFFFFFF" AbilityTitle="1" abtext="防御+20，特防+20，速度+20，体力+90"/>
 				<Rule ID="30" Threshold="30" AchievementPoint="10" icon="1" achName="噬瞳之夜" proicon="1470" SpeNameBonus="573" title="噬瞳之夜" Desc="参与银河礼赠-2026新春回馈活动获得" titleColor="0xFFFFFF" />
 				<Rule ID="31" Threshold="31" AchievementPoint="10" icon="1" achName="七彩试炼" proicon="1471" SpeNameBonus="574" title="七彩试炼" Desc="参与限时活动【七彩试炼】获得" titleColor="0xFFFFFF" AbilityTitle="1" abtext="攻击+26，特攻+26，速度+26"/>
 				<Rule ID="32" Threshold="32" AchievementPoint="10" icon="1" achName="基因大师" proicon="1473" SpeNameBonus="576" title="基因大师" Desc="在自在天飞船完成探索解密获得" titleColor="0xFFFFFF"/>
