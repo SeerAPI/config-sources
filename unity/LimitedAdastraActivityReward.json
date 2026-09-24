@@ -26,27 +26,27 @@
     },
     {
       "condition": 6,
-      "endTime": "1790906400",
+      "endTime": "1790870400",
       "id": 4,
       "reward": "1_1727037_300",
       "type": 2,
-      "unlockTime": "1790301600"
+      "unlockTime": "1790215200"
     },
     {
       "condition": 12,
-      "endTime": "1790906400",
+      "endTime": "1790870400",
       "id": 5,
       "reward": "1_1727037_500",
       "type": 2,
-      "unlockTime": "1790301600"
+      "unlockTime": "1790215200"
     },
     {
       "condition": 18,
-      "endTime": "1790906400",
+      "endTime": "1790870400",
       "id": 6,
       "reward": "1_1727037_800",
       "type": 2,
-      "unlockTime": "1790301600"
+      "unlockTime": "1790215200"
     },
     {
       "condition": 9,
@@ -54,7 +54,7 @@
       "id": 7,
       "reward": "1_1727037_500",
       "type": 3,
-      "unlockTime": "1790906400"
+      "unlockTime": "1790870400"
     },
     {
       "condition": 18,
@@ -62,7 +62,7 @@
       "id": 8,
       "reward": "1_1727037_700",
       "type": 3,
-      "unlockTime": "1790906400"
+      "unlockTime": "1790870400"
     },
     {
       "condition": 27,
@@ -70,7 +70,7 @@
       "id": 9,
       "reward": "1_1727037_1000",
       "type": 3,
-      "unlockTime": "1790906400"
+      "unlockTime": "1790870400"
     }
   ]
 }

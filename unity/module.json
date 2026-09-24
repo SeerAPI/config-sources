@@ -5532,7 +5532,7 @@
       "res_config": []
     },
     {
-      "curr_app_do": 0,
+      "curr_app_do": 1,
       "id": 911,
       "is_full_screen": 1,
       "module_name": "zhenshixuanwu",
@@ -6558,6 +6558,41 @@
       "id": 1229,
       "is_full_screen": 1,
       "module_name": "yanmiezhizhuzhakesiSkinActivityPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1230,
+      "is_full_screen": 1,
+      "module_name": "xingyuankafeitingSkinActivityPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1231,
+      "is_full_screen": 0,
+      "module_name": "dihuangzhirongPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1232,
+      "is_full_screen": 1,
+      "module_name": "organizeFireworkGamePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1233,
+      "is_full_screen": 1,
+      "module_name": "ShenglingzhihunmaiersiMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1234,
+      "is_full_screen": 1,
+      "module_name": "stonebattleActivity",
       "res_config": []
     }
   ]

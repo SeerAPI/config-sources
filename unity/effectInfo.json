@@ -17684,10 +17684,14 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit]若对手处于能力提升状态则消除对手[color=#52a5f2]回合类效果[/color]且100%令对手[color=#57c975]臣服[/color]3回合",
-        "info": "若对手处于能力提升状态则消除对手回合类效果且100%令对手臣服3回合",
-        "param": [],
-        "args_num": 0,
+        "analyze": "[sprite name=iconHit]若对手处于能力提升状态则消除对手[color=#52a5f2]回合类效果[/color]且{0}%令对手[color=#57c975]{1}[/color]{2}回合",
+        "info": "若对手处于能力提升状态则消除对手回合类效果且{0}%令对手{1}{2}回合",
+        "param": [
+          1,
+          1,
+          1
+        ],
+        "args_num": 3,
         "id": 2001,
         "key": "",
         "type": 0
@@ -23225,11 +23229,248 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#52a5f2]对方[/color]存在含有[color=#52a5f2]“秒杀”[/color]特性的精灵时，自身专属特性中的被击败效果取消被击败要求，且每有1个含有[color=#52a5f2]“秒杀”[/color]的特性，此技能命中值提升100、20%的概率不消耗PP值",
+        "analyze": "[sprite name=iconInherent][color=#52a5f2]对方[/color]存在含有[color=#52a5f2]“秒杀”[/color]特性的精灵时，自身专属特性中的被击败效果取消被击败要求，且每有1个含有[color=#52a5f2]“秒杀”[/color]的特性，此技能命中值提升100、20%的概率不消耗PP值",
         "info": "若对方存在含有“秒杀”的特性，则自身的被击败效果取消被击败要求，且每有1个含有“秒杀”的特性，此技能命中值提升100、20%的概率不消耗PP值",
         "param": [],
         "args_num": 0,
         "id": 2569,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit][color=#52a5f2]技能无效[/color]时，消除对手[color=#52a5f2]回合类效果[/color]并恢复自身所有体力",
+        "info": "技能无效时，消除对手回合类效果并恢复自身所有体力",
+        "param": [],
+        "args_num": 0,
+        "id": 2570,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]未[color=#57c975]击败[/color]对手时消耗自身末位的点亮的[color=#f35555]雷辰[/color]以声明对手为[color=#52a5f2]秒杀[/color]对象，自身下次对[color=#52a5f2]秒杀[/color]对象使用攻击技能时，[color=#52a5f2]秒杀[/color]对手",
+        "info": "未击败对手时消耗自身末位的点亮的雷辰以声明对手为秒杀对象，自身下次对秒杀对象使用攻击技能时，秒杀对手",
+        "param": [],
+        "args_num": 0,
+        "id": 2571,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手时令自身[color=#57c975]雷解[/color]且[color=#52a5f2]己方[/color]获得1点辰律",
+        "info": "击败对手时令自身雷解且己方获得1点辰律",
+        "param": [],
+        "args_num": 0,
+        "id": 2572,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]自身拥有点亮的[color=#f35555]雷辰[/color]时[color=#52a5f2]威力[/color]提高160点",
+        "info": "自身拥有点亮的雷辰时威力提高160点",
+        "param": [],
+        "args_num": 0,
+        "id": 2573,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]{0}回合内，双方的在场精灵无法成为场下精灵的效果目标",
+        "info": "{0}回合内，双方的在场精灵无法成为场下精灵的效果目标",
+        "param": [],
+        "args_num": 1,
+        "id": 2574,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit][color=#52a5f2]自身[/color]拥有[color=#f35555]武道[/color]时，消除[color=#52a5f2]对手[/color]的[color=#f35555]武道[/color]并令对手[color=#57c975]衰弱[/color]{0}回合，[color=#52a5f2]未触发[/color]则对手{1}回合内无法行动",
+        "info": "自身拥有武道时，消除对手的武道并令对手衰弱{0}回合，未触发则对手{1}回合内无法行动",
+        "param": [],
+        "args_num": 2,
+        "id": 2575,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]{0}回合内自身受到的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]不超过{1}点",
+        "info": "{0}回合内自身受到的固定伤害、百分比伤害不超过{1}点",
+        "param": [],
+        "args_num": 2,
+        "id": 2576,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]若对手处于[color=#57c975]{0}[/color]状态，则对手下次所处的{1}状态结束时，其体力值归{2}",
+        "info": "若对手处于{0}状态，则对手下次所处的{1}状态结束时，其体力值归{2}",
+        "param": [
+          1,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        "args_num": 3,
+        "id": 2577,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]将[color=#52a5f2]对方[/color]的[color=#f35555]月类星体[/color]转移至[color=#52a5f2]己方[/color]",
+        "info": "将对方的月类星体转移至己方",
+        "param": [],
+        "args_num": 1,
+        "id": 2578,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]使双方所处的异常状态回合数-{0}，对自身触发成功时{1}%令对手{2}，对对手触发成功时{3}%令对手{4}，均[color=#52a5f2]未触发[/color]则为[color=#52a5f2]对方[/color]附加{5}回合[color=#f35555]没夜之月[/color]",
+        "info": "使双方所处的异常状态回合数-{0}，对自身触发成功时{1}%令对手{2}，对对手触发成功时{3}%令对手{4}，均未触发则为对方附加{5}回合没夜之月",
+        "param": [
+          1,
+          2,
+          2,
+          1,
+          4,
+          4
+        ],
+        "args_num": 6,
+        "id": 2579,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]帝皇之钺担任[color=#52a5f2]主位[/color]时解除自身所处的异常状态，帝皇之御担任[color=#52a5f2]主位[/color]时消除对手的能力提升状态，任意一项触发成功对手{0}回合内无法[color=#52a5f2]主动切换[/color]精灵",
+        "info": "帝皇之钺担任主位时解除自身所处的异常状态，帝皇之御担任主位时消除对手的能力提升状态，任意一项触发成功对手{0}回合内无法主动切换精灵",
+        "param": [],
+        "args_num": 1,
+        "id": 2580,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]交换自身[color=#52a5f2]主位[/color]、[color=#52a5f2]副位[/color]的担任精灵，[color=#52a5f2]然后[/color]若帝皇之钺为[color=#52a5f2]主位[/color]精灵则下{0}次攻击取技能系别、圣灵战斗系中的[color=#52a5f2]最优系别[/color]计算克制系数，若帝皇之御为[color=#52a5f2]主位[/color]精灵则下{1}次攻击取技能系别、战斗自然系中的[color=#52a5f2]最优系别[/color]计算克制系数",
+        "info": "交换自身主位、副位的担任精灵，然后若帝皇之钺为主位精灵则下{0}次攻击取技能系别、圣灵战斗系中的最优系别计算克制系数，若帝皇之御为主位精灵则下{1}次攻击取技能系别、战斗自然系中的最优系别计算克制系数",
+        "param": [],
+        "args_num": 2,
+        "id": 2581,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]此技能的选择[color=#52a5f2]不受PP值限制[/color]",
+        "info": "此技能的选择不受PP值限制",
+        "param": [],
+        "args_num": 0,
+        "id": 2582,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]若帝皇之钺担任[color=#52a5f2]主位[/color]，则令对手1回合内属性[color=#52a5f2]技能无效[/color]，对手处于[color=#f35555]讨[/color]或[color=#f35555]连诛[/color]状态时回合数+1，若帝皇之御担任[color=#52a5f2]主位[/color]，则令对手[color=#57c975]疲惫[/color]1回合，对手处于[color=#f35555]讨[/color]或[color=#f35555]连诛[/color]状态时改为[color=#57c975]瘫痪[/color]",
+        "info": "若帝皇之钺担任主位，则令对手1回合内属性技能无效，对手处于讨或连诛状态时回合数+1，若帝皇之御担任主位，则令对手疲惫1回合，对手处于讨或连诛状态时改为瘫痪",
+        "param": [],
+        "args_num": 0,
+        "id": 2583,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手时，若[color=#52a5f2]己方[/color]没有瀚宇星皇，则将瀚宇星皇作为额外精灵加入到[color=#52a5f2]己方[/color]的出战背包中",
+        "info": "击败对手时，若己方没有瀚宇星皇，则将瀚宇星皇作为额外精灵加入到己方的出战背包中",
+        "param": [],
+        "args_num": 0,
+        "id": 2584,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]对手拥有[color=#f35555]讨[/color]时，{0}回合内免疫受到的攻击，对手拥有[color=#f35555]连诛[/color]时，自身免疫下{1}次受到的攻击、下{2}次受到的异常状态",
+        "info": "对手拥有讨时，{0}回合内免疫受到的攻击，对手拥有连诛时，自身免疫下{1}次受到的攻击、下{2}次受到的异常状态",
+        "param": [],
+        "args_num": 3,
+        "id": 2585,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]下{0}次攻击无视对手的伤害减少类效果的{1}%",
+        "info": "下{0}次攻击无视对手的伤害减少类效果的{1}%",
+        "param": [],
+        "args_num": 2,
+        "id": 2586,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]消除对手所处的异常状态，每消除{0}种对手{1}回合内无法行动",
+        "info": "消除对手所处的异常状态，每消除{0}种对手{1}回合内无法行动",
+        "param": [],
+        "args_num": 2,
+        "id": 2587,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]先出手时造成的攻击伤害提升{0}%，自身每[color=#52a5f2]出战[/color]{1}次，效果减少{2}%，最低{3}%",
+        "info": "先出手时造成的攻击伤害提升{0}%，自身每出战{1}次，效果减少{2}%，最低{3}%",
+        "param": [],
+        "args_num": 4,
+        "id": 2588,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]帝皇之钺担任[color=#52a5f2]主位[/color]时造成的伤害额外恢复至自身体力，帝皇之御担任[color=#52a5f2]主位[/color]时此技能无法造成伤害",
+        "info": "帝皇之钺担任主位时造成的伤害额外恢复至自身体力，帝皇之御担任主位时此技能无法造成伤害",
+        "param": [],
+        "args_num": 0,
+        "id": 2589,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit][color=#52a5f2]吸取[/color]对手最大体力的{0}%，每次使用增加{1}%，最高{2}%，叠加至最高时本次在场自身造成的攻击[color=#52a5f2]伤害额外提升[/color]此效果[color=#52a5f2]吸取[/color]上限百分比，自身每有1面[color=#f35555]弥沦之镜[/color]，[color=#52a5f2]吸取[/color]上限增加{3}%",
+        "info": "吸取对手最大体力的{0}%，每次使用增加{1}%，最高{2}%，叠加至最高时本次在场自身造成的攻击伤害额外提升此效果吸取上限百分比，自身每有1面弥沦之镜，吸取上限增加{3}%",
+        "param": [],
+        "args_num": 4,
+        "id": 2590,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]未[color=#57c975]击败[/color]对手则恢复自身所有技能{0}点PP值且1回合内造成的攻击伤害提升{1}%",
+        "info": "未击败对手则恢复自身所有技能{0}点PP值且1回合内造成的攻击伤害提升{1}%",
+        "param": [],
+        "args_num": 2,
+        "id": 2591,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]未造成攻击伤害时附加{0}{1}值的[color=#52a5f2]固定伤害[/color]",
+        "info": "未造成攻击伤害时附加{0}{1}值的固定伤害",
+        "param": [
+          4,
+          0,
+          0,
+          2,
+          1,
+          1
+        ],
+        "args_num": 2,
+        "id": 2592,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent][color=#52a5f2]技能无效[/color]时，消除对手[color=#52a5f2]回合类效果[/color]并令对手[color=#57c975]石化[/color]",
+        "info": "技能无效时，消除对手回合类效果并令对手石化",
+        "param": [],
+        "args_num": 0,
+        "id": 2593,
         "key": "",
         "type": 0
       }
@@ -23241,7 +23482,7 @@
       },
       {
         "id": 1,
-        "params": "麻痹|中毒|烧伤||寄生|冻伤|害怕|疲惫|睡眠|石化|混乱|衰弱|山神守护|易燃|狂暴|冰封|流血|XX|XX|瘫痪|失明|XX|焚烬|诅咒|烈焰诅咒|致命诅咒|虚弱诅咒|感染|束缚|失神|沉默|臣服|凝滞|星赐|星哲|超频|沸涌|砥砺|星赎|神游|空定|狂信|雷解|渐冻"
+        "params": "麻痹|中毒|烧伤||寄生|冻伤|害怕|疲惫|睡眠|石化|混乱|衰弱|山神守护|易燃|狂暴|冰封|流血|XX|XX|瘫痪|失明|XX|焚烬|诅咒|烈焰诅咒|致命诅咒|虚弱诅咒|感染|束缚|失神|沉默|臣服|凝滞|星赐|星哲|超频|沸涌|砥砺|星赎|神游|空定|狂信|雷解|渐冻|魇昧"
       },
       {
         "id": 2,

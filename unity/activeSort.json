@@ -297,21 +297,21 @@
     {
       "controller": "",
       "dest": "",
-      "finishtime": "2025/10/10 10:00:00",
+      "finishtime": "2026/10/9 10:00:00",
       "image": "nationalDayCard",
       "name": "钻石金卡",
       "statlog": "",
       "reddotid": [
-        111
+        411
       ],
       "daily_red": 0,
       "id": 19,
       "iosreviewshow": 0,
       "isdeadline": 1,
-      "isshow": 0,
+      "isshow": 1,
       "jumptarget": 113044,
       "priority": 14,
-      "truepos": 0,
+      "truepos": 1,
       "type": 2
     },
     {
@@ -523,6 +523,24 @@
       "isshow": 1,
       "jumptarget": 0,
       "priority": 23,
+      "truepos": 1,
+      "type": 2
+    },
+    {
+      "controller": "",
+      "dest": "1220",
+      "finishtime": "2026/10/9 10:00:00",
+      "image": "2026NationalDayPerks",
+      "name": "国庆狂欢",
+      "statlog": "",
+      "reddotid": [],
+      "daily_red": 0,
+      "id": 31,
+      "iosreviewshow": 0,
+      "isdeadline": 1,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 24,
       "truepos": 1,
       "type": 2
     }

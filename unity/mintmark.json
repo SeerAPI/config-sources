@@ -132477,6 +132477,194 @@
         "hide": 0
       },
       {
+        "des": "双生烈阳",
+        "effect_des": "攻击6/66,防御2/26,特防2/26,速度4/42,体力10/100",
+        "arg": [],
+        "base_attri_value": [
+          6,
+          2,
+          0,
+          2,
+          4,
+          10
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          66,
+          26,
+          0,
+          26,
+          42,
+          100
+        ],
+        "monster_id": [],
+        "move_id": [],
+        "grade": 5,
+        "id": 42729,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 61,
+        "quality": 5,
+        "rare": 5,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
+        "des": "万霆神律·雷伊专属全能刻印",
+        "effect_des": "攻击+6/60,防御+3/32,特防+3/32,速度+4/41,体力+8/85",
+        "arg": [],
+        "base_attri_value": [
+          6,
+          3,
+          0,
+          3,
+          4,
+          8
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          60,
+          32,
+          0,
+          32,
+          41,
+          85
+        ],
+        "monster_id": [
+          4946
+        ],
+        "move_id": [],
+        "grade": 5,
+        "id": 42730,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 0,
+        "quality": 5,
+        "rare": 5,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
+        "des": "不灭战魂·盖亚专属全能刻印",
+        "effect_des": "攻击+6/65,防御+3/30,特防+3/30,速度+3/30,体力+9/95",
+        "arg": [],
+        "base_attri_value": [
+          6,
+          3,
+          0,
+          3,
+          3,
+          9
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          65,
+          30,
+          0,
+          30,
+          30,
+          95
+        ],
+        "monster_id": [
+          4947
+        ],
+        "move_id": [],
+        "grade": 5,
+        "id": 42731,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 0,
+        "quality": 5,
+        "rare": 5,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
+        "des": "镇世神岳·玄武专属全能刻印",
+        "effect_des": "攻击+4/40,防御+4/45,特防+4/45,速度+2/20,体力+10/100",
+        "arg": [],
+        "base_attri_value": [
+          4,
+          4,
+          0,
+          4,
+          2,
+          10
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          40,
+          45,
+          0,
+          45,
+          20,
+          100
+        ],
+        "monster_id": [
+          4995
+        ],
+        "move_id": [],
+        "grade": 5,
+        "id": 42732,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 0,
+        "quality": 5,
+        "rare": 5,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
+        "des": "帝皇之戎专属全能刻印",
+        "effect_des": "攻击5/55,防御2/25,特防2/25,速度4/40,体力9/95",
+        "arg": [],
+        "base_attri_value": [
+          5,
+          2,
+          0,
+          2,
+          4,
+          9
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          55,
+          25,
+          0,
+          25,
+          40,
+          95
+        ],
+        "monster_id": [
+          4950
+        ],
+        "move_id": [],
+        "grade": 5,
+        "id": 42733,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 0,
+        "quality": 5,
+        "rare": 1,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
         "des": "十年·筑梦",
         "effect_des": "体力8/87,攻击4/48,防御2/28,特防2/28,速度3/39",
         "arg": [],

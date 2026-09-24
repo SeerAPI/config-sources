@@ -2,6 +2,17 @@
   "root": {
     "items": [
       {
+        "id": 2600071,
+        "max": 99,
+        "name": "梦境礼盒",
+        "rarity": 5,
+        "sort": 35,
+        "use_max": 1,
+        "cat_id": 26,
+        "purpose": 1,
+        "wd": 1
+      },
+      {
         "id": 2600070,
         "max": 99,
         "name": "奇见礼遇",

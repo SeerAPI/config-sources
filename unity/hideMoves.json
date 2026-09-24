@@ -13400,6 +13400,54 @@
         "pet_id": 4944
       },
       {
+        "move_id": 38535,
+        "move_name1": "地岩",
+        "move_name2": "暗能击",
+        "pet_id": 4945
+      },
+      {
+        "move_id": 38538,
+        "move_name1": "雷",
+        "move_name2": "神天明闪",
+        "pet_id": 4946
+      },
+      {
+        "move_id": 38541,
+        "move_name1": "战",
+        "move_name2": "神破天闪",
+        "pet_id": 4947
+      },
+      {
+        "move_id": 38544,
+        "move_name1": "灵火",
+        "move_name2": "焚诀",
+        "pet_id": 4948
+      },
+      {
+        "move_id": 38547,
+        "move_name1": "至高",
+        "move_name2": "的喝彩",
+        "pet_id": 4949
+      },
+      {
+        "move_id": 38550,
+        "move_name1": "帕诺",
+        "move_name2": "七星阵列",
+        "pet_id": 4995
+      },
+      {
+        "move_id": 38553,
+        "move_name1": "王",
+        "move_name2": "冥津哑噤",
+        "pet_id": 3432
+      },
+      {
+        "move_id": 38568,
+        "move_name1": "群辰",
+        "move_name2": "万煌戎行",
+        "pet_id": 4950
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

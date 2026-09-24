@@ -910,6 +910,46 @@
         "monster": 4125,
         "moves": 38249,
         "movetype": 1
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "末法迪知",
+        "id": 10093,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3432,
+        "moves": 29465,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "荒墟辟易",
+        "id": 10094,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3432,
+        "moves": 38551,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "王·宿世归泯",
+        "id": 10095,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3432,
+        "moves": 38552,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精灵觉醒",
+        "movesname": "王·天衍星霜",
+        "id": 10096,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3432,
+        "moves": 38553,
+        "movetype": 1
       }
     ],
     "sp_moves": [

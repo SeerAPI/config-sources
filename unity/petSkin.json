@@ -11733,7 +11733,7 @@
           }
         ],
         "id": 653,
-        "jump_target": 0,
+        "jump_target": 114147,
         "mon_id": 4510,
         "type": 18
       },
@@ -11751,7 +11751,7 @@
           }
         ],
         "id": 654,
-        "jump_target": 0,
+        "jump_target": 114147,
         "mon_id": 4500,
         "type": 18
       },
@@ -11769,7 +11769,7 @@
           }
         ],
         "id": 655,
-        "jump_target": 0,
+        "jump_target": 114147,
         "mon_id": 4515,
         "type": 18
       },
@@ -12993,7 +12993,7 @@
           }
         ],
         "id": 723,
-        "jump_target": 0,
+        "jump_target": 114145,
         "mon_id": 4762,
         "type": 18
       },
@@ -13011,7 +13011,7 @@
           }
         ],
         "id": 724,
-        "jump_target": 0,
+        "jump_target": 114146,
         "mon_id": 4761,
         "type": 3
       },
@@ -13047,7 +13047,7 @@
           }
         ],
         "id": 726,
-        "jump_target": 0,
+        "jump_target": 114101,
         "mon_id": 4765,
         "type": 4
       },
@@ -13065,7 +13065,7 @@
           }
         ],
         "id": 727,
-        "jump_target": 0,
+        "jump_target": 114102,
         "mon_id": 4766,
         "type": 4
       },
@@ -13173,7 +13173,7 @@
           }
         ],
         "id": 733,
-        "jump_target": 0,
+        "jump_target": 114139,
         "mon_id": 4761,
         "type": 3
       },
@@ -15608,8 +15608,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "无尽夏的夜宴·阿克希亚",
         "skin_kind": [
           {
@@ -15621,7 +15621,7 @@
           }
         ],
         "id": 869,
-        "jump_target": 114131,
+        "jump_target": 0,
         "mon_id": 4942,
         "type": 18
       },
@@ -15642,6 +15642,114 @@
         "jump_target": 2,
         "mon_id": 4942,
         "type": 0
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "直至烈阳升起·帝皇之戎",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 871,
+        "jump_target": 114141,
+        "mon_id": 4950,
+        "type": 20
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "默颂传说·洛克珊娜",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 872,
+        "jump_target": 114135,
+        "mon_id": 3430,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "生骸圣像·咤克斯",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 873,
+        "jump_target": 114143,
+        "mon_id": 4762,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "瑶光桂影·琉梦",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 874,
+        "jump_target": 114144,
+        "mon_id": 4761,
+        "type": 6
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "宿命的对决·雷伊",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 875,
+        "jump_target": 114137,
+        "mon_id": 4946,
+        "type": 4
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "宿命的对决·盖亚",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 876,
+        "jump_target": 114137,
+        "mon_id": 4947,
+        "type": 4
       }
     ]
   }
