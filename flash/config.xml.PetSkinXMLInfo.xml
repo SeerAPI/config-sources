@@ -2096,15 +2096,15 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="653" MonID="4510" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="海盐苏打·卫岳" >
+	<Skin ID="653" MonID="4510" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="海盐苏打·卫岳" Jumptarget="114147">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="654" MonID="4500" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="馥郁玛奇朵·武心婵" >
+	<Skin ID="654" MonID="4500" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="馥郁玛奇朵·武心婵" Jumptarget="114147">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="655" MonID="4515" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="红茶冷萃·霍光" >
+	<Skin ID="655" MonID="4515" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="红茶冷萃·霍光" Jumptarget="114147">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
@@ -2377,11 +2377,11 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="723" MonID="4762" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="18" Name="圣堂之拥·咤克斯"  >
+	<Skin ID="723" MonID="4762" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="18" Name="圣堂之拥·咤克斯"  Jumptarget="114145">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="724" MonID="4761" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="3" Name="绝魇魔女·琉梦"  >
+	<Skin ID="724" MonID="4761" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="3" Name="绝魇魔女·琉梦"  Jumptarget="114146">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
@@ -2389,11 +2389,11 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="726" MonID="4765" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="4" Name="宿命的对决·雷伊"  >
+	<Skin ID="726" MonID="4765" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="4" Name="宿命的对决·雷伊"  Jumptarget="114101">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="727" MonID="4766" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="4" Name="宿命的对决·盖亚"  >
+	<Skin ID="727" MonID="4766" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="4" Name="宿命的对决·盖亚"  Jumptarget="114102">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
@@ -2413,11 +2413,11 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="732" MonID="4717" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="3" Name="黑日之灾·尤纳斯"   Jumptarget="510004">
+	<Skin ID="732" MonID="4717" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="3" Name="黑日之灾·尤纳斯"  Jumptarget="510004">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="733" MonID="4761" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="3" Name="最后时光·琉梦"  >
+	<Skin ID="733" MonID="4761" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="3" Name="最后时光·琉梦"  Jumptarget="114139">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
@@ -2960,13 +2960,38 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
-	<Skin ID="869" MonID="4942" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="无尽夏的夜宴·阿克希亚" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114131">
+	<Skin ID="869" MonID="4942" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="无尽夏的夜宴·阿克希亚" >
 	<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 	
 	<Skin ID="870" MonID="4942" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""  Name="阿克希亚" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
+
+	<Skin ID="871" MonID="4950" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="20" Name="直至烈阳升起·帝皇之戎" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114141">
+		<SkinKind ID="1" Type="2" LifeTime="0" />
+	</Skin>
+
+	<Skin ID="872" MonID="3430" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="默颂传说·洛克珊娜" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114135">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+	
+	<Skin ID="873" MonID="4762" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="生骸圣像·咤克斯" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114143">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+	
+	<Skin ID="874" MonID="4761" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="6" Name="瑶光桂影·琉梦" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114144">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
+	<Skin ID="875" MonID="4946" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="4" Name="宿命的对决·雷伊" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114137">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
+	<Skin ID="876" MonID="4947" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="4" Name="宿命的对决·盖亚" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114137">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
 
 	<!-- <Skin ID="000" MonID="000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="复制模版"> -->
 	<!-- <SkinKind ID="1" Type="2" LifeTime="0"/> -->

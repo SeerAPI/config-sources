@@ -280,6 +280,11 @@
 	<ShowMoves id="10091" monster="4125" monstername="洪荒·列奥尼达" moves="38248" movesname="王·宿世归泯" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="2"/>
 	<ShowMoves id="10092" monster="4125" monstername="洪荒·列奥尼达" moves="38249" movesname="王·天衍星霜" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="1"/>
 
+	<ShowMoves id="10093" monster="3432" monstername="柯尔霍德" moves="29465" movesname="末法迪知" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="2"/>
+	<ShowMoves id="10094" monster="3432" monstername="柯尔霍德" moves="38551" movesname="荒墟辟易" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="2"/>
+	<ShowMoves id="10095" monster="3432" monstername="柯尔霍德" moves="38552" movesname="王·宿世归泯" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="2"/>
+	<ShowMoves id="10096" monster="3432" monstername="柯尔霍德" moves="38553" movesname="王·天衍星霜" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="1"/>
+
 
 
 

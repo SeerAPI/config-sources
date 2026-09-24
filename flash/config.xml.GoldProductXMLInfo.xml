@@ -23858,8 +23858,8 @@
 	<item productID="262474" icon="" itemID="1728112" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="购买狂电结晶"></item>
 	<item productID="262475" icon="" itemID="1728113" price="598" type="0" vip="1" productType="-1" malldiscount="0" name="一键觉醒格劳恩斯"></item>
 	<item productID="262476" icon="" itemID="1728114" price="10" type="0" vip="1" productType="-1" malldiscount="0" name="购买【欢乐接宝藏】游戏次数"></item>
-	<item productID="262477" icon="" itemID="1728115" price="20" type="0" vip="1" productType="-1" malldiscount="0" name="购买1次虹辉祈愿"></item>
-	<item productID="262478" icon="" itemID="1728116" price="200" type="0" vip="1" productType="-1" malldiscount="0" name="购买10次虹辉祈愿"></item>
+	<item productID="262477" icon="" itemID="1728115" price="20" type="0" vip="1" productType="-1" malldiscount="0" name="购买1次祈愿"></item>
+	<item productID="262478" icon="" itemID="1728116" price="200" type="0" vip="1" productType="-1" malldiscount="0" name="购买10次祈愿"></item>
 	<item productID="262479" icon="" itemID="1728132" price="498" type="0" vip="1" productType="-1" malldiscount="0" name="购买刻印：黄金残影·理性"></item>
 	<item productID="262480" icon="" itemID="1728133" price="498" type="0" vip="1" productType="-1" malldiscount="0" name="购买刻印：黄金残影·感性"></item>
 	<item productID="262481" icon="" itemID="1728134" price="498" type="0" vip="1" productType="-1" malldiscount="0" name="购买刻印：黄金残影·反抗"></item>
@@ -24130,24 +24130,42 @@
 	<item productID="262746" icon="" itemID="1728464" price="2" type="0" vip="1" productType="-1" malldiscount="0" name="购买获得瑞特拉尼因子"></item>
 	<item productID="262747" icon="" itemID="1728465" price="10" type="0" vip="1" productType="-1" malldiscount="0" name="购买【梦醒时分】游戏次数"></item>
 	<item productID="262748" icon="" itemID="1728466" price="88" type="0" vip="1" productType="-1" malldiscount="0" name="全民助力克律莎"></item>
-	<item productID="262749" icon="" itemID="1728467" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关1"></item>
-	<item productID="262750" icon="" itemID="1728468" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关2"></item>
-	<item productID="262751" icon="" itemID="1728469" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关3"></item>
-	<item productID="262752" icon="" itemID="1728470" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关4"></item>
-	<item productID="262753" icon="" itemID="1728471" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关5"></item>
-	<item productID="262754" icon="" itemID="1728472" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关6"></item>
-	<item productID="262755" icon="" itemID="1728474" price="2" type="0" vip="1" productType="-1" malldiscount="0" name="购买道具"></item>
-	<item productID="262756" icon="" itemID="1728475" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="购买关卡挑战次数"></item>
-	<item productID="262757" icon="" itemID="1728476" price="198" type="0" vip="1" productType="-1" malldiscount="0" name="快速通过7"></item>
-	<item productID="262758" icon="" itemID="1728477" price="198" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关8"></item>
-	<item productID="262759" icon="" itemID="1728478" price="198" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关9"></item>
-	<item productID="262760" icon="" itemID="1728479" price="198" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关10"></item>
-	<item productID="262761" icon="" itemID="1728480" price="198" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关11"></item>
-	<item productID="262762" icon="" itemID="1728481" price="198" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关12"></item>
-	<item productID="262763" icon="" itemID="1728482" price="998" type="0" vip="1" productType="-1" malldiscount="0" name="一键获得1"></item>
-	<item productID="262764" icon="" itemID="1728483" price="498" type="0" vip="1" productType="-1" malldiscount="0" name="一键获得2"></item>
-	<item productID="262765" icon="" itemID="1728484" price="498" type="0" vip="1" productType="-1" malldiscount="0" name="一键获得3"></item>
-	<item productID="262766" icon="" itemID="1728485" price="448" type="0" vip="1" productType="-1" malldiscount="0" name="优惠获得4"></item>
-	<item productID="262767" icon="" itemID="1728486" price="398" type="0" vip="1" productType="-1" malldiscount="0" name="至尊优惠5"></item>
-	<item productID="262768" icon="" itemID="1728487" price="10" type="0" vip="1" productType="-1" malldiscount="0" name="购买游戏次数1"></item>
+	<item productID="262749" icon="" itemID="1728467" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关蘑菇怪"></item>
+	<item productID="262750" icon="" itemID="1728468" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关钢牙鲨"></item>
+	<item productID="262751" icon="" itemID="1728469" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关纳多雷"></item>
+	<item productID="262752" icon="" itemID="1728470" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关雷纳多"></item>
+	<item productID="262753" icon="" itemID="1728471" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关提亚斯"></item>
+	<item productID="262754" icon="" itemID="1728472" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关里奥斯"></item>
+	<item productID="262755" icon="" itemID="1728474" price="2" type="0" vip="1" productType="-1" malldiscount="0" name="购买地脉源晶"></item>
+	<item productID="262756" icon="" itemID="1728475" price="30" type="0" vip="1" productType="-1" malldiscount="0" name="购买关卡开启次数"></item>
+	<item productID="262757" icon="" itemID="1728476" price="198" type="0" vip="1" productType="-1" malldiscount="0" name="快速通过虚境·玄甲"></item>
+	<item productID="262758" icon="" itemID="1728477" price="198" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关玄甲窥真"></item>
+	<item productID="262759" icon="" itemID="1728478" price="198" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关虚境·岁轮"></item>
+	<item productID="262760" icon="" itemID="1728479" price="198" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关玄冥岁轮"></item>
+	<item productID="262761" icon="" itemID="1728480" price="198" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关虚境·七宿"></item>
+	<item productID="262762" icon="" itemID="1728481" price="198" type="0" vip="1" productType="-1" malldiscount="0" name="快速通关七宿归垣"></item>
+	<item productID="262763" icon="" itemID="1728482" price="998" type="0" vip="1" productType="-1" malldiscount="0" name="一键获得湮灭之主·咤克斯"></item>
+	<item productID="262764" icon="" itemID="1728483" price="498" type="0" vip="1" productType="-1" malldiscount="0" name="一键获得生骸圣像·咤克斯"></item>
+	<item productID="262765" icon="" itemID="1728484" price="498" type="0" vip="1" productType="-1" malldiscount="0" name="一键获得瑶光桂影·琉梦"></item>
+	<item productID="262766" icon="" itemID="1728485" price="448" type="0" vip="1" productType="-1" malldiscount="0" name="优惠获得瑶光桂影·琉梦"></item>
+	<item productID="262767" icon="" itemID="1728486" price="398" type="0" vip="1" productType="-1" malldiscount="0" name="至尊优惠获得瑶光桂影·琉梦"></item>
+	<item productID="262768" icon="" itemID="1728487" price="10" type="0" vip="1" productType="-1" malldiscount="0" name="购买【节庆礼花】游戏次数"></item>
+	<item productID="262769" icon="" itemID="1728492" price="998" type="0" vip="1" productType="-1" malldiscount="0" name="至尊获得帝皇之戎"></item>
+	<item productID="262770" icon="" itemID="1728494" price="2" type="0" vip="1" productType="-1" malldiscount="0" name="购买月华宝珠"></item>
+	<item productID="262771" icon="" itemID="1728495" price="398" type="0" vip="1" productType="-1" malldiscount="0" name="购买绝魇魔女·琉梦"></item>
+	<item productID="262772" icon="" itemID="1728496" price="598" type="0" vip="1" productType="-1" malldiscount="0" name="购买圣堂之拥·咤克斯"></item>
+	<item productID="262773" icon="" itemID="1728497" price="498" type="0" vip="1" productType="-1" malldiscount="0" name="在优惠时间购买圣堂之拥·咤克斯"></item>
+	<item productID="262774" icon="" itemID="1728498" price="498" type="0" vip="1" productType="-1" malldiscount="0" name="购买海盐苏打·卫岳"></item>
+	<item productID="262775" icon="" itemID="1728499" price="498" type="0" vip="1" productType="-1" malldiscount="0" name="购买馥郁玛奇朵·武心婵"></item>
+	<item productID="262776" icon="" itemID="1728500" price="498" type="0" vip="1" productType="-1" malldiscount="0" name="购买红茶冷萃·霍光"></item>
+	<item productID="262777" icon="" itemID="1728501" price="1288" type="0" vip="1" productType="-1" malldiscount="0" name="组合购买星缘咖啡厅系列皮肤"></item>
+	<item productID="262778" icon="" itemID="1728502" price="598" type="0" vip="1" productType="-1" malldiscount="0" name="至尊获得精灵【亚巴兰托】"></item>
+	<item productID="262779" icon="" itemID="1728503" price="30" type="0" vip="1" productType="-1" malldiscount="0" name="购买每日挑战次数（亚巴兰托）"></item>
+	<item productID="262780" icon="" itemID="1728504" price="20" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡简单关卡（亚巴兰托）"></item>
+	<item productID="262781" icon="" itemID="1728505" price="30" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡困难关卡（亚巴兰托）"></item>
+	<item productID="262782" icon="" itemID="1728506" price="40" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡地狱关卡（亚巴兰托）"></item>
+	<item productID="262783" icon="" itemID="1728507" price="2" type="0" vip="1" productType="-1" malldiscount="0" name="购买获得亚巴兰托因子"></item>
+	<item productID="262784" icon="" itemID="1728512" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="购买暗冰结晶"></item>
+	<item productID="262785" icon="" itemID="1728513" price="598" type="0" vip="1" productType="-1" malldiscount="0" name="一键觉醒柯尔霍德"></item>
+	<item productID="262786" icon="" itemID="1728514" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="购买关卡失败次数"></item>
 </root>

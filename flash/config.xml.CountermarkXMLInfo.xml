@@ -3825,6 +3825,21 @@
 	<MintMark ID="42726" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 2 0 2 3 9" MaxAttriValue="40 25 0 25 35 90" MonsterID="4931" Level="100" Max="99" Des="炎龙铠甲专属全能刻印" EffectDes="攻击4/40,防御2/25,特防2/25,速度3/35,体力9/90"/>
 	<MintMark ID="42727" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 4 5 4 4 0" MaxAttriValue="55 42 55 42 41 0" MonsterID="4933" Level="100" Max="99" Des="修罗铠甲专属全能刻印" EffectDes="攻击5/55,防御4/42,特攻5/55,特防4/42,速度4/41"/>
 	<MintMark ID="42728" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 3 0 3 3 8" MaxAttriValue="44 30 0 30 35 81" MonsterID="4944" Level="100" Max="99" Des="克律莎专属全能刻印" EffectDes="攻击4/44,防御3/30,特防3/30,速度3/35,体力8/81"/>
+    <MintMark ID="42729" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="6 2 0 2 4 10" MaxAttriValue="66 26 0 26 42 100" MintmarkClass="61" Level="100" Max="99" Des="双生烈阳" EffectDes="攻击6/66,防御2/26,特防2/26,速度4/42,体力10/100"/>
+	<MintMark ID="42730" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="6 3 0 3 4 8" MaxAttriValue="60 32 0 32 41 85" MonsterID="4946" Level="100" Max="99" Des="万霆神律·雷伊专属全能刻印" EffectDes="攻击+6/60,防御+3/32,特防+3/32,速度+4/41,体力+8/85"/>
+	<MintMark ID="42731" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="6 3 0 3 3 9" MaxAttriValue="65 30 0 30 30 95" MonsterID="4947" Level="100" Max="99" Des="不灭战魂·盖亚专属全能刻印" EffectDes="攻击+6/65,防御+3/30,特防+3/30,速度+3/30,体力+9/95"/>
+    <MintMark ID="42732" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 4 0 4 2 10" MaxAttriValue="40 45 0 45 20 100" MonsterID="4995" Level="100" Max="99" Des="镇世神岳·玄武专属全能刻印" EffectDes="攻击+4/40,防御+4/45,特防+4/45,速度+2/20,体力+10/100"/>
+    <MintMark ID="42733" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 2 0 2 4 9" MaxAttriValue="55 25 0 25 40 95" MonsterID="4950" Level="100" Max="99" Des="帝皇之戎专属全能刻印" EffectDes="攻击5/55,防御2/25,特防2/25,速度4/40,体力9/95"/>
+	
+
+
+
+
+
+
+
+
+
 
 
 

@@ -65107,6 +65107,7 @@
 		  <Move ID="30935" LearningLv="53"/>
 		  <Move ID="25576" LearningLv="57" Rec="1"/>
 		  <Move ID="30936" LearningLv="61" Rec="1"/>
+
 </LearnableMoves>
 <ExtraMoves>
 		  <Move ID="30937" LearningLv="76"/>
@@ -65798,10 +65799,16 @@
 	      <Move ID="31089" LearningLv="53"/>
 	      <Move ID="25653" LearningLv="57" Rec="1"/>
 	      <Move ID="31090" LearningLv="61" Rec="1"/>
+		  <AdvMove ID="29465" Tag="3"/>
+		  <AdvMove ID="38551" Tag="1"/>
+		  <AdvMove ID="38552" Tag="4"/>
 </LearnableMoves>
 <ExtraMoves>
 		  <Move ID="31091" LearningLv="76"/>
 </ExtraMoves>
+<SpExtraMoves>
+		  <Move ID="38553" LearningLv="76"/>
+</SpExtraMoves>
 </Monster>
 
 <Monster ID="3433" DefName="圣光之子" Type="16" GrowthType="4" HP="133" Atk="70" Def="92" SpAtk="125" SpDef="91" Spd="124" YieldingExp="130" CatchRate="0" YieldingEV="0 0 0 1 0 1" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="2103" FormParam="0" CharacterAttrParam="4" GradeParam="2" AddSeParam="1" Resist="0">
@@ -103308,9 +103315,191 @@
 		</ExtraMoves>
 	</Monster>
 
+	<Monster ID="4945" DefName="米蒂欧" Type="42" GrowthType="4" HP="169" Atk="129" Def="123" SpAtk="70" SpDef="100" Spd="129" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3606" FormParam="0" CharacterAttrParam="0" GradeParam="3" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10006" LearningLv="1"/>
+			<Move ID="20496" LearningLv="5"/>
+			<Move ID="10511" LearningLv="9"/>
+			<Move ID="11216" LearningLv="13"/>
+			<Move ID="20847" LearningLv="17"/>
+			<Move ID="38533" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="11401" LearningLv="25"/>
+			<Move ID="20632" LearningLv="29"/>
+			<Move ID="10623" LearningLv="33"/>
+			<Move ID="35062" LearningLv="37"/>
+			<Move ID="27574" LearningLv="41"/>
+			<Move ID="35063" LearningLv="45"/>
+			<Move ID="29453" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="35064" LearningLv="53"/>
+			<Move ID="29454" LearningLv="57" Rec="1" Tag="3"/>
+			<Move ID="38534" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38535" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+
+	<Monster ID="4946" DefName="万霆神律·雷伊" Type="80" GrowthType="4" HP="176" Atk="154" Def="120" SpAtk="80" SpDef="120" Spd="140" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3607" FormParam="0" CharacterAttrParam="0" GradeParam="5" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10006" LearningLv="1"/>
+			<Move ID="20006" LearningLv="5"/>
+			<Move ID="12898" LearningLv="9"/>
+			<Move ID="10171" LearningLv="13"/>
+			<Move ID="20004" LearningLv="17"/>
+			<Move ID="30944" LearningLv="21"/>
+			<Move ID="12904" LearningLv="25"/>
+			<Move ID="20085" LearningLv="29"/>
+			<Move ID="10010" LearningLv="33"/>
+			<Move ID="30945" LearningLv="37"/>
+			<Move ID="25580" LearningLv="41"/>
+			<Move ID="30946" LearningLv="45"/>
+			<Move ID="25581" LearningLv="49"/>
+			<Move ID="30947" LearningLv="53"/>
+			<Move ID="25582" LearningLv="57"/>
+			<Move ID="30948" LearningLv="61"/>
+			<Move ID="38536" LearningLv="71" Rec="1" Tag="1"/>
+			<Move ID="29455" LearningLv="72" Rec="1" Tag="2"/>
+			<Move ID="29456" LearningLv="73" Rec="1" Tag="3"/>
+			<Move ID="38537" LearningLv="74" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38538" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+	
+	<Monster ID="4947" DefName="不灭战魂·盖亚" Type="78" GrowthType="4" HP="178" Atk="160" Def="121" SpAtk="80" SpDef="121" Spd="130" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3608" FormParam="0" CharacterAttrParam="0" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10127" LearningLv="1"/>
+			<Move ID="20117" LearningLv="5"/>
+			<Move ID="10716" LearningLv="9"/>
+			<Move ID="20307" LearningLv="13"/>
+			<Move ID="10710" LearningLv="17"/>
+			<Move ID="31346" LearningLv="21"/>
+			<Move ID="10717" LearningLv="25"/>
+			<Move ID="10712" LearningLv="29"/>
+			<Move ID="20309" LearningLv="33"/>
+			<Move ID="31347" LearningLv="37"/>
+			<Move ID="25782" LearningLv="41"/>
+			<Move ID="31348" LearningLv="45"/>
+			<Move ID="25783" LearningLv="49"/>
+			<Move ID="31349" LearningLv="53"/>
+			<Move ID="25784" LearningLv="57"/>
+			<Move ID="31350" LearningLv="61"/>
+			<Move ID="38539" LearningLv="71" Rec="1" Tag="1"/>
+			<Move ID="29457" LearningLv="72" Rec="1" Tag="2"/>
+			<Move ID="29458" LearningLv="73" Rec="1" Tag="3"/>
+			<Move ID="38540" LearningLv="74" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38541" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+	
+	<Monster ID="4948" DefName="亚巴兰托" Type="47" GrowthType="4" HP="167" Atk="133" Def="120" SpAtk="70" SpDef="114" Spd="131" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3609" FormParam="0" CharacterAttrParam="0" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10234" LearningLv="1"/>
+			<Move ID="20530" LearningLv="5"/>
+			<Move ID="10251" LearningLv="9"/>
+			<Move ID="10717" LearningLv="13"/>
+			<Move ID="20049" LearningLv="17"/>
+			<Move ID="38542" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="12764" LearningLv="25"/>
+			<Move ID="21004" LearningLv="29"/>
+			<Move ID="11276" LearningLv="33"/>
+			<Move ID="13905" LearningLv="37"/>
+			<Move ID="22074" LearningLv="41"/>
+			<Move ID="13903" LearningLv="45"/>
+			<Move ID="29459" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="13906" LearningLv="53"/>
+			<Move ID="29460" LearningLv="57" Rec="1" Tag="3"/>
+			<Move ID="38543" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38544" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+	
+	<Monster ID="4949" DefName="焰朵朵" Type="68" GrowthType="4" HP="152" Atk="70" Def="107" SpAtk="133" SpDef="107" Spd="131" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3610" FormParam="0" CharacterAttrParam="4" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10006" LearningLv="1"/>
+			<Move ID="20267" LearningLv="5"/>
+			<Move ID="11409" LearningLv="9"/>
+			<Move ID="10629" LearningLv="13"/>
+			<Move ID="20088" LearningLv="17"/>
+			<Move ID="38545" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="11125" LearningLv="25"/>
+			<Move ID="22949" LearningLv="29"/>
+			<Move ID="10506" LearningLv="33"/>
+			<Move ID="30987" LearningLv="37"/>
+			<Move ID="25601" LearningLv="41"/>
+			<Move ID="30988" LearningLv="45"/>
+			<Move ID="29461" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="30989" LearningLv="53"/>
+			<Move ID="29462" LearningLv="57" Rec="1" Tag="3"/>
+			<Move ID="38546" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38547" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+	
+	<Monster ID="4950" DefName="帝皇之戎" Type="61" GrowthType="4" HP="180" Atk="70" Def="120" SpAtk="70" SpDef="120" Spd="140" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="0" PetClass="3611" FormParam="0" CharacterAttrParam="4" GradeParam="5" AddSeParam="1" Resist="1" Transform="290004950">
+		<LearnableMoves>
+			<Move ID="38554" LearningLv="1"/>
+			<Move ID="38555" LearningLv="5"/>
+			<Move ID="38556" LearningLv="9"/>
+			<Move ID="38557" LearningLv="13"/>
+			<Move ID="38558" LearningLv="17"/>
+			<Move ID="38559" LearningLv="21"/>
+			<Move ID="38560" LearningLv="25"/>
+			<Move ID="38561" LearningLv="29"/>
+			<Move ID="38562" LearningLv="33"/>
+			<Move ID="38563" LearningLv="37"/>
+			<Move ID="38564" LearningLv="41"/>
+			<Move ID="38565" LearningLv="45"/>
+			<Move ID="38569" LearningLv="49"/>
+			<Move ID="38566" LearningLv="53" Rec="1" Tag="1"/>
+			<Move ID="29466" LearningLv="57" Rec="1" Tag="2"/>
+			<Move ID="29467" LearningLv="61" Rec="1" Tag="3"/>
+			<Move ID="38567" LearningLv="65" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38568" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
 	
 	
 	
+	
+	
+	<Monster ID="4995" DefName="镇世神岳·玄武" Type="37" GrowthType="4" HP="125" Atk="100" Def="120" SpAtk="95" SpDef="120" Spd="90" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3656" FormParam="0" CharacterAttrParam="0" GradeParam="5" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="11141" LearningLv="1"/>
+			<Move ID="20276" LearningLv="5"/>
+			<Move ID="10705" LearningLv="9"/>
+			<Move ID="10703" LearningLv="13"/>
+			<Move ID="20565" LearningLv="17"/>
+			<Move ID="11142" LearningLv="21"/>
+			<Move ID="11147" LearningLv="25"/>
+			<Move ID="20566" LearningLv="29"/>
+			<Move ID="11143" LearningLv="33"/>
+			<Move ID="10667" LearningLv="37"/>
+			<Move ID="20567" LearningLv="41"/>
+			<Move ID="11144" LearningLv="45"/>
+			<Move ID="20568" LearningLv="49"/>
+			<Move ID="11145" LearningLv="53"/>
+			<Move ID="11148" LearningLv="57"/>
+			<Move ID="20569" LearningLv="61"/>
+			<Move ID="11146" LearningLv="71"/>
+			<Move ID="38548" LearningLv="72"/>
+			<Move ID="29463" LearningLv="73"/>
+			<Move ID="29464" LearningLv="74"/>
+			<Move ID="38549" LearningLv="75"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38550" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
 	
 
 <Monster ID="5000" DefName="圣灵谱尼" Type="223" GrowthType="5" HP="180" Atk="110" Def="120" SpAtk="150" SpDef="120" Spd="140" YieldingExp="130" CatchRate="0" YieldingEV="0 0 0 1 0 1" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="0" PetClass="3780" FormParam="0" CharacterAttrParam="4" GradeParam="5" AddSeParam="1" Resist="1">
@@ -116684,6 +116873,12 @@
   <Monster ID="1400868" DefName="龙墟寻迹·帕妮丝" RealId=""/>
   <Monster ID="1400869" DefName="无尽夏的夜宴·阿克希亚" RealId=""/>
   <Monster ID="1400870" DefName="阿克希亚" RealId="50"/>
+  <Monster ID="1400871" DefName="直至烈阳升起·帝皇之戎" RealId="" Transform="2900871"/>
+  <Monster ID="1400872" DefName="默颂传说·洛克珊娜" RealId=""/>
+  <Monster ID="1400873" DefName="生骸圣像·咤克斯" RealId=""/>
+  <Monster ID="1400874" DefName="瑶光桂影·琉梦" RealId=""/>
+  <Monster ID="1400875" DefName="宿命的对决·雷伊" />
+  <Monster ID="1400876" DefName="宿命的对决·盖亚" />
 
 
 </Monsters>

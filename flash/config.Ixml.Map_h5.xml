@@ -719,8 +719,8 @@
 	<item id="2174" name="众星博物馆" Ename="Destination Reached" pic="2174" sound="APL_story3" GroupID="22005" GroupName="阿派罗尼亚" PlayerXYZ="240,880" MapRatio="1" />
 	<item id="2175" name="传送舱" notes="17周年庆" Ename="Destination Reached" pic="2175" sound="BGM_151A" GroupID="10103" PlayerXYZ="467,404" NPCID="28" NPCScale="1" NPCXYZ="145,404" MapRatio="1" />
 	<item id="2176" name="凯旋殿堂" notes="剧情场景" Ename="Destination Reached" pic="2176" sound="1" PlayerXYZ="780,431" MapRatio="1" />
-	<item id="2177" name="0924场景占位" notes="活动场景" Ename="Destination Reached" pic="2177" sound="BGM_438" PlayerXYZ="470,390" NPCID="307,308,309,310,311,312" NPCScale="0.45" NPCXYZ="100,400_200,400_300,400_400,400_500,400_600,400" MapRatio="1" />
-	<item id="2178" name="0924场景占位" notes="真实场景" Ename="Destination Reached" pic="2178" sound="BGM_438" PlayerXYZ="470,390" WildBossNum="3" WildBossPoint="290,300_360,230_440,210_540,210_590,320_670,270_610,330_560,350_410,350" WildBossLifeTime="8" WildBossID="3598" MapRatio="1" />
+	<item id="2177" name="灵龟之渊" notes="活动场景" Ename="Destination Reached" pic="2177" sound="BGM_438" GroupID="20113" PlayerXYZ="470,390" NPCID="307,308,309,310,311,312" NPCScale="0.4" NPCXYZ="250,265_270,350_410,410_735,410_880,350_900,265" MapRatio="1" />
+	<item id="2178" name="灵龟之渊" notes="真实场景" Ename="Destination Reached" pic="2178" sound="BGM_438" GroupID="20113" PlayerXYZ="470,390" WildBossNum="3" WildBossPoint="290,300_360,230_440,210_540,210_590,320_670,270_610,330_560,350_410,350" WildBossLifeTime="8" WildBossID="3598" MapRatio="1" />
 	<item id="2179" name="大墟泽" notes="剧情场景" Ename="Destination Reached" pic="2179" sound="BGM_438" PlayerXYZ="820,370" MapRatio="1" />
 	<item id="2180" name="大墟泽" notes="真实场景" Ename="Destination Reached" pic="2180" sound="BGM_438" GroupID="20113" PlayerXYZ="820,370" WildBossNum="3" WildBossPoint="60,410_130,390_170,430_230,400_360,380_450,430_560,400_650,390_770,410_830,400" WildBossLifeTime="8" WildBossID="3598" WildBossWeight="1" MapRatio="1" />
 	<item id="2181" name="阿尔法星溶洞" notes="剧情场景" Ename="Destination Reached" pic="2181" sound="BGM_851" PlayerXYZ="225,400" MapRatio="1" />

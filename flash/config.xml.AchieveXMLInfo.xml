@@ -303,6 +303,7 @@
 				<Rule ID="24" Threshold="24" AchievementPoint="10" icon="1" achName="乐园放逐" proicon="1477" SpeNameBonus="579" title="乐园放逐" Desc="完成主线【乐园放逐】获得" titleColor="0xFFFFFF"/>
 				<Rule ID="25" Threshold="25" AchievementPoint="10" icon="1" achName="波卢卡的火炬" proicon="1487" SpeNameBonus="585" title="自由之潮" Desc="完成主线【自由之潮】获得" titleColor="0xFFFFFF"/>
 				<Rule ID="26" Threshold="26" AchievementPoint="10" icon="1" achName="往日之殇" proicon="1499" SpeNameBonus="596" title="往日之殇" Desc="完成主线【黄金的万象-往日荣耀】获得" titleColor="0xFFFFFF"/>
+				<Rule ID="27" Threshold="27" AchievementPoint="10" icon="1" achName="灵渊守护者" proicon="1524" SpeNameBonus="608" title="灵渊守护者" Desc="完成主线【灵渊的回响】获得" titleColor="0xFFFFFF"/>
 			</Branch>
 
 		</Branches>
@@ -1891,6 +1892,10 @@
 				<Rule ID="9" Threshold="9" AchievementPoint="10" icon="1" achName="终点亦是起点" proicon="1496" SpeNameBonus="593" title="终点亦是起点" Desc="游玩【奥朗终局战】，在薇的注视之下走得更远吧" titleColor="0xFFFFFF"/>
 				<Rule ID="10" Threshold="10" AchievementPoint="10" icon="1" achName="蝶舞朝暮" proicon="1497" SpeNameBonus="594" title="蝶舞朝暮" Desc="参与活动【虹辉的颂歌】获得" titleColor="0xFFFFFF"/>
 				<Rule ID="11" Threshold="11" AchievementPoint="10" icon="1" achName="手册观察员" proicon="1504" SpeNameBonus="598" title="手册观察员" Desc="虽然只是值班官，但你对航行手册的了解明显超出岗位需求。" titleColor="0xFFFFFF"/>
+				<Rule ID="12" Threshold="12" AchievementPoint="10" icon="1" achName="双生烈阳" proicon="1520" SpeNameBonus="604" title="双生烈阳" Desc="【双生烈阳】活动获取" titleColor="0xFFFFFF"/>
+				<Rule ID="13" Threshold="13" AchievementPoint="0" icon="1" achName="玄冥之不动帝" proicon="1521" SpeNameBonus="605" title="玄冥之不动帝" Desc="在【镇世神岳·玄武】的玄武英名录中排名前1000内获得" titleColor="0xFFFFFF"/>
+				<Rule ID="14" Threshold="14" AchievementPoint="30" icon="1" achName="玄冥之不动" proicon="1522" SpeNameBonus="606" title="玄冥之不动" Desc="在【镇世神岳·玄武】中兑换获得" titleColor="0xFFFFFF"/>
+				<Rule ID="15" Threshold="15" AchievementPoint="10" icon="1" achName="节庆礼花" proicon="1523" SpeNameBonus="607" title="节庆礼花" Desc="参与活动【节庆礼花】获得" titleColor="0xFFFFFF" AbilityTitle="1" abtext="攻击+40，特攻+40，防御+20，特防+20"/>
 			</Branch>
 
 			</Branches>

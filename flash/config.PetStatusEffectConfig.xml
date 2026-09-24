@@ -59,6 +59,7 @@ Un前缀代表非xxx异常状态
 		<SubEffect ID="41" Name="狂信" Efftype="0" Ctrl="2" Unctrl="0" Weaken="0" Unweaken="2" Dependent="0" Undependent="2" Restriction="0" Unrestriction="2" Derivation="0" Underivation="2"/>
 		<SubEffect ID="42" Name="雷解" Efftype="2" Ctrl="0" Unctrl="1" Weaken="0" Unweaken="1" Dependent="1" Undependent="0" Restriction="0" Unrestriction="1" Derivation="0" Underivation="1"/>
 		<SubEffect ID="43" Name="渐冻" Efftype="2" Ctrl="0" Unctrl="1" Weaken="0" Unweaken="1" Dependent="1" Undependent="0" Restriction="0" Unrestriction="1" Derivation="0" Underivation="1"/>
+		<SubEffect ID="44" Name="魇昧" Efftype="1" Ctrl="0" Unctrl="2" Weaken="2" Unweaken="0" Dependent="0" Undependent="2" Restriction="0" Unrestriction="2" Derivation="0" Underivation="2"/>
 	</BattleEffect>
 	<BattleEffect Type="1" Name="战斗能力变化">
 		<!-- 参数n 以6为基准  n-6为负数表示能力减弱了多少，为正数表示提升了多少 -->
