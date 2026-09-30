@@ -13,7 +13,7 @@ SkinKind Type:  1:限时皮肤  2:永久皮肤
 LifeTime:限时天数
 Jumptarget：unity跳转，读jumptarget表
 
-SkinType：该皮肤所属的系列id（1-巅峰时装 2-星海誓约 3-夏日奇遇 4-童话梦境 5-江湖令 6-洛林卡之星 7-时代轨迹 8-月满中秋 9-铁甲小宝 10-万圣惊魂夜 11-圣诞礼遇 12-魔界之刻 13-航纪珍藏 14-锦绣春华 15-专家之证 16-运动时光 17-岁令万象 18-青春校园 19-巨樽失窃案 20-瓏域传说 21-异元时空 22-莱卡的守望 23-至臻典藏 24-K.I.S.S.乐队 25-灵籁之夏 26-深海绮境）
+SkinType：该皮肤所属的系列id（1-巅峰时装 2-星海誓约 3-夏日奇遇 4-童话梦境 5-江湖令 6-洛林卡之星 7-时代轨迹 8-月满中秋 9-铁甲小宝 10-万圣惊魂夜 11-圣诞礼遇 12-魔界之刻 13-航纪珍藏 14-锦绣春华 15-专家之证 16-运动时光 17-岁令万象 18-青春校园 19-巨樽失窃案 20-瓏域传说 21-异元时空 22-莱卡的守望 23-至臻典藏 24-K.I.S.S.乐队 25-灵籁之夏 26-深海绮境 27-星缘咖啡厅）
 Year：该皮肤所属的年份（当前仅面向巅峰时装）
 
 -->
@@ -2097,15 +2097,15 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>
 
 	<Skin ID="653" MonID="4510" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="海盐苏打·卫岳" Jumptarget="114147">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="27"/>
 	</Skin>
 
 	<Skin ID="654" MonID="4500" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="馥郁玛奇朵·武心婵" Jumptarget="114147">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="27"/>
 	</Skin>
 
 	<Skin ID="655" MonID="4515" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="红茶冷萃·霍光" Jumptarget="114147">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="27"/>
 	</Skin>
 
 	<Skin ID="656" MonID="4683" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="帕诺" >
@@ -2964,7 +2964,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 	
-	<Skin ID="870" MonID="4942" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""  Name="阿克希亚" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+	<Skin ID="870" MonID="4942" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""  Name="阿克希亚" >
 		<SkinKind ID="1" Type="2" LifeTime="0" />
 	</Skin>
 
@@ -2981,7 +2981,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>	
 	
 	<Skin ID="874" MonID="4761" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="6" Name="瑶光桂影·琉梦" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114144">
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="8"/>
 	</Skin>	
 
 	<Skin ID="875" MonID="4946" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="4" Name="宿命的对决·雷伊" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114137">
@@ -2989,6 +2989,14 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>	
 
 	<Skin ID="876" MonID="4947" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="4" Name="宿命的对决·盖亚" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114137">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
+	<Skin ID="877" MonID="4373" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="万契之囹·龙焉" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114149">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
+	<Skin ID="878" MonID="4658" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="百相傩戏·库比" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 

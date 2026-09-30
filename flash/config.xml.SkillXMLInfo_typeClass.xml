@@ -136,6 +136,7 @@
 	<item id="130" is_dou="1" att="18 12" cn="远古 光" en="ancient_light"/>
 	<item id="131" is_dou="1" att="222 12" cn="混沌 光" en="chaos_light"/>
 	<item id="132" is_dou="1" att="3 225" cn="火 虫" en="fire_insect"/>
+	<item id="133" is_dou="1" att="18 2" cn="远古 水" en="ancient_water"/>
 
 
 	<item id="221" cn="王" en="king"/>

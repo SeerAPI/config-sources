@@ -103468,9 +103468,81 @@
 		</ExtraMoves>
 	</Monster>
 	
+	<Monster ID="4951" DefName="维德弗尼尔" Type="53" GrowthType="4" HP="130" Atk="144" Def="130" SpAtk="70" SpDef="130" Spd="136" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3612" FormParam="0" CharacterAttrParam="0" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10001" LearningLv="1"/>
+			<Move ID="20002" LearningLv="5"/>
+			<Move ID="10008" LearningLv="9"/>
+			<Move ID="10009" LearningLv="13"/>
+			<Move ID="20015" LearningLv="17"/>
+			<Move ID="38570" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="10036" LearningLv="25"/>
+			<Move ID="20016" LearningLv="29"/>
+			<Move ID="10037" LearningLv="33"/>
+			<Move ID="10038" LearningLv="37"/>
+			<Move ID="10033" LearningLv="41"/>
+			<Move ID="20017" LearningLv="45"/>
+			<Move ID="29468" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="14404" LearningLv="53"/>
+			<Move ID="29469" LearningLv="57" Rec="1" Tag="3"/>
+			<Move ID="38571" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38572" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+
+	<Monster ID="4952" DefName="神代·小火猴" Type="77" GrowthType="4" HP="140" Atk="134" Def="110" SpAtk="70" SpDef="110" Spd="136" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3613" FormParam="0" CharacterAttrParam="0" GradeParam="2" AddSeParam="0" Resist="1">
+		<LearnableMoves>
+			<Move ID="10086" LearningLv="1"/>
+			<Move ID="20001" LearningLv="5"/>
+			<Move ID="10817" LearningLv="9"/>
+			<Move ID="38573" LearningLv="13" Rec="1" Tag="4"/>
+			<Move ID="29470" LearningLv="17" Rec="1" Tag="2"/>
+			<Move ID="38574" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="10412" LearningLv="25"/>
+			<Move ID="29471" LearningLv="29" Rec="1" Tag="3"/>
+			<Move ID="10030" LearningLv="33"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38575" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
 	
+	<Monster ID="4953" DefName="神代·伊优" Type="133" GrowthType="4" HP="154" Atk="132" Def="110" SpAtk="70" SpDef="110" Spd="124" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3614" FormParam="0" CharacterAttrParam="0" GradeParam="2" AddSeParam="0" Resist="1">
+		<LearnableMoves>
+			<Move ID="11008" LearningLv="1"/>
+			<Move ID="20003" LearningLv="5"/>
+			<Move ID="38576" LearningLv="9" Rec="1" Tag="4"/>
+			<Move ID="10024" LearningLv="13"/>
+			<Move ID="29472" LearningLv="17" Rec="1" Tag="2"/>
+			<Move ID="38577" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="11010" LearningLv="25"/>
+			<Move ID="29473" LearningLv="29" Rec="1" Tag="3"/>
+			<Move ID="11011" LearningLv="33"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38578" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
 	
-	
+	<Monster ID="4954" DefName="神代·布布种子" Type="82" GrowthType="4" HP="157" Atk="70" Def="110" SpAtk="123" SpDef="110" Spd="130" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="2" PetClass="3615" FormParam="0" CharacterAttrParam="4" GradeParam="2" AddSeParam="0" Resist="1">
+		<LearnableMoves>
+			<Move ID="10001" LearningLv="1"/>
+			<Move ID="20001" LearningLv="5"/>
+			<Move ID="10002" LearningLv="9"/>
+			<Move ID="38579" LearningLv="13" Rec="1" Tag="4"/>
+			<Move ID="20008" LearningLv="17"/>
+			<Move ID="38580" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="10012" LearningLv="25"/>
+			<Move ID="29474" LearningLv="29" Rec="1" Tag="2"/>
+			<Move ID="29475" LearningLv="33" Rec="1" Tag="3"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38581" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+
 	
 	<Monster ID="4995" DefName="镇世神岳·玄武" Type="37" GrowthType="4" HP="125" Atk="100" Def="120" SpAtk="95" SpDef="120" Spd="90" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3656" FormParam="0" CharacterAttrParam="0" GradeParam="5" AddSeParam="1" Resist="1">
 		<LearnableMoves>
@@ -116879,6 +116951,8 @@
   <Monster ID="1400874" DefName="瑶光桂影·琉梦" RealId=""/>
   <Monster ID="1400875" DefName="宿命的对决·雷伊" />
   <Monster ID="1400876" DefName="宿命的对决·盖亚" />
+  <Monster ID="1400877" DefName="万契之囹·龙焉" />
+  <Monster ID="1400878" DefName="百相傩戏·库比" />
 
 
 </Monsters>
