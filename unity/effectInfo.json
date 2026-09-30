@@ -23450,7 +23450,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconInherent]未造成攻击伤害时附加{0}{1}值的[color=#52a5f2]固定伤害[/color]",
+        "analyze": "[sprite name=iconHit]未造成攻击伤害时附加{0}{1}值的[color=#52a5f2]固定伤害[/color]",
         "info": "未造成攻击伤害时附加{0}{1}值的固定伤害",
         "param": [
           4,
