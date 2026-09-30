@@ -670,11 +670,11 @@
             "efftype": 1,
             "id": 44,
             "name": "魇昧",
-            "restriction": 0,
+            "restriction": 2,
             "unctrl": 2,
-            "undependent": 2,
+            "undependent": 0,
             "underivation": 2,
-            "unrestriction": 2,
+            "unrestriction": 0,
             "unweaken": 0,
             "weaken": 2
           }
