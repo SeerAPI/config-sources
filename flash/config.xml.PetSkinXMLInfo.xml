@@ -2969,7 +2969,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>
 
 	<Skin ID="871" MonID="4950" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="20" Name="直至烈阳升起·帝皇之戎" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114141">
-		<SkinKind ID="1" Type="2" LifeTime="0" />
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="23"/>
 	</Skin>
 
 	<Skin ID="872" MonID="3430" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="默颂传说·洛克珊娜" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114135">

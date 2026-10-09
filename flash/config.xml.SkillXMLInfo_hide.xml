@@ -2240,6 +2240,10 @@
 		<item moveId="38550" petId="4995" moveName1="帕诺" moveName2="七星阵列"/>
 		<item moveId="38553" petId="3432" moveName1="王" moveName2="冥津哑噤"/>
 		<item moveId="38568" petId="4950" moveName1="群辰" moveName2="万煌戎行"/>
+		<item moveId="38572" petId="4951" moveName1="秘术" moveName2="疾风击"/>
+		<item moveId="38575" petId="4952" moveName1="神代" moveName2="灵绝击"/>
+		<item moveId="38578" petId="4953" moveName1="神代" moveName2="巨龙之击"/>
+		<item moveId="38581" petId="4954" moveName1="神代" moveName2="舍身撞击"/>
 
 
 

@@ -601,5 +601,6 @@
 	<Fragment ID="2400601" show="1" Name="瑞特拉尼因子" MonsterID="4943" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6445" effectId="2142" NewseConsume="200" MoveID="38529" MovesConsume="100" NeedmonID="0" NewMsglogId="2609170500" SeMsglog="2609170501" EffectMsglog="2609170502"/>
     <Fragment ID="2400602" show="1" Name="亚巴兰托因子" MonsterID="4948" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6449" effectId="2149" NewseConsume="200" MoveID="38544" MovesConsume="100" NeedmonID="0" NewMsglogId="2610010500" SeMsglog="2610010501" EffectMsglog="2610010502"/>
     <Fragment ID="2400603" show="1" Name="琉梦因子" MonsterID="4761" Rarity="4" PetLimit="1" PetConsume="1000" NewSeIdx="6275" effectId="1972" NewseConsume="500" MoveID="37930" MovesConsume="200" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+	<Fragment ID="2400604" show="1" Name="维德弗尼尔因子" MonsterID="4951" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6452" effectId="2151" NewseConsume="270" MoveID="38572" MovesConsume="108" NeedmonID="0" NewMsglogId="2610080600" SeMsglog="2610080601" EffectMsglog="2610080602"/>
 	
 </Root>

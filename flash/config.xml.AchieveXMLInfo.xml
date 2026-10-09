@@ -906,6 +906,7 @@
 				<Rule ID="16" Threshold="16" AchievementPoint="10" icon="1" achName="古文明专家" proicon="1510" SpeNameBonus="600" title="古文明专家" Desc="通关S-米罗博士【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 				<Rule ID="17" Threshold="17" AchievementPoint="10" icon="1" achName="原型装甲" proicon="1512" SpeNameBonus="601" title="原型装甲" Desc="通关S-星光·雷纳多【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 				<Rule ID="18" Threshold="18" AchievementPoint="10" icon="1" achName="王座守卫" proicon="1513" SpeNameBonus="602" title="王座守卫" Desc="通关S-王座守卫·古亚尼斯【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
+				<Rule ID="19" Threshold="19" AchievementPoint="10" icon="1" achName="隐秘之翼" proicon="1525" SpeNameBonus="609" title="隐秘之翼" Desc="通关S-维德弗尼尔【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 			</Branch>
 			
 			<Branch ID="169" Desc="高难挑战系列" > 
@@ -1893,7 +1894,7 @@
 				<Rule ID="10" Threshold="10" AchievementPoint="10" icon="1" achName="蝶舞朝暮" proicon="1497" SpeNameBonus="594" title="蝶舞朝暮" Desc="参与活动【虹辉的颂歌】获得" titleColor="0xFFFFFF"/>
 				<Rule ID="11" Threshold="11" AchievementPoint="10" icon="1" achName="手册观察员" proicon="1504" SpeNameBonus="598" title="手册观察员" Desc="虽然只是值班官，但你对航行手册的了解明显超出岗位需求。" titleColor="0xFFFFFF"/>
 				<Rule ID="12" Threshold="12" AchievementPoint="10" icon="1" achName="双生烈阳" proicon="1520" SpeNameBonus="604" title="双生烈阳" Desc="【双生烈阳】活动获取" titleColor="0xFFFFFF"/>
-				<Rule ID="13" Threshold="13" AchievementPoint="0" icon="1" achName="玄冥之不动帝" proicon="1521" SpeNameBonus="605" title="玄冥之不动帝" Desc="在【镇世神岳·玄武】的玄武英名录中排名前1000内获得" titleColor="0xFFFFFF"/>
+				<Rule ID="13" Threshold="13" AchievementPoint="0" icon="1" achName="玄冥之不动帝" proicon="1521" SpeNameBonus="605" title="玄冥之不动帝" Desc="在【镇世神岳·玄武】的挑战排行中前1000名获得" titleColor="0xFFFFFF"/>
 				<Rule ID="14" Threshold="14" AchievementPoint="30" icon="1" achName="玄冥之不动" proicon="1522" SpeNameBonus="606" title="玄冥之不动" Desc="在【镇世神岳·玄武】中兑换获得" titleColor="0xFFFFFF"/>
 				<Rule ID="15" Threshold="15" AchievementPoint="10" icon="1" achName="节庆礼花" proicon="1523" SpeNameBonus="607" title="节庆礼花" Desc="参与活动【节庆礼花】获得" titleColor="0xFFFFFF" AbilityTitle="1" abtext="攻击+40，特攻+40，防御+20，特防+20"/>
 			</Branch>
