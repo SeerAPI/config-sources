@@ -1414,8 +1414,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4948,
-            "image_id": 4948,
+            "id": 4951,
+            "image_id": 4951,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1425,11 +1425,55 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4949,
-            "image_id": 4949,
+            "id": 4952,
+            "image_id": 4952,
             "label": 0,
             "mon_id": 0,
             "type": 0
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 4953,
+            "image_id": 4953,
+            "label": 0,
+            "mon_id": 0,
+            "type": 0
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 4954,
+            "image_id": 4954,
+            "label": 0,
+            "mon_id": 0,
+            "type": 0
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 877,
+            "image_id": 1400877,
+            "label": 0,
+            "mon_id": 4373,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 878,
+            "image_id": 1400878,
+            "label": 0,
+            "mon_id": 4658,
+            "type": 1
           }
         ]
       }
@@ -21802,7 +21846,7 @@
       {
         "def_name": "圣灵之魂迈尔斯",
         "features": "迈尔斯的完全体形态，响应谱尼的召唤而成为完全体，圣灵的力量极大的增强！",
-        "target": "",
+        "target": "150150",
         "id": 3421
       },
       {
@@ -27358,7 +27402,7 @@
       {
         "def_name": "花寅",
         "features": "2022年4月巅峰圣战精灵，虎之一族的神秘女孩，可不要因为她长相甜美可爱就对她掉以轻心哦，她的战斗力可不容小觑！",
-        "target": "",
+        "target": "520012",
         "id": 4353
       },
       {
@@ -27478,7 +27522,7 @@
       {
         "def_name": "龙焉",
         "features": "2022年6月巅峰圣战精灵，被剥夺了原本的名字，从此成为战争的祭品，至此以后，复仇成为了唯一让她选择活下去的理由。",
-        "target": "111500",
+        "target": "520013",
         "id": 4373
       },
       {
@@ -30926,8 +30970,32 @@
         "id": 4950
       },
       {
+        "def_name": "维德弗尼尔",
+        "features": "维德弗尼尔扇动翅膀时，风总是先到。寒风从它翼尖卷出去，穿过遗迹的断柱与沉船，在死寂的星球上呼啸而过。",
+        "target": "153201/1011",
+        "id": 4951
+      },
+      {
+        "def_name": "神代·小火猴",
+        "features": "神秘的远古之力似乎与赛尔产生了共鸣，神代·小火猴由此被召唤而来，成为赛尔最勇敢的伙伴。",
+        "target": "520009",
+        "id": 4952
+      },
+      {
+        "def_name": "神代·伊优",
+        "features": "神秘的远古之力似乎与赛尔产生了共鸣，神代·伊优由此被召唤而来，成为赛尔最坚毅的伙伴。",
+        "target": "520010",
+        "id": 4953
+      },
+      {
+        "def_name": "神代·布布种子",
+        "features": "神秘的远古之力似乎与赛尔产生了共鸣，神代·布布种子由此被召唤而来，成为赛尔最忠诚的伙伴。",
+        "target": "520011",
+        "id": 4954
+      },
+      {
         "def_name": "镇世神岳·玄武",
-        "features": "玄武，帕诺的远古神兽、大地的守护者。他曾以伟岸之躯抵御世间最凶猛的灾厄，碎为戈拉后于千万年后以钢铁新壳归来，仍在守帕诺之夜。",
+        "features": "玄武，帕诺的远古神兽、大地的守护者——他曾以伟岸之躯抵御世间最凶猛的灾厄，碎为戈拉后以钢铁新壳归来，仍在守护帕诺之夜。",
         "target": "150145",
         "id": 4995
       }

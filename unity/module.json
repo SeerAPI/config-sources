@@ -5553,6 +5553,20 @@
       "res_config": []
     },
     {
+      "curr_app_do": 0,
+      "id": 914,
+      "is_full_screen": 0,
+      "module_name": "getLySkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 915,
+      "is_full_screen": 1,
+      "module_name": "hundiTianxundao",
+      "res_config": []
+    },
+    {
       "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
@@ -6593,6 +6607,34 @@
       "id": 1234,
       "is_full_screen": 1,
       "module_name": "stonebattleActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1235,
+      "is_full_screen": 1,
+      "module_name": "ancientThreeMainPets",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1236,
+      "is_full_screen": 1,
+      "module_name": "story2027yearsummon",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1237,
+      "is_full_screen": 0,
+      "module_name": "formaSwtichPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1238,
+      "is_full_screen": 1,
+      "module_name": "farSkyFallingStageMain",
       "res_config": []
     }
   ]

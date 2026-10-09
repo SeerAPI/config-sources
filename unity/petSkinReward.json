@@ -779,6 +779,19 @@
       "userbit": 28,
       "userinfo": 122602,
       "userinfo1": 122652
+    },
+    {
+      "id": 61,
+      "changereward": "1_1723255_2",
+      "param": 3,
+      "redbadge": 131223,
+      "reward": "11_100_1",
+      "skintype": 27,
+      "stainfo": 260730096,
+      "subtype": 0,
+      "userbit": 29,
+      "userinfo": 122602,
+      "userinfo1": 122652
     }
   ]
 }

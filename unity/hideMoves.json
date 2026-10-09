@@ -13448,6 +13448,30 @@
         "pet_id": 4950
       },
       {
+        "move_id": 38572,
+        "move_name1": "秘术",
+        "move_name2": "疾风击",
+        "pet_id": 4951
+      },
+      {
+        "move_id": 38575,
+        "move_name1": "神代",
+        "move_name2": "灵绝击",
+        "pet_id": 4952
+      },
+      {
+        "move_id": 38578,
+        "move_name1": "神代",
+        "move_name2": "巨龙之击",
+        "pet_id": 4953
+      },
+      {
+        "move_id": 38581,
+        "move_name1": "神代",
+        "move_name2": "舍身撞击",
+        "pet_id": 4954
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

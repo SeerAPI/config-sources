@@ -8610,6 +8610,20 @@
                     "id": 18,
                     "proicon": 1513,
                     "spe_name_bonus": 602
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "隐秘之翼",
+                    "desc": "通关S-维德弗尼尔【地狱难度】关卡获得",
+                    "threshold": "19",
+                    "title": "隐秘之翼",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 19,
+                    "proicon": 1525,
+                    "spe_name_bonus": 609
                   }
                 ],
                 "id": 172,
