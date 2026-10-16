@@ -2904,11 +2904,11 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="26"/>
 	</Skin>
 
-	<Skin ID="855" MonID="4923" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="四合囚都·莫缇" Go="app/FinalActivityPanel" GoType="module" Jumptarget="202000">
+	<Skin ID="855" MonID="4923" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="四合囚都·莫缇" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2026"/>
 	</Skin>
 
-	<Skin ID="856" MonID="4657" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="双仪极刃·卓尔布" Go="app/FinalActivityPanel" GoType="module" Jumptarget="204000">
+	<Skin ID="856" MonID="4657" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="双仪极刃·卓尔布" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="15"/>
 	</Skin>
 
@@ -2997,6 +2997,22 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>	
 
 	<Skin ID="878" MonID="4658" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="百相傩戏·库比" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
+	<Skin ID="879" MonID="4956" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="四幕连环·珀萝" Go="app/FinalActivityPanel" GoType="module" Jumptarget="202000">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
+	<Skin ID="880" MonID="4816" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="苍蓝幻想·伊芙" Go="app/FinalActivityPanel" GoType="module" Jumptarget="204000">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="15"/>
+	</Skin>	
+
+	<Skin ID="881" MonID="4401" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="戾虐鏖杀·特罗斯" Go="app/FinalActivityPanel" GoType="module" Jumptarget="410000">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
+	<Skin ID="882" MonID="4353" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="恶戏前奏·花寅" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114150">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 

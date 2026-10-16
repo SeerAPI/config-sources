@@ -213,10 +213,10 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4951" ImageID= "4951" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4952" ImageID= "4952" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4953" ImageID= "4953" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4954" ImageID= "4954" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "0" ID="4955" ImageID= "4955" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4956" ImageID= "4956" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <!-- <place type= "0" ID="4953" ImageID= "4953" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+	  <!-- <place type= "0" ID="4954" ImageID= "4954" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4911" ImageID= "4911" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4804" ImageID= "4804" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,10 +255,10 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="877" monID="4373" ImageID= "1400877" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="878" monID="4658" ImageID= "1400878" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-	  <!-- <place type= "1" ID="865" monID="3414" ImageID= "1400865" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
-	  <!-- <place type= "1" ID="866" monID="4004" ImageID= "1400866" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "1" ID="879" monID="4956" ImageID= "1400879" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="880" monID="4816" ImageID= "1400880" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "1" ID="881" monID="4401" ImageID= "1400881" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "1" ID="882" monID="4353" ImageID= "1400882" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
       <!-- <place type= "1" ID="847" monID="4911" ImageID= "1400846" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="842" monID="4909" ImageID= "1400842" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="747" monID="4676" ImageID= "1400747" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -4148,7 +4148,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3844" DefName="伊芙莉莎" Type="自然" Height="175" Weight="50" Features="伊芙莉超进化形态，星球守护，祈祷和平！指引精灵迷途，治愈世间悲伤！" mapID="1362" Label="0,2" jumptarget="81" Target="150066"/>
 	<Monster ID="3845" DefName="伊诺美丽" Type="邪灵" Height="175" Weight="50" Features="伊诺美超进化形态，蛰伏危机持续强大！赤发妖姬卷土重来！" mapID="1362"/>
 	<Monster ID="3846" DefName="花清酒" Type="自然 战斗" Height="166" Weight="50" Features="清明踏青，花清酒伴你行！有花有酒，游玩不停歇！" mapID="1"/>
-	<Monster ID="3847" DefName="魂帝·天循道" Type="远古 邪灵" Height="186" Weight="80" Features="魂帝超进化形态，铸魂之路，道阻且长！昭昭天命，魂帝重生！" mapID="1363"/>
+	<Monster ID="3847" DefName="魂帝·天循道" Type="远古 邪灵" Height="186" Weight="80" Features="魂帝超进化形态，铸魂之路，道阻且长！昭昭天命，魂帝重生！" mapID="1363" Target="150151"/>
 	<Monster ID="3848" DefName="时空幻零" Type="超能" Height="171" Weight="55" Features="时空之零完全体形态，体内的零界之力爆发，可以轻松穿梭于各个时空之间！" mapID="1363" jumptarget="56/3_6" Target="140001"/>
 	<Monster ID="3849" DefName="撼地巨龙" Type="地面 龙" Height="580" Weight="250" Features="伴随着时空旅行者出生入死，撼摇霹雳震山河 巨龙一朝现真身！" mapID="1364"/>
 	<Monster ID="3850" DefName="卡迪" Type="暗影 圣灵" Height="120" Weight="40" Features="神秘的逃亡者，首次出现在赛尔号的面前，他的身上究竟隐藏着什么秘密..." Redirect="map|module" Go="1147;app/PveRewardMallMainPanel" jumptarget="18/4_5" Target="164510"/>
@@ -5222,7 +5222,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4920" DefName="弗勒克斯" Type="冰 火" Height="174" Weight="57" Features="为了维护正义，勇敢的游侠独自完成了对自我的改造，双枪的配合给予了他更强的火力。" Redirect="module" Go="app/FinalActivityPanel" Target="113026"/>
 	<Monster ID="4921" DefName="天堂极龙兽" Type="圣灵 光" Height="400" Weight="385" Features="传说中的神兽自天堂来袭，这一次它必将终结所有罪恶!" />
 	<Monster ID="4922" DefName="墟婆" Type="自然 神秘" Height="176" Weight="52" Features="墟婆，大墟泽的管理者。在玄武仍然在世的时候，墟婆就是玄武信仰最为虔诚的追随者。玄武死后，她一直守护着墟冢，守护者玄武的遗产。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/950"/>
-	<Monster ID="4923" DefName="莫缇" Type="地面 机械" Height="171" Weight="45" Features="魔盒的预言，似乎否定了她的价值、她的一切。但若是因此而退却，此后的半生便与走肉无异。这座都市不会只是泡影，纵使终会直面一切的坍塌，至少，让这片钢铁的森林成为指向云端之上的天枪。" Redirect="module" Go="app/FinalActivityPanel" Target="200000"/>
+	<Monster ID="4923" DefName="莫缇" Type="地面 机械" Height="171" Weight="45" Features="魔盒的预言，似乎否定了她的价值、她的一切。但若是因此而退却，此后的半生便与走肉无异。这座都市不会只是泡影，纵使终会直面一切的坍塌，至少，让这片钢铁的森林成为指向云端之上的天枪。" />
 	<Monster ID="4925" DefName="米罗博士" Type="草 超能" Height="146" Weight="39" Features="Λ组织二号舰穆宁号的驻舰科学官，超古代文明遗迹专家，奉命支援三号舰的玄武复活计划。她的科研空间站位于赫尔卡星的同步轨道，是玄武复活计划的核心人员之一。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/953"/>
 	<Monster ID="4926" DefName="酷酷鲨" Type="水 神秘" Height="119" Weight="27" Features="没错，酷酷鲨真的很酷。" />
 	<Monster ID="4927" DefName="超级噗纽" Type="草 机械" Height="156" Weight="97" Features="米罗博士自研的防卫型机器人，核心处理器由噗纽升级而来。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/956"/>
@@ -5253,6 +5253,8 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4952" DefName="神代·小火猴" Type="远古 火" Height="50" Weight="17" Features="神秘的远古之力似乎与赛尔产生了共鸣，神代·小火猴由此被召唤而来，成为赛尔最勇敢的伙伴。" Redirect="module" Go="app/FinalActivityPanel" Target="520009"/>
 	<Monster ID="4953" DefName="神代·伊优" Type="远古 水" Height="54" Weight="19" Features="神秘的远古之力似乎与赛尔产生了共鸣，神代·伊优由此被召唤而来，成为赛尔最坚毅的伙伴。" Redirect="module" Go="app/FinalActivityPanel" Target="520010"/>
 	<Monster ID="4954" DefName="神代·布布种子" Type="远古 草" Height="52" Weight="18" Features="神秘的远古之力似乎与赛尔产生了共鸣，神代·布布种子由此被召唤而来，成为赛尔最忠诚的伙伴。" Redirect="module" Go="app/FinalActivityPanel" Target="520011"/>
+	<Monster ID="4955" DefName="霍努努" Type="水 战斗" Height="244" Weight="158" Features="霍努努是凯亚召唤出来的第一只精灵，它性格温柔，总是一副好脾气的样子。虽然在岸上移动的速度很慢，但在水中非常灵活。是凯亚的好伙伴。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/1015"/>
+	<Monster ID="4956" DefName="珀萝" Type="暗影 圣灵" Height="159" Weight="40" Features="无论多少次预演，都达不到完美。路线、时间、凶器、证明，她不断地构想、无限地演练，只为让那混色的魔女血债血偿。推理的世界里，作者是凶手的共犯；在现实的世界里，墨渍是鲜血的前言。"  Redirect="module" Go="app/FinalActivityPanel" Target="200000"/>
 	<Monster ID="4995" DefName="镇世神岳·玄武" Type="机械 地面" Height="380" Weight="1500" Features="玄武，帕诺的远古神兽、大地的守护者——他曾以伟岸之躯抵御世间最凶猛的灾厄，碎为戈拉后以钢铁新壳归来，仍在守护帕诺之夜。" Redirect="module" Go="app/FinalActivityPanel" Target="150145"/>
 
 </root>

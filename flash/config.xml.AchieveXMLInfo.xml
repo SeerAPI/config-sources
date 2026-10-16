@@ -1378,6 +1378,10 @@
 				<Rule ID="10" Threshold="10" AchievementPoint="0" achName="S11赛季天骄" Desc="S11赛季竞技/大师/狂野模式首次达到天骄段位获得" proicon="1507" icon="1" />
 				<Rule ID="11" Threshold="11" AchievementPoint="0" achName="S11赛季王者" Desc="S11赛季竞技/大师/狂野模式首次达到王者段位获得" proicon="1508" icon="1" />
 				<Rule ID="12" Threshold="12" AchievementPoint="0" achName="S11赛季圣皇" Desc="S11赛季竞技/大师/狂野模式首次达到圣皇段位获得" proicon="1509" icon="1" />				
+				<Rule ID="13" Threshold="13" AchievementPoint="0" achName="S12赛季猛将" Desc="S12赛季竞技/大师/狂野模式首次达到猛将段位获得" proicon="1526" icon="1" />
+				<Rule ID="14" Threshold="14" AchievementPoint="0" achName="S12赛季天骄" Desc="S12赛季竞技/大师/狂野模式首次达到天骄段位获得" proicon="1527" icon="1" />
+				<Rule ID="15" Threshold="15" AchievementPoint="0" achName="S12赛季王者" Desc="S12赛季竞技/大师/狂野模式首次达到王者段位获得" proicon="1528" icon="1" />
+				<Rule ID="16" Threshold="16" AchievementPoint="0" achName="S12赛季圣皇" Desc="S12赛季竞技/大师/狂野模式首次达到圣皇段位获得" proicon="1529" icon="1" />				
 			</Branch>
 
 		</Branches>

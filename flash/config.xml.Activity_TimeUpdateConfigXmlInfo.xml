@@ -1,0 +1,5 @@
+<root>
+	<item id="1" name="巅峰赛季更新" beginning="2026_10_16 10:00:00" ending="2027_1_8 10:00:00" parametersDesc="parameters1：当前赛季第几赛季" parameters1="12" />
+	<item id="2" name="seer通行证赛季更新" beginning="2026_10_16 10:00:00" ending="2027_1_8 00:00:00" parametersDesc="parameters1： 皮肤id| parameters2 ：名片id" parameters1="881" parameters2="312" />
+	<item id="3" name="群星牌通行证赛季更新" beginning="2026_9_11 10:00:00" ending="2026_10_23 10:00:00" />
+</root>
