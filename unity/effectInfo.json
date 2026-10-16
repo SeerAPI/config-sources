@@ -23532,8 +23532,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconInherent]自身位于场下时，为己方提供[color=#f35555]圣荷慰灵[/color]支援；战斗中，己方缥缈幽芙的击败效果也计入自身的被击败效果（boss有效）",
-        "info": "自身位于场下时，为己方提供圣荷慰灵支援；战斗中，己方缥缈幽芙的击败效果也计入自身的被击败效果",
+        "analyze": "[sprite name=iconInherent]自身位于场下时，为己方提供[color=#f35555]圣荷慰心[/color]支援；战斗中，己方缥缈幽芙的击败效果也计入自身的被击败效果（boss有效）",
+        "info": "自身位于场下时，为己方提供圣荷慰心支援；战斗中，己方缥缈幽芙的击败效果也计入自身的被击败效果",
         "param": [],
         "args_num": 0,
         "id": 2599,
@@ -23541,7 +23541,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]若己方拥有[color=#f35555]起[/color]/[color=#f35555]承[/color]/[color=#f35555]转[/color]/[color=#f35555]合[/color]，则对应的为对手附加[color=#f35555]谋死A[/color]/[color=#f35555]B(583)[/color]/[color=#f35555]C(584)[/color]/[color=#f35555]D(585)[/color]，对方存在对应的谋死且对手没有谋死时改为将对方的随机1种谋死转移至对手，若转移后对手拥有顺序最靠后的谋死，则自身触发己方拥有过的[color=#f35555]起[/color]、[color=#f35555]承[/color]、[color=#f35555]转[/color]中的己方效果",
+        "analyze": "[sprite name=iconHit]若己方拥有[color=#f35555]起[/color]/[color=#f35555]承[/color]/[color=#f35555]转[/color]/[color=#f35555]合[/color]，则对应的为对手附加[color=#f35555]谋死A[/color]/[color=#f35555]B(583)[/color]/[color=#f35555]C(584)[/color]/[color=#f35555]D(585)[/color]，对方存在对应的谋死且对手没有谋死时改为将对方的随机1种谋死转移至对手，若转移后对手拥有顺序最靠后的谋死，则自身触发己方拥有过的[color=#f35555]起[/color]、[color=#f35555]承[/color]、[color=#f35555]转[/color]中的己方效果",
         "info": "若己方拥有起/承/转/合，则对应的为对手附加谋死A/B/C/D，对方存在对应的谋死且对手没有谋死时改为将对方的随机1种谋死转移至对手，若转移后对手拥有顺序最靠后的谋死，则自身触发己方拥有过的起、承、转中的己方效果",
         "param": [],
         "args_num": 0,

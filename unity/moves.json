@@ -531838,7 +531838,13 @@
           "side_effect": [
             1866
           ],
-          "side_effect_arg": [],
+          "side_effect_arg": [
+            16,
+            36,
+            31,
+            14,
+            2
+          ],
           "type": 8,
           "info": "目睹了变相之日",
           "ordinary": 0
@@ -770649,7 +770655,10 @@
           "side_effect": [
             495
           ],
-          "side_effect_arg": [],
+          "side_effect_arg": [
+            37,
+            30
+          ],
           "type": 56,
           "info": "",
           "ordinary": 0
