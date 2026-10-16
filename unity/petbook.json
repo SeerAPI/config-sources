@@ -1414,8 +1414,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4951,
-            "image_id": 4951,
+            "id": 4955,
+            "image_id": 4955,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4952,
-            "image_id": 4952,
+            "id": 4956,
+            "image_id": 4956,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1436,32 +1436,10 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4953,
-            "image_id": 4953,
+            "id": 879,
+            "image_id": 1400879,
             "label": 0,
-            "mon_id": 0,
-            "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 4954,
-            "image_id": 4954,
-            "label": 0,
-            "mon_id": 0,
-            "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 877,
-            "image_id": 1400877,
-            "label": 0,
-            "mon_id": 4373,
+            "mon_id": 4956,
             "type": 1
           },
           {
@@ -1469,10 +1447,32 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 878,
-            "image_id": 1400878,
+            "id": 880,
+            "image_id": 1400880,
             "label": 0,
-            "mon_id": 4658,
+            "mon_id": 4816,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 881,
+            "image_id": 1400881,
+            "label": 0,
+            "mon_id": 4401,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 882,
+            "image_id": 1400882,
+            "label": 0,
+            "mon_id": 4353,
             "type": 1
           }
         ]
@@ -24366,7 +24366,7 @@
       {
         "def_name": "魂帝·天循道",
         "features": "魂帝超进化形态，铸魂之路，道阻且长！昭昭天命，魂帝重生！",
-        "target": "",
+        "target": "150151",
         "id": 3847
       },
       {
@@ -30810,7 +30810,7 @@
       {
         "def_name": "莫缇",
         "features": "魔盒的预言，似乎否定了她的价值、她的一切。但若是因此而退却，此后的半生便与走肉无异。这座都市不会只是泡影，纵使终会直面一切的坍塌，至少，让这片钢铁的森林成为指向云端之上的天枪。",
-        "target": "200000",
+        "target": "",
         "id": 4923
       },
       {
@@ -30992,6 +30992,18 @@
         "features": "神秘的远古之力似乎与赛尔产生了共鸣，神代·布布种子由此被召唤而来，成为赛尔最忠诚的伙伴。",
         "target": "520011",
         "id": 4954
+      },
+      {
+        "def_name": "霍努努",
+        "features": "霍努努是凯亚召唤出来的第一只精灵，它性格温柔，总是一副好脾气的样子。虽然在岸上移动的速度很慢，但在水中非常灵活。是凯亚的好伙伴。",
+        "target": "153201/1015",
+        "id": 4955
+      },
+      {
+        "def_name": "珀萝",
+        "features": "无论多少次预演，都达不到完美。路线、时间、凶器、证明，她不断地构想、无限地演练，只为让那混色的魔女血债血偿。推理的世界里，作者是凶手的共犯；在现实的世界里，墨渍是鲜血的前言。",
+        "target": "200000",
+        "id": 4956
       },
       {
         "def_name": "镇世神岳·玄武",

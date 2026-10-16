@@ -3,160 +3,184 @@
     "blue_chip_shops": {
       "bulechip_shop": [
         {
+          "commodity": "1_300675_1",
+          "petinfo": "0_0_0_0",
           "product_name": "攻击性格转化剂Ω",
           "product_id": [
             300675
           ],
           "batch": 50,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13290,
           "forever": 0,
           "id": 3,
-          "opentime": 20210924,
+          "opentime": 1632412800,
           "product_price": 1,
           "shopkind": 2
         },
         {
+          "commodity": "1_300676_1",
+          "petinfo": "0_0_0_0",
           "product_name": "特攻性格转化剂Ω",
           "product_id": [
             300676
           ],
           "batch": 50,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13291,
           "forever": 0,
           "id": 4,
-          "opentime": 20210924,
+          "opentime": 1632412800,
           "product_price": 1,
           "shopkind": 2
         },
         {
+          "commodity": "1_300677_1",
+          "petinfo": "0_0_0_0",
           "product_name": "防御性格转化剂Ω",
           "product_id": [
             300677
           ],
           "batch": 50,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13292,
           "forever": 0,
           "id": 5,
-          "opentime": 20210924,
+          "opentime": 1632412800,
           "product_price": 1,
           "shopkind": 2
         },
         {
+          "commodity": "1_300678_1",
+          "petinfo": "0_0_0_0",
           "product_name": "特防性格转化剂Ω",
           "product_id": [
             300678
           ],
           "batch": 50,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13293,
           "forever": 0,
           "id": 6,
-          "opentime": 20210924,
+          "opentime": 1632412800,
           "product_price": 1,
           "shopkind": 2
         },
         {
+          "commodity": "1_300679_1",
+          "petinfo": "0_0_0_0",
           "product_name": "速度性格转化剂Ω",
           "product_id": [
             300679
           ],
           "batch": 50,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13294,
           "forever": 0,
           "id": 7,
-          "opentime": 20210924,
+          "opentime": 1632412800,
           "product_price": 1,
           "shopkind": 2
         },
         {
+          "commodity": "1_300680_1",
+          "petinfo": "0_0_0_0",
           "product_name": "平衡性格转化剂Ω",
           "product_id": [
             300680
           ],
           "batch": 50,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13295,
           "forever": 0,
           "id": 8,
-          "opentime": 20210924,
+          "opentime": 1632412800,
           "product_price": 1,
           "shopkind": 2
         },
         {
+          "commodity": "1_300018_1",
+          "petinfo": "0_0_0_0",
           "product_name": "高级活力药剂",
           "product_id": [
             300018
           ],
           "batch": 50,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13296,
           "forever": 0,
           "id": 9,
-          "opentime": 20210924,
+          "opentime": 1632412800,
           "product_price": 1,
           "shopkind": 2
         },
         {
+          "commodity": "1_300742_1",
+          "petinfo": "0_0_0_0",
           "product_name": "长效体力药剂",
           "product_id": [
             300742
           ],
           "batch": 50,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13297,
           "forever": 0,
           "id": 10,
-          "opentime": 20210924,
+          "opentime": 1632412800,
           "product_price": 1,
           "shopkind": 2
         },
         {
+          "commodity": "1_300724_1",
+          "petinfo": "0_0_0_0",
           "product_name": "王牌体力药剂Ω",
           "product_id": [
             300724
           ],
           "batch": 50,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13429,
           "forever": 0,
           "id": 20,
-          "opentime": 20210924,
+          "opentime": 1632412800,
           "product_price": 1,
           "shopkind": 2
         },
         {
+          "commodity": "1_300671_1",
+          "petinfo": "0_0_0_0",
           "product_name": "全能学习力遗忘药剂Ω",
           "product_id": [
             300671
           ],
           "batch": 50,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13430,
           "forever": 0,
           "id": 21,
-          "opentime": 20210924,
+          "opentime": 1632412800,
           "product_price": 1,
           "shopkind": 2
         },
         {
+          "commodity": "1_300670_1",
+          "petinfo": "0_0_0_0",
           "product_name": "全能学习力注入药剂Ω",
           "product_id": [
             300670
           ],
           "batch": 50,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13431,
           "forever": 0,
           "id": 22,
-          "opentime": 20210924,
+          "opentime": 1632412800,
           "product_price": 1,
           "shopkind": 2
         },
         {
+          "commodity": "",
+          "petinfo": "3506_2742_31477_41104",
           "product_name": "惊涛海皇·波塞冬",
           "product_id": [
             3506,
@@ -165,577 +189,651 @@
             41817
           ],
           "batch": 1,
-          "endtime": 20991231,
+          "endtime": 1840377599,
           "exchange_id": 14017,
           "forever": 140227,
           "id": 10001,
-          "opentime": 20260101,
+          "opentime": 1767196800,
           "product_price": 80,
           "shopkind": 1
         },
         {
-          "product_name": "满分君",
+          "commodity": "",
+          "petinfo": "4233_5725_35146_42036",
+          "product_name": "寒吟•龙裳",
           "product_id": [
-            3822,
+            4233,
             34174,
             5566,
             41817
           ],
           "batch": 1,
-          "endtime": 20280426,
+          "endtime": 1840377599,
           "exchange_id": 13970,
-          "forever": 125053,
+          "forever": 408401,
           "id": 10002,
-          "opentime": 20260102,
-          "product_price": 15,
+          "opentime": 1767283200,
+          "product_price": 40,
           "shopkind": 1
         },
         {
-          "product_name": "学神",
+          "commodity": "",
+          "petinfo": "4262_5756_35311_42074",
+          "product_name": "龙伽",
           "product_id": [
-            4195,
+            4262,
             34174,
             5566,
             41817
           ],
           "batch": 1,
-          "endtime": 20280426,
+          "endtime": 1840377599,
           "exchange_id": 13971,
-          "forever": 125054,
+          "forever": 408402,
           "id": 10003,
-          "opentime": 20260102,
-          "product_price": 15,
+          "opentime": 1791734400,
+          "product_price": 30,
           "shopkind": 1
         },
         {
+          "commodity": "1_2400070_55",
+          "petinfo": "0_0_0_0",
           "product_name": "灵天圣君·萨尔蒙因子*55",
           "product_id": [
             2400070,
             3549
           ],
           "batch": 20,
-          "endtime": 20261231,
+          "endtime": 1798732799,
           "exchange_id": 13732,
           "forever": 0,
           "id": 20238,
-          "opentime": 20220114,
+          "opentime": 1642089600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400046_55",
+          "petinfo": "0_0_0_0",
           "product_name": "X博士奥古斯特因子*55",
           "product_id": [
             2400046,
             3476
           ],
           "batch": 20,
-          "endtime": 20261231,
+          "endtime": 1798732799,
           "exchange_id": 13733,
           "forever": 0,
           "id": 20239,
-          "opentime": 20220114,
+          "opentime": 1642089600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400131_55",
+          "petinfo": "0_0_0_0",
           "product_name": "诅咒之神·狄修因子*55",
           "product_id": [
             2400131,
             3580
           ],
           "batch": 20,
-          "endtime": 20261231,
+          "endtime": 1798732799,
           "exchange_id": 13735,
           "forever": 0,
           "id": 20241,
-          "opentime": 20220114,
+          "opentime": 1642089600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400073_40",
+          "petinfo": "0_0_0_0",
           "product_name": "狄修因子*40",
           "product_id": [
             2400073,
             3540
           ],
           "batch": 20,
-          "endtime": 20261231,
+          "endtime": 1798732799,
           "exchange_id": 13729,
           "forever": 0,
           "id": 20242,
-          "opentime": 20220114,
+          "opentime": 1642089600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400381_35",
+          "petinfo": "0_0_0_0",
           "product_name": "暗岩·格莱奥丹因子*35",
           "product_id": [
             2400381,
             3867
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13977,
           "forever": 0,
           "id": 20255,
-          "opentime": 20240705,
+          "opentime": 1720108800,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400382_35",
+          "petinfo": "0_0_0_0",
           "product_name": "暗瞳·魔眼凯兮因子*35",
           "product_id": [
             2400382,
             3870
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13978,
           "forever": 0,
           "id": 20256,
-          "opentime": 20240705,
+          "opentime": 1720108800,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400383_35",
+          "petinfo": "0_0_0_0",
           "product_name": "暗战·艾辛格斯因子*35",
           "product_id": [
             2400383,
             3875
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13979,
           "forever": 0,
           "id": 20257,
-          "opentime": 20240705,
+          "opentime": 1720108800,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400384_35",
+          "petinfo": "0_0_0_0",
           "product_name": "暗霆·伊修兰迪因子*35",
           "product_id": [
             2400384,
             3879
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13980,
           "forever": 0,
           "id": 20258,
-          "opentime": 20240705,
+          "opentime": 1720108800,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400385_35",
+          "petinfo": "0_0_0_0",
           "product_name": "暗夜·诺伊尔顿因子*35",
           "product_id": [
             2400385,
             3883
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13981,
           "forever": 0,
           "id": 20259,
-          "opentime": 20240705,
+          "opentime": 1720108800,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400535_35",
+          "petinfo": "0_0_0_0",
           "product_name": "鬼蚀豹尊因子*35",
           "product_id": [
             2400535,
             3679
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13992,
           "forever": 0,
           "id": 20265,
-          "opentime": 20260102,
+          "opentime": 1767283200,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400542_30",
+          "petinfo": "0_0_0_0",
           "product_name": "灵兽·萨尔蒙因子*30",
           "product_id": [
             2400542,
             3303
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13999,
           "forever": 0,
           "id": 20272,
-          "opentime": 20260102,
+          "opentime": 1767283200,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400543_35",
+          "petinfo": "0_0_0_0",
           "product_name": "灵宫圣威·萨尔蒙因子*35",
           "product_id": [
             2400543,
             3304
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 14000,
           "forever": 0,
           "id": 20273,
-          "opentime": 20260102,
+          "opentime": 1767283200,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400296_35",
+          "petinfo": "0_0_0_0",
           "product_name": "极寒魔兽因子*35",
           "product_id": [
             2400296,
             3926
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13982,
           "forever": 0,
           "id": 20274,
-          "opentime": 20231006,
+          "opentime": 1696521600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400297_35",
+          "petinfo": "0_0_0_0",
           "product_name": "极炎魔兽因子*35",
           "product_id": [
             2400297,
             3927
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13983,
           "forever": 0,
           "id": 20275,
-          "opentime": 20231006,
+          "opentime": 1696521600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400298_35",
+          "petinfo": "0_0_0_0",
           "product_name": "极鳞魔兽因子*35",
           "product_id": [
             2400298,
             3935
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13984,
           "forever": 0,
           "id": 20276,
-          "opentime": 20231006,
+          "opentime": 1696521600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400299_35",
+          "petinfo": "0_0_0_0",
           "product_name": "极影魔兽因子*35",
           "product_id": [
             2400299,
             3961
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 14001,
           "forever": 0,
           "id": 20277,
-          "opentime": 20231006,
+          "opentime": 1696521600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400300_35",
+          "petinfo": "0_0_0_0",
           "product_name": "极岳魔兽因子*35",
           "product_id": [
             2400300,
             3962
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 14002,
           "forever": 0,
           "id": 20278,
-          "opentime": 20231006,
+          "opentime": 1696521600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400325_35",
+          "petinfo": "0_0_0_0",
           "product_name": "懒惰·斯洛斯因子*35",
           "product_id": [
             2400325,
             3966
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 14003,
           "forever": 0,
           "id": 20279,
-          "opentime": 20231229,
+          "opentime": 1703779200,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400342_35",
+          "petinfo": "0_0_0_0",
           "product_name": "蚀骨冰姬因子*35",
           "product_id": [
             2400342,
             3825
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 14004,
           "forever": 0,
           "id": 20280,
-          "opentime": 20240301,
+          "opentime": 1709222400,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400343_35",
+          "petinfo": "0_0_0_0",
           "product_name": "幽冥魅影因子*35",
           "product_id": [
             2400343,
             3828
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 14005,
           "forever": 0,
           "id": 20281,
-          "opentime": 20240301,
+          "opentime": 1709222400,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400201_30",
+          "petinfo": "0_0_0_0",
           "product_name": "艾斯德诺因子*30",
           "product_id": [
             2400201,
             3895
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 14006,
           "forever": 0,
           "id": 20282,
-          "opentime": 20220114,
+          "opentime": 1642089600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400199_30",
+          "petinfo": "0_0_0_0",
           "product_name": "圣辰之铠因子*30",
           "product_id": [
             2400199,
             4017
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13985,
           "forever": 0,
           "id": 20283,
-          "opentime": 20220114,
+          "opentime": 1642089600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400200_30",
+          "petinfo": "0_0_0_0",
           "product_name": "苏格尔因子*30",
           "product_id": [
             2400200,
             4082
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13986,
           "forever": 0,
           "id": 20284,
-          "opentime": 20220114,
+          "opentime": 1642089600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400204_30",
+          "petinfo": "0_0_0_0",
           "product_name": "核天使因子*30",
           "product_id": [
             2400204,
             4116
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13987,
           "forever": 0,
           "id": 20285,
-          "opentime": 20220114,
+          "opentime": 1642089600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400205_30",
+          "petinfo": "0_0_0_0",
           "product_name": "岩天使因子*30",
           "product_id": [
             2400205,
             4155
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13988,
           "forever": 0,
           "id": 20286,
-          "opentime": 20220114,
+          "opentime": 1642089600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400206_30",
+          "petinfo": "0_0_0_0",
           "product_name": "序天使因子*30",
           "product_id": [
             2400206,
             4165
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13989,
           "forever": 0,
           "id": 20287,
-          "opentime": 20220114,
+          "opentime": 1642089600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400221_35",
+          "petinfo": "0_0_0_0",
           "product_name": "萨里奥森因子*35",
           "product_id": [
             2400221,
             3745
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13990,
           "forever": 0,
           "id": 20288,
-          "opentime": 20230505,
+          "opentime": 1683216000,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400222_35",
+          "petinfo": "0_0_0_0",
           "product_name": "奥德迪斯因子*35",
           "product_id": [
             2400222,
             3947
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13991,
           "forever": 0,
           "id": 20289,
-          "opentime": 20230505,
+          "opentime": 1683216000,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400223_35",
+          "petinfo": "0_0_0_0",
           "product_name": "噬雷狂兽因子*35",
           "product_id": [
             2400223,
             3953
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13993,
           "forever": 0,
           "id": 20290,
-          "opentime": 20230505,
+          "opentime": 1683216000,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400224_35",
+          "petinfo": "0_0_0_0",
           "product_name": "伊诺美丽因子*35",
           "product_id": [
             2400224,
             3845
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13994,
           "forever": 0,
           "id": 20291,
-          "opentime": 20230505,
+          "opentime": 1683216000,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400448_35",
+          "petinfo": "0_0_0_0",
           "product_name": "魂王·暗翼影因子*35",
           "product_id": [
             2400448,
             3833
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13972,
           "forever": 0,
           "id": 20292,
-          "opentime": 20241122,
+          "opentime": 1732204800,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400449_35",
+          "petinfo": "0_0_0_0",
           "product_name": "魂王·无烬梦因子*35",
           "product_id": [
             2400449,
             3830
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13973,
           "forever": 0,
           "id": 20293,
-          "opentime": 20241122,
+          "opentime": 1732204800,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400181_35",
+          "petinfo": "0_0_0_0",
           "product_name": "伽玛·鬼雀因子*35",
           "product_id": [
             2400181,
             3887
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13974,
           "forever": 0,
           "id": 20294,
-          "opentime": 20220114,
+          "opentime": 1642089600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400182_35",
+          "petinfo": "0_0_0_0",
           "product_name": "伽玛·夜煞因子*35",
           "product_id": [
             2400182,
             3893
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13975,
           "forever": 0,
           "id": 20295,
-          "opentime": 20220114,
+          "opentime": 1642089600,
           "product_price": 1,
           "shopkind": 5
         },
         {
+          "commodity": "1_2400183_35",
+          "petinfo": "0_0_0_0",
           "product_name": "伽玛·悍刀因子*35",
           "product_id": [
             2400183,
             3876
           ],
           "batch": 20,
-          "endtime": 20281231,
+          "endtime": 1861891199,
           "exchange_id": 13976,
           "forever": 0,
           "id": 20296,
-          "opentime": 20220114,
+          "opentime": 1642089600,
           "product_price": 1,
           "shopkind": 5
         }
       ],
-      "endday": "10/16",
-      "endtime": "2026/10/16",
-      "openday": "9/11"
+      "endday": "11/27",
+      "endtime": "2026/11/27",
+      "openday": "10/16"
     }
   }
 }

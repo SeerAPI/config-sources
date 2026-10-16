@@ -5568,6 +5568,27 @@
     },
     {
       "curr_app_do": 1,
+      "id": 916,
+      "is_full_screen": 1,
+      "module_name": "aolan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 917,
+      "is_full_screen": 0,
+      "module_name": "getHySkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 918,
+      "is_full_screen": 1,
+      "module_name": "aosilan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
       "module_name": "zuma",
@@ -6635,6 +6656,76 @@
       "id": 1238,
       "is_full_screen": 1,
       "module_name": "farSkyFallingStageMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1239,
+      "is_full_screen": 1,
+      "module_name": "SignInRewardStarBeanPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1240,
+      "is_full_screen": 1,
+      "module_name": "trainGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1241,
+      "is_full_screen": 1,
+      "module_name": "bargainKingMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1242,
+      "is_full_screen": 1,
+      "module_name": "treasureOfKukuSharkPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1243,
+      "is_full_screen": 1,
+      "module_name": "henanTravelSubsidy",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1244,
+      "is_full_screen": 1,
+      "module_name": "xfhty",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1245,
+      "is_full_screen": 1,
+      "module_name": "lingyaoqianyouSkinSell1st",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1246,
+      "is_full_screen": 1,
+      "module_name": "jiaguwenGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1247,
+      "is_full_screen": 1,
+      "module_name": "centralPlains",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1248,
+      "is_full_screen": 1,
+      "module_name": "csdwmainpanel",
       "res_config": []
     }
   ]

@@ -191,7 +191,7 @@
     },
     {
       "channel": "",
-      "endtime": 1785463200,
+      "endtime": 1793325600,
       "id": 19,
       "isshow": 1,
       "starttime": 0,
@@ -3886,7 +3886,7 @@
     },
     {
       "channel": "",
-      "endtime": 1792079880,
+      "endtime": 1793325600,
       "id": 356,
       "isshow": 1,
       "starttime": 0,
@@ -4633,6 +4633,67 @@
       "starttime": 0,
       "subset": [],
       "subtype": 2,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "endtime": 1792720800,
+      "id": 425,
+      "isshow": 1,
+      "starttime": 0,
+      "subset": [
+        150590,
+        150591,
+        150592,
+        150593,
+        150594,
+        150595,
+        150596
+      ],
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "channel": "",
+      "endtime": 1792720800,
+      "id": 426,
+      "isshow": 1,
+      "starttime": 1792116000,
+      "subset": [
+        150597,
+        150598
+      ],
+      "subtype": 0,
+      "type": 2
+    },
+    {
+      "channel": "",
+      "endtime": 1792720800,
+      "id": 427,
+      "isshow": 1,
+      "starttime": 0,
+      "subset": [],
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "endtime": 1793894400,
+      "id": 428,
+      "isshow": 1,
+      "starttime": 0,
+      "subset": [],
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "endtime": 1793325600,
+      "id": 429,
+      "isshow": 1,
+      "starttime": 0,
+      "subset": [],
+      "subtype": 1,
       "type": 1
     },
     {
@@ -5423,7 +5484,8 @@
         418,
         419,
         420,
-        421
+        421,
+        427
       ],
       "subtype": 0,
       "type": 2
@@ -5532,7 +5594,8 @@
         314,
         337,
         364,
-        396
+        396,
+        429
       ],
       "subtype": 0,
       "type": 2
@@ -5621,7 +5684,8 @@
         355,
         374,
         393,
-        394
+        394,
+        428
       ],
       "subtype": 0,
       "type": 2
@@ -9689,7 +9753,7 @@
     },
     {
       "channel": "",
-      "endtime": 1784217600,
+      "endtime": 1799337600,
       "id": 150323,
       "isshow": 1,
       "starttime": 0,
@@ -12440,6 +12504,96 @@
       "starttime": 0,
       "subset": [],
       "subtype": 1,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "endtime": 1792720800,
+      "id": 150590,
+      "isshow": 1,
+      "starttime": 0,
+      "subset": [],
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "endtime": 1792720800,
+      "id": 150591,
+      "isshow": 1,
+      "starttime": 0,
+      "subset": [],
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "endtime": 1792720800,
+      "id": 150592,
+      "isshow": 1,
+      "starttime": 1792166400,
+      "subset": [],
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "endtime": 1792720800,
+      "id": 150593,
+      "isshow": 1,
+      "starttime": 1792252800,
+      "subset": [],
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "endtime": 1792720800,
+      "id": 150594,
+      "isshow": 1,
+      "starttime": 1792339200,
+      "subset": [],
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "endtime": 1792720800,
+      "id": 150595,
+      "isshow": 1,
+      "starttime": 1792425600,
+      "subset": [],
+      "subtype": 2,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "endtime": 1792720800,
+      "id": 150596,
+      "isshow": 1,
+      "starttime": 0,
+      "subset": [],
+      "subtype": 1,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "endtime": 1792720800,
+      "id": 150597,
+      "isshow": 1,
+      "starttime": 1792116000,
+      "subset": [],
+      "subtype": 1,
+      "type": 1
+    },
+    {
+      "channel": "",
+      "endtime": 1792720800,
+      "id": 150598,
+      "isshow": 1,
+      "starttime": 1792116000,
+      "subset": [],
+      "subtype": 4,
       "type": 1
     },
     {
