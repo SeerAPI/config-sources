@@ -103596,6 +103596,54 @@
 		</ExtraMoves>
 	</Monster>
 	
+	<Monster ID="4957" DefName="凯亚" Type="102" GrowthType="4" HP="166" Atk="70" Def="114" SpAtk="147" SpDef="106" Spd="132" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="2" PetClass="3618" FormParam="0" CharacterAttrParam="4" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10157" LearningLv="1"/>
+			<Move ID="20491" LearningLv="5"/>
+			<Move ID="10629" LearningLv="9"/>
+			<Move ID="21153" LearningLv="13"/>
+			<Move ID="11531" LearningLv="17"/>
+			<Move ID="38600" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="22020" LearningLv="25"/>
+			<Move ID="11025" LearningLv="29"/>
+			<Move ID="22052" LearningLv="33"/>
+			<Move ID="33057" LearningLv="37"/>
+			<Move ID="26617" LearningLv="41"/>
+			<Move ID="34255" LearningLv="45"/>
+			<Move ID="29486" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="34256" LearningLv="53"/>
+			<Move ID="29487" LearningLv="57" Rec="1" Tag="3"/>
+			<Move ID="38601" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38602" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+	
+	<Monster ID="4958" DefName="灵釉花口瓶" Type="24" GrowthType="4" HP="151" Atk="70" Def="105" SpAtk="143" SpDef="103" Spd="128" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="0" PetClass="3619" FormParam="0" CharacterAttrParam="4" GradeParam="3" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="38603" LearningLv="1" Rec="1" Tag="1"/>
+			<Move ID="29488" LearningLv="5" Rec="1" Tag="2"/>
+			<Move ID="29489" LearningLv="9" Rec="1" Tag="3"/>
+			<Move ID="38604" LearningLv="13" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38605" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+	
+	<Monster ID="4959" DefName="铸元正鼎" Type="71" GrowthType="4" HP="180" Atk="120" Def="110" SpAtk="70" SpDef="110" Spd="110" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="0" PetClass="3620" FormParam="0" CharacterAttrParam="0" GradeParam="3" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="38606" LearningLv="1" Rec="1" Tag="1"/>
+			<Move ID="29490" LearningLv="5" Rec="1" Tag="2"/>
+			<Move ID="29491" LearningLv="9" Rec="1" Tag="3"/>
+			<Move ID="38607" LearningLv="13" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38608" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+	
 	<Monster ID="4995" DefName="镇世神岳·玄武" Type="37" GrowthType="4" HP="125" Atk="100" Def="120" SpAtk="95" SpDef="120" Spd="90" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3656" FormParam="0" CharacterAttrParam="0" GradeParam="5" AddSeParam="1" Resist="1">
 		<LearnableMoves>
 			<Move ID="11141" LearningLv="1"/>
@@ -117009,6 +117057,9 @@
   <Monster ID="1400880" DefName="苍蓝幻想·伊芙" RealId=""/>
   <Monster ID="1400881" DefName="戾虐鏖杀·特罗斯" RealId=""/>
   <Monster ID="1400882" DefName="恶戏前奏·花寅" RealId=""/>
+  <Monster ID="1400883" DefName="甘落清心·欧根尼克" RealId=""/>
+  <Monster ID="1400884" DefName="鼎镇绛河·嬴政" RealId=""/>
+  <Monster ID="1400885" DefName="坎贝尔" RealId="1804"/>
 
 
 </Monsters>

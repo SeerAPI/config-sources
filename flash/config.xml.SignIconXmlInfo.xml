@@ -248,11 +248,11 @@ sort标记展示序列 1为自己给自己的效果 2为队友给自己的效果
 	<item id="211" dec="灿之加护" tips="灿之加护" spicon="1_1 2_2" className="*" sort="4" isShowNum="0" Des="回合结束时，己方在场精灵解除所处的混乱、麻痹，解除成功时若奥斯卡不在场则此效果失效直到奥斯卡登场，若在场则下回合奥斯卡先制+1"/>
 	<item id="212" dec="混沌魔眼" tips="混沌魔眼" className="*" sort="4" isShowNum="0" Des="己方含有混沌系的技能获得本系加成；己方精灵每次在场首次执行诅咒状态附加效果时概率提升至100%，之后概率下降至0%，其受到技能伤害时重置"/>
 	<item id="213" dec="堕灵神谕" tips="堕灵神谕" className="*" sort="4" isShowNum="0" Des="己方随机附加异常状态时，若范围中存在诅咒，则改为从诅咒类状态中进行随机，且随机附加的种数+1"/>
-	<item id="214" dec="八方真武帝" tips="八方真武帝" className="*" sort="1" isShowNum="1" NumDes="剩余回合" frame="0_0 1_1 2_2 3_3" Des="自身所有技能必定命中且强制执行命中效果；自身免疫受到的攻击伤害、属性伤害、固定伤害、百分比伤害" showmonster="0_4995_0_1"/>
-	<item id="215" dec="八方真武帝" tips="八方真武帝" className="*" sort="1" isShowNum="0" NumDes="" frame="0_0 1_1" Des="自身所有技能必定命中且强制执行命中效果；自身免疫受到的攻击伤害、属性伤害、固定伤害、百分比伤害" showmonster="0_4995_0_1"/>
+	<item id="214" dec="八方真武帝" tips="八方真武帝" className="*" sort="1" isShowNum="1" NumDes="剩余回合" frame="1_1 2_2 3_3" Des="自身所有技能必定命中且强制执行命中效果；自身免疫受到的攻击伤害、属性伤害、固定伤害、百分比伤害" showmonster="0_4995_0_1"/>
+	<item id="215" dec="八方真武帝" tips="八方真武帝" className="*" sort="1" isShowNum="0" NumDes="" frame="1_1" Des="自身所有技能必定命中且强制执行命中效果；自身免疫受到的攻击伤害、属性伤害、固定伤害、百分比伤害" showmonster="0_4995_0_1"/>
 	<item id="216" dec="弥沦之镜" tips="弥沦之镜" className="*" sort="1" isShowNum="1" NumDes="当前面数" frame="0_0 1_1 2_2 3_3 4_4" Des="自身单项能力的等级低于对手时，对手此能力每有1级提升，自身此能力视为拥有+1的能力等级效果，最低为弥沦之镜的面数；最多4面" showmonster="0_3432_0_1"/>
 	<item id="217" dec="没夜之月" tips="没夜之月" className="*" sort="1" isShowNum="1" NumDes="剩余回合数" Des="回合开始时，每有1回合，没夜之月为己方在场精灵附加1回合魇昧；己方在场精灵无法对柯尔霍德附加非限制类异常状态；消失时解除自身所处的魇昧；最多5回合"/>
-	<item id="218" dec="气吞山河" tips="气吞山河" className="*" sort="1" isShowNum="1" NumDes="当前层数" frame="0_0 1_1 2_2 3_3 4_4 5_5" Des="每有1层，自身受到的攻击伤害减少20%、造成的攻击伤害提升20%；每回合最多获得1层，最高5层，达到5层时本场战斗自身拥有八方真武帝；下场保留" showmonster="0_4995_0_1"/>
+	<item id="218" dec="气吞山河" tips="气吞山河" className="*" sort="1" isShowNum="1" NumDes="当前层数" frame="1_1 2_2 3_3 4_4 5_5" Des="每有1层，自身受到的攻击伤害减少20%、造成的攻击伤害提升20%；每回合最多获得1层，最高5层，达到5层时本场战斗自身拥有八方真武帝；下场保留" showmonster="0_4995_0_1"/>
 	<item id="219" dec="不武" tips="不武" className="*" sort="4" isShowNum="1" NumDes="当前分数" Des="己方获得的当回合结束后消除己方在场精灵的回合类效果、能力提升状态并令其害怕；不武额外视为武道；上限4分"/>
 	<item id="220" dec="副位·帝皇之御" tips="副位·帝皇之御" className="*" sort="1" isShowNum="1" NumDes="剩余体力" Des="帝皇之戎每造成300点伤害，回合结束时令对手进入1种非限制类的控制类异常状态"/>
 	<item id="221" dec="副位·帝皇之钺" tips="副位·帝皇之钺" className="*" sort="1" isShowNum="1" NumDes="剩余体力" Des="帝皇之戎登场时，解除双方所处的异常状态、2回合内免疫受到的异常状态且所有技能先制+2"/>

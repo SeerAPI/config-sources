@@ -213,9 +213,9 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4955" ImageID= "4955" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4956" ImageID= "4956" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <!-- <place type= "0" ID="4953" ImageID= "4953" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "0" ID="4957" ImageID= "4957" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4958" ImageID= "4958" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4959" ImageID= "4959" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4954" ImageID= "4954" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4911" ImageID= "4911" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,10 +255,10 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="879" monID="4956" ImageID= "1400879" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="880" monID="4816" ImageID= "1400880" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "1" ID="881" monID="4401" ImageID= "1400881" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "1" ID="882" monID="4353" ImageID= "1400882" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="883" monID="4605" ImageID= "1400883" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="884" monID="4468" ImageID= "1400884" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "1" ID="885" monID="4215" ImageID= "1400885" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <!-- <place type= "1" ID="882" monID="4353" ImageID= "1400882" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="847" monID="4911" ImageID= "1400846" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="842" monID="4909" ImageID= "1400842" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="747" monID="4676" ImageID= "1400747" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -3191,7 +3191,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="2870" DefName="雷锘" Type="电 战斗" Height="182" Weight="122" Features="雷伊的哥哥！雷神一族的直系血脉传承。没有人知道雷神一族的使命，但所有精灵都将见证他们创造的伟大时代!" mapID="10938"/>
 	<Monster ID="2871" DefName="雷魂·雷锘" Type="电 战斗" Height="185" Weight="142" Features="雷锘超进化形态！雷神之翼带来的天威之力，是雷神一族最强大的标志。天威雷霆之力，创造出毁灭所有阴影的雷霆之魂!" mapID="10938"/>
 	<Monster ID="2872" DefName="圣能·生命" Type="飞行 光" Height="156" Weight="55" Features="生命圣殿守卫！在长期圣灵能量的浸染之下，感悟到生命的起源能流动的神奇精灵!" mapID="1109"/>
-	<Monster ID="2873" DefName="圣光灵皇" Type="圣灵 远古" Height="182" Weight="74" Features="2015年年费精灵圣光灵王的超进化形态，所有的力量全部得到了惊人的提升！斩魔神，驱暗影，他就是圣光的最强审判者!" mapID="1"/>
+	<Monster ID="2873" DefName="圣光灵皇" Type="圣灵 远古" Height="182" Weight="74" Features="2015年年费精灵圣光灵王的超进化形态，所有的力量全部得到了惊人的提升！斩魔神，驱暗影，他就是圣光的最强审判者!" mapID="1" Target="114156"/>
 	<Monster ID="2874" DefName="花皮" Type="普通" Height="124" Weight="25" Features="流氓狗狗！叼着一只玫瑰，喜欢漂亮的猫咪!" mapID="1099"/>
 	<Monster ID="2875" DefName="圣能·轮回" Type="远古" Height="162" Weight="43" Features="轮回圣殿的守卫！领悟万物轮回循环，天地大道。帮助谱尼继续觉醒!" mapID="1111"/>
 	<Monster ID="2876" DefName="镰翼金乌" Type="飞行" Height="128" Weight="80" Features="巨镰鸟超进化形态！高空塔的神奇电流造成了进化的开启!"/>
@@ -3791,7 +3791,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3481" DefName="圣战盖亚" Type="圣灵 战斗" Height="188" Weight="78" Features="接受了谱尼圣灵力量之后，盖亚的战斗实力得到了质的提升，将与自己的哥哥一同对抗奥古斯特！" mapID="1258" jumptarget="204" Target="150054"/>
 	<Monster ID="3482" DefName="圣战瑞尔斯" Type="圣灵 战斗" Height="190" Weight="76" Features="斗天武神瑞尔斯和盖亚一样接受了圣灵的力量，在对抗奥古斯特的过程中，他将成为最重要的战力之一！" mapID="1" Target="150086"/>
 	<Monster ID="3483" DefName="锁魂领主" Type="暗影" Height="170" Weight="70" Features="来自千魂要塞的精英部队，手中的巨锤吸收过无数魂魄的力量！" mapID="1258" jumptarget="56/3_6" Target="140001"/>
-	<Monster ID="3484" DefName="奥兰" Type="神秘" Height="180" Weight="80" Features="来自神秘冥域的精灵，据说他身负重要的消息从冥域逃出，是一个十分神秘的精灵" mapID="1259"/>
+	<Monster ID="3484" DefName="奥兰" Type="神秘" Height="180" Weight="80" Features="来自神秘冥域的精灵，据说他身负重要的消息从冥域逃出，是一个十分神秘的精灵" mapID="1259" Target="150152"/>
 	<Monster ID="3485" DefName="玲灵" Type="光 次元" Height="170" Weight="70" Features="拥有可爱外表和华丽翅膀的精灵，外表美丽的她却拥有神奇而又惊人的战斗能力！" mapID="103"/>
 	<Monster ID="3486" DefName="破灵箭神" Type="冰 光" Height="170" Weight="70" Features="拥有精准箭技的箭神，手中灵力汇聚而成的长弓能够破除绝大部分精灵的防御！" mapID="103"/>
 	<Monster ID="3487" DefName="希娅" Type="光 战斗" Height="170" Weight="70" Features="手握长剑的光明战士，耀眼的光芒从她身上散发而出，如同她恐怖的战斗力一般！"/>
@@ -3801,7 +3801,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3491" DefName="梦天睡神·修普诺斯" Type="地面 暗影" Height="196" Weight="84" Features="修普诺斯的完全体形态，进入完全体的修普诺斯开始做一个很长很长的梦，梦里，有天，有地，有宇宙的万物！" mapID="103"/>
 	<Monster ID="3492" DefName="冥王·断空烈" Type="光 飞行" Height="180" Weight="80" Features="冥王断空的完全体形态，随着冥域的开放，冥王断空在冥域中得到的力量也开始展现出来！" mapID="1260"/>
 	<Monster ID="3493" DefName="摩洛克" Type="机械 龙" Height="180" Weight="80" Features="魔誓者的战龙，全身上下都装备了魔誓者的最尖端科技，是战斗在一线的装甲龙族！" mapID="1260" jumptarget="56/3_6" Target="140001"/>
-	<Monster ID="3494" DefName="奥斯兰" Type="神秘" Height="180" Weight="80" Features="奥兰的超进化形态，超进化的他掌握了新的神秘力量，将在冥域大展拳脚！" mapID="1261"/>
+	<Monster ID="3494" DefName="奥斯兰" Type="神秘" Height="180" Weight="80" Features="奥兰的超进化形态，超进化的他掌握了新的神秘力量，将在冥域大展拳脚！" mapID="1261" Target="150153"/>
 	<Monster ID="3495" DefName="巴鲁格" Type="远古 草" Height="180" Weight="80" Features="远古就存在的生命守护者，职责是守护生灵的生存与繁衍，所有破坏生灵的敌人都会被他击败！" mapID="103"/>
 	<Monster ID="3496" DefName="冥王·夜刃绝" Type="暗影 神秘" Height="186" Weight="72" Features="冥王夜刃的完全体形态，不仅外形变得更加酷炫，能力和力量都达到了前所未有的巅峰！" mapID="1261"/>
 	<Monster ID="3497" DefName="破军战皇" Type="地面 战斗" Height="180" Weight="80" Features="战皇的完全体形态，作为大地上少有的战斗强者，这一次他的力量将再次让大地颤抖！" mapID="1261"/>
@@ -5255,6 +5255,9 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4954" DefName="神代·布布种子" Type="远古 草" Height="52" Weight="18" Features="神秘的远古之力似乎与赛尔产生了共鸣，神代·布布种子由此被召唤而来，成为赛尔最忠诚的伙伴。" Redirect="module" Go="app/FinalActivityPanel" Target="520011"/>
 	<Monster ID="4955" DefName="霍努努" Type="水 战斗" Height="244" Weight="158" Features="霍努努是凯亚召唤出来的第一只精灵，它性格温柔，总是一副好脾气的样子。虽然在岸上移动的速度很慢，但在水中非常灵活。是凯亚的好伙伴。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/1015"/>
 	<Monster ID="4956" DefName="珀萝" Type="暗影 圣灵" Height="159" Weight="40" Features="无论多少次预演，都达不到完美。路线、时间、凶器、证明，她不断地构想、无限地演练，只为让那混色的魔女血债血偿。推理的世界里，作者是凶手的共犯；在现实的世界里，墨渍是鲜血的前言。"  Redirect="module" Go="app/FinalActivityPanel" Target="200000"/>
+	<Monster ID="4957" DefName="凯亚" Type="超能 光" Height="164" Weight="45" Features="凯亚来自拉卡伊的阿塔富岛。她自学成才，理想是成为一名真正的精灵召唤师，站上海瓦斗技场的舞台。"  Redirect="module" Go="app/FinalActivityPanel" Target="153201/1018"/>
+	<Monster ID="4958" DefName="灵釉花口瓶" Type="水 超能" Height="64" Weight="3" Features="中原大地上彩瓷窑中瓷瓶所化形的精灵，富有灵气，对待它记得轻拿轻放哦。"  Redirect="module" Go="app/FinalActivityPanel" Target="114151"/>
+	<Monster ID="4959" DefName="铸元正鼎" Type="远古 神秘" Height="76" Weight="100" Features="中原大地上圣鼎所化形的精灵，机灵古怪，可别被它的外貌给骗了哦。"  Redirect="module" Go="app/FinalActivityPanel" Target="114151"/>
 	<Monster ID="4995" DefName="镇世神岳·玄武" Type="机械 地面" Height="380" Weight="1500" Features="玄武，帕诺的远古神兽、大地的守护者——他曾以伟岸之躯抵御世间最凶猛的灾厄，碎为戈拉后以钢铁新壳归来，仍在守护帕诺之夜。" Redirect="module" Go="app/FinalActivityPanel" Target="150145"/>
 
 </root>

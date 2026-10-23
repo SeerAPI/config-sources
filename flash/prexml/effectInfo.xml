@@ -363,7 +363,7 @@
 	<Effect id="520" argsNum="1" info="有{0}%的概率使自己害怕" analyze="[sprite name=iconHit]有{0}%的概率使自己[color=#57c975]害怕[/color]（boss有效）"/>
 	<Effect id="521" argsNum="0" info="反转自身能力下降状态" analyze="[sprite name=iconHit]反转自身能力下降状态（boss有效）"/>
 	<Effect id="522" argsNum="2" info="{0}回合内若自身处于异常状态则受到伤害减少{1}点" analyze="[sprite name=iconHit]{0}回合内若自身处于异常状态则受到伤害减少{1}点（boss有效）"/>
-	<Effect id="523" argsNum="6" info="攻击结束时自身{0}" param="0,0,0" analyze="[sprite name=iconHit]攻击结束时自身{0}（boss有效）"/>
+	<Effect id="523" argsNum="6" info="行动结束时自身{0}" param="0,0,0" analyze="[sprite name=iconHit]行动结束时自身{0}（boss有效）"/>
 	<Effect id="524" argsNum="2" info="{0}回合内若被对手击败则对手疲惫{1}回合" analyze="[sprite name=iconHit]{0}回合内若被对手[color=#57c975]击败[/color]则对手[color=#57c975]疲惫[/color]{1}回合（boss有效）"/>
 	<Effect id="525" argsNum="2" info="{0}回合内有{1}%概率免疫对手的攻击伤害" analyze="[sprite name=iconHit]{0}回合内有{1}%概率[color=#52a5f2]免疫对手的攻击[/color]伤害"/>
 	<Effect id="526" argsNum="2" info="{0}回合内若对手成功使用属性技能则受到{1}点固定伤害" analyze="[sprite name=iconHit]{0}回合内若对手成功使用属性技能则受到{1}点[color=#52a5f2]固定伤害[/color]（boss有效）"/>
@@ -379,7 +379,7 @@
 	<Effect id="536" argsNum="1" info="若当次攻击击败对手，恢复对手体力上限1/{0}的体力" analyze="[sprite name=iconHit]若当次攻击[color=#57c975]击败[/color]对手，恢复对手体力上限1/{0}的体力（boss有效）"/>
 	<Effect id="537" argsNum="6" info="自身攻击{0}，若对手处于能力提升状态则强化效果翻倍" param="0,0,0" analyze="[sprite name=iconHit]自身攻击{0}，若对手处于能力提升状态则强化效果翻倍（boss有效）"/>
 	<Effect id="538" argsNum="6" info="消除对手能力提升状态，若消除成功则自身{0}" param="0,0,0" analyze="[sprite name=iconHit]消除对手能力提升状态，若消除成功则自身{0}（boss有效）"/>
-	<Effect id="539" argsNum="0" info="对手处于能力提升状态时先制额外+1且威力翻倍" analyze="[sprite name=iconComp]对手处于能力提升状态时[sprite name=iconInherent] [color=#52a5f2]先制[/color]额外+1且[sprite name=iconHit] [color=#52a5f2]威力[/color]翻倍（boss有效）" type="3"/>
+	<Effect id="539" argsNum="0" info="对手处于能力提升状态时先制额外+1且威力翻倍" analyze="[sprite name=iconComp]对手处于能力提升状态时[color=#52a5f2]先制[/color]额外+1且[color=#52a5f2]威力[/color]翻倍（boss有效）" type="3"/>
 	<Effect id="540" argsNum="1" info="若后出手则下{0}回合攻击必定致命一击" analyze="[sprite name=iconHit]若后出手则下{0}回合攻击必定[color=#52a5f2]致命一击[/color]（boss有效）"/>
 	<Effect id="541" argsNum="2" info="造成的攻击伤害若低于{0}则恢复自身{1}点体力" analyze="[sprite name=iconHit]造成的攻击伤害若低于{0}则恢复自身{1}点体力（boss有效）"/>
 	<Effect id="542" argsNum="1" info="对手每处于一种能力下降状态时附加{0}点固定伤害" analyze="[sprite name=iconHit]对手每处于一种能力下降状态时附加{0}点[color=#52a5f2]固定伤害[/color]（boss有效）"/>
@@ -1303,7 +1303,7 @@
 	<Effect id="1462" argsNum="2" info="{0}回合内每回合使用技能附加{1}点固定伤害，附加时若自身不处于能力提升状态则固定伤害翻倍" analyze="[sprite name=iconHit]{0}回合内每回合使用技能附加{1}点[color=#52a5f2]固定伤害[/color]，附加时若自身不处于能力提升状态则[color=#52a5f2]固定伤害[/color]翻倍（boss有效）"/>
 	<Effect id="1463" argsNum="0" info="先出手时本回合自身下次死亡时恢复全部体力并解除自身的异常状态和能力下降状态" analyze="[sprite name=iconHit]先出手时本回合自身下次死亡时恢复全部体力并解除自身的异常状态和能力下降状态"/>
 	<Effect id="1464" argsNum="3" info="当回合攻击击败对手时，若对手处于{0}状态则{1}%令对手下1只出场精灵{2}" param="1,0,0|1,2,2" analyze="[sprite name=iconHit][color=#52a5f2]当回合[/color]攻击[color=#57c975]击败[/color]对手时，若对手处于[color=#57c975]{0}[/color]状态则{1}%令对手下1只出场精灵[color=#57c975]{2}[/color]"/>
-	<Effect id="1465" argsNum="1" info="先出手时50%的概率打出致命一击，未触发则令对手全属性-{0}" analyze="[sprite name=iconComp]先出手时[sprite name=iconInherent] 50%的概率打出[color=#52a5f2]致命一击[/color]，[color=#52a5f2]未触发[/color]则[sprite name=iconHit] 令对手[color=#52a5f2]全属性[/color]-{0}（boss有效）" type="3"/>
+	<Effect id="1465" argsNum="1" info="先出手时50%的概率打出致命一击，未触发则令对手全属性-{0}" analyze="[sprite name=iconComp]先出手时50%的概率打出[color=#52a5f2]致命一击[/color]，[color=#52a5f2]未触发[/color]则令对手[color=#52a5f2]全属性[/color]-{0}（boss有效）" type="3"/>
 	<Effect id="1466" argsNum="3" info="{0}回合内若对手攻击技能未命中则{1}%令对手{2}" param="1,2,2" analyze="[sprite name=iconHit]{0}回合内若对手攻击技能未命中则{1}%令对手[color=#57c975]{2}[/color]"/>
 	<Effect id="1467" argsNum="2" info="随机使自身{0}项能力值+{1}，先出手时提升效果翻倍" analyze="[sprite name=iconHit]随机使自身{0}项能力值+{1}，先出手时提升效果翻倍（boss有效）"/>
 	<Effect id="1468" argsNum="2" info="消除双方能力提升状态、能力下降状态和护盾效果，消除任意一项成功则附加{0}点固定伤害且令对手随机{1}个技能PP值归零" analyze="[sprite name=iconHit]消除双方能力提升状态、能力下降状态和[color=#57c975]护盾[/color]效果，消除任意一项成功则附加{0}点[color=#52a5f2]固定伤害[/color]且令对手随机{1}个技能PP值归零"/>
@@ -1813,8 +1813,8 @@
 	<Effect id="1973" argsNum="0" info="若自身未持有拥君之盾则开启拥君之盾，若自身未持有绝缘之罩则开启绝缘之罩" sp="1" analyze="[sprite name=iconHit]若自身未持有[color=#f35555]拥君之盾[/color]则开启[color=#f35555]拥君之盾[/color]，若自身未持有[color=#f35555]绝缘之罩[/color]则开启[color=#f35555]绝缘之罩[/color]"/>
 	<Effect id="1974" argsNum="0" info="消除对手能力提升状态，消除成功则恢复自身所有技能PP值" analyze="[sprite name=iconHit]消除对手能力提升状态，消除成功则恢复自身所有技能PP值"/>
 	<Effect id="1975" argsNum="4" info="{0}回合内{1}%闪避对手攻击，对手攻击技能命中时随机附加{2}、{3}中的1种异常状态" param="1,2,2|1,3,3" analyze="[sprite name=iconHit]{0}回合内{1}%闪避对手攻击，对手攻击技能命中时随机附加[color=#57c975]{2}[/color]、[color=#57c975]{3}[/color]中的1种异常状态"/>
-	<Effect id="1976" argsNum="0" info="自身持有拥君之盾时先制+1且造成的攻击伤害翻倍" sp="1" analyze="[sprite name=iconComp]自身持有[color=#f35555]拥君之盾[/color]时[sprite name=iconInherent] [color=#52a5f2]先制[/color]+1且[sprite name=iconHit] 造成的攻击伤害翻倍" type="3"/>
-	<Effect id="1977" argsNum="1" info="自身持有绝缘之罩时先制+1且附加自身最大体力1/{0}的百分比伤害" sp="1" analyze="[sprite name=iconComp]自身持有[color=#f35555]绝缘之罩[/color]时[sprite name=iconInherent] [color=#52a5f2]先制[/color]+1且[sprite name=iconHit] 附加自身最大体力1/{0}的[color=#52a5f2]百分比伤害[/color]" type="3"/>
+	<Effect id="1976" argsNum="0" info="自身持有拥君之盾时先制+1且造成的攻击伤害翻倍" sp="1" analyze="[sprite name=iconComp]自身持有[color=#f35555]拥君之盾[/color]时[color=#52a5f2]先制[/color]+1且造成的攻击伤害翻倍" type="3"/>
+	<Effect id="1977" argsNum="1" info="自身持有绝缘之罩时先制+1且附加自身最大体力1/{0}的百分比伤害" sp="1" analyze="[sprite name=iconComp]自身持有[color=#f35555]绝缘之罩[/color]时[color=#52a5f2]先制[/color]+1且附加自身最大体力1/{0}的[color=#52a5f2]百分比伤害[/color]" type="3"/>
 	<Effect id="1978" argsNum="3" info="消除对手能力提升状态，消除成功则{0}%令对手{1}，未触发则附加自身最大体力1/{2}的百分比伤害" param="1,1,1" analyze="[sprite name=iconHit]消除对手能力提升状态，消除成功则{0}%令对手[color=#57c975]{1}[/color]，[color=#52a5f2]未触发[/color]则附加自身最大体力1/{2}的[color=#52a5f2]百分比伤害[/color]"/>
 	<Effect id="1979" argsNum="0" info="消耗自身全部体力，消除对手回合类效果，消除成功则令己方下只精灵出战时恢复全部体力，消除对手能力提升状态，消除成功则令己方下只精灵出战时恢复所有技能PP值" analyze="[sprite name=iconHit]消耗自身全部体力，消除对手[color=#52a5f2]回合类效果[/color]，消除成功则令[color=#52a5f2]己方[/color]下只精灵[color=#57c975]出战时[/color]恢复全部体力，消除对手能力提升状态，消除成功则令[color=#52a5f2]己方[/color]下只精灵[color=#57c975]出战时[/color]恢复所有技能PP值"/>
 	<Effect id="1980" argsNum="2" info="造成的攻击伤害若低于{0}则{1}回合内免疫并反弹自身受到的异常状态" analyze="[sprite name=iconHit]造成的攻击伤害若低于{0}则{1}回合内免疫并[color=#52a5f2]反弹[/color]自身受到的异常状态"/>
@@ -1916,7 +1916,7 @@
 	<Effect id="2076" argsNum="4" info="{0}回合内使用技能吸取对手最大体力的1/{1}，自身体力低于1/{2}时效果翻倍，吸取后若对手体力未减少则为己方所有场下存活精灵恢复{3}点体力" analyze="[sprite name=iconHit]{0}回合内使用技能[color=#52a5f2]吸取[/color]对手最大体力的1/{1}，自身体力低于1/{2}时效果翻倍，[color=#52a5f2]吸取[/color]后若对手体力未减少则为[color=#52a5f2]己方[/color]所有场下存活精灵恢复{3}点体力"/>
 	<Effect id="2077" argsNum="4" info="{0}回合内使用技能吸取对手{1}点体力，自身体力低于1/{2}时效果翻倍，吸取后若对手体力减少值低于180则附加{3}点真实伤害与1层自身所处形态相应的圣诰/邪诲" sp="1" analyze="[sprite name=iconHit]{0}回合内使用技能[color=#52a5f2]吸取[/color]对手{1}点体力，自身体力低于1/{2}时效果翻倍，[color=#52a5f2]吸取[/color]后若对手体力减少值低于180则附加{3}点[color=#52a5f2]真实伤害[/color]与1层自身所处形态相应的[color=#f35555]圣诰[/color]/[color=#f35555]邪诲[/color]"/>
 	<Effect id="2078" argsNum="1" info="吸取对手{0}点体力，吸取后若对手体力减少值低于180则为对手附加1层自身所处形态相反的圣诰/邪诲" sp="1" analyze="[sprite name=iconHit][color=#52a5f2]吸取[/color]对手{0}点体力，[color=#52a5f2]吸取[/color]后若对手体力减少值低于180则为对手附加1层自身所处形态相反的[color=#f35555]圣诰[/color]/[color=#f35555]邪诲[/color]"/>
-	<Effect id="2079" argsNum="0" info="对手处于护盾状态时先制+1且无视对手护盾效果" analyze="[sprite name=iconComp]对手处于[color=#57c975]护盾[/color]状态时[sprite name=iconInherent] [color=#52a5f2]先制[/color]+1且[sprite name=iconHit] 无视对手[color=#57c975]护盾[/color]效果" type="3"/>
+	<Effect id="2079" argsNum="0" info="对手处于护盾状态时先制+1且无视对手护盾效果" analyze="[sprite name=iconComp]对手处于[color=#57c975]护盾[/color]状态时[color=#52a5f2]先制[/color]+1且无视对手[color=#57c975]护盾[/color]效果" type="3"/>
 	<Effect id="2080" argsNum="1" info="自身处于护盾状态时威力提升{0}%" analyze="[sprite name=iconHit]自身处于[color=#57c975]护盾[/color]状态时[color=#52a5f2]威力[/color]提升{0}%"/>
 	<Effect id="2081" argsNum="1" info="对手不处于异常状态时令对手随机{0}个技能PP值归零" analyze="[sprite name=iconHit]对手不处于异常状态时令对手随机{0}个技能PP值归零"/>
 	<Effect id="2082" argsNum="0" info="为对手附加1道天霆之律" analyze="[sprite name=iconHit]为对手附加1道[color=#f35555]天霆之律[/color]"/>
@@ -1968,9 +1968,9 @@
 	<Effect id="2128" argsNum="2" info="对手不处于异常状态时对手{0}回合内体力恢复效果减少{1}%" analyze="[sprite name=iconHit]对手不处于异常状态时对手{0}回合内体力恢复效果减少{1}%"/>
 	<Effect id="2129" argsNum="2" info="攻击后附加造成伤害{0}%的百分比伤害，先出手时效果提升{1}%，附加后若对手体力未减少则额外附加等量的真实伤害" analyze="[sprite name=iconHit]攻击后附加造成伤害{0}%的[color=#52a5f2]百分比伤害[/color]，先出手时效果提升{1}%，附加后若对手体力未减少则额外附加等量的[color=#52a5f2]真实伤害[/color]"/>
 	<Effect id="2130" argsNum="0" info="对手持有失能时必定命中且无视攻击免疫效果" sp="1" analyze="[sprite name=iconInherent]对手持有[color=#f35555]失能[/color]时[color=#52a5f2]必定命中[/color]且无视[color=#52a5f2]攻击免疫效果[/color]" type="1"/>
-	<Effect id="2131" argsNum="1" info="自身持有回能时先制+1且附加对手最大体力1/{0}的百分比伤害" sp="1" analyze="[sprite name=iconComp]自身持有[color=#f35555]回能[/color]时[sprite name=iconInherent] [color=#52a5f2]先制[/color]+1且[sprite name=iconHit] 附加对手最大体力1/{0}的[color=#52a5f2]百分比伤害[/color]" type="3"/>
+	<Effect id="2131" argsNum="1" info="自身持有回能时先制+1且附加对手最大体力1/{0}的百分比伤害" sp="1" analyze="[sprite name=iconComp]自身持有[color=#f35555]回能[/color]时[color=#52a5f2]先制[/color]+1且附加对手最大体力1/{0}的[color=#52a5f2]百分比伤害[/color]" type="3"/>
 	<Effect id="2132" argsNum="0" info="对手持有失体时造成伤害提升100%，否则为对手附加3回合的失体并令对手害怕" sp="1" analyze="[sprite name=iconHit]对手持有[color=#f35555]失体[/color]时造成伤害提升100%，否则为对手附加3回合的[color=#f35555]失体[/color]并令对手[color=#57c975]害怕[/color]"/>
-	<Effect id="2133" argsNum="0" info="自身持有回体时先制+1，否则为自身附加3回合的回体并令对手疲惫" sp="1" analyze="[sprite name=iconComp]自身持有[color=#f35555]回体[/color]时[sprite name=iconInherent] [color=#52a5f2]先制[/color]+1，否则[sprite name=iconHit] 为自身附加3回合的[color=#f35555]回体[/color]并令对手[color=#57c975]疲惫[/color]" type="3"/>
+	<Effect id="2133" argsNum="0" info="自身持有回体时先制+1，否则为自身附加3回合的回体并令对手疲惫" sp="1" analyze="[sprite name=iconComp]自身持有[color=#f35555]回体[/color]时[color=#52a5f2]先制[/color]+1，否则为自身附加3回合的[color=#f35555]回体[/color]并令对手[color=#57c975]疲惫[/color]" type="3"/>
 	<Effect id="2134" argsNum="0" info="反转对手能力提升状态，反转成功则恢复自身全部体力和PP值" analyze="[sprite name=iconHit][color=#52a5f2]反转[/color]对手能力提升状态，反转成功则恢复自身全部体力和PP值"/>
 	<Effect id="2135" argsNum="0" info="自身未持有失命时为自身附加3回合的失命，若自身持有失命则将失命转移给对手" sp="1" analyze="[sprite name=iconHit]自身未持有[color=#f35555]失命[/color]时为自身附加3回合的[color=#f35555]失命[/color]，若自身持有[color=#f35555]失命[/color]则将[color=#f35555]失命[/color]转移给对手"/>
 	<Effect id="2136" argsNum="0" info="对手未持有回命时为对手附加3回合的回命，若对手持有回命且剩余回合数大于1则回合数-1" sp="1" analyze="[sprite name=iconHit]对手未持有[color=#f35555]回命[/color]时为对手附加3回合的[color=#f35555]回命[/color]，若对手持有[color=#f35555]回命[/color]且剩余回合数大于1则回合数-1"/>
@@ -1992,7 +1992,7 @@
 	<Effect id="2152" argsNum="0" info="构造IV：先出手时造成的攻击伤害提升50%" sp="1" analyze="[sprite name=iconHit]构造IV：先出手时造成的攻击伤害提升50%"/>
 	<Effect id="2153" argsNum="0" info="此技能拥有本次在场期间自身生效过的所有构造效果，并取消触发条件中的先出手要求" sp="1" analyze="[sprite name=iconInherent]此技能拥有本次在场期间自身生效过的所有构造效果，并取消触发条件中的先出手要求" type="1"/>
 	<Effect id="2154" argsNum="0" info="令德莱赫默进行一次额外行动" sp="1" analyze="[sprite name=iconHit]令[color=#f35555]德莱赫默[/color]进行一次[color=#52a5f2]额外行动[/color]"/>
-	<Effect id="2155" argsNum="0" info="德莱赫默构造数低于2时先制-1且吸取对手最大体力的1/3，不低于2时无视自身能力下降状态与对手能力提升状态" sp="1" analyze="[sprite name=iconComp][color=#f35555]德莱赫默[/color]构造数低于2时[sprite name=iconInherent] [color=#52a5f2]先制[/color]-1且[sprite name=iconHit] [color=#52a5f2]吸取[/color]对手最大体力的1/3，不低于2时[sprite name=iconInherent] 无视自身能力下降状态与对手能力提升状态" type="3"/>
+	<Effect id="2155" argsNum="0" info="德莱赫默构造数低于2时先制-1且吸取对手最大体力的1/3，不低于2时无视自身能力下降状态与对手能力提升状态" sp="1" analyze="[sprite name=iconComp][color=#f35555]德莱赫默[/color]构造数低于2时[color=#52a5f2]先制[/color]-1且[color=#52a5f2]吸取[/color]对手最大体力的1/3，不低于2时无视自身能力下降状态与对手能力提升状态" type="3"/>
 	<Effect id="2156" argsNum="3" info="消除对手护盾效果，消除成功{0}%令对手{1}，未触发则自身获得{2}点护盾" param="1,1,1" analyze="[sprite name=iconHit]消除对手[color=#57c975]护盾[/color]效果，消除成功{0}%令对手[color=#57c975]{1}[/color]，[color=#52a5f2]未触发[/color]则自身获得{2}点[color=#57c975]护盾[/color]"/>
 	<Effect id="2157" argsNum="0" info="将自身的防御、特防能力提升分别视为攻击、特攻能力提升" analyze="[sprite name=iconInherent]将自身的防御、特防能力提升分别视为攻击、特攻能力提升" type="1"/>
 	<Effect id="2158" argsNum="1" info="解除自身所处的异常状态，解除成功令对手{0}" param="1,0,0" analyze="[sprite name=iconHit]解除自身所处的异常状态，解除成功令对手[color=#57c975]{0}[/color]"/>
@@ -2039,7 +2039,7 @@
 	<Effect id="2199" argsNum="2" info="双方任意一方处于护罩状态时{0}%令对手{1}" param="1,1,1" analyze="[sprite name=iconHit]双方任意一方处于[color=#57c975]护罩[/color]状态时{0}%令对手[color=#57c975]{1}[/color]"/>
 	<Effect id="2200" argsNum="2" info="令双方{0}，任意一方未触发则额外令对手{1}" param="1,0,0|1,1,1" analyze="[sprite name=iconHit]令双方[color=#57c975]{0}[/color]，任意一方[color=#52a5f2]未触发[/color]则额外令对手[color=#57c975]{1}[/color]"/>
 	<Effect id="2201" argsNum="1" info="自身携带技能中含有的光系多于暗影系时{0}%令对手疲惫，暗影系多于光系时{0}%令对手害怕" analyze="[sprite name=iconHit]自身携带技能中含有的光系多于暗影系时{0}%令对手[color=#57c975]疲惫[/color]，暗影系多于光系时{0}%令对手[color=#57c975]害怕[/color]"/>
-	<Effect id="2202" argsNum="1" info="自身携带技能中含有的光系不少于暗影系时必定打出致命一击，暗影系不少于光系时吸取对手最大体力的1/{0}" analyze="[sprite name=iconComp]自身携带技能中含有的光系不少于暗影系时[sprite name=iconInherent] 必定打出[color=#52a5f2]致命一击[/color]，暗影系不少于光系时[sprite name=iconHit] [color=#52a5f2]吸取[/color]对手最大体力的1/{0}" type="3"/>
+	<Effect id="2202" argsNum="1" info="自身携带技能中含有的光系不少于暗影系时必定打出致命一击，暗影系不少于光系时吸取对手最大体力的1/{0}" analyze="[sprite name=iconComp]自身携带技能中含有的光系不少于暗影系时必定打出[color=#52a5f2]致命一击[/color]，暗影系不少于光系时[color=#52a5f2]吸取[/color]对手最大体力的1/{0}" type="3"/>
 	<Effect id="2203" argsNum="0" info="技能无效时，免疫下次对手的攻击" analyze="[sprite name=iconInherent]技能无效时，免疫下次对手的攻击" type="1"/>
 	<Effect id="2204" argsNum="2" info="技能威力减少{0}%，对手处于异常状态时改为提升{1}%" analyze="[sprite name=iconHit]技能[color=#52a5f2]威力[/color]减少{0}%，对手处于异常状态时改为提升{1}%"/>
 	<Effect id="2205" argsNum="0" info="自身处于异常状态时，克制倍数取自身对对手、对手对自身克制倍数中的最大值" analyze="[sprite name=iconInherent]自身处于异常状态时，克制倍数取自身对对手、对手对自身克制倍数中的最大值" type="1"/>
@@ -2110,7 +2110,7 @@
 	<Effect id="2270" argsNum="3" info="免疫下{0}次对手的攻击，触发成功则{1}%令对手{2}" param="1,2,2" analyze="[sprite name=iconHit]免疫下{0}次对手的攻击，触发成功则{1}%令对手[color=#57c975]{2}[/color]"/>
 	<Effect id="2271" argsNum="4" info="{0}回合内若自身能力提升状态被消除或吸取则{1}%令对手{2}，未触发则自身下{3}次攻击必定致命一击" param="1,2,2" analyze="[sprite name=iconHit]{0}回合内若自身能力提升状态被消除或[color=#52a5f2]吸取[/color]则{1}%令对手[color=#57c975]{2}[/color]，[color=#52a5f2]未触发[/color]则自身下{3}次攻击必定[color=#52a5f2]致命一击[/color]"/>
 	<Effect id="2272" argsNum="1" info="己方有其他精灵存活时造成的攻击伤害提升{0}%" analyze="[sprite name=iconHit][color=#52a5f2]己方[/color]有其他精灵存活时造成的攻击伤害提升{0}%"/>
-	<Effect id="2273" argsNum="2" info="对手选择攻击技能时此技能先制+3且{0}%令对手{1}" param="1,1,1" analyze="[sprite name=iconComp]对手选择攻击技能时[sprite name=iconInherent] 此[color=#52a5f2]技能先制[/color]+3且[sprite name=iconHit] {0}%令对手[color=#57c975]{1}[/color]" type="3"/>
+	<Effect id="2273" argsNum="2" info="对手选择攻击技能时此技能先制+3且{0}%令对手{1}" param="1,1,1" analyze="[sprite name=iconComp]对手选择攻击技能时此[color=#52a5f2]技能先制[/color]+3且{0}%令对手[color=#57c975]{1}[/color]" type="3"/>
 	<Effect id="2274" argsNum="1" info="恢复自身全部PP值，每恢复1点吸取对手{0}点体力" analyze="[sprite name=iconHit]恢复自身全部PP值，每恢复1点[color=#52a5f2]吸取[/color]对手{0}点体力"/>
 	<Effect id="2275" argsNum="0" info="未击败对手则将对手标记为狩杀之的" sp="1" analyze="[sprite name=iconHit]未[color=#57c975]击败[/color]对手则将对手标记为[color=#f35555]狩杀之的[/color]"/>
 	<Effect id="2276" argsNum="0" info="将对方场下对自身克制系数最高且存活的一只非狩杀之的精灵标记为狩杀之的" sp="1" analyze="[sprite name=iconHit]将对方场下对自身克制系数最高且存活的一只非[color=#f35555]狩杀之的[/color]精灵标记为[color=#f35555]狩杀之的[/color]"/>
@@ -2151,7 +2151,7 @@
 	<Effect id="2311" argsNum="1" info="消除对手的护盾、护罩，消除成功自身所有技能PP值+{0}" analyze="[sprite name=iconHit]消除对手的[color=#57c975]护盾[/color]、[color=#57c975]护罩[/color]，消除成功自身所有技能PP值+{0}"/>
 	<Effect id="2312" argsNum="4" info="恢复自身最大体力的1/{0}，恢复成功则{1}回合内自身技能额外附加恢复量{2}%的百分比伤害，对手未受到百分比伤害时随机附加{3}种非限制类异常状态" analyze="[sprite name=iconHit]恢复自身最大体力的1/{0}，恢复成功则{1}回合内自身技能额外附加恢复量{2}%的[color=#52a5f2]百分比伤害[/color]，对手未受到[color=#52a5f2]百分比伤害[/color]时随机附加{3}种非限制类异常状态"/>
 	<Effect id="2313" argsNum="1" info="无视攻击免疫效果，对手不处于攻击免疫效果时吸取对手最大体力的1/{0}" analyze="[sprite name=iconHit]无视[color=#52a5f2]攻击免疫效果[/color]，对手不处于[color=#52a5f2]攻击免疫效果[/color]时[color=#52a5f2]吸取[/color]对手最大体力的1/{0}"/>
-	<Effect id="2314" argsNum="0" info="自身每触发过1次登场效果先制+1且忽略对手特防值的25%，未击败对手时重置自身登场效果的触发次数" analyze="[sprite name=iconComp]自身每触发过1次[color=#57c975]登场[/color]效果[sprite name=iconInherent] [color=#52a5f2]先制[/color]+1且[sprite name=iconHit] 忽略对手特防值的25%，未[color=#57c975]击败[/color]对手时重置自身[color=#57c975]登场[/color]效果的触发次数" type="3"/>
+	<Effect id="2314" argsNum="0" info="自身每触发过1次登场效果先制+1且忽略对手特防值的25%，未击败对手时重置自身登场效果的触发次数" analyze="[sprite name=iconComp]自身每触发过1次[color=#57c975]登场[/color]效果[color=#52a5f2]先制[/color]+1且忽略对手特防值的25%，未[color=#57c975]击败[/color]对手时重置自身[color=#57c975]登场[/color]效果的触发次数" type="3"/>
 	<Effect id="2315" argsNum="3" info="汲取对方场下损失PP值最多的精灵{0}点体力，该精灵每损失{1}点PP值，汲取效果提升{2}点，造成致死伤害时令其保留1点体力" analyze="[sprite name=iconHit]汲取对方场下损失PP值最多的精灵{0}点体力，该精灵每损失{1}点PP值，汲取效果提升{2}点，造成[color=#52a5f2]致死伤害[/color]时令其[color=#52a5f2]保留[/color]1点体力"/>
 	<Effect id="2316" argsNum="1" info="{0}回合内任意一方处于能力下降状态时自身免疫对手的攻击" analyze="[sprite name=iconHit]{0}回合内任意一方处于能力下降状态时自身[color=#52a5f2]免疫对手的攻击[/color]"/>
 	<Effect id="2317" argsNum="1" info="双方每有1组能力提升状态或能力下降状态吸取对手最大体力的{0}%" analyze="[sprite name=iconHit]双方每有1组能力提升状态或能力下降状态[color=#52a5f2]吸取[/color]对手最大体力的{0}%"/>
@@ -2176,7 +2176,7 @@
 	<Effect id="2336" argsNum="1" info="消除双方回合类效果，每消除一方成功造成的攻击伤害额外提升{0}%" analyze="[sprite name=iconHit]消除双方[color=#52a5f2]回合类效果[/color]，每消除一方成功造成的攻击[color=#52a5f2]伤害额外提升[/color]{0}%"/>
 	<Effect id="2337" argsNum="2" info="造成的攻击伤害高于{0}时随机附加{1}种非限制类异常状态" analyze="[sprite name=iconHit]造成的攻击伤害高于{0}时随机附加{1}种非限制类异常状态"/>
 	<Effect id="2338" argsNum="1" info="后出手时附加自身当回合所受技能伤害{0}%的百分比伤害" analyze="[sprite name=iconHit]后出手时附加自身[color=#52a5f2]当回合[/color]所受技能伤害{0}%的[color=#52a5f2]百分比伤害[/color]"/>
-	<Effect id="2339" argsNum="0" info="对手选择非第五技能的回合此技能先制-3且造成的攻击伤害不低于当回合所受攻击伤害的3倍，否则恢复自身最大体力的1/3" analyze="[sprite name=iconComp]对手选择非第五技能的回合[sprite name=iconInherent] 此[color=#52a5f2]技能先制[/color]-3且[sprite name=iconHit] 造成的攻击伤害不低于[color=#52a5f2]当回合[/color]所受攻击伤害的3倍，否则恢复自身最大体力的1/3" type="3"/>
+	<Effect id="2339" argsNum="0" info="对手选择非第五技能的回合此技能先制-3且造成的攻击伤害不低于当回合所受攻击伤害的3倍，否则恢复自身最大体力的1/3" analyze="[sprite name=iconComp]对手选择非第五技能的回合此[color=#52a5f2]技能先制[/color]-3且造成的攻击伤害不低于[color=#52a5f2]当回合[/color]所受攻击伤害的3倍，否则恢复自身最大体力的1/3" type="3"/>
 	<Effect id="2340" argsNum="0" info="附加并解除自身所处的异常状态" analyze="[sprite name=iconHit]附加并解除自身所处的异常状态"/>
 	<Effect id="2341" argsNum="0" info="未击败对手则开启赛博共振器" analyze="[sprite name=iconHit]未[color=#57c975]击败[/color]对手则开启[color=#f35555]赛博共振器[/color]"/>
 	<Effect id="2342" argsNum="2" info="消除对手能力提升状态，每消除{0}级附加{1}点固定伤害" analyze="[sprite name=iconHit]消除对手能力提升状态，每消除{0}级附加{1}点[color=#52a5f2]固定伤害[/color]"/>
@@ -2238,7 +2238,7 @@
 	<Effect id="2398" argsNum="2" info="全属性+{0}，自身处于异常状态时恢复己方上只在场精灵自身最大体力的1/{1}，自身不处于异常状态时附加1层宙变之殢" analyze="[sprite name=iconHit][color=#52a5f2]全属性[/color]+{0}，自身处于异常状态时恢复[color=#52a5f2]己方[/color]上只在场精灵自身最大体力的1/{1}，自身不处于异常状态时附加1层[color=#f35555]宙变之殢[/color]"/>
 	<Effect id="2399" argsNum="0" info="双方任意一方处于属性技能无效效果时，令对手的衰弱回合数归1，自身每有1层旧日之晷效果+1，若对手不处于异常状态则附加1层宙变之殢" analyze="[sprite name=iconHit]双方任意一方处于属性[color=#52a5f2]技能无效[/color]效果时，令对手的[color=#57c975]衰弱[/color]回合数归1，自身每有1层[color=#f35555]旧日之晷[/color]效果+1，若对手不处于异常状态则附加1层[color=#f35555]宙变之殢[/color]"/>
 	<Effect id="2400" argsNum="0" info="未击败对手时，消除自身当回合所使用技能的记录" analyze="[sprite name=iconHit]未[color=#57c975]击败[/color]对手时，消除自身[color=#52a5f2]当回合(412)[/color]所使用技能的记录"/>
-	<Effect id="2401" argsNum="0" info="本场战斗双方每使1只精灵消逝，自身的旧日之晷触发阈值-1且此技能造成的攻击伤害提升30%、吸取对手最大体力的10%" analyze="[sprite name=iconComp]本场战斗双方每使1只精灵[color=#57c975]消逝[/color]，[sprite name=iconInherent] 自身的[color=#f35555]旧日之晷[/color]触发阈值-1且[sprite name=iconHit] 此技能造成的攻击伤害提升30%、[color=#52a5f2]吸取[/color]对手最大体力的10%"/>
+	<Effect id="2401" argsNum="0" info="本场战斗双方每使1只精灵消逝，自身的旧日之晷触发阈值-1且此技能造成的攻击伤害提升30%、吸取对手最大体力的10%" analyze="[sprite name=iconComp]本场战斗双方每使1只精灵[color=#57c975]消逝[/color]，自身的[color=#f35555]旧日之晷[/color]触发阈值-1且此技能造成的攻击伤害提升30%、[color=#52a5f2]吸取[/color]对手最大体力的10%"/>
 	<Effect id="2402" argsNum="0" info="双方任意一方处于属性技能无效效果时，攻击后解除对手的异常状态，每解除1种对手1回合内攻击技能无效" analyze="[sprite name=iconHit]双方任意一方处于属性[color=#52a5f2]技能无效[/color]效果时，攻击后解除对手的异常状态，每解除1种对手1回合内攻击[color=#52a5f2]技能无效[/color]"/>
 	<Effect id="2403" argsNum="3" info="{0}%令对手{1}，触发成功则{2}回合内对手下场时其对下只出战精灵执行此效果" param="1,1,1" analyze="[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，触发成功则{2}回合内对手[color=#57c975]下场时[/color]其对下只出战精灵执行此效果"/>
 	<Effect id="2404" argsNum="2" info="若对手的体力高于最大体力的{0}%则技能威力提升{1}%" analyze="[sprite name=iconHit]若对手的体力高于最大体力的{0}%则技能[color=#52a5f2]威力[/color]提升{1}%"/>
@@ -2284,7 +2284,7 @@
 	<Effect id="2444" argsNum="3" info="吸取对手能力提升状态，吸取成功则对手{0}回合内属性技能无效，对手不处于能力提升状态时自身下{1}回合攻击技能先制+{2}" analyze="[sprite name=iconHit][color=#52a5f2]吸取(434)[/color]对手能力提升状态，[color=#52a5f2]吸取(434)[/color]成功则对手{0}回合内属性[color=#52a5f2]技能无效[/color]，对手不处于能力提升状态时自身下{1}回合攻击[color=#52a5f2]技能先制[/color]+{2}"/>
 	<Effect id="2445" argsNum="3" info="自身处于能力提升状态时{0}%令自身{1}，未触发则{2}回合内自身能力提升状态无法被消除或吸取" param="1,1,1" analyze="[sprite name=iconHit]自身处于能力提升状态时{0}%令自身[color=#57c975]{1}[/color]，[color=#52a5f2]未触发[/color]则{2}回合内自身能力提升状态无法被消除或吸取"/>
 	<Effect id="2446" argsNum="0" info="若对手存在处决印记则此技能附着己方序数最高的圣剑" analyze="[sprite name=iconInherent]若对手存在[color=#f35555]处决印记[/color]则此技能附着己方序数最高的[color=#f35555]圣剑[/color]"/>
-	<Effect id="2447" argsNum="0" info="若对手存在致命裂痕则为对手当回合所使用的技能附加等量的致命印记" analyze="[sprite name=iconHit]若对手存在[color=#f35555]致命裂痕[/color]则为对手当回合所使用的技能附加等量的[color=#f35555]致命印记[/color]（boss无效）"/>
+	<Effect id="2447" argsNum="0" info="若对手存在致命裂痕则为对手当回合所使用的技能附加等量的致命印记" analyze="[sprite name=iconHit]若对手存在[color=#f35555]致命裂痕[/color]则为对手当回合所使用的技能附加等量的[color=#f35555]致命印记[/color]"/>
 	<Effect id="2448" argsNum="0" info="若自身处于烧伤状态则删除自身的所有音符" analyze="[sprite name=iconHit]若自身处于[color=#57c975]烧伤[/color]状态则删除自身的所有[color=#f35555]音符[/color]"/>
 	<Effect id="2449" argsNum="0" info="以获得的顺序依次消耗自身的所有音符，若自身消耗的顺序为强音、弱音、中音、弱音，则己方获得天在此，若此为本场战斗第3次获得，则秒杀对手" analyze="[sprite name=iconHit]以获得的顺序依次消耗自身的所有[color=#f35555]音符[/color]，若自身消耗的顺序为[color=#f35555]强音[/color]、[color=#f35555]弱音[/color]、[color=#f35555]中音[/color]、[color=#f35555]弱音[/color]，则己方获得[color=#f35555]天在此[/color]，若此为本场战斗第3次获得，则[color=#57c975]秒杀[/color]对手"/>
 	<Effect id="2450" argsNum="1" info="获得1分{0}音" param="32,0,0" analyze="[sprite name=iconHit]获得1分[color=#f35555]{0}音[/color]"/>
@@ -2313,7 +2313,7 @@
 	<Effect id="2473" argsNum="0" info="己方每阵亡1只精灵，每次在场限1次，获得1种鬼祰" analyze="[sprite name=iconHit]己方每阵亡1只精灵，每次在场限1次，获得1种[color=#f35555]鬼祰[/color]"/>
 	<Effect id="2474" argsNum="0" info="使用时，若对方精灵均拥有信仰对象，则本次技能视为命中并强制执行命中效果" analyze="[sprite name=iconInherent]使用时，若对方精灵均拥有[color=#57c975]信仰对象[/color]，则本次技能视为命中并强制[color=#52a5f2]执行[/color]命中效果"/>
 	<Effect id="2475" argsNum="0" info="对方精灵均拥有信仰对象时，为对方所有精灵恢复404点体力并附加404点固定伤害，然后若对方精灵的已损失体力值存在众数，则秒杀所有不为众数的精灵" analyze="[sprite name=iconHit]对方精灵均拥有[color=#57c975]信仰对象[/color]时，为对方所有精灵恢复404点体力并附加404点[color=#52a5f2]固定伤害[/color]，然后若对方精灵的已损失体力值存在[color=#52a5f2]众数[/color]，则[color=#57c975]秒杀[/color]所有不为[color=#52a5f2]众数[/color]的精灵"/>
-	<Effect id="2476" argsNum="9" info="自身属于第五技能的PP值每比对手多{0}点，此技能先制+1且随机附加{1}、{2}、{3}、{4}、{5}、{6}种的{7}种异常状态{8}回合，未触发则消除对手回合类效果" param="1,1,1|1,2,2|1,3,3|1,4,4|1,5,5|1,6,6" analyze="[sprite name=iconComp]自身属于第五技能的PP值每比对手多{0}点，[sprite name=iconInherent] 此[color=#52a5f2]技能先制[/color]+1且[sprite name=iconHit] 随机附加[color=#57c975]{1}[/color]、[color=#57c975]{2}[/color]、[color=#57c975]{3}[/color]、[color=#57c975]{4}[/color]、[color=#57c975]{5}[/color]、[color=#57c975]{6}[/color]种的{7}种异常状态{8}回合，未触发则消除对手[color=#52a5f2]回合类效果[/color]"/>
+	<Effect id="2476" argsNum="9" info="自身属于第五技能的PP值每比对手多{0}点，此技能先制+1且随机附加{1}、{2}、{3}、{4}、{5}、{6}种的{7}种异常状态{8}回合，未触发则消除对手回合类效果" param="1,1,1|1,2,2|1,3,3|1,4,4|1,5,5|1,6,6" analyze="[sprite name=iconComp]自身属于第五技能的PP值每比对手多{0}点，此[color=#52a5f2]技能先制[/color]+1且随机附加[color=#57c975]{1}[/color]、[color=#57c975]{2}[/color]、[color=#57c975]{3}[/color]、[color=#57c975]{4}[/color]、[color=#57c975]{5}[/color]、[color=#57c975]{6}[/color]种的{7}种异常状态{8}回合，未触发则消除对手[color=#52a5f2]回合类效果[/color]"/>
 	<Effect id="2477" argsNum="3" info="对手每处于{0}回合异常状态吸取对手{1}点体力，自身先制等级高于{2}时效果翻倍" analyze="[sprite name=iconHit]对手每处于{0}回合异常状态[color=#52a5f2]吸取[/color]对手{1}点体力，[color=#52a5f2]自身先制(340)[/color]等级高于{2}时效果翻倍"/>
 	<Effect id="2478" argsNum="2" info="自身体力低于对手时{0}%令对手{1}" param="1,1,1" analyze="[sprite name=iconHit]自身体力低于对手时{0}%令对手{1}"/>
 	<Effect id="2479" argsNum="2" info="{0}回合内若对手的体力低于{1}%则对手所有技能先制效果失效" analyze="[sprite name=iconHit]{0}回合内若对手的体力低于{1}%则对手所有技能先制效果失效"/>
@@ -2348,7 +2348,7 @@
 	
 	<Effect id="2508" argsNum="3" info="消除对手回合类效果并{0}%令自身{1}，触发成功则额外令对手{2}" param="1,1,1|1,2,2" analyze="[sprite name=iconHit]消除对手回合类效果并{0}%令自身[color=#57c975]{1}[/color]，触发成功则额外令对手[color=#57c975]{2}[/color]"/>
 	<Effect id="2509" argsNum="3" info="对手每剩余{0}%体力对手{1}回合内体力恢复效果减少{2}%" param="33,1,1" analyze="[sprite name=iconHit]对手每剩余{0}%体力对手{1}回合内体力恢复效果减少{2}%"/>
-	<Effect id="2510" argsNum="2" info="对手处于能力提升状态时先制+3且命中时复制对手的能力提升，复制成功则对手{0}回合内属性技能命中效果失效，对手不处于能力提升状态时令双方全属性+{1}" analyze="[sprite name=iconComp]对手处于能力提升状态时[sprite name=iconInherent] 先制+3且[sprite name=iconHit] 复制对手的能力提升，复制成功则对手{0}回合内属性技能命中效果失效，对手不处于能力提升状态时令双方全属性+{1}"/>	
+	<Effect id="2510" argsNum="2" info="对手处于能力提升状态时先制+3且命中时复制对手的能力提升，复制成功则对手{0}回合内属性技能命中效果失效，对手不处于能力提升状态时令双方全属性+{1}" analyze="[sprite name=iconComp]对手处于能力提升状态时先制+3且命中时复制对手的能力提升，复制成功则对手{0}回合内属性技能命中效果失效，对手不处于能力提升状态时令双方全属性+{1}"/>	
 	
 	<Effect id="2511" argsNum="0" info="使用时，下次附加概率高于70%的异常状态附加概率提升5%，若对手对此异常状态的抗性不高于5%则额外忽略5%" analyze="[sprite name=iconInherent]使用时，下次附加概率高于70%的异常状态附加概率提升5%，若对手对此异常状态的抗性不高于5%则额外忽略5%"/>
 	<Effect id="2512" argsNum="0" info="使用时，下次附加概率高于65%的异常状态附加概率提升10%，若对手对此异常状态的抗性不高于10%则额外忽略10%" analyze="[sprite name=iconInherent]使用时，下次附加概率高于65%的异常状态附加概率提升10%，若对手对此异常状态的抗性不高于10%则额外忽略10%"/>
@@ -2421,7 +2421,7 @@
 	<Effect id="2574" argsNum="1" info="{0}回合内，双方的在场精灵无法成为场下精灵的效果目标" analyze="[sprite name=iconHit]{0}回合内，双方的在场精灵无法成为场下精灵的效果目标"/>
 	<Effect id="2575" argsNum="2" info="自身拥有武道时，消除对手的武道并令对手衰弱{0}回合，未触发则对手{1}回合内无法行动" analyze="[sprite name=iconHit][color=#52a5f2]自身[/color]拥有[color=#f35555]武道[/color]时，消除[color=#52a5f2]对手[/color]的[color=#f35555]武道[/color]并令对手[color=#57c975]衰弱[/color]{0}回合，[color=#52a5f2]未触发[/color]则对手{1}回合内无法行动"/>
 	<Effect id="2576" argsNum="2" info="{0}回合内自身受到的固定伤害、百分比伤害不超过{1}点" analyze="[sprite name=iconHit]{0}回合内自身受到的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]不超过{1}点"/>
-	<Effect id="2577" argsNum="3" info="若对手处于{0}状态，则5回合内在场精灵所处的{1}状态结束时，其体力值归{2}" param="1,0,0|1,1,1" analyze="[sprite name=iconHit]若对手处于[color=#57c975]{0}[/color]状态，则5回合内在场精灵所处的{1}状态结束时，其体力值归{2}"/>
+	<Effect id="2577" argsNum="3" info="若对手处于{0}状态，则5回合内在场精灵所处的{1}状态结束时，其体力值归{2}" param="1,0,0|1,1,1" analyze="[sprite name=iconHit]若对手处于[color=#57c975]{0}[/color]状态，则5回合内在场精灵所处的[color=#57c975]{1}[/color]状态结束时，其体力值归{2}"/>
 	<Effect id="2578" argsNum="0" info="将对方的月类星体转移至己方" analyze="[sprite name=iconHit]将[color=#52a5f2]对方[/color]的[color=#f35555]月类星体[/color]转移至[color=#52a5f2]己方[/color]"/>
 	<Effect id="2579" argsNum="5" info="使双方所处的异常状态回合数-{0}，对自身触发成功时{1}%令对手{2}，对对手触发成功时{3}%令对手{4}，减少效果均未触发则为对方附加1回合没夜之月，自身每有1面弥沦之镜回合数+1" param="1,2,2|1,4,4" analyze="[sprite name=iconHit]使双方所处的异常状态回合数-{0}，对自身触发成功时{1}%令对手{2}，对对手触发成功时{3}%令对手{4}，减少效果均[color=#52a5f2]未触发[/color]则为[color=#52a5f2]对方[/color]附加1回合[color=#f35555]没夜之月[/color]，自身每有1面[color=#f35555]弥沦之镜[/color]回合数+1"/>
 	<Effect id="2580" argsNum="1" info="帝皇之钺担任主位时解除自身所处的异常状态，帝皇之御担任主位时消除对手的能力提升状态，任意一项触发成功对手{0}回合内无法主动切换精灵" analyze="[sprite name=iconHit]帝皇之钺担任[color=#52a5f2]主位[/color]时解除自身所处的异常状态，帝皇之御担任[color=#52a5f2]主位[/color]时消除对手的能力提升状态，任意一项触发成功对手{0}回合内无法[color=#52a5f2]主动切换[/color]精灵"/>
@@ -2445,7 +2445,7 @@
 	<Effect id="2598" argsNum="3" info="{0}回合内，自身每次受到固定伤害、百分比伤害后，{1}%令对手{2}" param="1,2,1" analyze="[sprite name=iconHit]{0}回合内，自身每次受到[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]后，{1}%令对手[color=#57c975]{2}[/color]（boss有效）"/>
 	<Effect id="2599" argsNum="0" info="自身位于场下时，为己方提供圣荷慰心支援；战斗中，己方缥缈幽芙的击败效果也计入自身的被击败效果" analyze="[sprite name=iconInherent]自身位于场下时，为己方提供[color=#f35555]圣荷慰心[/color]支援；战斗中，己方缥缈幽芙的击败效果也计入自身的被击败效果（boss有效）"/>
 	<Effect id="2600" argsNum="0" info="若己方拥有起/承/转/合，则对应的为对手附加谋死A/B/C/D，对方存在对应的谋死且对手没有谋死时改为将对方的随机1种谋死转移至对手，若转移后对手拥有顺序最靠后的谋死，则自身触发己方拥有过的起、承、转中的己方效果" analyze="[sprite name=iconHit]若己方拥有[color=#f35555]起[/color]/[color=#f35555]承[/color]/[color=#f35555]转[/color]/[color=#f35555]合[/color]，则对应的为对手附加[color=#f35555]谋死A[/color]/[color=#f35555]B(583)[/color]/[color=#f35555]C(584)[/color]/[color=#f35555]D(585)[/color]，对方存在对应的谋死且对手没有谋死时改为将对方的随机1种谋死转移至对手，若转移后对手拥有顺序最靠后的谋死，则自身触发己方拥有过的[color=#f35555]起[/color]、[color=#f35555]承[/color]、[color=#f35555]转[/color]中的己方效果"/>
-	<Effect id="2601" argsNum="3" info="若对手当回合选择的技能威力{0}此技能，则{1}%令对手{2}" param="7,0,0|1,2,2" analyze="[sprite name=iconHit]若对手当回合选择的技能威力[color=#57c975]{0}[/color]此技能，则{1}%令对手[color=#57c975]{2}[/color]（boss无效）"/>
+	<Effect id="2601" argsNum="3" info="若对手当回合选择的技能威力{0}此技能，则{1}%令对手{2}" param="7,0,0|1,2,2" analyze="[sprite name=iconHit]若对手当回合选择的技能威力[color=#57c975]{0}[/color]此技能，则{1}%令对手[color=#57c975]{2}[/color]"/>
 
 
 

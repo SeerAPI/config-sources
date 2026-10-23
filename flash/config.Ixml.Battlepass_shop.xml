@@ -9,11 +9,11 @@
 	<item id="8" commodity="1_2600072_10" consumeitemid="1726710" price="1000" limit="5" quantity="10" buytype="1" userinfo="124731" stat="2510161010" sort="5" />
 	<item id="9" commodity="1_1727690_10" consumeitemid="1726710" price="10000" limit="5" quantity="1" buytype="1" userinfo="124733" stat="2601151210" sort="3" />
 	<item id="10" commodity="1_1727690_1" consumeitemid="1726710" price="1000" limit="5" quantity="10" buytype="1" userinfo="124732" stat="2601151209" sort="2" />
-	<item id="1001" commodity="1_1728536_1" consumeitemid="1726710" price="2000" limit="6" quantity="1" buytype="1" userinfo="408106" stat="0" sort="1" />
-	<item id="1002" commodity="1_1728537_1" consumeitemid="1726710" price="1500" limit="6" quantity="1" buytype="1" userinfo="408107" stat="0" sort="1" />
-	<item id="1003" commodity="1_1728538_1" consumeitemid="1726710" price="1200" limit="6" quantity="1" buytype="1" userinfo="408108" stat="0" sort="1" />
-	<item id="1004" commodity="1_1728539_1" consumeitemid="1726710" price="1200" limit="6" quantity="1" buytype="1" userinfo="408109" stat="0" sort="1" />
-	<item id="1005" commodity="1_1728540_1" consumeitemid="1726710" price="1200" limit="6" quantity="1" buytype="1" userinfo="408110" stat="0" sort="1" />
+	<item id="1001" commodity="1_1728536_1" consumeitemid="1726710" price="2000" limit="6" quantity="1" buytype="1" userinfo="408106" stat="2610150804" sort="1" />
+	<item id="1002" commodity="1_1728537_1" consumeitemid="1726710" price="1500" limit="6" quantity="1" buytype="1" userinfo="408107" stat="2610150805" sort="1" />
+	<item id="1003" commodity="1_1728538_1" consumeitemid="1726710" price="1200" limit="6" quantity="1" buytype="1" userinfo="408108" stat="2610150806" sort="1" />
+	<item id="1004" commodity="1_1728539_1" consumeitemid="1726710" price="1200" limit="6" quantity="1" buytype="1" userinfo="408109" stat="2610150807" sort="1" />
+	<item id="1005" commodity="1_1728540_1" consumeitemid="1726710" price="1200" limit="6" quantity="1" buytype="1" userinfo="408110" stat="2610150808" sort="1" />
 	<item id="1006" commodity="1_1728292_1" consumeitemid="1726710" price="1500" limit="6" quantity="1" buytype="1" userinfo="408101" stat="2607160804" sort="1" />
 	<item id="1007" commodity="1_1728293_1" consumeitemid="1726710" price="1000" limit="6" quantity="1" buytype="1" userinfo="408102" stat="2607160805" sort="1" />
 	<item id="1008" commodity="1_1728294_1" consumeitemid="1726710" price="2000" limit="6" quantity="1" buytype="1" userinfo="408103" stat="2607160806" sort="1" />
@@ -67,5 +67,5 @@
 	<item id="1056" commodity="6_764_1" consumeitemid="1727690" price="100" limit="6" quantity="1" buytype="2" userinfo="124626" stat="2601151208" sort="1" />
 	<item id="1057" commodity="6_791_1" consumeitemid="1727690" price="100" limit="6" quantity="1" buytype="2" userinfo="124637" stat="2604161103" sort="1" />
 	<item id="1058" commodity="6_822_1" consumeitemid="1727690" price="100" limit="6" quantity="1" buytype="2" userinfo="124638" stat="2607160803" sort="1" />
-	<item id="1059" commodity="6_857_1" consumeitemid="1727690" price="100" limit="6" quantity="1" buytype="2" userinfo="124639" stat="0" sort="1" />
+	<item id="1059" commodity="6_857_1" consumeitemid="1727690" price="100" limit="6" quantity="1" buytype="2" userinfo="124639" stat="2610150803" sort="1" />
 </root>

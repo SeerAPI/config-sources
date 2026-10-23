@@ -90,6 +90,10 @@
 	<item name="9月风尚月历" productID="200086" itemID="1728407" price="30" vip="1" gold="1" type="-1"/>
 	<item name="购买【洛克珊娜的宝箱钥匙】" productID="200087" itemID="1728509" price="6" vip="1" gold="1" type="-1"/>
 	<item name="10月风尚月历" productID="200088" itemID="1728510" price="30" vip="1" gold="1" type="-1"/>
+	<item name="小型金瓜子礼包" productID="200089" itemID="1728558" price="6" vip="1" gold="1" type="-1"/>
+	<item name="中型金瓜子礼包" productID="200090" itemID="1728559" price="20" vip="1" gold="1" type="-1"/>
+	<item name="大型金瓜子礼包" productID="200091" itemID="1728560" price="50" vip="1" gold="1" type="-1"/>
+	<item name="至尊金瓜子礼包" productID="200092" itemID="1728561" price="80" vip="1" gold="1" type="-1"/>
 	
 	<!-- <item name="废弃" productID="200061" itemID="" price="1" vip="1" gold="1" type="-1"/>	-->
 	<!-- <item name="废弃" productID="200062" itemID="" price="1" vip="1" gold="1" type="-1"/>	-->

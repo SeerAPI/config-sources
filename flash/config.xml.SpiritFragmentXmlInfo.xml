@@ -604,5 +604,8 @@
 	<Fragment ID="2400604" show="1" Name="维德弗尼尔因子" MonsterID="4951" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6452" effectId="2151" NewseConsume="270" MoveID="38572" MovesConsume="108" NeedmonID="0" NewMsglogId="2610080600" SeMsglog="2610080601" EffectMsglog="2610080602"/>
 	<Fragment ID="2400605" show="1" Name="霍努努因子" MonsterID="4955" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6455" effectId="2152" NewseConsume="200" MoveID="38587" MovesConsume="100" NeedmonID="0" NewMsglogId="2610150600" SeMsglog="2610150601" EffectMsglog="2610150602"/>
 	<Fragment ID="2400606" show="1" Name="炫彩山神·迪符特因子" MonsterID="3590" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="2821" effectId="887" NewseConsume="200" MoveID="31919" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+	<Fragment ID="2400607" show="1" Name="缥缈幽芙因子" MonsterID="4069" Rarity="4" PetLimit="0" PetConsume="1000" NewSeIdx="5587" effectId="1315" NewseConsume="500" MoveID="34305" MovesConsume="200" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+	<Fragment ID="2400608" show="1" Name="凌波清芙因子" MonsterID="3888" Rarity="4" PetLimit="0" PetConsume="1000" NewSeIdx="3239" effectId="1157" NewseConsume="500" MoveID="33416" MovesConsume="200" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+	<Fragment ID="2400609" show="1" Name="凯亚因子" MonsterID="4957" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6456" effectId="2154" NewseConsume="200" MoveID="38602" MovesConsume="100" NeedmonID="0" NewMsglogId="2610220900" SeMsglog="2610220901" EffectMsglog="2610220902"/>
 	
 </Root>
