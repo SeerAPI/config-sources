@@ -543,6 +543,46 @@
       "priority": 24,
       "truepos": 1,
       "type": 2
+    },
+    {
+      "controller": "",
+      "dest": "1251",
+      "finishtime": "2026/11/20 10:00:00",
+      "image": "hnldicon",
+      "name": "天地中原",
+      "statlog": "",
+      "reddotid": [
+        441
+      ],
+      "daily_red": 0,
+      "id": 32,
+      "iosreviewshow": 0,
+      "isdeadline": 1,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 25,
+      "truepos": 1,
+      "type": 2
+    },
+    {
+      "controller": "",
+      "dest": "1250",
+      "finishtime": "2026/11/20 10:00:00",
+      "image": "csdwicon",
+      "name": "开仓节",
+      "statlog": "",
+      "reddotid": [
+        440
+      ],
+      "daily_red": 0,
+      "id": 33,
+      "iosreviewshow": 0,
+      "isdeadline": 1,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 26,
+      "truepos": 1,
+      "type": 2
     }
   ]
 }

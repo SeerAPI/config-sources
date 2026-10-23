@@ -5298,7 +5298,7 @@
         "kind": 1,
         "kinddes": "咽咎尸骸",
         "link": "",
-        "monster": "",
+        "monster": "3847",
         "tab": 0
       },
       {
@@ -5328,7 +5328,7 @@
         "kind": 1,
         "kinddes": "四象门",
         "link": "534 535",
-        "monster": "",
+        "monster": "3549",
         "tab": 0
       },
       {
@@ -5338,7 +5338,7 @@
         "kind": 1,
         "kinddes": "六芒阵",
         "link": "",
-        "monster": "",
+        "monster": "3549",
         "tab": 0
       },
       {
@@ -5348,7 +5348,7 @@
         "kind": 1,
         "kinddes": "八方圻",
         "link": "",
-        "monster": "",
+        "monster": "3549",
         "tab": 0
       },
       {
@@ -5378,7 +5378,7 @@
         "kind": 1,
         "kinddes": "蜃都之序",
         "link": "",
-        "monster": "",
+        "monster": "4923",
         "tab": 0
       },
       {
@@ -5388,7 +5388,7 @@
         "kind": 1,
         "kinddes": "蜃都之源",
         "link": "",
-        "monster": "",
+        "monster": "4923",
         "tab": 0
       },
       {
@@ -5398,7 +5398,7 @@
         "kind": 1,
         "kinddes": "蜃都之逐",
         "link": "",
-        "monster": "",
+        "monster": "4923",
         "tab": 0
       },
       {
@@ -5408,7 +5408,7 @@
         "kind": 1,
         "kinddes": "蜃都之理",
         "link": "",
-        "monster": "",
+        "monster": "4923",
         "tab": 0
       },
       {
@@ -5428,7 +5428,7 @@
         "kind": 1,
         "kinddes": "命世之岐",
         "link": "",
-        "monster": "",
+        "monster": "3814",
         "tab": 0
       },
       {
@@ -5438,7 +5438,7 @@
         "kind": 1,
         "kinddes": "冥妖之悼",
         "link": "",
-        "monster": "",
+        "monster": "3488",
         "tab": 0
       },
       {
@@ -5448,7 +5448,7 @@
         "kind": 1,
         "kinddes": "幽迹之秘",
         "link": "",
-        "monster": "",
+        "monster": "3488",
         "tab": 0
       },
       {
@@ -5608,7 +5608,7 @@
         "kind": 1,
         "kinddes": "熔之加护",
         "link": "",
-        "monster": "",
+        "monster": "3425",
         "tab": 0
       },
       {
@@ -5618,7 +5618,7 @@
         "kind": 1,
         "kinddes": "霜之加护",
         "link": "",
-        "monster": "",
+        "monster": "3425",
         "tab": 0
       },
       {
@@ -5628,7 +5628,7 @@
         "kind": 1,
         "kinddes": "灿之加护",
         "link": "",
-        "monster": "",
+        "monster": "3425",
         "tab": 0
       },
       {
@@ -5638,7 +5638,7 @@
         "kind": 1,
         "kinddes": "混沌魔眼",
         "link": "",
-        "monster": "",
+        "monster": "3797",
         "tab": 0
       },
       {
@@ -5648,7 +5648,7 @@
         "kind": 1,
         "kinddes": "堕灵神谕",
         "link": "",
-        "monster": "",
+        "monster": "3683",
         "tab": 0
       },
       {
@@ -5818,7 +5818,7 @@
         "kind": 1,
         "kinddes": "谋死A",
         "link": "",
-        "monster": "",
+        "monster": "4956",
         "tab": 0
       },
       {
@@ -5828,7 +5828,7 @@
         "kind": 1,
         "kinddes": "谋死B",
         "link": "",
-        "monster": "",
+        "monster": "4956",
         "tab": 0
       },
       {
@@ -5838,7 +5838,7 @@
         "kind": 1,
         "kinddes": "谋死C",
         "link": "",
-        "monster": "",
+        "monster": "4956",
         "tab": 0
       },
       {
@@ -5848,7 +5848,7 @@
         "kind": 1,
         "kinddes": "谋死D",
         "link": "",
-        "monster": "",
+        "monster": "4956",
         "tab": 0
       },
       {
@@ -5938,7 +5938,7 @@
         "kind": 1,
         "kinddes": "圣荷慰心",
         "link": "",
-        "monster": "",
+        "monster": "3888",
         "tab": 0
       },
       {
@@ -5948,7 +5948,7 @@
         "kind": 1,
         "kinddes": "嫉妒",
         "link": "",
-        "monster": "",
+        "monster": "4494",
         "tab": 0
       }
     ]

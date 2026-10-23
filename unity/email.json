@@ -721,6 +721,11 @@
           "text": "https://wj.qq.com/s2/27585517/qz7l/",
           "id": 145,
           "type": "url"
+        },
+        {
+          "text": "https://seer.61.com/events/reward",
+          "id": 146,
+          "type": "url"
         }
       ]
     }

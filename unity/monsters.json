@@ -642610,6 +642610,288 @@
         "vip": 0
       },
       {
+        "def_name": "凯亚",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38602,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 10157,
+              "learning_lv": 1,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20491,
+              "learning_lv": 5,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10629,
+              "learning_lv": 9,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 21153,
+              "learning_lv": 13,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 11531,
+              "learning_lv": 17,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38600,
+              "learning_lv": 21,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 22020,
+              "learning_lv": 25,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 11025,
+              "learning_lv": 29,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 22052,
+              "learning_lv": 33,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 33057,
+              "learning_lv": 37,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 26617,
+              "learning_lv": 41,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 34255,
+              "learning_lv": 45,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29486,
+              "learning_lv": 49,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 34256,
+              "learning_lv": 53,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29487,
+              "learning_lv": 57,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38601,
+              "learning_lv": 61,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 70,
+        "character_attr_param": 4,
+        "combo": 0,
+        "def": 114,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 2,
+        "hp": 166,
+        "id": 4957,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3618,
+        "real_id": 0,
+        "sp_atk": 147,
+        "sp_def": 106,
+        "spd": 132,
+        "support": 0,
+        "transform": 0,
+        "type": 102,
+        "vip": 0
+      },
+      {
+        "def_name": "灵釉花口瓶",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38605,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38603,
+              "learning_lv": 1,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 29488,
+              "learning_lv": 5,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 29489,
+              "learning_lv": 9,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38604,
+              "learning_lv": 13,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 70,
+        "character_attr_param": 4,
+        "combo": 0,
+        "def": 105,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 0,
+        "hp": 151,
+        "id": 4958,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3619,
+        "real_id": 0,
+        "sp_atk": 143,
+        "sp_def": 103,
+        "spd": 128,
+        "support": 0,
+        "transform": 0,
+        "type": 24,
+        "vip": 0
+      },
+      {
+        "def_name": "铸元正鼎",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38608,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38606,
+              "learning_lv": 1,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 29490,
+              "learning_lv": 5,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 29491,
+              "learning_lv": 9,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38607,
+              "learning_lv": 13,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 120,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 110,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 0,
+        "hp": 180,
+        "id": 4959,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3620,
+        "real_id": 0,
+        "sp_atk": 70,
+        "sp_def": 110,
+        "spd": 110,
+        "support": 0,
+        "transform": 0,
+        "type": 71,
+        "vip": 0
+      },
+      {
         "def_name": "镇世神岳·玄武",
         "extra_moves": {
           "adv_move": [],
@@ -745720,6 +746002,96 @@
         "is_ride_pet": 0,
         "pet_class": 0,
         "real_id": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "甘落清心·欧根尼克",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400883,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "鼎镇绛河·嬴政",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400884,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "坎贝尔",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400885,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 1804,
         "sp_atk": 0,
         "sp_def": 0,
         "spd": 0,

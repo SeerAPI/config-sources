@@ -1414,8 +1414,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4955,
-            "image_id": 4955,
+            "id": 4957,
+            "image_id": 4957,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4956,
-            "image_id": 4956,
+            "id": 4958,
+            "image_id": 4958,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1436,10 +1436,21 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 879,
-            "image_id": 1400879,
+            "id": 4959,
+            "image_id": 4959,
             "label": 0,
-            "mon_id": 4956,
+            "mon_id": 0,
+            "type": 0
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 883,
+            "image_id": 1400883,
+            "label": 0,
+            "mon_id": 4605,
             "type": 1
           },
           {
@@ -1447,10 +1458,10 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 880,
-            "image_id": 1400880,
+            "id": 884,
+            "image_id": 1400884,
             "label": 0,
-            "mon_id": 4816,
+            "mon_id": 4468,
             "type": 1
           },
           {
@@ -1458,21 +1469,10 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 881,
-            "image_id": 1400881,
+            "id": 885,
+            "image_id": 1400885,
             "label": 0,
-            "mon_id": 4401,
-            "type": 1
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 882,
-            "image_id": 1400882,
-            "label": 0,
-            "mon_id": 4353,
+            "mon_id": 4215,
             "type": 1
           }
         ]
@@ -18624,7 +18624,7 @@
       {
         "def_name": "圣光灵皇",
         "features": "2015年年费精灵圣光灵王的超进化形态，所有的力量全部得到了惊人的提升！斩魔神，驱暗影，他就是圣光的最强审判者!",
-        "target": "",
+        "target": "114156",
         "id": 2873
       },
       {
@@ -22224,7 +22224,7 @@
       {
         "def_name": "奥兰",
         "features": "来自神秘冥域的精灵，据说他身负重要的消息从冥域逃出，是一个十分神秘的精灵",
-        "target": "",
+        "target": "150152",
         "id": 3484
       },
       {
@@ -22284,7 +22284,7 @@
       {
         "def_name": "奥斯兰",
         "features": "奥兰的超进化形态，超进化的他掌握了新的神秘力量，将在冥域大展拳脚！",
-        "target": "",
+        "target": "150153",
         "id": 3494
       },
       {
@@ -31004,6 +31004,24 @@
         "features": "无论多少次预演，都达不到完美。路线、时间、凶器、证明，她不断地构想、无限地演练，只为让那混色的魔女血债血偿。推理的世界里，作者是凶手的共犯；在现实的世界里，墨渍是鲜血的前言。",
         "target": "200000",
         "id": 4956
+      },
+      {
+        "def_name": "凯亚",
+        "features": "凯亚来自拉卡伊的阿塔富岛。她自学成才，理想是成为一名真正的精灵召唤师，站上海瓦斗技场的舞台。",
+        "target": "153201/1018",
+        "id": 4957
+      },
+      {
+        "def_name": "灵釉花口瓶",
+        "features": "中原大地上彩瓷窑中瓷瓶所化形的精灵，富有灵气，对待它记得轻拿轻放哦。",
+        "target": "114151",
+        "id": 4958
+      },
+      {
+        "def_name": "铸元正鼎",
+        "features": "中原大地上圣鼎所化形的精灵，机灵古怪，可别被它的外貌给骗了哦。",
+        "target": "114151",
+        "id": 4959
       },
       {
         "def_name": "镇世神岳·玄武",

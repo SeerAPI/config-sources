@@ -12993,7 +12993,7 @@
           }
         ],
         "id": 723,
-        "jump_target": 114145,
+        "jump_target": 0,
         "mon_id": 4762,
         "type": 18
       },
@@ -13011,7 +13011,7 @@
           }
         ],
         "id": 724,
-        "jump_target": 114146,
+        "jump_target": 0,
         "mon_id": 4761,
         "type": 3
       },
@@ -13047,7 +13047,7 @@
           }
         ],
         "id": 726,
-        "jump_target": 114101,
+        "jump_target": 0,
         "mon_id": 4765,
         "type": 4
       },
@@ -13065,7 +13065,7 @@
           }
         ],
         "id": 727,
-        "jump_target": 114102,
+        "jump_target": 0,
         "mon_id": 4766,
         "type": 4
       },
@@ -13173,7 +13173,7 @@
           }
         ],
         "id": 733,
-        "jump_target": 114139,
+        "jump_target": 0,
         "mon_id": 4761,
         "type": 3
       },
@@ -15644,8 +15644,8 @@
         "type": 0
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "直至烈阳升起·帝皇之戎",
         "skin_kind": [
           {
@@ -15657,13 +15657,13 @@
           }
         ],
         "id": 871,
-        "jump_target": 114141,
+        "jump_target": 0,
         "mon_id": 4950,
         "type": 20
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "默颂传说·洛克珊娜",
         "skin_kind": [
           {
@@ -15675,13 +15675,13 @@
           }
         ],
         "id": 872,
-        "jump_target": 114135,
+        "jump_target": 0,
         "mon_id": 3430,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "生骸圣像·咤克斯",
         "skin_kind": [
           {
@@ -15693,13 +15693,13 @@
           }
         ],
         "id": 873,
-        "jump_target": 114143,
+        "jump_target": 0,
         "mon_id": 4762,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "瑶光桂影·琉梦",
         "skin_kind": [
           {
@@ -15711,13 +15711,13 @@
           }
         ],
         "id": 874,
-        "jump_target": 114144,
+        "jump_target": 0,
         "mon_id": 4761,
         "type": 6
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "宿命的对决·雷伊",
         "skin_kind": [
           {
@@ -15729,13 +15729,13 @@
           }
         ],
         "id": 875,
-        "jump_target": 114137,
+        "jump_target": 0,
         "mon_id": 4946,
         "type": 4
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "宿命的对决·盖亚",
         "skin_kind": [
           {
@@ -15747,13 +15747,13 @@
           }
         ],
         "id": 876,
-        "jump_target": 114137,
+        "jump_target": 0,
         "mon_id": 4947,
         "type": 4
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "万契之囹·龙焉",
         "skin_kind": [
           {
@@ -15765,13 +15765,13 @@
           }
         ],
         "id": 877,
-        "jump_target": 114149,
+        "jump_target": 0,
         "mon_id": 4373,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "百相傩戏·库比",
         "skin_kind": [
           {
@@ -15783,7 +15783,7 @@
           }
         ],
         "id": 878,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 4658,
         "type": 3
       },
@@ -15842,8 +15842,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "恶戏前奏·花寅",
         "skin_kind": [
           {
@@ -15855,9 +15855,63 @@
           }
         ],
         "id": 882,
-        "jump_target": 114150,
+        "jump_target": 0,
         "mon_id": 4353,
         "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "甘落清心·欧根尼克",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 883,
+        "jump_target": 114153,
+        "mon_id": 4605,
+        "type": 18
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "鼎镇绛河·嬴政",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 884,
+        "jump_target": 114153,
+        "mon_id": 4468,
+        "type": 18
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "坎贝尔",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 885,
+        "jump_target": 2,
+        "mon_id": 4215,
+        "type": 0
       }
     ]
   }

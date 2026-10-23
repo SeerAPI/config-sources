@@ -5589,6 +5589,13 @@
     },
     {
       "curr_app_do": 1,
+      "id": 919,
+      "is_full_screen": 1,
+      "module_name": "xuanminghunzhe",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
       "module_name": "zuma",
@@ -6724,8 +6731,85 @@
     {
       "curr_app_do": 1,
       "id": 1248,
+      "is_full_screen": 0,
+      "module_name": "hnldjumppanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1249,
+      "is_full_screen": 1,
+      "module_name": "starBeanShopEnterPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1250,
       "is_full_screen": 1,
       "module_name": "csdwmainpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1251,
+      "is_full_screen": 1,
+      "module_name": "hnldmainpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1252,
+      "is_full_screen": 1,
+      "module_name": "starbeanPraemium",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1253,
+      "is_full_screen": 0,
+      "module_name": "SpaceShipPilotLicense",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1254,
+      "is_full_screen": 1,
+      "module_name": "exploreZhongyuanCursus",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1255,
+      "is_full_screen": 1,
+      "module_name": "ShengguanglinghuangFreeGift",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1256,
+      "is_full_screen": 0,
+      "module_name": "autocardfun",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1257,
+      "is_full_screen": 1,
+      "module_name": "xiaochuGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1258,
+      "is_full_screen": 1,
+      "module_name": "lubbockActivityMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1259,
+      "is_full_screen": 1,
+      "module_name": "lingyaoqianyouSkinSell2nd",
       "res_config": []
     }
   ]

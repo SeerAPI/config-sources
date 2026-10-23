@@ -8428,6 +8428,48 @@
         "rarity": 2,
         "effect_id": 887,
         "show": 1
+      },
+      {
+        "id": 2400607,
+        "monster_id": 4069,
+        "move_id": 34305,
+        "moves_consume": 200,
+        "needmon_id": 0,
+        "new_se_idx": 5587,
+        "new_se_consume": 500,
+        "pet_consume": 1000,
+        "pet_limit": 0,
+        "rarity": 4,
+        "effect_id": 1315,
+        "show": 1
+      },
+      {
+        "id": 2400608,
+        "monster_id": 3888,
+        "move_id": 33416,
+        "moves_consume": 200,
+        "needmon_id": 0,
+        "new_se_idx": 3239,
+        "new_se_consume": 500,
+        "pet_consume": 1000,
+        "pet_limit": 0,
+        "rarity": 4,
+        "effect_id": 1157,
+        "show": 1
+      },
+      {
+        "id": 2400609,
+        "monster_id": 4957,
+        "move_id": 38602,
+        "moves_consume": 100,
+        "needmon_id": 0,
+        "new_se_idx": 6456,
+        "new_se_consume": 200,
+        "pet_consume": 400,
+        "pet_limit": 1,
+        "rarity": 2,
+        "effect_id": 2154,
+        "show": 1
       }
     ]
   }

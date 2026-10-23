@@ -41582,7 +41582,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#57c975]出战时[/color]获得[color=#f35555]群辉加护[/color]；自身拥有[color=#f35555]群辉加护[/color]时，若对手处于[color=#52a5f2]回合类效果[/color]则自身[color=#57c975]闪避[/color]对手的技能，若对手的技能命中自身则命中后对手每有1个与此技能类型不同的技能自身恢复120点体力|[color=#52a5f2]己方[/color]其他精灵[color=#52a5f2]首次[/color][color=#57c975]出战时[/color]自身获得1层[color=#f35555]群芳加护[/color]",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]出战时[/color]获得[color=#f35555]群辉加护[/color]；自身拥有[color=#f35555]群辉加护[/color]时，若对手处于[color=#52a5f2]回合类效果[/color]则自身[color=#57c975]闪避[/color]对手的技能，若对手的技能命中自身则命中后对手每有1个与此技能类型不同的技能自身恢复120点体力|[sprite name=dot4][color=#52a5f2]己方[/color]其他精灵[color=#52a5f2]首次[/color][color=#57c975]出战时[/color]自身获得1层[color=#f35555]群芳加护[/color]",
         "args": "100 120 1",
         "come": "",
         "des": [],
@@ -54610,7 +54610,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#57c975]出战时[/color]获得[color=#f35555]群辉加护[/color]；自身拥有[color=#f35555]群辉加护[/color]时，若对手处于[color=#52a5f2]回合类效果[/color]则自身[color=#57c975]闪避[/color]对手的技能，若对手的技能命中自身则命中后对手每有1个与此技能类型不同的技能自身恢复120点体力，若对手的技能未命中自身则此次技能结束时本次在场每[color=#57c975]闪避[/color]成功1次，[color=#52a5f2]吸取[/color]对手120点体力|[color=#52a5f2]己方[/color]其他精灵[color=#52a5f2]首次[/color][color=#57c975]出战时[/color]自身获得1层[color=#f35555]群芳加护[/color]；自身拥有[color=#f35555]群芳加护[/color]时，双方[color=#57c975]使用技能后[/color]自身与对手受到1点[color=#52a5f2]固定伤害[/color]，[color=#52a5f2]然后[/color]若对手的体力未减少则本次在场自身造成的攻击伤害提升20%，若自身的体力未减少则本次在场造成的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]提升20%，伤害提升效果均可叠加，自身每有1层[color=#f35555]群芳加护[/color]最高可叠加1次",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]出战时[/color]获得[color=#f35555]群辉加护[/color]；自身拥有[color=#f35555]群辉加护[/color]时，若对手处于[color=#52a5f2]回合类效果[/color]则自身[color=#57c975]闪避[/color]对手的技能，若对手的技能命中自身则命中后对手每有1个与此技能类型不同的技能自身恢复120点体力，若对手的技能未命中自身则此次技能结束时本次在场每[color=#57c975]闪避[/color]成功1次，[color=#52a5f2]吸取[/color]对手120点体力|[sprite name=dot4][color=#52a5f2]己方[/color]其他精灵[color=#52a5f2]首次[/color][color=#57c975]出战时[/color]自身获得1层[color=#f35555]群芳加护[/color]；自身拥有[color=#f35555]群芳加护[/color]时，双方[color=#57c975]使用技能后[/color]自身与对手受到1点[color=#52a5f2]固定伤害[/color]，[color=#52a5f2]然后[/color]若对手的体力未减少则本次在场自身造成的攻击伤害提升20%，若自身的体力未减少则本次在场造成的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]提升20%，伤害提升效果均可叠加，自身每有1层[color=#f35555]群芳加护[/color]最高可叠加1次",
         "args": "101 120 1",
         "come": "星罗拂沙伙伴效果",
         "des": [],
@@ -56530,6 +56530,82 @@
         "effect_id": 2561,
         "icon_id": 2153,
         "id": 2153,
+        "intensify": 0,
+        "is_adv": 0,
+        "label": 0,
+        "limited_type": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，解除双方的[color=#57c975]烧伤[/color]状态",
+        "args": "1 0",
+        "come": "",
+        "des": [],
+        "tag": [],
+        "tips": "战斗阶段结束时，解除双方的烧伤状态（boss无效）",
+        "kind": [
+          7
+        ],
+        "pet_id": [
+          4958
+        ],
+        "specific_id": [],
+        "effect_id": 2557,
+        "icon_id": 2154,
+        "id": 2154,
+        "intensify": 0,
+        "is_adv": 0,
+        "label": 0,
+        "limited_type": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，恢复自身25%的体力",
+        "args": "1 0",
+        "come": "",
+        "des": [],
+        "tag": [],
+        "tips": "战斗阶段结束时，恢复自身25%的体力（boss无效）",
+        "kind": [
+          5
+        ],
+        "pet_id": [
+          4959
+        ],
+        "specific_id": [],
+        "effect_id": 2558,
+        "icon_id": 2155,
+        "id": 2155,
+        "intensify": 0,
+        "is_adv": 0,
+        "label": 0,
+        "limited_type": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]对手使用技能时，若此技能为对手技能中PP值唯一最少，则此技能无效，若此技能为对手技能中PP值唯一最多，则令对手[color=#57c975]麻痹[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，令对手PP值不为唯一最少或最多的技能PP值-2",
+        "args": "1 0",
+        "come": "",
+        "des": [],
+        "tag": [],
+        "tips": "对手使用技能时，若此技能为对手技能中PP值唯一最少，则此技能无效，若此技能为对手技能中PP值唯一最多，则令对手麻痹|战斗阶段结束时，令对手PP值不为唯一最少或最多的技能PP值-2（boss无效）",
+        "kind": [
+          15,
+          10
+        ],
+        "pet_id": [
+          4957
+        ],
+        "specific_id": [],
+        "effect_id": 2560,
+        "icon_id": 2156,
+        "id": 2156,
         "intensify": 0,
         "is_adv": 0,
         "label": 0,
