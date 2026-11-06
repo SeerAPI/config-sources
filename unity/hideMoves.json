@@ -13532,6 +13532,24 @@
         "pet_id": 4924
       },
       {
+        "move_id": 38626,
+        "move_name1": "神念",
+        "move_name2": "净世斩",
+        "pet_id": 13311
+      },
+      {
+        "move_id": 38629,
+        "move_name1": "阿卡伊",
+        "move_name2": "守候",
+        "pet_id": 4964
+      },
+      {
+        "move_id": 38635,
+        "move_name1": "神诏",
+        "move_name2": "之诀别",
+        "pet_id": 3311
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

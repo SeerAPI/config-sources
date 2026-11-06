@@ -400038,7 +400038,36 @@
           "sp_move": []
         },
         "learnable_moves": {
-          "adv_move": [],
+          "adv_move": [
+            {
+              "id": 38633,
+              "learning_lv": 0,
+              "rec": 0,
+              "tag": 1,
+              "tag2": 0
+            },
+            {
+              "id": 29506,
+              "learning_lv": 0,
+              "rec": 0,
+              "tag": 2,
+              "tag2": 0
+            },
+            {
+              "id": 29507,
+              "learning_lv": 0,
+              "rec": 0,
+              "tag": 3,
+              "tag2": 0
+            },
+            {
+              "id": 38634,
+              "learning_lv": 0,
+              "rec": 0,
+              "tag": 4,
+              "tag2": 0
+            }
+          ],
           "move": [
             {
               "id": 12897,
@@ -400195,7 +400224,18 @@
         },
         "move": null,
         "show_extra_moves": null,
-        "sp_extra_moves": null,
+        "sp_extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38635,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
         "atk": 136,
         "character_attr_param": 0,
         "combo": 0,
@@ -643386,6 +643426,148 @@
         "vip": 0
       },
       {
+        "def_name": "伊娜",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38629,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 10086,
+              "learning_lv": 1,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20302,
+              "learning_lv": 5,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10287,
+              "learning_lv": 9,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 10194,
+              "learning_lv": 13,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20135,
+              "learning_lv": 17,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38627,
+              "learning_lv": 21,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 10148,
+              "learning_lv": 25,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20631,
+              "learning_lv": 29,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 14384,
+              "learning_lv": 33,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 15839,
+              "learning_lv": 37,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 23216,
+              "learning_lv": 41,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 36773,
+              "learning_lv": 45,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29504,
+              "learning_lv": 49,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 36774,
+              "learning_lv": 53,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29505,
+              "learning_lv": 57,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38628,
+              "learning_lv": 61,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 70,
+        "character_attr_param": 4,
+        "combo": 0,
+        "def": 112,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 2,
+        "hp": 163,
+        "id": 4964,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3625,
+        "real_id": 0,
+        "sp_atk": 144,
+        "sp_def": 112,
+        "spd": 134,
+        "support": 0,
+        "transform": 0,
+        "type": 54,
+        "vip": 0
+      },
+      {
         "def_name": "镇世神岳·玄武",
         "extra_moves": {
           "adv_move": [],
@@ -643751,6 +643933,184 @@
         "support": 0,
         "transform": 0,
         "type": 223,
+        "vip": 0
+      },
+      {
+        "def_name": "圣光灵神SP",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38626,
+              "learning_lv": 71,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 12897,
+              "learning_lv": 1,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 21506,
+              "learning_lv": 5,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 12898,
+              "learning_lv": 9,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 12903,
+              "learning_lv": 13,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20307,
+              "learning_lv": 17,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 16684,
+              "learning_lv": 21,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 14733,
+              "learning_lv": 25,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 22358,
+              "learning_lv": 29,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 14730,
+              "learning_lv": 33,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 16685,
+              "learning_lv": 37,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 23685,
+              "learning_lv": 41,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 16686,
+              "learning_lv": 45,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 23686,
+              "learning_lv": 49,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 16687,
+              "learning_lv": 53,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 23687,
+              "learning_lv": 57,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 16688,
+              "learning_lv": 61,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 23800,
+              "learning_lv": 63,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 23771,
+              "learning_lv": 65,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38624,
+              "learning_lv": 66,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29502,
+              "learning_lv": 67,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29503,
+              "learning_lv": 68,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38625,
+              "learning_lv": 69,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 160,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 120,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 1,
+        "hp": 180,
+        "id": 13311,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 1981,
+        "real_id": 0,
+        "sp_atk": 80,
+        "sp_def": 120,
+        "spd": 140,
+        "support": 0,
+        "transform": 0,
+        "type": 65,
         "vip": 0
       },
       {
@@ -746642,6 +747002,96 @@
         "gender": 0,
         "hp": 0,
         "id": 1400887,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "小小灵神",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400888,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "曙光星律·圣光灵神",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400889,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "墨意千峰·关银屏",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400890,
         "is_fly_pet": 0,
         "is_ride_pet": 0,
         "pet_class": 0,

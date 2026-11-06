@@ -1414,8 +1414,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4924,
-            "image_id": 4924,
+            "id": 4964,
+            "image_id": 4964,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1425,54 +1425,10 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4960,
-            "image_id": 4960,
+            "id": 888,
+            "image_id": 1400888,
             "label": 0,
-            "mon_id": 0,
-            "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 4961,
-            "image_id": 4961,
-            "label": 0,
-            "mon_id": 0,
-            "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 4962,
-            "image_id": 4962,
-            "label": 0,
-            "mon_id": 0,
-            "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 4963,
-            "image_id": 4963,
-            "label": 0,
-            "mon_id": 0,
-            "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 886,
-            "image_id": 1400886,
-            "label": 0,
-            "mon_id": 4500,
+            "mon_id": 3311,
             "type": 1
           },
           {
@@ -1480,10 +1436,21 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 887,
-            "image_id": 1400887,
+            "id": 889,
+            "image_id": 1400889,
             "label": 0,
-            "mon_id": 4421,
+            "mon_id": 3311,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 890,
+            "image_id": 1400890,
+            "label": 0,
+            "mon_id": 4663,
             "type": 1
           }
         ]
@@ -16355,7 +16322,7 @@
       {
         "def_name": "冥王·夜刃",
         "features": "冥王之一，冥界之主的忠实守卫，生性孤僻，终生守卫在碧落之海",
-        "target": "",
+        "target": "150156",
         "id": 2487
       },
       {
@@ -16379,7 +16346,7 @@
       {
         "def_name": "冥王·断空",
         "features": "有冥界忠魂之称的断空，为了冥界的称皇称霸不惜一切代价。",
-        "target": "",
+        "target": "150156",
         "id": 2491
       },
       {
@@ -16445,13 +16412,13 @@
       {
         "def_name": "冥王·破天",
         "features": "冥界第三位冥王，性格高傲，能力强大，已经可以将身后双剑的力量使用到极致。",
-        "target": "",
+        "target": "150156",
         "id": 2503
       },
       {
         "def_name": "月月",
         "features": "苍白之瀑下凝聚千年的冰晶精灵，具有极强的魔力。",
-        "target": "",
+        "target": "150156",
         "id": 2504
       },
       {
@@ -16529,7 +16496,7 @@
       {
         "def_name": "冥帝·修罗",
         "features": "冥界最终力量的汇聚！超强的力量几乎没有精灵可以与之匹敌！同时为神秘组织的成员，代号“命”",
-        "target": "",
+        "target": "150156",
         "id": 2517
       },
       {
@@ -20453,7 +20420,7 @@
       {
         "def_name": "冥皇·修罗",
         "features": "冥帝修罗的超进化形态，拥有无比强大的黑暗之力，可以释放腐蚀灵魂的法术！命·妙化无常！",
-        "target": "",
+        "target": "150156",
         "id": 3183
       },
       {
@@ -31065,10 +31032,22 @@
         "id": 4963
       },
       {
+        "def_name": "伊娜",
+        "features": "伊娜·帕旺来自拉卡伊的法卡洛亚。她的家族历代都是塔普娜的守卫者，她也将此视为她毕生的使命，至少很长一段时间内都是如此。",
+        "target": "153201/1031",
+        "id": 4964
+      },
+      {
         "def_name": "镇世神岳·玄武",
         "features": "玄武，帕诺的远古神兽、大地的守护者——他曾以伟岸之躯抵御世间最凶猛的灾厄，碎为戈拉后以钢铁新壳归来，仍在守护帕诺之夜。",
         "target": "150145",
         "id": 4995
+      },
+      {
+        "def_name": "圣光灵神SP",
+        "features": "圣光灵神领悟到了圣光的真谛，将体内的力量转化为了更为强大的圣光，他对正义与守护的信念，从此变得更加坚定。",
+        "target": "114182",
+        "id": 13311
       }
     ],
     "rec_mintmark": {

@@ -726,6 +726,11 @@
           "text": "https://seer.61.com/events/reward",
           "id": 146,
           "type": "url"
+        },
+        {
+          "text": "https://dc.61.com/?id=USZCKC",
+          "id": 147,
+          "type": "url"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "root": {
     "effect": [
       {
-        "analyze": "自身受到的攻击伤害减少10%",
+        "analyze": "自身受到的[color=#52a5f2]攻击伤害[/color]减少10%",
         "args": "",
         "come": "",
         "des": [],
@@ -14215,7 +14215,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身受到的攻击伤害高于300时下回合自身受到的攻击伤害减少50%|[sprite name=dot4]自身[color=#57c975]被击败后[/color]，将对手体力降为1点，[color=#52a5f2]然后[/color]消除对手[color=#52a5f2]回合类效果[/color]并[color=#52a5f2]反转[/color]对手能力提升（BOSS无效）",
+        "analyze": "[sprite name=dot4]自身受到的[color=#52a5f2]攻击伤害[/color]高于300时下回合自身受到的[color=#52a5f2]攻击伤害[/color]减少50%|[sprite name=dot4]自身[color=#57c975]被击败后[/color]，将对手体力降为1点，[color=#52a5f2]然后[/color]消除对手[color=#52a5f2]回合类效果[/color]并[color=#52a5f2]反转[/color]对手能力提升（BOSS无效）",
         "args": "300 50 1 1",
         "come": "",
         "des": [],
@@ -14580,7 +14580,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot1]自身[color=#57c975]被击败后[/color]，[color=#52a5f2]复活[/color]出战背包内的1只阵亡且专属特性中没有此效果的精灵|[sprite name=dot1]自身可以拥有最多6层[color=#f35555]神耀能量[/color]并根据[color=#f35555]神耀能量[/color]所[color=#52a5f2]达到[/color]的层数获得以下效果：|[sprite name=dot1]1层：每有1层[color=#f35555]神耀能量[/color]自身受到的攻击[color=#52a5f2]伤害额外减少[/color]8%|[sprite name=dot1]2层：[color=#57c975]免疫[/color]受到的[color=#52a5f2]异常状态[/color]与[color=#52a5f2]能力下降状态[/color]|[sprite name=dot1]3层：自身使用技能[color=#52a5f2]之后[/color]每[color=#57c975]回合结束后[/color]恢复自身最大体力的1/3|[sprite name=dot1]4层：[color=#57c975]免疫[/color]并[color=#52a5f2]反弹[/color]自身受到的[color=#52a5f2]固定伤害[/color]|[sprite name=dot1]5层:攻击[color=#52a5f2]技能先制[/color]+1|[sprite name=dot1]6层:自身造成的攻击伤害提升60%且第五技能[color=#52a5f2]威力[/color]提升不再消耗[color=#f35555]神耀能量[/color]，非PVE对战中[color=#57c975]击败[/color][color=#52a5f2]对手[/color]后自身[color=#f35555]神耀能量[/color]层数归0且下回合[color=#52a5f2]技能先制[/color]+3，PVE对战中4回合后自身[color=#f35555]神耀能量[/color]层数归0且下回合[color=#52a5f2]技能先制[/color]+3",
+        "analyze": "[sprite name=dot1]自身[color=#57c975]被击败后[/color]，[color=#52a5f2]复活[/color]出战背包内的1只阵亡且专属特性中没有此效果的精灵|[sprite name=dot1]自身可以拥有最多6层[color=#f35555]神耀能量[/color]并根据[color=#f35555]神耀能量[/color]所[color=#52a5f2]达到[/color]的层数获得以下效果：|[sprite name=dot1]1层：每有1层[color=#f35555]神耀能量[/color]自身受到的攻击[color=#52a5f2]伤害额外减少[/color]8%|[sprite name=dot1]2层：[color=#57c975]免疫[/color]受到的[color=#52a5f2]异常状态[/color]与[color=#52a5f2]能力下降状态[/color]|[sprite name=dot1]3层：自身使用技能[color=#52a5f2]之后[/color]每[color=#57c975]回合结束后[/color]恢复自身最大体力的1/3|[sprite name=dot1]4层：[color=#57c975]免疫[/color]并[color=#52a5f2]反弹[/color]自身受到的[color=#52a5f2]固定伤害[/color]|[sprite name=dot1]5层:攻击[color=#52a5f2]技能先制[/color]+1|[sprite name=dot1]6层:自身造成的[color=#52a5f2]攻击伤害[/color]提升60%且第五技能[color=#52a5f2]威力[/color]提升不再消耗[color=#f35555]神耀能量[/color]，非PVE对战中[color=#57c975]击败[/color][color=#52a5f2]对手[/color]后自身[color=#f35555]神耀能量[/color]层数归0且下回合[color=#52a5f2]技能先制[/color]+3，PVE对战中4回合后自身[color=#f35555]神耀能量[/color]层数归0且下回合[color=#52a5f2]技能先制[/color]+3",
         "args": "100 1 8 8 3 1 60 3",
         "come": "重生之翼魂印进化限时活动",
         "des": [
@@ -16251,7 +16251,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot1]自身[color=#57c975]攻击结束时[/color]，附加自身上次受到[color=#52a5f2]攻击伤害[/color]一半的[color=#52a5f2]固定伤害[/color]|[sprite name=dot1]自身首次死亡时，复活自身并消除对手的能力提升状态、[color=#52a5f2]回合类效果[/color]，消除成功则本场战斗自身免疫下1次受到的异常状态|[sprite name=dot1]自身复活时，2回合内所有技能[color=#52a5f2]威力[/color]翻倍",
         "args": "2 100 1 2 100 1 1",
         "come": "",
         "des": [
@@ -16262,11 +16262,12 @@
           "拦截效果",
           "触发效果"
         ],
-        "tips": "[固伤效果]:|每次使用攻击技能附加对手上次造成伤害数值一半的固定伤害（BOSS无效); |[拦截效果]:|自身死亡后100%重生一次，重生时消除对手能力提升状态和回合类效果，消除任意一项成功则自身免疫下1次受到的异常状态; |[触发效果]:|重生后自身2回合所有技能威力提升100%",
+        "tips": "自身攻击结束时，附加自身上次受到攻击伤害一半的固定伤害|自身首次死亡时，复活自身并消除对手的能力提升状态、回合类效果，消除成功则本场战斗自身免疫下1次受到的异常状态|自身复活时，2回合内所有技能威力翻倍|（boss有效）",
         "kind": [
           1,
           7,
-          8
+          8,
+          14
         ],
         "pet_id": [
           3311
@@ -17918,7 +17919,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身使用攻击技能后，若造成的攻击伤害低于300则附加[color=#52a5f2]对手[/color]体力1/3的[color=#52a5f2]百分比伤害[/color]|[sprite name=dot4][color=#57c975]回合开始时[/color]若[color=#52a5f2]对手[/color]处于[color=#52a5f2]异常状态[/color]则[color=#52a5f2]当回合[/color]自身造成的攻击伤害提升100%，若[color=#52a5f2]对手[/color]不处于[color=#52a5f2]异常状态[/color]则[color=#52a5f2]当回合[/color]自身[color=#57c975]使用技能时[/color]35%令[color=#52a5f2]对手[/color][color=#57c975]害怕[/color]",
+        "analyze": "[sprite name=dot4]自身使用攻击技能后，若造成的[color=#52a5f2]攻击伤害[/color]低于300则附加[color=#52a5f2]对手[/color]体力1/3的[color=#52a5f2]百分比伤害[/color]|[sprite name=dot4][color=#57c975]回合开始时[/color]若[color=#52a5f2]对手[/color]处于[color=#52a5f2]异常状态[/color]则[color=#52a5f2]当回合[/color]自身造成的[color=#52a5f2]攻击伤害[/color]提升100%，若[color=#52a5f2]对手[/color]不处于[color=#52a5f2]异常状态[/color]则[color=#52a5f2]当回合[/color]自身[color=#57c975]使用技能时[/color]35%令[color=#52a5f2]对手[/color][color=#57c975]害怕[/color]",
         "args": "300 3 100 35 1",
         "come": "",
         "des": [],
@@ -18626,7 +18627,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]登场时[/color]，消除[color=#52a5f2]对手[/color][color=#52a5f2]能力提升状态[/color]，消除成功则以[color=#57c975]回合类效果[/color]的形式令[color=#52a5f2]对手[/color]2回合内无法处于[color=#52a5f2]能力提升状态[/color]且令[color=#52a5f2]对手[/color]下1次使用的属性[color=#57c975]技能无效[/color]|[sprite name=dot4]每回合开始至[color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]对手[/color]存在高于自身的能力等级，则令[color=#52a5f2]对手[/color]该能力等级变为与自身相同|[sprite name=dot1][color=#57c975]回合开始时[/color]，若自身不处于[color=#52a5f2]能力提升状态[/color]，则50%使自身[color=#57c975]免疫[/color][color=#52a5f2]对手[/color]下次使用的技能造成的攻击伤害，[color=#57c975]未触发[/color]则[color=#57c975]当回合[/color]受到的攻击伤害减少50%|[sprite name=dot1][color=#57c975]战斗阶段结束时[/color]若自身处于[color=#52a5f2]能力提升状态[/color]，则恢复自身最大体力的1/3并附加等量的[color=#57c975]百分比伤害[/color]，恢复量与附加量最高为自身当前已损失体力值",
+        "analyze": "[sprite name=dot4][color=#57c975]登场时[/color]，消除[color=#52a5f2]对手[/color][color=#52a5f2]能力提升状态[/color]，消除成功则以[color=#57c975]回合类效果[/color]的形式令[color=#52a5f2]对手[/color]2回合内无法处于[color=#52a5f2]能力提升状态[/color]且令[color=#52a5f2]对手[/color]下1次使用的属性[color=#57c975]技能无效[/color]|[sprite name=dot4]每回合开始至[color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]对手[/color]存在高于自身的能力等级，则令[color=#52a5f2]对手[/color]该能力等级变为与自身相同|[sprite name=dot1][color=#57c975]回合开始时[/color]，若自身不处于[color=#52a5f2]能力提升状态[/color]，则50%使自身[color=#57c975]免疫[/color][color=#52a5f2]对手[/color]下次使用的技能造成的[color=#52a5f2]攻击伤害[/color]，[color=#57c975]未触发[/color]则[color=#57c975]当回合[/color]受到的[color=#52a5f2]攻击伤害[/color]减少50%|[sprite name=dot1][color=#57c975]战斗阶段结束时[/color]若自身处于[color=#52a5f2]能力提升状态[/color]，则恢复自身最大体力的1/3并附加等量的[color=#57c975]百分比伤害[/color]，恢复量与附加量最高为自身当前已损失体力值",
         "args": "2 1 3 50 50 1",
         "come": "",
         "des": [
@@ -19061,7 +19062,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身使用攻击技能后下回合自身[color=#57c975]免疫[/color]物理攻击技能，使用属性技能后下回合自身[color=#57c975]免疫[/color]特殊攻击技能|[sprite name=dot4][color=#52a5f2]回合开始[/color]时若自身处于[color=#52a5f2]异常状态[/color]，则[color=#52a5f2]当回合[/color]受到的攻击伤害减少30%，自身当前体力低于[color=#52a5f2]对手[/color]时效果提升至80%，若自身体力低于30%，则[color=#52a5f2]当回合[/color]自身[color=#57c975]使用技能后[/color][color=#57c975]秒杀[/color][color=#52a5f2]对手[/color]并清除自身全部PP值、消除自身[color=#52a5f2]回合类效果[/color]",
+        "analyze": "[sprite name=dot4]自身使用攻击技能后下回合自身[color=#57c975]免疫[/color]物理攻击技能，使用属性技能后下回合自身[color=#57c975]免疫[/color]特殊攻击技能|[sprite name=dot4][color=#52a5f2]回合开始[/color]时若自身处于[color=#52a5f2]异常状态[/color]，则[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]攻击伤害[/color]减少30%，自身当前体力低于[color=#52a5f2]对手[/color]时效果提升至80%，若自身体力低于30%，则[color=#52a5f2]当回合[/color]自身[color=#57c975]使用技能后[/color][color=#57c975]秒杀[/color][color=#52a5f2]对手[/color]并清除自身全部PP值、消除自身[color=#52a5f2]回合类效果[/color]",
         "args": "30 80 30 1",
         "come": "",
         "des": [],
@@ -19166,7 +19167,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身受到的伤害高于自身体力的1/2时，此攻击[color=#52a5f2]伤害额外减少[/color]50%|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身体力低于1/2则[color=#52a5f2]当回合[/color]自身所有[color=#52a5f2]技能先制[/color]+1、造成的攻击伤害提高100%且造成伤害的50%额外恢复至自身体力|[sprite name=dot4][color=#57c975]回合结束时[/color]，若自身体力高于1/2则2回合内自身免疫并[color=#57c975]反弹[/color]受到的异常状态",
+        "analyze": "[sprite name=dot4]自身受到的伤害高于自身体力的1/2时，此攻击[color=#52a5f2]伤害额外减少[/color]50%|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身体力低于1/2则[color=#52a5f2]当回合[/color]自身所有[color=#52a5f2]技能先制[/color]+1、造成的[color=#52a5f2]攻击伤害[/color]提高100%且造成伤害的50%额外恢复至自身体力|[sprite name=dot4][color=#57c975]回合结束时[/color]，若自身体力高于1/2则2回合内自身免疫并[color=#57c975]反弹[/color]受到的异常状态",
         "args": "2 50 2 1 100 50 2 1",
         "come": "",
         "des": [],
@@ -19306,7 +19307,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]虚无：自身受到攻击伤害后，[color=#57c975]免疫[/color]下1次受到的技能伤害|[sprite name=dot4]元素：[color=#57c975]登场时[/color]，消除[color=#52a5f2]对手[/color][color=#52a5f2]回合类效果[/color]，消除成功则令[color=#52a5f2]对手[/color]下1次[color=#52a5f2]技能无效[/color]|[sprite name=dot1]能量：[color=#57c975]战斗阶段结束时[/color]，附加自身[color=#52a5f2]已损失体力[/color]50%的[color=#52a5f2]百分比伤害[/color]|[sprite name=dot1]生命：[color=#57c975]战斗阶段结束时[/color]，恢复自身最大体力的1/4和随机2个PP值不为满的技能1点PP值|[sprite name=dot4]轮回：自身[color=#52a5f2]首次[/color]于[color=#52a5f2]对手[/color]出手回合受到[color=#52a5f2]致死伤害[/color]时[color=#52a5f2]当回合[/color][color=#52a5f2]保留[/color]，同时[color=#57c975]回合结束后[/color]自身体力、PP值、能力等级返回[color=#52a5f2]当回合[/color]选择操作[color=#52a5f2]之后[/color]的状态|[sprite name=dot4]永恒：[color=#57c975]回合开始时[/color]，若自身体力高于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]自身技能必定先手|[sprite name=dot1]圣洁：[color=#57c975]免疫[/color]受到的[color=#52a5f2]异常状态[/color]和[color=#52a5f2]能力下降状态[/color]",
+        "analyze": "[sprite name=dot4]虚无：自身受到[color=#52a5f2]攻击伤害[/color]后，[color=#57c975]免疫[/color]下1次受到的技能伤害|[sprite name=dot4]元素：[color=#57c975]登场时[/color]，消除[color=#52a5f2]对手[/color][color=#52a5f2]回合类效果[/color]，消除成功则令[color=#52a5f2]对手[/color]下1次[color=#52a5f2]技能无效[/color]|[sprite name=dot1]能量：[color=#57c975]战斗阶段结束时[/color]，附加自身[color=#52a5f2]已损失体力[/color]50%的[color=#52a5f2]百分比伤害[/color]|[sprite name=dot1]生命：[color=#57c975]战斗阶段结束时[/color]，恢复自身最大体力的1/4和随机2个PP值不为满的技能1点PP值|[sprite name=dot4]轮回：自身[color=#52a5f2]首次[/color]于[color=#52a5f2]对手[/color]出手回合受到[color=#52a5f2]致死伤害[/color]时[color=#52a5f2]当回合[/color][color=#52a5f2]保留[/color]，同时[color=#57c975]回合结束后[/color]自身体力、PP值、能力等级返回[color=#52a5f2]当回合[/color]选择操作[color=#52a5f2]之后[/color]的状态|[sprite name=dot4]永恒：[color=#57c975]回合开始时[/color]，若自身体力高于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]自身技能必定先手|[sprite name=dot1]圣洁：[color=#57c975]免疫[/color]受到的[color=#52a5f2]异常状态[/color]和[color=#52a5f2]能力下降状态[/color]",
         "args": "1 1 4 50 1 1 50 1",
         "come": "",
         "des": [],
@@ -21064,7 +21065,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身受到的攻击伤害高于300时100%令[color=#52a5f2]对手[/color][color=#57c975]冰封[/color]，自身造成的攻击伤害若高于300时下次[color=#52a5f2]技能先制[/color]+2|[sprite name=dot4][color=#57c975]回合开始时[/color]若自身体力高于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]攻击技能造成的伤害提升100%，若自身体力低于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]受到的攻击伤害减少50%且[color=#57c975]使用技能后[/color][color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的1/3",
+        "analyze": "[sprite name=dot4]自身受到的[color=#52a5f2]攻击伤害[/color]高于300时100%令[color=#52a5f2]对手[/color][color=#57c975]冰封[/color]，自身造成的[color=#52a5f2]攻击伤害[/color]若高于300时下次[color=#52a5f2]技能先制[/color]+2|[sprite name=dot4][color=#57c975]回合开始时[/color]若自身体力高于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]攻击技能造成的伤害提升100%，若自身体力低于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]攻击伤害[/color]减少50%且[color=#57c975]使用技能后[/color][color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的1/3",
         "args": "300 100 300 2 50 3 1",
         "come": "",
         "des": [],
@@ -21118,7 +21119,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot1][color=#57c975]首次[/color][color=#57c975]登场[/color][color=#52a5f2]之后[/color]前2回合[color=#57c975]免疫[/color][color=#52a5f2]异常状态[/color]且受到[color=#52a5f2]致死伤害[/color]时[color=#52a5f2]保留[/color]1点体力|[sprite name=dot4][color=#57c975]首次[/color][color=#57c975]登场[/color][color=#52a5f2]之后[/color]前2回合自身所有[color=#57c975]技能先制[/color]+2且受到的[color=#52a5f2]致死攻击伤害[/color]后以[color=#57c975]固定伤害[/color]的形式[color=#57c975]反弹[/color]给[color=#52a5f2]对手[/color]|[sprite name=dot4]自身[color=#57c975]被击败后[/color]，[color=#57c975]己方[/color]下只出场精灵2回合内受到的攻击伤害和[color=#57c975]固定伤害[/color]减少50%",
+        "analyze": "[sprite name=dot1][color=#57c975]首次[/color][color=#57c975]登场[/color][color=#52a5f2]之后[/color]前2回合[color=#57c975]免疫[/color][color=#52a5f2]异常状态[/color]且受到[color=#52a5f2]致死伤害[/color]时[color=#52a5f2]保留[/color]1点体力|[sprite name=dot4][color=#57c975]首次[/color][color=#57c975]登场[/color][color=#52a5f2]之后[/color]前2回合自身所有[color=#57c975]技能先制[/color]+2且受到的[color=#52a5f2]致死攻击伤害[/color]后以[color=#57c975]固定伤害[/color]的形式[color=#57c975]反弹[/color]给[color=#52a5f2]对手[/color]|[sprite name=dot4]自身[color=#57c975]被击败后[/color]，[color=#57c975]己方[/color]下只出场精灵2回合内受到的[color=#52a5f2]攻击伤害[/color]和[color=#57c975]固定伤害[/color]减少50%",
         "args": "2 2 2 1 2 50 1",
         "come": "",
         "des": [],
@@ -21305,7 +21306,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身处于[color=#52a5f2]能力提升状态[/color]则自身获得300点[color=#57c975]护盾[/color]，若自身不处于[color=#52a5f2]能力提升状态[/color]则[color=#57c975]战斗阶段结束时[/color][color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的1/3并获得等量的[color=#57c975]护盾[/color]，最高叠加至400|[sprite name=dot4][color=#52a5f2]对手[/color]击破自身全部[color=#57c975]护盾[/color]时，附加[color=#52a5f2]对手[/color]最大体力1/3的[color=#52a5f2]百分比伤害[/color]且[color=#52a5f2]对手[/color]下1次使用攻击技能时，[color=#52a5f2]当回合[/color]自身受到的攻击伤害减少50%",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身处于[color=#52a5f2]能力提升状态[/color]则自身获得300点[color=#57c975]护盾[/color]，若自身不处于[color=#52a5f2]能力提升状态[/color]则[color=#57c975]战斗阶段结束时[/color][color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的1/3并获得等量的[color=#57c975]护盾[/color]，最高叠加至400|[sprite name=dot4][color=#52a5f2]对手[/color]击破自身全部[color=#57c975]护盾[/color]时，附加[color=#52a5f2]对手[/color]最大体力1/3的[color=#52a5f2]百分比伤害[/color]且[color=#52a5f2]对手[/color]下1次使用攻击技能时，[color=#52a5f2]当回合[/color]自身受到的[color=#52a5f2]攻击伤害[/color]减少50%",
         "args": "300 3 3 1 50 1",
         "come": "",
         "des": [],
@@ -21413,7 +21414,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身选择了技能的[color=#57c975]回合开始时[/color]，若此技能与上次相同则[color=#52a5f2]当回合[/color][color=#52a5f2]技能先制[/color]+1，若不相同则恢复最大体力1/3并造成等量[color=#52a5f2]百分比伤害[/color]，恢复量与伤害量最高为自身[color=#52a5f2]已损失体力[/color]值|[sprite name=dot4]自身[color=#57c975]登场时[/color]，背包内每有1只精灵存活自身获得100点[color=#57c975]护盾[/color]，最高600点，每有1只精灵阵亡，本次在场自身使用攻击技能时[color=#52a5f2]当回合[/color]造成的攻击伤害提升10%；若自身因上述效果获得的[color=#57c975]护盾[/color]低于300则下2次[color=#52a5f2]对手[/color]使用攻击技能时自身[color=#52a5f2]当回合[/color]受到的攻击伤害减少50%，若自身因上述效果获得的伤害可提升百分比低于30%时自身下次使用攻击技能时消除[color=#52a5f2]对手[/color][color=#52a5f2]回合类效果[/color]且[color=#52a5f2]当回合[/color]攻击必定打出[color=#52a5f2]致命一击[/color]",
+        "analyze": "[sprite name=dot4]自身选择了技能的[color=#57c975]回合开始时[/color]，若此技能与上次相同则[color=#52a5f2]当回合[/color][color=#52a5f2]技能先制[/color]+1，若不相同则恢复最大体力1/3并造成等量[color=#52a5f2]百分比伤害[/color]，恢复量与伤害量最高为自身[color=#52a5f2]已损失体力[/color]值|[sprite name=dot4]自身[color=#57c975]登场时[/color]，背包内每有1只精灵存活自身获得100点[color=#57c975]护盾[/color]，最高600点，每有1只精灵阵亡，本次在场自身使用攻击技能时[color=#52a5f2]当回合[/color]造成的[color=#52a5f2]攻击伤害[/color]提升10%；若自身因上述效果获得的[color=#57c975]护盾[/color]低于300则下2次[color=#52a5f2]对手[/color]使用攻击技能时自身[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]攻击伤害[/color]减少50%，若自身因上述效果获得的伤害可提升百分比低于30%时自身下次使用攻击技能时消除[color=#52a5f2]对手[/color][color=#52a5f2]回合类效果[/color]且[color=#52a5f2]当回合[/color]攻击必定打出[color=#52a5f2]致命一击[/color]",
         "args": "1 3 100 2 50 10 30 1",
         "come": "",
         "des": [],
@@ -23471,7 +23472,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若[color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]选择了攻击技能，则使[color=#52a5f2]对手[/color]随机1个技能PP值归零且[color=#52a5f2]当回合[/color]自身受到的攻击伤害不超过最大体力的1/2，若[color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]选择了属性技能，则[color=#52a5f2]当回合[/color]自身[color=#57c975]免疫[/color]所有[color=#52a5f2]异常状态[/color]和[color=#52a5f2]能力下降状态[/color]|[sprite name=dot1]自身[color=#57c975]被击败后[/color]，[color=#52a5f2]己方[/color]下只出战精灵获得500点[color=#57c975]护盾[/color]、[color=#57c975]护罩[/color]并[color=#57c975]免疫[/color]下1次受到的[color=#52a5f2]异常状态[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若[color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]选择了攻击技能，则使[color=#52a5f2]对手[/color]随机1个技能PP值归零且[color=#52a5f2]当回合[/color]自身受到的[color=#52a5f2]攻击伤害[/color]不超过最大体力的1/2，若[color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]选择了属性技能，则[color=#52a5f2]当回合[/color]自身[color=#57c975]免疫[/color]所有[color=#52a5f2]异常状态[/color]和[color=#52a5f2]能力下降状态[/color]|[sprite name=dot1]自身[color=#57c975]被击败后[/color]，[color=#52a5f2]己方[/color]下只出战精灵获得500点[color=#57c975]护盾[/color]、[color=#57c975]护罩[/color]并[color=#57c975]免疫[/color]下1次受到的[color=#52a5f2]异常状态[/color]",
         "args": "2 1 500 500 1",
         "come": "",
         "des": [],
@@ -23684,7 +23685,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身体力不低于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]50%的概率[color=#57c975]闪避[/color][color=#52a5f2]对手[/color]攻击，若自身体力低于[color=#52a5f2]对手[/color]则[color=#57c975]闪避[/color]概率提升至80%，若[color=#52a5f2]对手[/color]攻击命中则自身[color=#52a5f2]当回合[/color]受到的攻击伤害减少50%|[sprite name=dot4][color=#57c975]回合开始时[/color]，若[color=#52a5f2]当回合[/color]自身选择了攻击技能则随机令自身2项属性+1，提升的能力中含有特攻时自身额外攻击+2、速度+2，若[color=#52a5f2]当回合[/color]自身选择了属性技能则自身下回合所有[color=#52a5f2]技能先制[/color]+2",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身体力不低于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]50%的概率[color=#57c975]闪避[/color][color=#52a5f2]对手[/color]攻击，若自身体力低于[color=#52a5f2]对手[/color]则[color=#57c975]闪避[/color]概率提升至80%，若[color=#52a5f2]对手[/color]攻击命中则自身[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]攻击伤害[/color]减少50%|[sprite name=dot4][color=#57c975]回合开始时[/color]，若[color=#52a5f2]当回合[/color]自身选择了攻击技能则随机令自身2项属性+1，提升的能力中含有特攻时自身额外攻击+2、速度+2，若[color=#52a5f2]当回合[/color]自身选择了属性技能则自身下回合所有[color=#52a5f2]技能先制[/color]+2",
         "args": "50 80 50 2 1 2 1",
         "come": "",
         "des": [],
@@ -23975,7 +23976,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]令自身防御+1、特防+1、速度+1，令[color=#52a5f2]对手[/color]防御-1、特防-1、速度-1；|[sprite name=dot4]自身受到的攻击伤害大于350则恢复自身全部体力，自身受到的攻击伤害小于350则附加伤害50%的[color=#52a5f2]百分比伤害[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]令自身防御+1、特防+1、速度+1，令[color=#52a5f2]对手[/color]防御-1、特防-1、速度-1；|[sprite name=dot4]自身受到的[color=#52a5f2]攻击伤害[/color]大于350则恢复自身全部体力，自身受到的[color=#52a5f2]攻击伤害[/color]小于350则附加伤害50%的[color=#52a5f2]百分比伤害[/color]",
         "args": "1 1 350 350 50 1",
         "come": "",
         "des": [],
@@ -24802,7 +24803,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]常之罚：自身先出手时[color=#52a5f2]当回合[/color]自身造成的攻击伤害提升50%，[color=#52a5f2]对手[/color]先出手时[color=#52a5f2]当回合[/color]自身受到的攻击伤害减少50%|[sprite name=dot4]常之劫：[color=#57c975]回合开始时[/color]，若[color=#52a5f2]对手[/color]处于[color=#52a5f2]能力提升状态[/color]则消除[color=#52a5f2]对手[/color][color=#52a5f2]能力提升状态[/color]，消除成功则令[color=#52a5f2]对手[/color][color=#57c975]睡眠[/color]，若[color=#52a5f2]对手[/color]不处于[color=#52a5f2]能力提升状态[/color]则[color=#52a5f2]当回合[/color]自身所有[color=#52a5f2]技能先制[/color]+1；|[sprite name=dot4]常之惩：[color=#57c975]战斗阶段结束时[/color]，若自身体力为0，则消除[color=#52a5f2]对手[/color][color=#52a5f2]回合类效果[/color]和[color=#52a5f2]能力提升状态[/color]，消除任意一项成功则令[color=#52a5f2]对手[/color][color=#57c975]睡眠[/color]",
+        "analyze": "[sprite name=dot4]常之罚：自身先出手时[color=#52a5f2]当回合[/color]自身造成的[color=#52a5f2]攻击伤害[/color]提升50%，[color=#52a5f2]对手[/color]先出手时[color=#52a5f2]当回合[/color]自身受到的[color=#52a5f2]攻击伤害[/color]减少50%|[sprite name=dot4]常之劫：[color=#57c975]回合开始时[/color]，若[color=#52a5f2]对手[/color]处于[color=#52a5f2]能力提升状态[/color]则消除[color=#52a5f2]对手[/color][color=#52a5f2]能力提升状态[/color]，消除成功则令[color=#52a5f2]对手[/color][color=#57c975]睡眠[/color]，若[color=#52a5f2]对手[/color]不处于[color=#52a5f2]能力提升状态[/color]则[color=#52a5f2]当回合[/color]自身所有[color=#52a5f2]技能先制[/color]+1；|[sprite name=dot4]常之惩：[color=#57c975]战斗阶段结束时[/color]，若自身体力为0，则消除[color=#52a5f2]对手[/color][color=#52a5f2]回合类效果[/color]和[color=#52a5f2]能力提升状态[/color]，消除任意一项成功则令[color=#52a5f2]对手[/color][color=#57c975]睡眠[/color]",
         "args": "50 50 8 1 8 1",
         "come": "",
         "des": [
@@ -25500,7 +25501,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]对手[/color]不处于[color=#52a5f2]能力提升状态[/color]则[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的1/3且下回合自身造成的攻击伤害提升50%，若[color=#52a5f2]对手[/color]处于[color=#52a5f2]能力提升状态[/color]则恢复自身最大体力的1/3且50%令[color=#52a5f2]对手[/color][color=#57c975]害怕[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]对手[/color]不处于[color=#52a5f2]能力提升状态[/color]则[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的1/3且下回合自身造成的[color=#52a5f2]攻击伤害[/color]提升50%，若[color=#52a5f2]对手[/color]处于[color=#52a5f2]能力提升状态[/color]则恢复自身最大体力的1/3且50%令[color=#52a5f2]对手[/color][color=#57c975]害怕[/color]",
         "args": "3 50 3 50 6 1",
         "come": "",
         "des": [],
@@ -26270,7 +26271,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#52a5f2]登场时[/color]获得400点[color=#57c975]护盾[/color]，自身存在[color=#57c975]护盾[/color]时所有[color=#52a5f2]技能先制[/color]+1|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]当回合[/color]自身未受到攻击伤害则恢复自身250点体力并造成恢复量的[color=#52a5f2]固定伤害[/color]，若受到了攻击伤害则自身[color=#57c975]免疫[/color]下1次受到的攻击伤害|[sprite name=dot4]自身每次使用攻击技能时本次在场造成的攻击伤害提升25%，最高提升100%",
+        "analyze": "[sprite name=dot4][color=#52a5f2]登场时[/color]获得400点[color=#57c975]护盾[/color]，自身存在[color=#57c975]护盾[/color]时所有[color=#52a5f2]技能先制[/color]+1|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]当回合[/color]自身未受到[color=#52a5f2]攻击伤害[/color]则恢复自身250点体力并造成恢复量的[color=#52a5f2]固定伤害[/color]，若受到了[color=#52a5f2]攻击伤害[/color]则自身[color=#57c975]免疫[/color]下1次受到的[color=#52a5f2]攻击伤害[/color]|[sprite name=dot4]自身每次使用攻击技能时本次在场造成的[color=#52a5f2]攻击伤害[/color]提升25%，最高提升100%",
         "args": "400 1 250 1 25 25 100 1",
         "come": "",
         "des": [],
@@ -27516,7 +27517,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身作为首发精灵[color=#52a5f2]首次[/color][color=#57c975]出战时[/color]，令[color=#52a5f2]对手[/color][color=#52a5f2]当回合[/color]无法[color=#52a5f2]主动切换[/color]精灵且50%[color=#52a5f2]驱逐[/color][color=#52a5f2]对手[/color]|[sprite name=dot1]自身[color=#52a5f2]首次[/color][color=#57c975]出战后[/color]召唤[color=#f35555]辛[/color]，[color=#f35555]辛[/color]的初始体力等同于自身的最大体力|[sprite name=dot1][color=#57c975]回合开始时[/color]，若[color=#f35555]辛[/color]存活则自身依次[color=#52a5f2]执行[/color]以下效果：|[sprite name=dot1]    [color=#f35555]辛[/color]每损失20%的体力[color=#52a5f2]当回合[/color]自身造成的攻击伤害提升10%|[sprite name=dot5]    若自身处于[color=#52a5f2]异常状态[/color]，则令[color=#52a5f2]对手[/color]随机1个技能PP值归零|[sprite name=dot5]    若自身处于[color=#52a5f2]能力下降状态[/color]，则[color=#52a5f2]当回合[/color][color=#57c975]战斗阶段结束时[/color]附加[color=#52a5f2]对手[/color]最大体力1/4的[color=#52a5f2]百分比伤害[/color]|[sprite name=dot1]自身[color=#57c975]被击败[/color]后，[color=#52a5f2]己方[/color]获得3回合的[color=#f35555]辛之印记[/color]|[sprite name=dot4][color=#52a5f2]己方[/color]每阵亡1只精灵自身6%[color=#57c975]闪避[/color][color=#52a5f2]对手[/color]的技能，[color=#52a5f2]对手[/color]为[color=#f35555]英雄圣殿成员[/color]时[color=#57c975]闪避[/color]率翻倍",
+        "analyze": "[sprite name=dot4]自身作为首发精灵[color=#52a5f2]首次[/color][color=#57c975]出战时[/color]，令[color=#52a5f2]对手[/color][color=#52a5f2]当回合[/color]无法[color=#52a5f2]主动切换[/color]精灵且50%[color=#52a5f2]驱逐[/color][color=#52a5f2]对手[/color]|[sprite name=dot1]自身[color=#52a5f2]首次[/color][color=#57c975]出战后[/color]召唤[color=#f35555]辛[/color]，[color=#f35555]辛[/color]的初始体力等同于自身的最大体力|[sprite name=dot1][color=#57c975]回合开始时[/color]，若[color=#f35555]辛[/color]存活则自身依次[color=#52a5f2]执行[/color]以下效果：|[sprite name=dot1]    [color=#f35555]辛[/color]每损失20%的体力[color=#52a5f2]当回合[/color]自身造成的[color=#52a5f2]攻击伤害[/color]提升10%|[sprite name=dot5]    若自身处于[color=#52a5f2]异常状态[/color]，则令[color=#52a5f2]对手[/color]随机1个技能PP值归零|[sprite name=dot5]    若自身处于[color=#52a5f2]能力下降状态[/color]，则[color=#52a5f2]当回合[/color][color=#57c975]战斗阶段结束时[/color]附加[color=#52a5f2]对手[/color]最大体力1/4的[color=#52a5f2]百分比伤害[/color]|[sprite name=dot1]自身[color=#57c975]被击败[/color]后，[color=#52a5f2]己方[/color]获得3回合的[color=#f35555]辛之印记[/color]|[sprite name=dot4][color=#52a5f2]己方[/color]每阵亡1只精灵自身6%[color=#57c975]闪避[/color][color=#52a5f2]对手[/color]的技能，[color=#52a5f2]对手[/color]为[color=#f35555]英雄圣殿成员[/color]时[color=#57c975]闪避[/color]率翻倍",
         "args": "50 100 60 20 4 100 3 6",
         "come": "",
         "des": [],
@@ -30011,7 +30012,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身受到的攻击伤害高于自身最大体力的1/2时减少60%，自身受到的攻击伤害低于自身最大体力的1/2时附加伤害值100%的[color=#52a5f2]百分比伤害[/color]|[sprite name=dot4]自身攻击技能无视[color=#52a5f2]对手[/color][color=#52a5f2]能力提升状态[/color]且攻击命中[color=#52a5f2]对手[/color]后，若[color=#52a5f2]对手[/color]处于[color=#52a5f2]能力提升状态[/color]则令[color=#52a5f2]对手[/color][color=#57c975]冰封[/color]，[color=#52a5f2]未触发[/color]则自身下1次受到的攻击伤害不超过200点",
+        "analyze": "[sprite name=dot4]自身受到的[color=#52a5f2]攻击伤害[/color]高于自身最大体力的1/2时减少60%，自身受到的[color=#52a5f2]攻击伤害[/color]低于自身最大体力的1/2时附加伤害值100%的[color=#52a5f2]百分比伤害[/color]|[sprite name=dot4]自身攻击技能无视[color=#52a5f2]对手[/color][color=#52a5f2]能力提升状态[/color]且攻击命中[color=#52a5f2]对手[/color]后，若[color=#52a5f2]对手[/color]处于[color=#52a5f2]能力提升状态[/color]则令[color=#52a5f2]对手[/color][color=#57c975]冰封[/color]，[color=#52a5f2]未触发[/color]则自身下1次受到的[color=#52a5f2]攻击伤害[/color]不超过200点",
         "args": "2 60 2 100 100 1 200 1",
         "come": "",
         "des": [],
@@ -32813,7 +32814,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]登场时[/color]召唤[color=#f35555]神圣雷电[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身体力低于最大体力的1/2则100%令对手[color=#57c975]麻痹[/color]，[color=#52a5f2]未触发[/color]则消除对手[color=#52a5f2]回合类效果[/color]，若自身体力高于最大体力的1/2则下回合自身造成的攻击伤害随机提升50%-100%",
+        "analyze": "[sprite name=dot4][color=#57c975]登场时[/color]召唤[color=#f35555]神圣雷电[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身体力低于最大体力的1/2则100%令对手[color=#57c975]麻痹[/color]，[color=#52a5f2]未触发[/color]则消除对手[color=#52a5f2]回合类效果[/color]，若自身体力高于最大体力的1/2则下回合自身造成的[color=#52a5f2]攻击伤害[/color]随机提升50%-100%",
         "args": "100 50 2 100 2 50 100 1",
         "come": "",
         "des": [],
@@ -33934,7 +33935,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]当回合[/color]自身受到了攻击伤害则使自身随机3项能力等级+1，若[color=#52a5f2]当回合[/color]自身未受到攻击伤害则令对手随机3项能力等级-1；[color=#57c975]回合开始时[/color]，若自身处于能力提升状态则[color=#52a5f2]当回合[/color]70%[color=#57c975]闪避[/color]对手攻击，若对手处于能力下降状态则[color=#52a5f2]当回合[/color]攻击命中后70%令对手[color=#57c975]害怕[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]当回合[/color]自身受到了[color=#52a5f2]攻击伤害[/color]则使自身随机3项能力等级+1，若[color=#52a5f2]当回合[/color]自身未受到[color=#52a5f2]攻击伤害[/color]则令对手随机3项能力等级-1；[color=#57c975]回合开始时[/color]，若自身处于能力提升状态则[color=#52a5f2]当回合[/color]70%[color=#57c975]闪避[/color]对手攻击，若对手处于能力下降状态则[color=#52a5f2]当回合[/color]攻击命中后70%令对手[color=#57c975]害怕[/color]",
         "args": "3 1 3 1 70 70 1",
         "come": "",
         "des": [],
@@ -34336,7 +34337,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]对手使用属性技能时，令对手[color=#52a5f2]当回合[/color]技能PP消耗翻倍，自身使用属性技能时，50%使自身[color=#52a5f2]当回合[/color]使用技能不消耗PP值，[color=#52a5f2]未触发[/color]则[color=#52a5f2]吸取[/color]对手300点体力；[color=#57c975]战斗阶段结束时[/color]，若对手[color=#52a5f2]当回合[/color]使用了属性技能则下回合自身造成的攻击伤害提升50%，对手体力高于自身时效果提升至100%",
+        "analyze": "[sprite name=dot4]对手使用属性技能时，令对手[color=#52a5f2]当回合[/color]技能PP消耗翻倍，自身使用属性技能时，50%使自身[color=#52a5f2]当回合[/color]使用技能不消耗PP值，[color=#52a5f2]未触发[/color]则[color=#52a5f2]吸取[/color]对手300点体力；[color=#57c975]战斗阶段结束时[/color]，若对手[color=#52a5f2]当回合[/color]使用了属性技能则下回合自身造成的[color=#52a5f2]攻击伤害[/color]提升50%，对手体力高于自身时效果提升至100%",
         "args": "50 300 50 100 1",
         "come": "",
         "des": [],
@@ -36389,7 +36390,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#52a5f2]首次[/color][color=#57c975]登场时[/color]，弑序神罗为[color=#52a5f2]对方[/color]存活精灵的技能随机散布5枚[color=#f35555]致命印记[/color]，[color=#52a5f2]对方[/color]存活精灵数高于3时改为15枚|[sprite name=dot4]弑序神罗位于出战背包时，[color=#52a5f2]对方[/color][color=#57c975]击败[/color]我方其他精灵时，为[color=#52a5f2]对方[/color]在场精灵附加1层[color=#f35555]致命裂痕[/color]|[sprite name=dot4]弑序神罗[color=#57c975]登场时[/color]，[color=#52a5f2]当回合[/color]弑序神罗[color=#57c975]免疫[/color][color=#52a5f2]异常状态[/color]和[color=#52a5f2]能力下降状态[/color]，[color=#52a5f2]然后[/color]根据[color=#52a5f2]对手[/color][color=#f35555]致命裂痕[/color][color=#52a5f2]达到[/color]的层数依次触发以下效果|[sprite name=dot5]1层：[color=#52a5f2]当回合[/color]额外[color=#57c975]免疫[/color][color=#52a5f2]致命一击[/color]伤害|[sprite name=dot5]2层：[color=#52a5f2]当回合[/color]额外[color=#57c975]免疫[/color]受到的攻击伤害|[sprite name=dot5]3层：[color=#52a5f2]当回合[/color]额外无效[color=#52a5f2]对手[/color]的攻击技能|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身体力高于回合开始则2回合内自身[color=#52a5f2]回合类效果[/color]无法被消除，若自身体力低于[color=#57c975]回合开始时[/color]则下回合所有[color=#52a5f2]技能先制[/color]+1，若自身体力低于最大体力的1/2则下回合[color=#57c975]免疫[/color][color=#52a5f2]固定伤害[/color]和[color=#52a5f2]百分比伤害[/color]",
+        "analyze": "[sprite name=dot4][color=#52a5f2]首次[/color][color=#57c975]登场时[/color]，弑序神罗为[color=#52a5f2]对方[/color]存活精灵的技能随机散布5枚[color=#f35555]致命印记[/color]，[color=#52a5f2]对方[/color]存活精灵数高于3时改为15枚|[sprite name=dot4]弑序神罗位于出战背包时，[color=#52a5f2]对方[/color][color=#57c975]击败[/color]我方其他精灵时，为[color=#52a5f2]对方[/color]在场精灵附加1层[color=#f35555]致命裂痕[/color]|[sprite name=dot4]弑序神罗[color=#57c975]登场时[/color]，[color=#52a5f2]当回合[/color]弑序神罗[color=#57c975]免疫[/color][color=#52a5f2]异常状态[/color]和[color=#52a5f2]能力下降状态[/color]，[color=#52a5f2]然后[/color]根据[color=#52a5f2]对手[/color][color=#f35555]致命裂痕[/color][color=#52a5f2]达到[/color]的层数依次触发以下效果|[sprite name=dot5]1层：[color=#52a5f2]当回合[/color]额外[color=#57c975]免疫[/color][color=#52a5f2]致命一击[/color]伤害|[sprite name=dot5]2层：[color=#52a5f2]当回合[/color]额外[color=#57c975]免疫[/color]受到的[color=#52a5f2]攻击伤害[/color]|[sprite name=dot5]3层：[color=#52a5f2]当回合[/color]额外无效[color=#52a5f2]对手[/color]的攻击技能|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身体力高于回合开始则2回合内自身[color=#52a5f2]回合类效果[/color]无法被消除，若自身体力低于[color=#57c975]回合开始时[/color]则下回合所有[color=#52a5f2]技能先制[/color]+1，若自身体力低于最大体力的1/2则下回合[color=#57c975]免疫[/color][color=#52a5f2]固定伤害[/color]和[color=#52a5f2]百分比伤害[/color]",
         "args": "1 2",
         "come": "",
         "des": [],
@@ -38531,7 +38532,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]令自身防御+1、特防+1、速度+1，令[color=#52a5f2]对手[/color]防御-1、特防-1、速度-1；|[sprite name=dot4]自身受到的攻击伤害大于340则恢复自身全部体力，自身受到的攻击伤害小于340则附加伤害50%的[color=#52a5f2]百分比伤害[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]令自身防御+1、特防+1、速度+1，令[color=#52a5f2]对手[/color]防御-1、特防-1、速度-1；|[sprite name=dot4]自身受到的[color=#52a5f2]攻击伤害[/color]大于340则恢复自身全部体力，自身受到的[color=#52a5f2]攻击伤害[/color]小于340则附加伤害50%的[color=#52a5f2]百分比伤害[/color]",
         "args": "1 1 340 340 50 1",
         "come": "X之战意伙伴效果",
         "des": [],
@@ -38744,7 +38745,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#57c975]攻击技能命中后[/color]触发[color=#f35555]归零强袭[/color]，自身使用属性技能后触发[color=#f35555]归零诡雷[/color]，自身受到攻击伤害后触发[color=#f35555]归零屏障[/color]",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]攻击技能命中后[/color]触发[color=#f35555]归零强袭[/color]，自身使用属性技能后触发[color=#f35555]归零诡雷[/color]，自身受到[color=#52a5f2]攻击伤害[/color]后触发[color=#f35555]归零屏障[/color]",
         "args": "80 300 1 1 1 1",
         "come": "",
         "des": [],
@@ -41312,7 +41313,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]若自身体力高于最大体力的1/2，则[color=#52a5f2]当回合[/color]自身受到的攻击伤害不超过自身最大体力的1/2，[color=#57c975]战斗阶段结束时[/color]若自身体力低于最大体力的1/2，则下回合自身所有[color=#52a5f2]技能先制[/color]+2|[sprite name=dot4]对手[color=#57c975]使用技能后[/color]，下次[color=#57c975]使用技能时[/color]若类型与本次相同则自身免疫下1次受到的异常状态，若类型与本次不同则下回合攻击技能获得[color=#f35555]黯天之尘[/color]且[color=#57c975]战斗阶段结束时[/color]若自身体力低于最大体力的1/2则消除对手[color=#52a5f2]回合类效果[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]若自身体力高于最大体力的1/2，则[color=#52a5f2]当回合[/color]自身受到的[color=#52a5f2]攻击伤害[/color]不超过自身最大体力的1/2，[color=#57c975]战斗阶段结束时[/color]若自身体力低于最大体力的1/2，则下回合自身所有[color=#52a5f2]技能先制[/color]+2|[sprite name=dot4]对手[color=#57c975]使用技能后[/color]，下次[color=#57c975]使用技能时[/color]若类型与本次相同则自身免疫下1次受到的异常状态，若类型与本次不同则下回合攻击技能获得[color=#f35555]黯天之尘[/color]且[color=#57c975]战斗阶段结束时[/color]若自身体力低于最大体力的1/2则消除对手[color=#52a5f2]回合类效果[/color]",
         "args": "1 2 2 2 2 1 1",
         "come": "",
         "des": [],
@@ -43621,7 +43622,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]星解：逐界苍星每次[color=#57c975]登场[/color][color=#52a5f2]之后[/color][color=#52a5f2]对手[/color][color=#52a5f2]首次[/color]使用技能时，若[color=#52a5f2]对手[/color]不存在技能被[color=#f35555]解析[/color]则[color=#f35555]解析[/color]该技能并为自身附加1层[color=#f35555]未来奇点[/color]|[sprite name=dot4]星烁：[color=#57c975]回合开始时[/color]，逐界苍星根据自身[color=#f35555]未来奇点[/color][color=#52a5f2]达到[/color]的层数依次获得以下效果：|[sprite name=dot5]1层：[color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]的速度[color=#52a5f2]能力提升效果失效[/color]且自身计算攻击伤害时获得[color=#52a5f2]本系加成[/color]|[sprite name=dot5]2层：[color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]的[color=#52a5f2]护盾效果[/color]失效且自身使用技能不会消耗PP值|[sprite name=dot5]3层：[color=#52a5f2]当回合[/color][color=#52a5f2]对手的先制[/color]等级最高为3且自身[color=#57c975]使用技能后[/color]第五技能外所有技能恢复1点PP值|[sprite name=dot4]星辉：[color=#57c975]回合开始时[/color]，若自身速度值高于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]自身所有[color=#52a5f2]技能先制[/color]+1，若自身体力值高于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color][color=#57c975]战斗阶段结束时[/color]自身[color=#52a5f2]全属性[/color]+1|[sprite name=dot4]星别：自身[color=#57c975]下场后[/color]解放所[color=#f35555]解析[/color]的技能，若为攻击技能则恢复自身1/3的最大体力，死亡[color=#57c975]下场时[/color]改为[color=#52a5f2]己方[/color]下只出场精灵体力等于最大体力的100%，若为属性技能则恢复自身所有技能1点PP值，死亡[color=#57c975]下场时[/color]改为[color=#52a5f2]己方[/color]下只出场精灵恢复全部PP值",
+        "analyze": "[sprite name=dot4]星解：逐界苍星每次[color=#57c975]登场[/color][color=#52a5f2]之后[/color][color=#52a5f2]对手[/color][color=#52a5f2]首次[/color]使用技能时，若[color=#52a5f2]对手[/color]不存在技能被[color=#f35555]解析[/color]则[color=#f35555]解析[/color]该技能并为自身附加1层[color=#f35555]未来奇点[/color]|[sprite name=dot4]星烁：[color=#57c975]回合开始时[/color]，逐界苍星根据自身[color=#f35555]未来奇点[/color][color=#52a5f2]达到[/color]的层数依次获得以下效果：|[sprite name=dot5]1层：[color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]的速度[color=#52a5f2]能力提升效果失效[/color]且自身计算[color=#52a5f2]攻击伤害[/color]时获得[color=#52a5f2]本系加成[/color]|[sprite name=dot5]2层：[color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]的[color=#52a5f2]护盾效果[/color]失效且自身使用技能不会消耗PP值|[sprite name=dot5]3层：[color=#52a5f2]当回合[/color][color=#52a5f2]对手的先制[/color]等级最高为3且自身[color=#57c975]使用技能后[/color]第五技能外所有技能恢复1点PP值|[sprite name=dot4]星辉：[color=#57c975]回合开始时[/color]，若自身速度值高于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]自身所有[color=#52a5f2]技能先制[/color]+1，若自身体力值高于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color][color=#57c975]战斗阶段结束时[/color]自身[color=#52a5f2]全属性[/color]+1|[sprite name=dot4]星别：自身[color=#57c975]下场后[/color]解放所[color=#f35555]解析[/color]的技能，若为攻击技能则恢复自身1/3的最大体力，死亡[color=#57c975]下场时[/color]改为[color=#52a5f2]己方[/color]下只出场精灵体力等于最大体力的100%，若为属性技能则恢复自身所有技能1点PP值，死亡[color=#57c975]下场时[/color]改为[color=#52a5f2]己方[/color]下只出场精灵恢复全部PP值",
         "args": "1 3 1 3 1 1 1",
         "come": "",
         "des": [],
@@ -43675,7 +43676,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]对手[/color]不处于[color=#52a5f2]能力提升状态[/color]则[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的1/3且下回合自身造成的攻击伤害提升50%，[color=#52a5f2]对手[/color][color=#57c975]免疫[/color][color=#52a5f2]百分比伤害[/color]时增伤效果提升至100%，若[color=#52a5f2]对手[/color]处于[color=#52a5f2]能力提升状态[/color]则100%令[color=#52a5f2]对手[/color][color=#57c975]害怕[/color]，[color=#52a5f2]未触发[/color]则恢复自身最大体力的1/3并附加等量[color=#52a5f2]百分比伤害[/color]，恢复量与[color=#52a5f2]百分比伤害[/color]最高为自身[color=#52a5f2]已损失体力值[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]对手[/color]不处于[color=#52a5f2]能力提升状态[/color]则[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的1/3且下回合自身造成的[color=#52a5f2]攻击伤害[/color]提升50%，[color=#52a5f2]对手[/color][color=#57c975]免疫[/color][color=#52a5f2]百分比伤害[/color]时增伤效果提升至100%，若[color=#52a5f2]对手[/color]处于[color=#52a5f2]能力提升状态[/color]则100%令[color=#52a5f2]对手[/color][color=#57c975]害怕[/color]，[color=#52a5f2]未触发[/color]则恢复自身最大体力的1/3并附加等量[color=#52a5f2]百分比伤害[/color]，恢复量与[color=#52a5f2]百分比伤害[/color]最高为自身[color=#52a5f2]已损失体力值[/color]",
         "args": "3 50 100 100 3 1",
         "come": "狂热之诚·吉罗德精灵觉醒",
         "des": [],
@@ -43996,7 +43997,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#57c975]免疫[/color][color=#57c975]臣服[/color]且[color=#52a5f2]首次[/color][color=#57c975]登场时[/color]100%令[color=#52a5f2]对手[/color][color=#57c975]臣服[/color]|[sprite name=dot4]自身每次[color=#57c975]登场时[/color]获得2方[color=#f35555]永昌玺[/color]，若[color=#57c975]登场[/color]上回合[color=#52a5f2]对方[/color]进行了[color=#52a5f2]主动切换[/color]则额外获得2方[color=#f35555]永昌玺[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]使用了技能则消耗1方[color=#f35555]永昌玺[/color]，若[color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]未使用技能则获得1方[color=#f35555]永昌玺[/color]|[sprite name=dot5]每[color=#57c975]回合开始时[/color]根据自身[color=#f35555]永昌玺[/color]达到的方数依次获得以下效果|[sprite name=dot5]1方：每拥有1方[color=#f35555]永昌玺[/color]，则[color=#52a5f2]当回合[/color]造成的攻击伤害提升11%|[sprite name=dot5]2方：每拥有1方[color=#f35555]永昌玺[/color]，则[color=#52a5f2]当回合[/color]使用攻击技能后附加37点[color=#52a5f2]固定伤害[/color]|[sprite name=dot5]3方：[color=#52a5f2]当回合[/color][color=#57c975]战斗阶段结束时[/color]自身恢复221点体力且所有技能PP值恢复至1|[sprite name=dot5]4方：[color=#52a5f2]当回合[/color][color=#57c975]免疫[/color]受到的控制类[color=#52a5f2]异常状态[/color]|[sprite name=dot5]5方：[color=#52a5f2]当回合[/color]令[color=#52a5f2]对手[/color]的[color=#52a5f2]先制[/color]等级无法高于自身|[sprite name=dot5]6方：下回合令[color=#52a5f2]对手[/color]无法[color=#52a5f2]主动切换[/color]精灵",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]免疫[/color][color=#57c975]臣服[/color]且[color=#52a5f2]首次[/color][color=#57c975]登场时[/color]100%令[color=#52a5f2]对手[/color][color=#57c975]臣服[/color]|[sprite name=dot4]自身每次[color=#57c975]登场时[/color]获得2方[color=#f35555]永昌玺[/color]，若[color=#57c975]登场[/color]上回合[color=#52a5f2]对方[/color]进行了[color=#52a5f2]主动切换[/color]则额外获得2方[color=#f35555]永昌玺[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]使用了技能则消耗1方[color=#f35555]永昌玺[/color]，若[color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]未使用技能则获得1方[color=#f35555]永昌玺[/color]|[sprite name=dot5]每[color=#57c975]回合开始时[/color]根据自身[color=#f35555]永昌玺[/color]达到的方数依次获得以下效果|[sprite name=dot5]1方：每拥有1方[color=#f35555]永昌玺[/color]，则[color=#52a5f2]当回合[/color]造成的[color=#52a5f2]攻击伤害[/color]提升11%|[sprite name=dot5]2方：每拥有1方[color=#f35555]永昌玺[/color]，则[color=#52a5f2]当回合[/color]使用攻击技能后附加37点[color=#52a5f2]固定伤害[/color]|[sprite name=dot5]3方：[color=#52a5f2]当回合[/color][color=#57c975]战斗阶段结束时[/color]自身恢复221点体力且所有技能PP值恢复至1|[sprite name=dot5]4方：[color=#52a5f2]当回合[/color][color=#57c975]免疫[/color]受到的控制类[color=#52a5f2]异常状态[/color]|[sprite name=dot5]5方：[color=#52a5f2]当回合[/color]令[color=#52a5f2]对手[/color]的[color=#52a5f2]先制[/color]等级无法高于自身|[sprite name=dot5]6方：下回合令[color=#52a5f2]对手[/color]无法[color=#52a5f2]主动切换[/color]精灵",
         "args": "11 37 221 1 221 1",
         "come": "",
         "des": [],
@@ -44183,7 +44184,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身受到的攻击伤害高于300时100%令[color=#52a5f2]对手[/color][color=#57c975]冰封[/color]，自身造成的攻击伤害若高于300时下次[color=#52a5f2]技能先制[/color]+3|[sprite name=dot4][color=#57c975]回合开始时[/color]若自身体力高于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]攻击技能无视[color=#52a5f2]对手[/color]能力提升效果且造成的伤害提升100%，若自身体力低于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]受到的攻击伤害减少50%且[color=#57c975]使用技能后[/color][color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的1/3",
+        "analyze": "[sprite name=dot4]自身受到的[color=#52a5f2]攻击伤害[/color]高于300时100%令[color=#52a5f2]对手[/color][color=#57c975]冰封[/color]，自身造成的[color=#52a5f2]攻击伤害[/color]若高于300时下次[color=#52a5f2]技能先制[/color]+3|[sprite name=dot4][color=#57c975]回合开始时[/color]若自身体力高于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]攻击技能无视[color=#52a5f2]对手[/color]能力提升效果且造成的伤害提升100%，若自身体力低于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]攻击伤害[/color]减少50%且[color=#57c975]使用技能后[/color][color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的1/3",
         "args": "300 100 300 3 100 50 3 1",
         "come": "惊涛海皇·波塞冬神谕进阶",
         "des": [],
@@ -44505,7 +44506,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身使用攻击技能后，若造成的攻击伤害低于300则附加对手最大体力1/3的[color=#52a5f2]百分比伤害[/color]|[sprite name=dot4][color=#57c975]回合开始时[/color]若对手处于异常状态则[color=#52a5f2]当回合[/color]自身造成的攻击伤害提升100%，若对手不处于异常状态则[color=#52a5f2]当回合[/color]自身[color=#57c975]使用技能后[/color]35%令对手[color=#57c975]害怕[/color]，[color=#52a5f2]未触发[/color]则下回合自身攻击[color=#52a5f2]技能先制[/color]+1",
+        "analyze": "[sprite name=dot4]自身使用攻击技能后，若造成的[color=#52a5f2]攻击伤害[/color]低于300则附加对手最大体力1/3的[color=#52a5f2]百分比伤害[/color]|[sprite name=dot4][color=#57c975]回合开始时[/color]若对手处于异常状态则[color=#52a5f2]当回合[/color]自身造成的[color=#52a5f2]攻击伤害[/color]提升100%，若对手不处于异常状态则[color=#52a5f2]当回合[/color]自身[color=#57c975]使用技能后[/color]35%令对手[color=#57c975]害怕[/color]，[color=#52a5f2]未触发[/color]则下回合自身攻击[color=#52a5f2]技能先制[/color]+1",
         "args": "300 3 100 35 1 1",
         "come": "昔兰尼加神谕进阶",
         "des": [],
@@ -45204,7 +45205,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身在场期间防御、特防值等于攻击、特攻值中较低的一项且令[color=#52a5f2]对手[/color]所有体力恢复效果减少50%|[sprite name=dot4]自身[color=#57c975]登场[/color]首回合，若[color=#52a5f2]对手[/color]使用攻击技能则使用时自身开启[color=#f35555]拥君之盾[/color]，若[color=#52a5f2]对手[/color]使用属性技能则使用时自身开启[color=#f35555]绝缘之罩[/color]，若[color=#52a5f2]对手[/color]未使用技能则下[color=#57c975]回合开始时[/color]自身获得[color=#f35555]拥君之盾[/color]和[color=#f35555]绝缘之罩[/color]|[sprite name=dot4]自身[color=#57c975]被击败后[/color]，解放自身的[color=#f35555]拥君之盾[/color]和[color=#f35555]绝缘之罩[/color]，解放[color=#f35555]拥君之盾[/color]成功时2回合内[color=#52a5f2]己方[/color]精灵造成的攻击伤害提升100%，解放[color=#f35555]绝缘之罩[/color]成功时2回合内[color=#52a5f2]己方[/color]精灵造成的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]提升50%，二者均解放成功则2回合内[color=#52a5f2]对方[/color]所有精灵的体力恢复效果减少100%",
+        "analyze": "[sprite name=dot4]自身在场期间防御、特防值等于攻击、特攻值中较低的一项且令[color=#52a5f2]对手[/color]所有体力恢复效果减少50%|[sprite name=dot4]自身[color=#57c975]登场[/color]首回合，若[color=#52a5f2]对手[/color]使用攻击技能则使用时自身开启[color=#f35555]拥君之盾[/color]，若[color=#52a5f2]对手[/color]使用属性技能则使用时自身开启[color=#f35555]绝缘之罩[/color]，若[color=#52a5f2]对手[/color]未使用技能则下[color=#57c975]回合开始时[/color]自身获得[color=#f35555]拥君之盾[/color]和[color=#f35555]绝缘之罩[/color]|[sprite name=dot4]自身[color=#57c975]被击败后[/color]，解放自身的[color=#f35555]拥君之盾[/color]和[color=#f35555]绝缘之罩[/color]，解放[color=#f35555]拥君之盾[/color]成功时2回合内[color=#52a5f2]己方[/color]精灵造成的[color=#52a5f2]攻击伤害[/color]提升100%，解放[color=#f35555]绝缘之罩[/color]成功时2回合内[color=#52a5f2]己方[/color]精灵造成的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]提升50%，二者均解放成功则2回合内[color=#52a5f2]对方[/color]所有精灵的体力恢复效果减少100%",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -46437,7 +46438,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#57c975]免疫[/color]受到的[color=#57c975]石化[/color]状态|[sprite name=dot4]自身[color=#57c975]护盾[/color]值高于[color=#52a5f2]对手[/color]时造成的攻击伤害提升50%，自身的[color=#57c975]护盾[/color]值低于[color=#52a5f2]对手[/color]时受到的攻击伤害、[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]减少50%|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身体力高于[color=#52a5f2]对手[/color]则获得自身最大体力1/3的[color=#57c975]护盾[/color]，若低于[color=#52a5f2]对手[/color]则恢复最大体力1/3并附加恢复量的[color=#52a5f2]百分比伤害[/color]|[sprite name=dot4]自身[color=#57c975]使用技能后[/color]，若本次技能为攻击技能则开启2回合[color=#f35555]暗影魔盾[/color]，若本次技能为属性技能则开启2回合[color=#f35555]幽冥魔盾[/color]，[color=#52a5f2]然后[/color]若自身拥有[color=#f35555]暗影魔盾[/color]与[color=#f35555]幽冥魔盾[/color]，则触发灵魂干涉",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]免疫[/color]受到的[color=#57c975]石化[/color]状态|[sprite name=dot4]自身[color=#57c975]护盾[/color]值高于[color=#52a5f2]对手[/color]时造成的[color=#52a5f2]攻击伤害[/color]提升50%，自身的[color=#57c975]护盾[/color]值低于[color=#52a5f2]对手[/color]时受到的[color=#52a5f2]攻击伤害[/color]、[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]减少50%|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身体力高于[color=#52a5f2]对手[/color]则获得自身最大体力1/3的[color=#57c975]护盾[/color]，若低于[color=#52a5f2]对手[/color]则恢复最大体力1/3并附加恢复量的[color=#52a5f2]百分比伤害[/color]|[sprite name=dot4]自身[color=#57c975]使用技能后[/color]，若本次技能为攻击技能则开启2回合[color=#f35555]暗影魔盾[/color]，若本次技能为属性技能则开启2回合[color=#f35555]幽冥魔盾[/color]，[color=#52a5f2]然后[/color]若自身拥有[color=#f35555]暗影魔盾[/color]与[color=#f35555]幽冥魔盾[/color]，则触发灵魂干涉",
         "args": "50 50 3 3 2 2 100 1",
         "come": "该洛西斯神谕进阶",
         "des": [],
@@ -47898,7 +47899,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#52a5f2]对手[/color]使用攻击技能时，若[color=#52a5f2]对手[/color]的系别中带有龙系则本次攻击伤害不计算克制倍数与[color=#57c975]本系加成[/color]，[color=#52a5f2]对手[/color]使用属性技能时若[color=#52a5f2]对手[/color]的系别中带有龙系则[color=#52a5f2]当回合[/color]自身[color=#57c975]免疫[/color][color=#52a5f2]异常状态[/color]|[sprite name=dot4]自身每次使用、受到攻击技能后，若[color=#52a5f2]对手[/color]没有[color=#f35555]窥目[/color]则附加[color=#f35555]窥目[/color]并[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]300点体力，若[color=#52a5f2]对手[/color]拥有[color=#f35555]窥目[/color]则解放[color=#f35555]窥目[/color]并将[color=#52a5f2]对手[/color]所处的所有[color=#52a5f2]异常状态[/color][color=#52a5f2]转化[/color]为[color=#57c975]诅咒[/color]，[color=#52a5f2]对手[/color]不处于[color=#52a5f2]异常状态[/color]时100%令[color=#52a5f2]对手[/color][color=#57c975]害怕[/color]",
+        "analyze": "[sprite name=dot4][color=#52a5f2]对手[/color]使用攻击技能时，若[color=#52a5f2]对手[/color]的系别中带有龙系则本次[color=#52a5f2]攻击伤害[/color]不计算克制倍数与[color=#57c975]本系加成[/color]，[color=#52a5f2]对手[/color]使用属性技能时若[color=#52a5f2]对手[/color]的系别中带有龙系则[color=#52a5f2]当回合[/color]自身[color=#57c975]免疫[/color][color=#52a5f2]异常状态[/color]|[sprite name=dot4]自身每次使用、受到攻击技能后，若[color=#52a5f2]对手[/color]没有[color=#f35555]窥目[/color]则附加[color=#f35555]窥目[/color]并[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]300点体力，若[color=#52a5f2]对手[/color]拥有[color=#f35555]窥目[/color]则解放[color=#f35555]窥目[/color]并将[color=#52a5f2]对手[/color]所处的所有[color=#52a5f2]异常状态[/color][color=#52a5f2]转化[/color]为[color=#57c975]诅咒[/color]，[color=#52a5f2]对手[/color]不处于[color=#52a5f2]异常状态[/color]时100%令[color=#52a5f2]对手[/color][color=#57c975]害怕[/color]",
         "args": "300 100 1",
         "come": "",
         "des": [],
@@ -47924,7 +47925,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若本回合[color=#52a5f2]对手[/color]选择了攻击技能则[color=#52a5f2]对手[/color]随机1个技能PP值归零且[color=#52a5f2]当回合[/color]造成的攻击伤害无法超过自身最大体力的1/3，若[color=#52a5f2]对手[/color]选择了属性技能则自身[color=#52a5f2]当回合[/color][color=#57c975]免疫[/color]受到的[color=#52a5f2]异常状态[/color]与[color=#52a5f2]能力下降状态[/color]，若[color=#52a5f2]对手[/color]未选择技能则自身获得1点[color=#f35555]灵茉之芯[/color]|[sprite name=dot1]自身[color=#57c975]被击败后[/color]，使下只精灵获得[color=#f35555]芳馨之祝[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若本回合[color=#52a5f2]对手[/color]选择了攻击技能则[color=#52a5f2]对手[/color]随机1个技能PP值归零且[color=#52a5f2]当回合[/color]造成的[color=#52a5f2]攻击伤害[/color]无法超过自身最大体力的1/3，若[color=#52a5f2]对手[/color]选择了属性技能则自身[color=#52a5f2]当回合[/color][color=#57c975]免疫[/color]受到的[color=#52a5f2]异常状态[/color]与[color=#52a5f2]能力下降状态[/color]，若[color=#52a5f2]对手[/color]未选择技能则自身获得1点[color=#f35555]灵茉之芯[/color]|[sprite name=dot1]自身[color=#57c975]被击败后[/color]，使下只精灵获得[color=#f35555]芳馨之祝[/color]",
         "args": "1 3 1 1",
         "come": "芳馨·茉蕊儿觉醒",
         "des": [],
@@ -48460,7 +48461,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]克雷弗德在场期间[color=#f35555]德莱赫默[/color]与其一同战斗，克雷弗德技能中的构造效果每次在场[color=#52a5f2]首次[/color]生效时[color=#f35555]德莱赫默[/color]获得对应构造，[color=#f35555]德莱赫默[/color]初始为守备状态，构造数不低于2时转变为激发状态，构造数下场重置|[sprite name=dot4][color=#57c975]回合开始时[/color]若[color=#f35555]德莱赫默[/color]处于守备状态则每空缺一种构造克雷弗德受到的攻击伤害减少10%且[color=#57c975]回合结束后[/color]恢复所有攻击技能1点PP值，若[color=#f35555]德莱赫默[/color]处于激发状态则每拥有1种构造克雷弗德造成的攻击伤害提升15%且攻击[color=#52a5f2]技能先制[/color]+1|[sprite name=dot4]克雷弗德选择了技能且无法行动的回合，[color=#f35555]德莱赫默[/color]会在[color=#57c975]行动阶段[/color]结束后根据所处状态进行一次[color=#52a5f2]额外行动[/color]：|    [sprite name=dot4]激发状态使用核威强袭：以电系、机械系、电机械系中对对手克制倍数最高的系别造成300点伤害|    [sprite name=dot4]守备状态使用激鸣雷封：100%令对手[color=#57c975]麻痹[/color]并为克雷弗德附加300点[color=#57c975]护盾[/color]",
+        "analyze": "[sprite name=dot4]克雷弗德在场期间[color=#f35555]德莱赫默[/color]与其一同战斗，克雷弗德技能中的构造效果每次在场[color=#52a5f2]首次[/color]生效时[color=#f35555]德莱赫默[/color]获得对应构造，[color=#f35555]德莱赫默[/color]初始为守备状态，构造数不低于2时转变为激发状态，构造数下场重置|[sprite name=dot4][color=#57c975]回合开始时[/color]若[color=#f35555]德莱赫默[/color]处于守备状态则每空缺一种构造克雷弗德受到的[color=#52a5f2]攻击伤害[/color]减少10%且[color=#57c975]回合结束后[/color]恢复所有攻击技能1点PP值，若[color=#f35555]德莱赫默[/color]处于激发状态则每拥有1种构造克雷弗德造成的[color=#52a5f2]攻击伤害[/color]提升15%且攻击[color=#52a5f2]技能先制[/color]+1|[sprite name=dot4]克雷弗德选择了技能且无法行动的回合，[color=#f35555]德莱赫默[/color]会在[color=#57c975]行动阶段[/color]结束后根据所处状态进行一次[color=#52a5f2]额外行动[/color]：|    [sprite name=dot4]激发状态使用核威强袭：以电系、机械系、电机械系中对对手克制倍数最高的系别造成300点伤害|    [sprite name=dot4]守备状态使用激鸣雷封：100%令对手[color=#57c975]麻痹[/color]并为克雷弗德附加300点[color=#57c975]护盾[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -48940,7 +48941,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#52a5f2]对手[/color]使用攻击技能时，[color=#52a5f2]当回合[/color]自身受到的攻击伤害减少50%且50%[color=#57c975]闪避[/color][color=#52a5f2]对手[/color]的攻击，自身体力低于[color=#52a5f2]对手[/color]时[color=#57c975]闪避[/color]率提升至80%，自身体力高于[color=#52a5f2]对手[/color]时减伤效果提升至60%|[sprite name=dot4]自身使用技能时随机3项能力等级+1，若使用的技能为攻击技能则攻击、速度额外+1，若使用的技能为属性技能则[color=#52a5f2]对手[/color]下回合[color=#52a5f2]先制[/color]-2，[color=#52a5f2]之后[/color][color=#52a5f2]当回合[/color]自身使用的[color=#52a5f2]技能无效[/color]时，下回合本条效果取消技能类型条件",
+        "analyze": "[sprite name=dot4][color=#52a5f2]对手[/color]使用攻击技能时，[color=#52a5f2]当回合[/color]自身受到的[color=#52a5f2]攻击伤害[/color]减少50%且50%[color=#57c975]闪避[/color][color=#52a5f2]对手[/color]的攻击，自身体力低于[color=#52a5f2]对手[/color]时[color=#57c975]闪避[/color]率提升至80%，自身体力高于[color=#52a5f2]对手[/color]时减伤效果提升至60%|[sprite name=dot4]自身使用技能时随机3项能力等级+1，若使用的技能为攻击技能则攻击、速度额外+1，若使用的技能为属性技能则[color=#52a5f2]对手[/color]下回合[color=#52a5f2]先制[/color]-2，[color=#52a5f2]之后[/color][color=#52a5f2]当回合[/color]自身使用的[color=#52a5f2]技能无效[/color]时，下回合本条效果取消技能类型条件",
         "args": "50 50 80 60 3 1 2 1",
         "come": "鬼面幽蝶神谕进阶",
         "des": [],
@@ -49336,7 +49337,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]登场时[/color]，[color=#52a5f2]对手[/color]2回合内属性[color=#52a5f2]技能无效[/color]、攻击技能无法附加[color=#52a5f2]异常状态[/color]与[color=#52a5f2]能力下降状态[/color]，若[color=#52a5f2]登场[/color][color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]未选择技能则当[color=#57c975]回合结束后[/color]为[color=#52a5f2]对手[/color]附加2道[color=#f35555]蚩庸之锁[/color]|[sprite name=dot4][color=#52a5f2]对手[/color]每次使用技能时随机2项能力等级-1，[color=#52a5f2]未触发[/color]则自身[color=#52a5f2]当回合[/color]受到的攻击伤害、[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]减少50%，[color=#52a5f2]然后[/color]若本次技能为攻击技能则自身下回合所有[color=#52a5f2]技能先制[/color]+1且[color=#52a5f2]必定命中[/color]，若本次技能为属性技能则附加[color=#52a5f2]对手[/color]最大体力1/3的[color=#52a5f2]百分比伤害[/color]且[color=#52a5f2]对手[/color]下次受到的攻击伤害提升100%",
+        "analyze": "[sprite name=dot4][color=#57c975]登场时[/color]，[color=#52a5f2]对手[/color]2回合内属性[color=#52a5f2]技能无效[/color]、攻击技能无法附加[color=#52a5f2]异常状态[/color]与[color=#52a5f2]能力下降状态[/color]，若[color=#52a5f2]登场[/color][color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]未选择技能则当[color=#57c975]回合结束后[/color]为[color=#52a5f2]对手[/color]附加2道[color=#f35555]蚩庸之锁[/color]|[sprite name=dot4][color=#52a5f2]对手[/color]每次使用技能时随机2项能力等级-1，[color=#52a5f2]未触发[/color]则自身[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]攻击伤害[/color]、[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]减少50%，[color=#52a5f2]然后[/color]若本次技能为攻击技能则自身下回合所有[color=#52a5f2]技能先制[/color]+1且[color=#52a5f2]必定命中[/color]，若本次技能为属性技能则附加[color=#52a5f2]对手[/color]最大体力1/3的[color=#52a5f2]百分比伤害[/color]且[color=#52a5f2]对手[/color]下次受到的[color=#52a5f2]攻击伤害[/color]提升100%",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -49362,7 +49363,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身计算攻击伤害时双攻值视为二者之和，且特殊攻击[color=#52a5f2]技能先制[/color]额外+1，物理攻击技能使用后[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]其双防值总和30%的体力|[sprite name=dot4]天启星魂每次[color=#57c975]登场时[/color]进行[color=#f35555]星启[/color]，[color=#52a5f2]之后[/color]天启星魂处于[color=#57c975]星赐[/color]时[color=#57c975]免疫[/color][color=#57c975]疲惫[/color]状态，处于[color=#57c975]星哲[/color]时[color=#57c975]免疫[/color][color=#57c975]害怕[/color]状态，均处于时[color=#57c975]免疫[/color]控制类[color=#52a5f2]异常状态[/color]|[sprite name=dot4]自身[color=#52a5f2]异常状态[/color]结束的当[color=#57c975]回合结束后[/color][color=#f35555]转动星盘[/color]1刻，转动成功下[color=#57c975]回合结束后[/color]自身再次进行[color=#f35555]星启[/color]，星盘转动12个刻度后直到刻度回返至0不会再次转动，期间自身[color=#52a5f2]免疫对手的攻击[/color]且每回合进行一次[color=#52a5f2]额外行动[/color]触发[color=#f35555]覆宙星回[/color]",
+        "analyze": "[sprite name=dot4]自身计算[color=#52a5f2]攻击伤害[/color]时双攻值视为二者之和，且特殊攻击[color=#52a5f2]技能先制[/color]额外+1，物理攻击技能使用后[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]其双防值总和30%的体力|[sprite name=dot4]天启星魂每次[color=#57c975]登场时[/color]进行[color=#f35555]星启[/color]，[color=#52a5f2]之后[/color]天启星魂处于[color=#57c975]星赐[/color]时[color=#57c975]免疫[/color][color=#57c975]疲惫[/color]状态，处于[color=#57c975]星哲[/color]时[color=#57c975]免疫[/color][color=#57c975]害怕[/color]状态，均处于时[color=#57c975]免疫[/color]控制类[color=#52a5f2]异常状态[/color]|[sprite name=dot4]自身[color=#52a5f2]异常状态[/color]结束的当[color=#57c975]回合结束后[/color][color=#f35555]转动星盘[/color]1刻，转动成功下[color=#57c975]回合结束后[/color]自身再次进行[color=#f35555]星启[/color]，星盘转动12个刻度后直到刻度回返至0不会再次转动，期间自身[color=#52a5f2]免疫对手的攻击[/color]且每回合进行一次[color=#52a5f2]额外行动[/color]触发[color=#f35555]覆宙星回[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -49833,7 +49834,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身攻击技能命中后100%令对手[color=#57c975]失明[/color]，自身属性技能命中后100%令对手[color=#57c975]失神[/color]，上述效果附加异常状态前，若对手处于异常状态且自身所使用技能PP值为满，则上述效果均改为将对手所处异常状态[color=#57c975][color=#52a5f2]转化[/color][/color]为[color=#57c975]睡眠[/color]|[sprite name=dot4]每[color=#57c975]回合结束后[/color]恢复自身350点体力，若自身体力低于最大体力的1/2则额外使下回合自身所有[color=#52a5f2]技能先制[/color]+1，若自身体力高于最大体力的1/2则额外使下回合自身使用技能时附加350点[color=#52a5f2]固定伤害[/color]",
+        "analyze": "[sprite name=dot4]自身攻击技能命中后100%令对手[color=#57c975]失明[/color]，自身属性技能命中后100%令对手[color=#57c975]失神[/color]，上述效果附加异常状态前，若对手处于异常状态且自身所使用技能PP值为满，则上述效果均改为将对手所处异常状态[color=#52a5f2]转化[/color]为[color=#57c975]睡眠[/color]|[sprite name=dot4]每[color=#57c975]回合结束后[/color]恢复自身350点体力，若自身体力低于最大体力的1/2则额外使下回合自身所有[color=#52a5f2]技能先制[/color]+1，若自身体力高于最大体力的1/2则额外使下回合自身使用技能时附加350点[color=#52a5f2]固定伤害[/color]",
         "args": "100 100 350 1",
         "come": "",
         "des": [],
@@ -50725,7 +50726,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#52a5f2]登场时[/color]获得400点[color=#57c975]护盾[/color]，此[color=#57c975]护盾[/color]存在时自身受到的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]不超过此[color=#57c975]护盾[/color]的数值，[color=#52a5f2]之后[/color]自身处于[color=#57c975]护盾[/color]状态时所有[color=#52a5f2]技能先制[/color]+1且攻击技能使用时获得1道[color=#f35555]永恒之水[/color]，自身不处于[color=#57c975]护盾[/color]状态时所有技能不消耗PP值且攻击后附加1滴[color=#f35555]蚀砚之泪[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]当回合[/color]自身受到了攻击伤害则抵挡[color=#52a5f2]对手[/color]下1次攻击，若未受到攻击伤害则恢复自身最大体力的25%并造成恢复量等量[color=#52a5f2]百分比伤害[/color]，若场上存在[color=#f35555]永恒之水[/color]与[color=#f35555]蚀砚之泪[/color]则2回合内[color=#52a5f2]对手[/color]无法解除、[color=#52a5f2]反转[/color][color=#52a5f2]能力下降状态[/color]",
+        "analyze": "[sprite name=dot4][color=#52a5f2]登场时[/color]获得400点[color=#57c975]护盾[/color]，此[color=#57c975]护盾[/color]存在时自身受到的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]不超过此[color=#57c975]护盾[/color]的数值，[color=#52a5f2]之后[/color]自身处于[color=#57c975]护盾[/color]状态时所有[color=#52a5f2]技能先制[/color]+1且攻击技能使用时获得1道[color=#f35555]永恒之水[/color]，自身不处于[color=#57c975]护盾[/color]状态时所有技能不消耗PP值且攻击后附加1滴[color=#f35555]蚀砚之泪[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]当回合[/color]自身受到了[color=#52a5f2]攻击伤害[/color]则抵挡[color=#52a5f2]对手[/color]下1次攻击，若未受到[color=#52a5f2]攻击伤害[/color]则恢复自身最大体力的25%并造成恢复量等量[color=#52a5f2]百分比伤害[/color]，若场上存在[color=#f35555]永恒之水[/color]与[color=#f35555]蚀砚之泪[/color]则2回合内[color=#52a5f2]对手[/color]无法解除、[color=#52a5f2]反转[/color][color=#52a5f2]能力下降状态[/color]",
         "args": "1 1 1",
         "come": "怒涛·沧岚觉醒",
         "des": [],
@@ -51653,7 +51654,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]登场时[/color]自身开启[color=#f35555]武道[/color]，初始为[color=#f35555]血之道[/color]，[color=#f35555]武道[/color]会以[color=#f35555]血之道[/color]、[color=#f35555]邪之道[/color]、[color=#f35555]天之道[/color]、[color=#f35555]血之道[/color]的[color=#f35555]轨迹[/color]进行衍化，每完成一次完成[color=#f35555]轨迹[/color]的衍化，自身恢复全部PP值|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]自身恢复最大体力的1/6，自身处于[color=#f35555]血之道[/color]时效果翻倍；自身使用技能时附加[color=#52a5f2]对手[/color]最大体力1/6的[color=#52a5f2]百分比伤害[/color]，自身处于[color=#f35555]邪之道[/color]时效果翻倍；自身造成的攻击伤害提升50%，自身处于[color=#f35555]天之道[/color]时效果翻倍",
+        "analyze": "[sprite name=dot4][color=#57c975]登场时[/color]自身开启[color=#f35555]武道[/color]，初始为[color=#f35555]血之道[/color]，[color=#f35555]武道[/color]会以[color=#f35555]血之道[/color]、[color=#f35555]邪之道[/color]、[color=#f35555]天之道[/color]、[color=#f35555]血之道[/color]的[color=#f35555]轨迹[/color]进行衍化，每完成一次完成[color=#f35555]轨迹[/color]的衍化，自身恢复全部PP值|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]自身恢复最大体力的1/6，自身处于[color=#f35555]血之道[/color]时效果翻倍；自身使用技能时附加[color=#52a5f2]对手[/color]最大体力1/6的[color=#52a5f2]百分比伤害[/color]，自身处于[color=#f35555]邪之道[/color]时效果翻倍；自身造成的[color=#52a5f2]攻击伤害[/color]提升50%，自身处于[color=#f35555]天之道[/color]时效果翻倍",
         "args": "6 6 50 1",
         "come": "",
         "des": [],
@@ -51785,7 +51786,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]战斗开始时，自身种下[color=#f35555]希望之花[/color]，且除此特性外对方精灵每有一个含有[color=#52a5f2]“秒杀”[/color]的特性，[color=#52a5f2]己方[/color][color=#52a5f2]危机感[/color]+1|[sprite name=dot4]自身[color=#57c975]登场时[/color]1回合内免疫并[color=#57c975]反弹[/color]受到的异常状态，若直到[color=#57c975]战斗阶段结束时[/color]未免疫异常状态则恢复最大体力的1/3|[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手为自身天敌则[color=#52a5f2]当回合[/color]自身受到的攻击伤害减少50%，若自身为对手天敌则所有技能恢复1点PP值且[color=#52a5f2]当回合[/color][color=#52a5f2]先制[/color]+1",
+        "analyze": "[sprite name=dot4]战斗开始时，自身种下[color=#f35555]希望之花[/color]，且除此特性外对方精灵每有一个含有[color=#52a5f2]“秒杀”[/color]的特性，[color=#52a5f2]己方[/color][color=#52a5f2]危机感[/color]+1|[sprite name=dot4]自身[color=#57c975]登场时[/color]1回合内免疫并[color=#57c975]反弹[/color]受到的异常状态，若直到[color=#57c975]战斗阶段结束时[/color]未免疫异常状态则恢复最大体力的1/3|[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手为自身天敌则[color=#52a5f2]当回合[/color]自身受到的[color=#52a5f2]攻击伤害[/color]减少50%，若自身为对手天敌则所有技能恢复1点PP值且[color=#52a5f2]当回合[/color][color=#52a5f2]先制[/color]+1",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -52499,7 +52500,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]登场[/color][color=#52a5f2]之后[/color]自身攻击[color=#52a5f2]技能先制[/color]+3且使用后[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的50%，[color=#57c975]回合结束后[/color]上述[color=#52a5f2]先制[/color]效果-1、[color=#52a5f2]吸取[/color]效果减少10%[color=#52a5f2]以[/color]恢复自身240点体力，最多减少3次，减少3次之前，自身使用攻击技能时消除[color=#52a5f2]对手[/color][color=#52a5f2]回合类效果[/color]，消除成功令[color=#52a5f2]对手[/color][color=#57c975]流血[/color]|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身体力低于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]自身属性[color=#52a5f2]技能先制[/color]+1且[color=#57c975]回合结束后[/color]恢复所有技能1点PP值，[color=#52a5f2]对手[/color]每携带一个属性技能效果提升1点，若自身体力高于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]自身攻击[color=#52a5f2]技能先制[/color]+1且造成的攻击伤害提升20%，[color=#52a5f2]对手[/color]每携带一个攻击技能效果提升20%|[sprite name=dot4]未[color=#57c975]击败[/color][color=#52a5f2]对手[/color]时，若[color=#52a5f2]对手[/color]处于[color=#57c975]流血[/color]则为[color=#52a5f2]对手[/color]附加[color=#f35555]入魅[/color]，否则下回合所有技能[color=#52a5f2]必定命中[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]登场[/color][color=#52a5f2]之后[/color]自身攻击[color=#52a5f2]技能先制[/color]+3且使用后[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的50%，[color=#57c975]回合结束后[/color]上述[color=#52a5f2]先制[/color]效果-1、[color=#52a5f2]吸取[/color]效果减少10%[color=#52a5f2]以[/color]恢复自身240点体力，最多减少3次，减少3次之前，自身使用攻击技能时消除[color=#52a5f2]对手[/color][color=#52a5f2]回合类效果[/color]，消除成功令[color=#52a5f2]对手[/color][color=#57c975]流血[/color]|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身体力低于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]自身属性[color=#52a5f2]技能先制[/color]+1且[color=#57c975]回合结束后[/color]恢复所有技能1点PP值，[color=#52a5f2]对手[/color]每携带一个属性技能效果提升1点，若自身体力高于[color=#52a5f2]对手[/color]则[color=#52a5f2]当回合[/color]自身攻击[color=#52a5f2]技能先制[/color]+1且造成的[color=#52a5f2]攻击伤害[/color]提升20%，[color=#52a5f2]对手[/color]每携带一个攻击技能效果提升20%|[sprite name=dot4]未[color=#57c975]击败[/color][color=#52a5f2]对手[/color]时，若[color=#52a5f2]对手[/color]处于[color=#57c975]流血[/color]则为[color=#52a5f2]对手[/color]附加[color=#f35555]入魅[/color]，否则下回合所有技能[color=#52a5f2]必定命中[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -52655,7 +52656,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身选择了技能的[color=#57c975]回合开始时[/color]，若此技能与上次使用的技能类型相同则恢复所有技能1点PP值且[color=#52a5f2]当回合[/color][color=#52a5f2]技能[color=#52a5f2]先制[/color][/color]+1，若类型不同则恢复最大体力的1/3且[color=#52a5f2]当回合[/color]行动后附加恢复量的[color=#52a5f2]百分比伤害[/color]，若不存在上次技能则对手行动后自身获得1层[color=#f35555]逆命之威[/color]，否则自身行动后附加1层[color=#f35555]荒古之慑[/color]|[sprite name=dot4]自身[color=#52a5f2]登场[/color]时，[color=#52a5f2]己方[/color]精灵每存活1只获得100点[color=#57c975]护盾[/color]，每存活2只下1次攻击时消除对手[color=#52a5f2]回合类效果[/color]且必定打出[color=#52a5f2]致命一击[/color]，每存活3只下1次被[color=#52a5f2]致命一击[/color]命中时消除自身[color=#52a5f2]回合类效果[/color]并抵挡之，每阵亡1只本次在场造成的攻击伤害提升10%，每阵亡2只下1次被攻击时[color=#52a5f2]当回合[/color]受到的非真实伤害减半，每阵亡3只本次在场附加的[color=#f35555]荒古之慑[/color]层数+1，每满足2项下1次进入衍化类异常状态后结束之",
+        "analyze": "[sprite name=dot4]自身选择了技能的[color=#57c975]回合开始时[/color]，若此技能与上次使用的技能类型相同则恢复所有技能1点PP值且[color=#52a5f2]当回合[/color][color=#52a5f2]技能[color=#52a5f2]先制[/color][/color]+1，若类型不同则恢复最大体力的1/3且[color=#52a5f2]当回合[/color]行动后附加恢复量的[color=#52a5f2]百分比伤害[/color]，若不存在上次技能则对手行动后自身获得1层[color=#f35555]逆命之威[/color]，否则自身行动后附加1层[color=#f35555]荒古之慑[/color]|[sprite name=dot4]自身[color=#52a5f2]登场[/color]时，[color=#52a5f2]己方[/color]精灵每存活1只获得100点[color=#57c975]护盾[/color]，每存活2只下1次攻击时消除对手[color=#52a5f2]回合类效果[/color]且必定打出[color=#52a5f2]致命一击[/color]，每存活3只下1次被[color=#52a5f2]致命一击[/color]命中时消除自身[color=#52a5f2]回合类效果[/color]并抵挡之，每阵亡1只本次在场造成的[color=#52a5f2]攻击伤害[/color]提升10%，每阵亡2只下1次被攻击时[color=#52a5f2]当回合[/color]受到的非真实伤害减半，每阵亡3只本次在场附加的[color=#f35555]荒古之慑[/color]层数+1，每满足2项下1次进入衍化类异常状态后结束之",
         "args": "1 0",
         "come": "乔列尼德觉醒",
         "des": [],
@@ -52761,7 +52762,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]战斗开始时，[color=#52a5f2]己方[/color]每有1个特性中不含有概率不高于50%的[color=#52a5f2]异常状态附加效果[/color]的其他精灵，自身获得1层[color=#f35555]英雄之耀[/color]，每有1个含有的其他精灵，自身失去1层[color=#f35555]英雄之耀[/color]|[sprite name=dot4]自身位于出战背包时，双方精灵[color=#57c975]登场时[/color]受到[color=#57c975][color=#57c975]砥砺[/color][/color]1回合，触发成功则获得3回合[color=#f35555]亮节[/color]，[color=#52a5f2]未触发[/color]则被附加3回合[color=#f35555]威怯[/color]|[sprite name=dot4]自身攻击无视对手的能力提升效果、[color=#52a5f2]护盾承伤效果[/color]、攻击免疫效果；自身使用攻击技能时，若对手没有[color=#f35555]武诛[/color]则使用后为对手附加等同于[color=#f35555]英雄之耀[/color]的[color=#f35555]武诛[/color]，若对手拥有[color=#f35555]武诛[/color]，则触发如下效果并在使用后消除对手的[color=#f35555]武诛[/color]|    [sprite name=dot5]对手每有1回合[color=#f35555]武诛[/color]，[color=#52a5f2]当回合[/color]造成的攻击伤害提升20%|    [sprite name=dot5]本次攻击的无视对手能力提升效果改为将其视为能力下降效果|    [sprite name=dot5]将自身的能力下降效果视为对手的能力下降效果|    [sprite name=dot5]对手每有100点[color=#57c975]护盾[/color]、[color=#57c975]护罩[/color]，本次攻击[color=#52a5f2]伤害额外提升[/color]10%，最高100%|    [sprite name=dot5]本次攻击无视攻击免疫效果成功时为对手附加3回合[color=#f35555]威怯[/color]",
+        "analyze": "[sprite name=dot4]战斗开始时，[color=#52a5f2]己方[/color]每有1个特性中不含有概率不高于50%的[color=#52a5f2]异常状态附加效果[/color]的其他精灵，自身获得1层[color=#f35555]英雄之耀[/color]，每有1个含有的其他精灵，自身失去1层[color=#f35555]英雄之耀[/color]|[sprite name=dot4]自身位于出战背包时，双方精灵[color=#57c975]登场时[/color]受到[color=#57c975]砥砺[/color]1回合，触发成功则获得3回合[color=#f35555]亮节[/color]，[color=#52a5f2]未触发[/color]则被附加3回合[color=#f35555]威怯[/color]|[sprite name=dot4]自身攻击无视对手的能力提升效果、[color=#52a5f2]护盾承伤效果[/color]、攻击免疫效果；自身使用攻击技能时，若对手没有[color=#f35555]武诛[/color]则使用后为对手附加等同于[color=#f35555]英雄之耀[/color]的[color=#f35555]武诛[/color]，若对手拥有[color=#f35555]武诛[/color]，则触发如下效果并在使用后消除对手的[color=#f35555]武诛[/color]|    [sprite name=dot5]对手每有1回合[color=#f35555]武诛[/color]，[color=#52a5f2]当回合[/color]造成的[color=#52a5f2]攻击伤害[/color]提升20%|    [sprite name=dot5]本次攻击的无视对手能力提升效果改为将其视为能力下降效果|    [sprite name=dot5]将自身的能力下降效果视为对手的能力下降效果|    [sprite name=dot5]对手每有100点[color=#57c975]护盾[/color]、[color=#57c975]护罩[/color]，本次攻击[color=#52a5f2]伤害额外提升[/color]10%，最高100%|    [sprite name=dot5]本次攻击无视攻击免疫效果成功时为对手附加3回合[color=#f35555]威怯[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -53254,7 +53255,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]战斗开始时，[color=#f35555]金祖之龍[/color]、[color=#f35555]玄源之㡣[/color]加入[color=#52a5f2]己方[/color]，[color=#52a5f2]之后[/color][color=#52a5f2]己方[/color]精灵每有1只存活或系别带龙系自身[color=#57c975]登场时[/color]获得100点[color=#57c975]护盾[/color]，每有1只阵亡或系别带龙系自身造成的攻击伤害提升10%|[sprite name=dot4]自身受到[color=#52a5f2]异常状态[/color]的回合，[color=#57c975]回合结束后[/color]恢复最大体力的20%；自身未受到[color=#52a5f2]异常状态[/color]的回合，被攻击时附加最大体力20%的[color=#52a5f2]百分比伤害[/color]；任意一项[color=#52a5f2]执行[/color]后自身[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]所有技能1点PP值，[color=#52a5f2]对手[/color]技能PP值因本次[color=#52a5f2]吸取[/color]归0时[color=#52a5f2]对手[/color]1回合内攻击[color=#52a5f2]技能无效[/color]",
+        "analyze": "[sprite name=dot4]战斗开始时，[color=#f35555]金祖之龍[/color]、[color=#f35555]玄源之㡣[/color]加入[color=#52a5f2]己方[/color]，[color=#52a5f2]之后[/color][color=#52a5f2]己方[/color]精灵每有1只存活或系别带龙系自身[color=#57c975]登场时[/color]获得100点[color=#57c975]护盾[/color]，每有1只阵亡或系别带龙系自身造成的[color=#52a5f2]攻击伤害[/color]提升10%|[sprite name=dot4]自身受到[color=#52a5f2]异常状态[/color]的回合，[color=#57c975]回合结束后[/color]恢复最大体力的20%；自身未受到[color=#52a5f2]异常状态[/color]的回合，被攻击时附加最大体力20%的[color=#52a5f2]百分比伤害[/color]；任意一项[color=#52a5f2]执行[/color]后自身[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]所有技能1点PP值，[color=#52a5f2]对手[/color]技能PP值因本次[color=#52a5f2]吸取[/color]归0时[color=#52a5f2]对手[/color]1回合内攻击[color=#52a5f2]技能无效[/color]",
         "args": "1 0",
         "come": "镇世·乔特鲁德觉醒",
         "des": [],
@@ -53306,7 +53307,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]登场时[/color]，自身获得最大体力1/3的[color=#57c975]护盾[/color]，此[color=#57c975]护盾[/color]消失时[color=#52a5f2]当回合[/color][color=#57c975]战斗阶段结束时[/color]自身恢复全部PP值，此[color=#57c975]护盾[/color]存在时每[color=#57c975]回合开始时[/color]令于[color=#52a5f2]当回合[/color][color=#52a5f2]登场[/color]的[color=#52a5f2]对手[/color][color=#57c975]星赎[/color]3回合，每次受到[color=#52a5f2]致死伤害[/color]时消耗自身所有能力值的50%[color=#52a5f2]以[/color]重生，[color=#57c975]星赎[/color][color=#52a5f2]未触发[/color]时令自身[color=#57c975]砥砺[/color]3回合，重生触发[color=#52a5f2]之后[/color]本场战斗自身失去本条效果且下述效果触发条件中的“自身”改为“双方任意一方”、所有数字改为一半（向上取整）|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身处于[color=#52a5f2]异常状态[/color]则[color=#52a5f2]当回合[/color]受到的攻击伤害减少(自身双防值*5)/(自身最大体力*10)、受到的其他非[color=#52a5f2]真实伤害[/color]减少(自身最大体力*5)/(自身双防值*10)，[color=#52a5f2]当回合[/color][color=#57c975]战斗阶段结束时[/color]令[color=#52a5f2]对手[/color][color=#57c975]星赎[/color]，[color=#52a5f2]未触发[/color]自身下次攻击后令[color=#52a5f2]对手[/color][color=#57c975]石化[/color]，若自身不处于[color=#52a5f2]异常状态[/color]则获得([color=#52a5f2]对手[/color]已损失PP值*[color=#52a5f2]对手[/color]最大体力/100)+自身最大体力1/3的[color=#57c975]护罩[/color]，[color=#52a5f2]当回合[/color]自身受到非致死[color=#52a5f2]真实伤害[/color]时，恢复此[color=#57c975]护罩[/color]的体力且[color=#52a5f2]反转[/color][color=#52a5f2]对手[/color][color=#52a5f2]能力提升状态[/color]，[color=#52a5f2]反转[/color]成功令[color=#52a5f2]对手[/color][color=#57c975]砥砺[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]登场时[/color]，自身获得最大体力1/3的[color=#57c975]护盾[/color]，此[color=#57c975]护盾[/color]消失时[color=#52a5f2]当回合[/color][color=#57c975]战斗阶段结束时[/color]自身恢复全部PP值，此[color=#57c975]护盾[/color]存在时每[color=#57c975]回合开始时[/color]令于[color=#52a5f2]当回合[/color][color=#52a5f2]登场[/color]的[color=#52a5f2]对手[/color][color=#57c975]星赎[/color]3回合，每次受到[color=#52a5f2]致死伤害[/color]时消耗自身所有能力值的50%[color=#52a5f2]以[/color]重生，[color=#57c975]星赎[/color][color=#52a5f2]未触发[/color]时令自身[color=#57c975]砥砺[/color]3回合，重生触发[color=#52a5f2]之后[/color]本场战斗自身失去本条效果且下述效果触发条件中的“自身”改为“双方任意一方”、所有数字改为一半（向上取整）|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身处于[color=#52a5f2]异常状态[/color]则[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]攻击伤害[/color]减少(自身双防值*5)/(自身最大体力*10)、受到的其他非[color=#52a5f2]真实伤害[/color]减少(自身最大体力*5)/(自身双防值*10)，[color=#52a5f2]当回合[/color][color=#57c975]战斗阶段结束时[/color]令[color=#52a5f2]对手[/color][color=#57c975]星赎[/color]，[color=#52a5f2]未触发[/color]自身下次攻击后令[color=#52a5f2]对手[/color][color=#57c975]石化[/color]，若自身不处于[color=#52a5f2]异常状态[/color]则获得([color=#52a5f2]对手[/color]已损失PP值*[color=#52a5f2]对手[/color]最大体力/100)+自身最大体力1/3的[color=#57c975]护罩[/color]，[color=#52a5f2]当回合[/color]自身受到非致死[color=#52a5f2]真实伤害[/color]时，恢复此[color=#57c975]护罩[/color]的体力且[color=#52a5f2]反转[/color][color=#52a5f2]对手[/color][color=#52a5f2]能力提升状态[/color]，[color=#52a5f2]反转[/color]成功令[color=#52a5f2]对手[/color][color=#57c975]砥砺[/color]",
         "args": "1 0",
         "come": "挽尘之遗契约召唤",
         "des": [],
@@ -53518,7 +53519,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]永沐：自身位于出战背包时，若[color=#52a5f2]对方[/color]精灵[color=#52a5f2]执行[/color]概率不高于50%的[color=#52a5f2]异常状态附加效果[/color]则为[color=#52a5f2]对手[/color]附加[color=#f35555]曝[/color]|[sprite name=dot4]朝曦：自身[color=#52a5f2]主动切换[/color]时自身选择[color=#52a5f2]1号位技能[/color]并获得1句技能对应的[color=#f35555]唱词[/color]，自身[color=#57c975]登场时[/color]若[color=#52a5f2]对手[/color]拥有[color=#f35555]曝[/color]则恢复自身全部体力与PP值且[color=#52a5f2]当回合[/color][color=#57c975]免疫[/color]并[color=#52a5f2]反弹[/color]受到的[color=#52a5f2]异常状态[/color]|[sprite name=dot4]眷颂：自身使用技能的[color=#57c975]回合结束后[/color]，若自身[color=#52a5f2]当回合[/color]没有此法[color=#52a5f2]以[/color]外的方式获得过[color=#f35555]唱词[/color]且[color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]没有使用技能，则自身获得1句所使用技能对应的[color=#f35555]唱词[/color]|[sprite name=dot4]炽耀：[color=#57c975]回合开始时[/color]，自身每有1句[color=#f35555]唱词[/color]，自身受到的攻击伤害减少15%，自身[color=#57c975]行动阶段[/color]结束后，若自身的[color=#f35555]唱词[/color][color=#52a5f2]达到[/color]了4句，则进行一次[color=#52a5f2]额外行动[/color][color=#52a5f2]以[/color]触发[color=#f35555]破黯穿穹[/color]|[sprite name=dot4]余晖：自身[color=#57c975]下场时[/color]，若[color=#52a5f2]对手[/color]拥有[color=#f35555]曝[/color]，[color=#52a5f2]己方[/color]下只精灵[color=#57c975]登场时[/color]1回合内[color=#57c975]免疫[/color]并[color=#52a5f2]反弹[/color]受到的[color=#52a5f2]异常状态[/color]",
+        "analyze": "[sprite name=dot4]永沐：自身位于出战背包时，若[color=#52a5f2]对方[/color]精灵[color=#52a5f2]执行[/color]概率不高于50%的[color=#52a5f2]异常状态附加效果[/color]则为[color=#52a5f2]对手[/color]附加[color=#f35555]曝[/color]|[sprite name=dot4]朝曦：自身[color=#52a5f2]主动切换[/color]时自身选择[color=#52a5f2]1号位技能[/color]并获得1句技能对应的[color=#f35555]唱词[/color]，自身[color=#57c975]登场时[/color]若[color=#52a5f2]对手[/color]拥有[color=#f35555]曝[/color]则恢复自身全部体力与PP值且[color=#52a5f2]当回合[/color][color=#57c975]免疫[/color]并[color=#52a5f2]反弹[/color]受到的[color=#52a5f2]异常状态[/color]|[sprite name=dot4]眷颂：自身使用技能的[color=#57c975]回合结束后[/color]，若自身[color=#52a5f2]当回合[/color]没有此法[color=#52a5f2]以[/color]外的方式获得过[color=#f35555]唱词[/color]且[color=#52a5f2]当回合[/color][color=#52a5f2]对手[/color]没有使用技能，则自身获得1句所使用技能对应的[color=#f35555]唱词[/color]|[sprite name=dot4]炽耀：[color=#57c975]回合开始时[/color]，自身每有1句[color=#f35555]唱词[/color]，自身受到的[color=#52a5f2]攻击伤害[/color]减少15%，自身[color=#57c975]行动阶段[/color]结束后，若自身的[color=#f35555]唱词[/color][color=#52a5f2]达到[/color]了4句，则进行一次[color=#52a5f2]额外行动[/color][color=#52a5f2]以[/color]触发[color=#f35555]破黯穿穹[/color]|[sprite name=dot4]余晖：自身[color=#57c975]下场时[/color]，若[color=#52a5f2]对手[/color]拥有[color=#f35555]曝[/color]，[color=#52a5f2]己方[/color]下只精灵[color=#57c975]登场时[/color]1回合内[color=#57c975]免疫[/color]并[color=#52a5f2]反弹[/color]受到的[color=#52a5f2]异常状态[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -53700,7 +53701,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#57c975]攻击技能命中后[/color]100%令对手[color=#57c975]混乱[/color]|[sprite name=dot4][color=#52a5f2]回合开始时[/color]若对手处于[color=#57c975]混乱[/color]状态则[color=#52a5f2]当回合[/color]受到的攻击伤害减少25%且[color=#52a5f2]当回合[/color]免疫受到的异常状态，若对手不处于[color=#57c975]混乱[/color]状态则[color=#52a5f2]当回合[/color]攻击技能造成的伤害提升25%且[color=#52a5f2]当回合[/color]自身攻击技能必定[color=#52a5f2]致命一击[/color]",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]攻击技能命中后[/color]100%令对手[color=#57c975]混乱[/color]|[sprite name=dot4][color=#52a5f2]回合开始时[/color]若对手处于[color=#57c975]混乱[/color]状态则[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]攻击伤害[/color]减少25%且[color=#52a5f2]当回合[/color]免疫受到的异常状态，若对手不处于[color=#57c975]混乱[/color]状态则[color=#52a5f2]当回合[/color]攻击技能造成的伤害提升25%且[color=#52a5f2]当回合[/color]自身攻击技能必定[color=#52a5f2]致命一击[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -53752,7 +53753,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身位于场下时，自身每损失10%的体力，首位精灵造成的攻击伤害提升3%|[sprite name=dot4]自身位于场上时，首位精灵每损失10%的体力，自身造成的攻击伤害提升3%",
+        "analyze": "[sprite name=dot4]自身位于场下时，自身每损失10%的体力，首位精灵造成的[color=#52a5f2]攻击伤害[/color]提升3%|[sprite name=dot4]自身位于场上时，首位精灵每损失10%的体力，自身造成的[color=#52a5f2]攻击伤害[/color]提升3%",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -53778,7 +53779,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]每次[color=#57c975]登场时[/color]100%令双方[color=#57c975]沉默[/color]|[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手处于[color=#57c975]沉默[/color]状态则[color=#52a5f2]当回合[/color]自身受到的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]减少20%，若对手不处于[color=#57c975]沉默[/color]状态则[color=#52a5f2]当回合[/color]对手攻击后自身恢复300点体力|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若本回合对手使用了攻击技能则下回合攻击[color=#52a5f2]技能先制[/color]+1，自身未受到攻击伤害时额外+1，若本回合自身攻击技能未造成伤害，下回合[color=#57c975]攻击技能命中后[/color]附加造成伤害50%的[color=#52a5f2]百分比伤害[/color]",
+        "analyze": "[sprite name=dot4]每次[color=#57c975]登场时[/color]100%令双方[color=#57c975]沉默[/color]|[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手处于[color=#57c975]沉默[/color]状态则[color=#52a5f2]当回合[/color]自身受到的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]减少20%，若对手不处于[color=#57c975]沉默[/color]状态则[color=#52a5f2]当回合[/color]对手攻击后自身恢复300点体力|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若本回合对手使用了攻击技能则下回合攻击[color=#52a5f2]技能先制[/color]+1，自身未受到[color=#52a5f2]攻击伤害[/color]时额外+1，若本回合自身攻击技能未造成伤害，下回合[color=#57c975]攻击技能命中后[/color]附加造成伤害50%的[color=#52a5f2]百分比伤害[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -53831,7 +53832,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身使用攻击技能时触发[color=#f35555]时空加速[/color]|[sprite name=dot4]自身受到攻击后若攻击伤害高于对方阵亡精灵体力上限之和的60%则触发[color=#f35555]时空乱流[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]触发[color=#f35555]时空折跃[/color]|[sprite name=dot4][color=#57c975]回合结束时[/color]若对手体力大于0且本回合未受到[color=#f35555]时空加速[/color]的伤害则触发[color=#f35555]时空交错[/color]",
+        "analyze": "[sprite name=dot4]自身使用攻击技能时触发[color=#f35555]时空加速[/color]|[sprite name=dot4]自身受到攻击后若[color=#52a5f2]攻击伤害[/color]高于对方阵亡精灵体力上限之和的60%则触发[color=#f35555]时空乱流[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]触发[color=#f35555]时空折跃[/color]|[sprite name=dot4][color=#57c975]回合结束时[/color]若对手体力大于0且本回合未受到[color=#f35555]时空加速[/color]的伤害则触发[color=#f35555]时空交错[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -53911,7 +53912,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot1]自身使用攻击技能时，双方每有5点[color=#57c975]护盾[/color]自身造成的攻击伤害提升1%，最高75%，boss对战中上限翻倍",
+        "analyze": "[sprite name=dot1]自身使用攻击技能时，双方每有5点[color=#57c975]护盾[/color]自身造成的[color=#52a5f2]攻击伤害[/color]提升1%，最高75%，boss对战中上限翻倍",
         "args": "5 1 75",
         "come": "",
         "des": [],
@@ -53989,7 +53990,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot1]自身使用攻击技能时，双方每有5点[color=#57c975]护盾[/color]自身造成的攻击伤害提升2%，最高100%，boss对战中上限翻倍",
+        "analyze": "[sprite name=dot1]自身使用攻击技能时，双方每有5点[color=#57c975]护盾[/color]自身造成的[color=#52a5f2]攻击伤害[/color]提升2%，最高100%，boss对战中上限翻倍",
         "args": "5 2 100",
         "come": "黄昏罪罚契约召唤",
         "des": [],
@@ -54014,7 +54015,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]对手pp值总和每比自身高1倍，自身造成的攻击伤害提升30%|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身存在pp值相等的技能则[color=#52a5f2]当回合[/color]自身技能命中后恢复所有技能1点pp并[color=#52a5f2]吸取[/color]对手400点体力，自身pp值每恢复一点则[color=#52a5f2]吸取[/color]效果减少80点，若不存在pp值相等的技能则[color=#52a5f2]当回合[/color]必定打出[color=#52a5f2]致命一击[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身若不存在pp值相等的技能，则使自身每个技能的pp值尽可能等于所有技能pp值的平均值，技能pp值总和每因此减少1点，下回合所有[color=#52a5f2]技能先制[/color]+1，最高+3",
+        "analyze": "[sprite name=dot4]对手pp值总和每比自身高1倍，自身造成的[color=#52a5f2]攻击伤害[/color]提升30%|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身存在pp值相等的技能则[color=#52a5f2]当回合[/color]自身技能命中后恢复所有技能1点pp并[color=#52a5f2]吸取[/color]对手400点体力，自身pp值每恢复一点则[color=#52a5f2]吸取[/color]效果减少80点，若不存在pp值相等的技能则[color=#52a5f2]当回合[/color]必定打出[color=#52a5f2]致命一击[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身若不存在pp值相等的技能，则使自身每个技能的pp值尽可能等于所有技能pp值的平均值，技能pp值总和每因此减少1点，下回合所有[color=#52a5f2]技能先制[/color]+1，最高+3",
         "args": "30 400 80 3 1",
         "come": "",
         "des": [],
@@ -54040,7 +54041,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]战斗开始时，自身获得1个[color=#f35555]风龙结[/color]；对手每次[color=#52a5f2]执行[/color][color=#52a5f2]异常状态附加效果[/color]后，自身的[color=#f35555]风龙结[/color]数量+50并除以附加的概率，[color=#52a5f2]然后[/color]若[color=#f35555]风龙结[/color]大于500个则额外解除自身所处的异常状态|[sprite name=dot4][color=#57c975]回合开始[/color]时，若自身体力高于1/2则下[color=#57c975]回合开始[/color]时[color=#52a5f2][color=#52a5f2]反转[/color][/color]对手的能力提升状态，[color=#52a5f2]反转[/color]成功则[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]减少50%，[color=#52a5f2]未触发[/color]则对手2回合内无法[color=#52a5f2]主动切换[/color]精灵|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身体力低于1/2则获得50个[color=#f35555]风龙结[/color]并[color=#52a5f2]吸取[/color]对手500点体力，若对手未受到此伤害则令对手[color=#57c975]焚烬[/color]",
+        "analyze": "[sprite name=dot4]战斗开始时，自身获得1个[color=#f35555]风龙结[/color]；对手每次[color=#52a5f2]执行[/color][color=#52a5f2]异常状态附加效果[/color]后，自身的[color=#f35555]风龙结[/color]数量+50并除以附加的概率，[color=#52a5f2]然后[/color]若[color=#f35555]风龙结[/color]大于500个则额外解除自身所处的异常状态|[sprite name=dot4][color=#57c975]回合开始[/color]时，若自身体力高于1/2则下[color=#57c975]回合开始[/color]时[color=#52a5f2]反转[/color]对手的能力提升状态，[color=#52a5f2]反转[/color]成功则[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]减少50%，[color=#52a5f2]未触发[/color]则对手2回合内无法[color=#52a5f2]主动切换[/color]精灵|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身体力低于1/2则获得50个[color=#f35555]风龙结[/color]并[color=#52a5f2]吸取[/color]对手500点体力，若对手未受到此伤害则令对手[color=#57c975]焚烬[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -54119,7 +54120,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，自身每有216点速度自身攻击技能获得以下效果前1项：|    [sprite name=dot4][color=#52a5f2]当回合[/color]造成的攻击伤害提高20%|    [sprite name=dot4]命中后附加自身速度值25%的[color=#52a5f2]百分比伤害[/color]|    [sprite name=dot4][color=#52a5f2]致命一击[/color]造成的伤害提高26%|[sprite name=dot4]自身体力每损失217点以上效果的前1项效果翻倍",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，自身每有216点速度自身攻击技能获得以下效果前1项：|    [sprite name=dot4][color=#52a5f2]当回合[/color]造成的[color=#52a5f2]攻击伤害[/color]提高20%|    [sprite name=dot4]命中后附加自身速度值25%的[color=#52a5f2]百分比伤害[/color]|    [sprite name=dot4][color=#52a5f2]致命一击[/color]造成的伤害提高26%|[sprite name=dot4]自身体力每损失217点以上效果的前1项效果翻倍",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -54198,7 +54199,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始[/color]时，若自身体力高于对手，则[color=#52a5f2][color=#52a5f2][color=#52a5f2]当回合[/color][/color][/color]自身攻击技能命中时消耗30%的体力并附加自身最大体力30%的[color=#52a5f2]百分比伤害[/color]且[color=#57c975]回合结束时[/color]获得等同于自身体力与[color=#57c975]回合开始时[/color]差值的[color=#57c975]护盾[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始[/color]时，若自身体力高于对手，则[color=#52a5f2]当回合[/color]自身攻击技能命中时消耗30%的体力并附加自身最大体力30%的[color=#52a5f2]百分比伤害[/color]且[color=#57c975]回合结束时[/color]获得等同于自身体力与[color=#57c975]回合开始时[/color]差值的[color=#57c975]护盾[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -54249,7 +54250,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#52a5f2]登场[color=#52a5f2]当回合[/color][color=#57c975]受到攻击后[/color]将对手的系别变为虫系，对手本次在场累计造成的攻击伤害超过自身体力上限时恢复其系别|[sprite name=dot4]对手使用与其系别相同的攻击技能对自身造成的攻击伤害不超过300点，对手使用与其系别不同的攻击技能对自身造成的伤害高于300时消除对手能力提升状态，低于300时消除对手[color=#52a5f2]回合类效果[/color]",
+        "analyze": "[sprite name=dot4]自身[color=#52a5f2]登场[/color][color=#52a5f2]当回合[/color][color=#57c975]受到攻击后[/color]将对手的系别变为虫系，对手本次在场累计造成的[color=#52a5f2]攻击伤害[/color]超过自身体力上限时恢复其系别|[sprite name=dot4]对手使用与其系别相同的攻击技能对自身造成的[color=#52a5f2]攻击伤害[/color]不超过300点，对手使用与其系别不同的攻击技能对自身造成的伤害高于300时消除对手能力提升状态，低于300时消除对手[color=#52a5f2]回合类效果[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -54275,7 +54276,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手不处于异常状态则100%令对手[color=#57c975]失明[/color]，[color=#52a5f2]未触发[/color]则[color=#52a5f2]当回合[/color]100%[color=#57c975]闪避[/color]对手攻击|[sprite name=dot4][color=#57c975]回合结束时[/color]，若本回合未受到攻击伤害则下回合攻击技能必定[color=#52a5f2]致命一击[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手不处于异常状态则100%令对手[color=#57c975]失明[/color]，[color=#52a5f2]未触发[/color]则[color=#52a5f2]当回合[/color]100%[color=#57c975]闪避[/color]对手攻击|[sprite name=dot4][color=#57c975]回合结束时[/color]，若本回合未受到[color=#52a5f2]攻击伤害[/color]则下回合攻击技能必定[color=#52a5f2]致命一击[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -54301,7 +54302,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身造成的攻击伤害额外恢复至自身体力，恢复量每溢出2点，下回合造成伤害提高1%，最高50%",
+        "analyze": "[sprite name=dot4]自身造成的[color=#52a5f2]攻击伤害[/color]额外恢复至自身体力，恢复量每溢出2点，下回合造成伤害提高1%，最高50%",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -54379,7 +54380,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]每次在场首次攻击后触发[color=#f35555]灰鳞变[/color]，自身本场战斗[color=#f35555]灰鳞变[/color]的触发次数每有1次自身造成的攻击伤害提升10%，每有5次自身所有[color=#52a5f2]技能先制[/color]+1|[sprite name=dot4]自身[color=#52a5f2]首次[/color]受到[color=#52a5f2]致死伤害[/color]时，若本场战斗[color=#f35555]灰鳞变[/color]的触发次数不为0，则将其翻倍且本场战斗[color=#f35555]灰鳞变[/color]不再减少体力上限，[color=#52a5f2]然后[/color]自身解除所处的异常状态、体力上限增加[color=#f35555]灰鳞变[/color]所减少的体力上限并主动恢复差值的体力，[color=#52a5f2]之后[/color][color=#52a5f2]当回合[/color]受到[color=#52a5f2]致死伤害[/color]时[color=#52a5f2]保留[/color]1点体力",
+        "analyze": "[sprite name=dot4]每次在场首次攻击后触发[color=#f35555]灰鳞变[/color]，自身本场战斗[color=#f35555]灰鳞变[/color]的触发次数每有1次自身造成的[color=#52a5f2]攻击伤害[/color]提升10%，每有5次自身所有[color=#52a5f2]技能先制[/color]+1|[sprite name=dot4]自身[color=#52a5f2]首次[/color]受到[color=#52a5f2]致死伤害[/color]时，若本场战斗[color=#f35555]灰鳞变[/color]的触发次数不为0，则将其翻倍且本场战斗[color=#f35555]灰鳞变[/color]不再减少体力上限，[color=#52a5f2]然后[/color]自身解除所处的异常状态、体力上限增加[color=#f35555]灰鳞变[/color]所减少的体力上限并主动恢复差值的体力，[color=#52a5f2]之后[/color][color=#52a5f2]当回合[/color]受到[color=#52a5f2]致死伤害[/color]时[color=#52a5f2]保留[/color]1点体力",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -54456,7 +54457,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#52a5f2]先制[/color]无法高于0，自身[color=#57c975]被击败[/color]时[color=#52a5f2]对手[/color]1回合内[color=#52a5f2]先制[/color]等级归0|[sprite name=dot4]自身每次受到的攻击伤害不超过自身最大体力的100%，[color=#52a5f2]对手[/color]每有1级[color=#52a5f2]先制[/color]该比例降低15%，自身受到攻击后恢复200×（200%-该比例）的体力|[sprite name=dot4]自身每次造成的攻击伤害不低于[color=#52a5f2]对手[/color]最大体力的40%，[color=#52a5f2]对手[/color]每有1级[color=#52a5f2]先制[/color]等级该比例提高5%，自身造成攻击伤害后额外附加500*该比例的[color=#52a5f2]固定伤害[/color]",
+        "analyze": "[sprite name=dot4]自身[color=#52a5f2]先制[/color]无法高于0，自身[color=#57c975]被击败[/color]时[color=#52a5f2]对手[/color]1回合内[color=#52a5f2]先制[/color]等级归0|[sprite name=dot4]自身每次受到的[color=#52a5f2]攻击伤害[/color]不超过自身最大体力的100%，[color=#52a5f2]对手[/color]每有1级[color=#52a5f2]先制[/color]该比例降低15%，自身受到攻击后恢复200×（200%-该比例）的体力|[sprite name=dot4]自身每次造成的[color=#52a5f2]攻击伤害[/color]不低于[color=#52a5f2]对手[/color]最大体力的40%，[color=#52a5f2]对手[/color]每有1级[color=#52a5f2]先制[/color]等级该比例提高5%，自身造成[color=#52a5f2]攻击伤害[/color]后额外附加500*该比例的[color=#52a5f2]固定伤害[/color]",
         "args": "100 15 200 5 500 1",
         "come": "",
         "des": [],
@@ -54482,7 +54483,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身不处于[color=#52a5f2]异常状态[/color]则[color=#52a5f2]当回合[/color]自身受到的攻击伤害减少30%，[color=#52a5f2]对手[/color]使用的攻击技能微弱自身时改为受到的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]减少30%，若自身处于[color=#52a5f2]异常状态[/color]则消除[color=#52a5f2]对手[/color][color=#52a5f2]能力提升状态[/color]，消除成功时令[color=#52a5f2]对手[/color][color=#57c975]疲惫[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]当回合[/color]自身[color=#52a5f2]先制[/color]等级与上回合不相等则下回合[color=#52a5f2]技能先制[/color]+1，高于上回合时恢复自身最大体力的30%，低于上回合时额外解除自身所处的[color=#52a5f2]异常状态[/color]，与自身本次在场的所有回合均不同时每有1回合不同下回合造成的攻击伤害提升30%|[sprite name=dot4]自身位于出战背包时，[color=#52a5f2]对方[/color]进入附属类[color=#52a5f2]异常状态[/color]时，[color=#52a5f2]己方[/color]打开[color=#f35555]天之门[/color]、[color=#f35555]地之门[/color]、[color=#f35555]神之门[/color]中首个未打开的[color=#f35555]神域之门[/color]，[color=#57c975]回合结束后[/color]，若[color=#52a5f2]己方[/color]其他精灵处于附属类[color=#52a5f2]异常状态[/color]，则关闭首个未关闭的[color=#f35555]神域之门[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身不处于[color=#52a5f2]异常状态[/color]则[color=#52a5f2]当回合[/color]自身受到的[color=#52a5f2]攻击伤害[/color]减少30%，[color=#52a5f2]对手[/color]使用的攻击技能微弱自身时改为受到的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]减少30%，若自身处于[color=#52a5f2]异常状态[/color]则消除[color=#52a5f2]对手[/color][color=#52a5f2]能力提升状态[/color]，消除成功时令[color=#52a5f2]对手[/color][color=#57c975]疲惫[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]当回合[/color]自身[color=#52a5f2]先制[/color]等级与上回合不相等则下回合[color=#52a5f2]技能先制[/color]+1，高于上回合时恢复自身最大体力的30%，低于上回合时额外解除自身所处的[color=#52a5f2]异常状态[/color]，与自身本次在场的所有回合均不同时每有1回合不同下回合造成的[color=#52a5f2]攻击伤害[/color]提升30%|[sprite name=dot4]自身位于出战背包时，[color=#52a5f2]对方[/color]进入附属类[color=#52a5f2]异常状态[/color]时，[color=#52a5f2]己方[/color]打开[color=#f35555]天之门[/color]、[color=#f35555]地之门[/color]、[color=#f35555]神之门[/color]中首个未打开的[color=#f35555]神域之门[/color]，[color=#57c975]回合结束后[/color]，若[color=#52a5f2]己方[/color]其他精灵处于附属类[color=#52a5f2]异常状态[/color]，则关闭首个未关闭的[color=#f35555]神域之门[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -54610,7 +54611,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#57c975]出战时[/color]获得[color=#f35555]群辉加护[/color]；自身拥有[color=#f35555]群辉加护[/color]时，若对手处于[color=#52a5f2]回合类效果[/color]则自身[color=#57c975]闪避[/color]对手的技能，若对手的技能命中自身则命中后对手每有1个与此技能类型不同的技能自身恢复120点体力，若对手的技能未命中自身则此次技能结束时本次在场每[color=#57c975]闪避[/color]成功1次，[color=#52a5f2]吸取[/color]对手120点体力|[sprite name=dot4][color=#52a5f2]己方[/color]其他精灵[color=#52a5f2]首次[/color][color=#57c975]出战时[/color]自身获得1层[color=#f35555]群芳加护[/color]；自身拥有[color=#f35555]群芳加护[/color]时，双方[color=#57c975]使用技能后[/color]自身与对手受到1点[color=#52a5f2]固定伤害[/color]，[color=#52a5f2]然后[/color]若对手的体力未减少则本次在场自身造成的攻击伤害提升20%，若自身的体力未减少则本次在场造成的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]提升20%，伤害提升效果均可叠加，自身每有1层[color=#f35555]群芳加护[/color]最高可叠加1次",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]出战时[/color]获得[color=#f35555]群辉加护[/color]；自身拥有[color=#f35555]群辉加护[/color]时，若对手处于[color=#52a5f2]回合类效果[/color]则自身[color=#57c975]闪避[/color]对手的技能，若对手的技能命中自身则命中后对手每有1个与此技能类型不同的技能自身恢复120点体力，若对手的技能未命中自身则此次技能结束时本次在场每[color=#57c975]闪避[/color]成功1次，[color=#52a5f2]吸取[/color]对手120点体力|[sprite name=dot4][color=#52a5f2]己方[/color]其他精灵[color=#52a5f2]首次[/color][color=#57c975]出战时[/color]自身获得1层[color=#f35555]群芳加护[/color]；自身拥有[color=#f35555]群芳加护[/color]时，双方[color=#57c975]使用技能后[/color]自身与对手受到1点[color=#52a5f2]固定伤害[/color]，[color=#52a5f2]然后[/color]若对手的体力未减少则本次在场自身造成的[color=#52a5f2]攻击伤害[/color]提升20%，若自身的体力未减少则本次在场造成的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]提升20%，伤害提升效果均可叠加，自身每有1层[color=#f35555]群芳加护[/color]最高可叠加1次",
         "args": "101 120 1",
         "come": "星罗拂沙伙伴效果",
         "des": [],
@@ -54714,7 +54715,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#52a5f2]对方[/color]每有1只精灵的[color=#57c975]信仰对象[/color]是自身，自身造成的攻击伤害提升20%、受到的攻击伤害减少10%；[color=#52a5f2]回合开始时[/color]，若[color=#52a5f2]对方[/color]的[color=#57c975]信仰对象[/color]均为自身，则本场战斗自身免疫受到的异常状态、能力下降状态、[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]|[sprite name=dot4]对手的[color=#57c975]信仰对象[/color]不为其时自身抵挡对手的[color=#52a5f2]致命一击[/color]，抵挡成功则将对手的[color=#57c975]信仰对象[/color]改为其且[color=#52a5f2]当回合[/color][color=#57c975]战斗阶段结束时[/color]附加免疫量100%的[color=#52a5f2]百分比伤害[/color]；[color=#57c975]战斗阶段结束时[/color]，若本回合对手未打出[color=#52a5f2]致命一击[/color]，则自身恢复最大体力的1/4",
+        "analyze": "[sprite name=dot4][color=#52a5f2]对方[/color]每有1只精灵的[color=#57c975]信仰对象[/color]是自身，自身造成的[color=#52a5f2]攻击伤害[/color]提升20%、受到的[color=#52a5f2]攻击伤害[/color]减少10%；[color=#52a5f2]回合开始时[/color]，若[color=#52a5f2]对方[/color]的[color=#57c975]信仰对象[/color]均为自身，则本场战斗自身免疫受到的异常状态、能力下降状态、[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]|[sprite name=dot4]对手的[color=#57c975]信仰对象[/color]不为其时自身抵挡对手的[color=#52a5f2]致命一击[/color]，抵挡成功则将对手的[color=#57c975]信仰对象[/color]改为其且[color=#52a5f2]当回合[/color][color=#57c975]战斗阶段结束时[/color]附加免疫量100%的[color=#52a5f2]百分比伤害[/color]；[color=#57c975]战斗阶段结束时[/color]，若本回合对手未打出[color=#52a5f2]致命一击[/color]，则自身恢复最大体力的1/4",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -54871,7 +54872,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#57c975]登场时[/color]，根据本场战斗自身的[color=#52a5f2]出战[/color]次数，依次触发等量的下列效果：|[sprite name=dot5]    2回合内自身受到的技能伤害不超过自身最大体力的25%|[sprite name=dot5]    2回合内自身造成的攻击[color=#52a5f2]伤害提升[/color]100%|[sprite name=dot5]    2回合内自身抵挡受到的[color=#52a5f2]致命一击[/color]|[sprite name=dot5]    2回合内令[color=#52a5f2]对手[/color]体力恢复效果减少50%|[sprite name=dot5]    2回合内每回合结束[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]所有技能1点PP值|[sprite name=dot5]    2回合内自身造成的[color=#52a5f2]固定伤害[/color]、百分比[color=#52a5f2]伤害提升[/color]30%|[sprite name=dot4]若触发次数为6次，则[color=#57c975]登场时[/color]无法触发上述效果|[sprite name=dot4]自身体力高于最大体力的1/2时，[color=#57c975]回合开始时[/color]令[color=#52a5f2]对手[/color]攻击、特攻、速度-1，[color=#52a5f2]未触发[/color]则重新触发自身的[color=#57c975]登场[/color]效果并解除自身所处的[color=#52a5f2]异常状态[/color]；自身体力低于最大体力的1/2时，自身所有[color=#52a5f2]技能先制[/color]+1，攻击技能威力提升100%且造成的攻击伤害为0时[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]100%的体力|[sprite name=dot4]自身造成的攻击伤害高于300时，[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的1/3，自身未造成高于300的攻击伤害的回合，[color=#57c975]战斗阶段结束时[/color]自身特攻、速度+1",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]登场时[/color]，根据本场战斗自身的[color=#52a5f2]出战[/color]次数，依次触发等量的下列效果：|[sprite name=dot5]    2回合内自身受到的技能伤害不超过自身最大体力的25%|[sprite name=dot5]    2回合内自身造成的攻击[color=#52a5f2]伤害提升[/color]100%|[sprite name=dot5]    2回合内自身抵挡受到的[color=#52a5f2]致命一击[/color]|[sprite name=dot5]    2回合内令[color=#52a5f2]对手[/color]体力恢复效果减少50%|[sprite name=dot5]    2回合内每回合结束[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]所有技能1点PP值|[sprite name=dot5]    2回合内自身造成的[color=#52a5f2]固定伤害[/color]、百分比[color=#52a5f2]伤害提升[/color]30%|[sprite name=dot4]若触发次数为6次，则[color=#57c975]登场时[/color]无法触发上述效果|[sprite name=dot4]自身体力高于最大体力的1/2时，[color=#57c975]回合开始时[/color]令[color=#52a5f2]对手[/color]攻击、特攻、速度-1，[color=#52a5f2]未触发[/color]则重新触发自身的[color=#57c975]登场[/color]效果并解除自身所处的[color=#52a5f2]异常状态[/color]；自身体力低于最大体力的1/2时，自身所有[color=#52a5f2]技能先制[/color]+1，攻击技能威力提升100%且造成的[color=#52a5f2]攻击伤害[/color]为0时[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]100%的体力|[sprite name=dot4]自身造成的[color=#52a5f2]攻击伤害[/color]高于300时，[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的1/3，自身未造成高于300的[color=#52a5f2]攻击伤害[/color]的回合，[color=#57c975]战斗阶段结束时[/color]自身特攻、速度+1",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -54923,7 +54924,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#57c975]使用技能时[/color]，随机触发下列效果种的1项并使本次在场的触发项数+1：|[sprite name=dot5]2回合内自身攻击必定打出[color=#52a5f2]致命一击[/color]|[sprite name=dot5]2回合内对手内[color=#57c975]无法通过自身技能恢复体力[/color]|[sprite name=dot5]2回合内自身攻击技能无视对手能力提升状态|[sprite name=dot5]2回合内自身能力提升状态无法被消除|[sprite name=dot5]2回合内受到的攻击伤害减少30%|[sprite name=dot5]2回合内每回合[color=#57c975]战斗阶段结束时[/color]恢复自身300点体力",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]使用技能时[/color]，随机触发下列效果种的1项并使本次在场的触发项数+1：|[sprite name=dot5]2回合内自身攻击必定打出[color=#52a5f2]致命一击[/color]|[sprite name=dot5]2回合内对手内[color=#57c975]无法通过自身技能恢复体力[/color]|[sprite name=dot5]2回合内自身攻击技能无视对手能力提升状态|[sprite name=dot5]2回合内自身能力提升状态无法被消除|[sprite name=dot5]2回合内受到的[color=#52a5f2]攻击伤害[/color]减少30%|[sprite name=dot5]2回合内每回合[color=#57c975]战斗阶段结束时[/color]恢复自身300点体力",
         "args": "1 1 30 300 1",
         "come": "",
         "des": [],
@@ -55000,7 +55001,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]每次在场自身的[color=#52a5f2]首次[/color]使用的攻击技能必定打出[color=#52a5f2]致命一击[/color]，在打出之前每回合[color=#57c975]战斗阶段结束时[/color]消除对手能力提升状态，消除成功则消除对手[color=#52a5f2]回合类效果[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若本次在场自身打出[color=#52a5f2]致命一击[/color]的次数高于对手则将对手所处的异常状态[color=#52a5f2][color=#52a5f2]转化[/color][/color]为1回合[color=#57c975]焚烬[/color]，若低于对手则恢复双方最大体力差值的体力，若等于对手则下回合所有[color=#52a5f2]技能先制[/color]+1",
+        "analyze": "[sprite name=dot4]每次在场自身的[color=#52a5f2]首次[/color]使用的攻击技能必定打出[color=#52a5f2]致命一击[/color]，在打出之前每回合[color=#57c975]战斗阶段结束时[/color]消除对手能力提升状态，消除成功则消除对手[color=#52a5f2]回合类效果[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若本次在场自身打出[color=#52a5f2]致命一击[/color]的次数高于对手则将对手所处的异常状态[color=#52a5f2]转化[/color]为1回合[color=#57c975]焚烬[/color]，若低于对手则恢复双方最大体力差值的体力，若等于对手则下回合所有[color=#52a5f2]技能先制[/color]+1",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -55027,7 +55028,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot1]自身受到技能伤害后，[color=#52a5f2]对手[/color]3回合内攻击[color=#57c975]免疫[/color]效果失效|[sprite name=dot1][color=#52a5f2]回合开始[/color]时，自身防御、特防+1；[color=#57c975]战斗阶段结束时[/color]，若自身处于[color=#52a5f2]能力提升状态[/color]，则将防御、特防能力等级[color=#52a5f2]转化[/color]为攻击、特攻能力等级，[color=#52a5f2]然后[/color]自身每有1[color=#52a5f2]组[/color]攻击、特攻能力提升等级，自身恢复最大体力的17%，下回合造成的攻击伤害提升17%",
+        "analyze": "[sprite name=dot1]自身受到技能伤害后，[color=#52a5f2]对手[/color]3回合内攻击[color=#57c975]免疫[/color]效果失效|[sprite name=dot1][color=#52a5f2]回合开始[/color]时，自身防御、特防+1；[color=#57c975]战斗阶段结束时[/color]，若自身处于[color=#52a5f2]能力提升状态[/color]，则将防御、特防能力等级[color=#52a5f2]转化[/color]为攻击、特攻能力等级，[color=#52a5f2]然后[/color]自身每有1[color=#52a5f2]组[/color]攻击、特攻能力提升等级，自身恢复最大体力的17%，下回合造成的[color=#52a5f2]攻击伤害[/color]提升17%",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -55078,7 +55079,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身存活于出战阵容时，双方场下的精灵无法指定场上的精灵为效果对象，自身死亡时，为[color=#52a5f2]己方[/color]存活精灵附加[color=#f35555]黄金万象[/color]|[sprite name=dot4]自身相邻的精灵存活时，自身受到技能伤害后恢复最大体力的1/3并附加溢出量26%的[color=#52a5f2]真实伤害[/color]，自身相邻的精灵死亡时，本场战斗自身[color=#57c975]免疫[/color]受到的[color=#52a5f2]能力下降状态[/color]|[sprite name=dot4]自身隔位的精灵存活时，自身[color=#57c975]登场时[/color]双方在场精灵本场战斗[color=#57c975]免疫[/color]下1次受到的[color=#52a5f2]异常状态[/color]，自身隔位的精灵死亡时，本场战斗自身[color=#57c975]免疫[/color]受到的[color=#52a5f2]异常状态[/color]|[sprite name=dot4][color=#52a5f2]己方[/color]首位的精灵存活时，[color=#52a5f2]己方[/color]每损失1%的体力，自身造成的攻击伤害提升1%，[color=#52a5f2]己方[/color]首位的精灵死亡时，本场战斗自身[color=#57c975]免疫[/color]受到的[color=#52a5f2]百分比伤害[/color]|[sprite name=dot4][color=#52a5f2]己方[/color]末位的精灵存活时，[color=#52a5f2]对手[/color][color=#57c975]使用技能后[/color]自身恢复所有技能1点PP值，[color=#52a5f2]己方[/color]末位的精灵死亡时，本场战斗自身[color=#57c975]免疫[/color]受到的[color=#52a5f2]固定伤害[/color]",
+        "analyze": "[sprite name=dot4]自身存活于出战阵容时，双方场下的精灵无法指定场上的精灵为效果对象，自身死亡时，为[color=#52a5f2]己方[/color]存活精灵附加[color=#f35555]黄金万象[/color]|[sprite name=dot4]自身相邻的精灵存活时，自身受到技能伤害后恢复最大体力的1/3并附加溢出量26%的[color=#52a5f2]真实伤害[/color]，自身相邻的精灵死亡时，本场战斗自身[color=#57c975]免疫[/color]受到的[color=#52a5f2]能力下降状态[/color]|[sprite name=dot4]自身隔位的精灵存活时，自身[color=#57c975]登场时[/color]双方在场精灵本场战斗[color=#57c975]免疫[/color]下1次受到的[color=#52a5f2]异常状态[/color]，自身隔位的精灵死亡时，本场战斗自身[color=#57c975]免疫[/color]受到的[color=#52a5f2]异常状态[/color]|[sprite name=dot4][color=#52a5f2]己方[/color]首位的精灵存活时，[color=#52a5f2]己方[/color]每损失1%的体力，自身造成的[color=#52a5f2]攻击伤害[/color]提升1%，[color=#52a5f2]己方[/color]首位的精灵死亡时，本场战斗自身[color=#57c975]免疫[/color]受到的[color=#52a5f2]百分比伤害[/color]|[sprite name=dot4][color=#52a5f2]己方[/color]末位的精灵存活时，[color=#52a5f2]对手[/color][color=#57c975]使用技能后[/color]自身恢复所有技能1点PP值，[color=#52a5f2]己方[/color]末位的精灵死亡时，本场战斗自身[color=#57c975]免疫[/color]受到的[color=#52a5f2]固定伤害[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -55103,7 +55104,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身每次在场[color=#52a5f2]首次[/color]使用攻击技能时获得1层[color=#f35555]渐烬[/color]并[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的1/3，若[color=#52a5f2]对手[/color][color=#57c975]免疫[/color]受到的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]则本场战斗此效果无视时点条件|[sprite name=dot4]自身每次在场[color=#52a5f2]对手[/color][color=#52a5f2]首次[/color]使用攻击技能时[color=#52a5f2]当回合[/color]自身受到的攻击伤害减少50%，若[color=#52a5f2]对手[/color]当次攻击微弱自身则[color=#52a5f2]对手[/color]下次属性[color=#52a5f2]技能无效[/color]|[sprite name=dot4]自身受到[color=#52a5f2]致死伤害[/color]时，消耗自身的[color=#f35555]渐烬[/color][color=#52a5f2]以[/color]主动恢复全部体力，恢复成功自身解除所处的[color=#52a5f2]异常状态[/color]、[color=#52a5f2]能力下降状态[/color]，[color=#57c975]免疫[/color]下1次受到的攻击，每消耗1层[color=#f35555]渐烬[/color]，[color=#52a5f2]己方[/color]获得1层[color=#f35555]天烬海[/color]，[color=#52a5f2]之后[/color]本场战斗自身[color=#f35555]渐烬[/color]的上限视为0",
+        "analyze": "[sprite name=dot4]自身每次在场[color=#52a5f2]首次[/color]使用攻击技能时获得1层[color=#f35555]渐烬[/color]并[color=#52a5f2]吸取[/color][color=#52a5f2]对手[/color]最大体力的1/3，若[color=#52a5f2]对手[/color][color=#57c975]免疫[/color]受到的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]则本场战斗此效果无视时点条件|[sprite name=dot4]自身每次在场[color=#52a5f2]对手[/color][color=#52a5f2]首次[/color]使用攻击技能时[color=#52a5f2]当回合[/color]自身受到的[color=#52a5f2]攻击伤害[/color]减少50%，若[color=#52a5f2]对手[/color]当次攻击微弱自身则[color=#52a5f2]对手[/color]下次属性[color=#52a5f2]技能无效[/color]|[sprite name=dot4]自身受到[color=#52a5f2]致死伤害[/color]时，消耗自身的[color=#f35555]渐烬[/color][color=#52a5f2]以[/color]主动恢复全部体力，恢复成功自身解除所处的[color=#52a5f2]异常状态[/color]、[color=#52a5f2]能力下降状态[/color]，[color=#57c975]免疫[/color]下1次受到的攻击，每消耗1层[color=#f35555]渐烬[/color]，[color=#52a5f2]己方[/color]获得1层[color=#f35555]天烬海[/color]，[color=#52a5f2]之后[/color]本场战斗自身[color=#f35555]渐烬[/color]的上限视为0",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -55181,7 +55182,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=dot4]对手pp值总和每比自身高1倍，自身造成的攻击伤害提升40%|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身存在pp值相等的技能则[color=#52a5f2]当回合[/color]自身技能命中后恢复所有技能1点pp并[color=#52a5f2]吸取[/color]对手400点体力，自身pp值每恢复一点则[color=#52a5f2]吸取[/color]效果减少40点，若不存在pp值相等的技能则[color=#52a5f2]当回合[/color]必定打出[color=#52a5f2]致命一击[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身若不存在pp值相等的技能，则使自身每个技能的pp值尽可能等于所有技能pp值的平均值，技能pp值总和每因此减少1点，下回合所有[color=#52a5f2]技能先制[/color]+1，最高+4",
+        "analyze": "[sprite name=dot4]对手pp值总和每比自身高1倍，自身造成的[color=#52a5f2]攻击伤害[/color]提升40%|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身存在pp值相等的技能则[color=#52a5f2]当回合[/color]自身技能命中后恢复所有技能1点pp并[color=#52a5f2]吸取[/color]对手400点体力，自身pp值每恢复一点则[color=#52a5f2]吸取[/color]效果减少40点，若不存在pp值相等的技能则[color=#52a5f2]当回合[/color]必定打出[color=#52a5f2]致命一击[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身若不存在pp值相等的技能，则使自身每个技能的pp值尽可能等于所有技能pp值的平均值，技能pp值总和每因此减少1点，下回合所有[color=#52a5f2]技能先制[/color]+1，最高+4",
         "args": "40 400 40 4 1",
         "come": "黄金圣徒伙伴效果",
         "des": [],
@@ -55207,7 +55208,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#52a5f2]先制[/color]无法高于0，自身[color=#57c975]被击败[/color]时[color=#52a5f2]对手[/color]1回合内[color=#52a5f2]先制[/color]等级归0|[sprite name=dot4]自身每次受到的攻击伤害不超过自身最大体力的80%，[color=#52a5f2]对手[/color]每有1级[color=#52a5f2]先制[/color]该比例降低15%，自身受到攻击后恢复200×（200%-该比例）的体力|[sprite name=dot4]自身每次造成的攻击伤害不低于[color=#52a5f2]对手[/color]最大体力的40%，[color=#52a5f2]对手[/color]每有1级[color=#52a5f2]先制[/color]等级该比例提高5%，自身造成攻击伤害后附加500*该比例的[color=#52a5f2]固定伤害[/color]",
+        "analyze": "[sprite name=dot4]自身[color=#52a5f2]先制[/color]无法高于0，自身[color=#57c975]被击败[/color]时[color=#52a5f2]对手[/color]1回合内[color=#52a5f2]先制[/color]等级归0|[sprite name=dot4]自身每次受到的[color=#52a5f2]攻击伤害[/color]不超过自身最大体力的80%，[color=#52a5f2]对手[/color]每有1级[color=#52a5f2]先制[/color]该比例降低15%，自身受到攻击后恢复200×（200%-该比例）的体力|[sprite name=dot4]自身每次造成的[color=#52a5f2]攻击伤害[/color]不低于[color=#52a5f2]对手[/color]最大体力的40%，[color=#52a5f2]对手[/color]每有1级[color=#52a5f2]先制[/color]等级该比例提高5%，自身造成[color=#52a5f2]攻击伤害[/color]后附加500*该比例的[color=#52a5f2]固定伤害[/color]",
         "args": "80 15 200 5 500 1",
         "come": "黄金圣徒伙伴效果",
         "des": [],
@@ -55285,7 +55286,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#57c975]使用技能时[/color]，随机触发下列效果种的2项并使本次在场的触发项数+1：|[sprite name=dot5]2回合内自身攻击必定打出[color=#52a5f2]致命一击[/color]|[sprite name=dot5]2回合内对手内[color=#57c975]无法通过自身技能恢复体力[/color]|[sprite name=dot5]2回合内自身攻击技能无视对手能力提升状态|[sprite name=dot5]2回合内自身能力提升状态无法被消除|[sprite name=dot5]2回合内受到的攻击伤害减少50%|[sprite name=dot5]2回合内每回合[color=#57c975]战斗阶段结束时[/color]恢复自身400点体力",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]使用技能时[/color]，随机触发下列效果种的2项并使本次在场的触发项数+1：|[sprite name=dot5]2回合内自身攻击必定打出[color=#52a5f2]致命一击[/color]|[sprite name=dot5]2回合内对手内[color=#57c975]无法通过自身技能恢复体力[/color]|[sprite name=dot5]2回合内自身攻击技能无视对手能力提升状态|[sprite name=dot5]2回合内自身能力提升状态无法被消除|[sprite name=dot5]2回合内受到的[color=#52a5f2]攻击伤害[/color]减少50%|[sprite name=dot5]2回合内每回合[color=#57c975]战斗阶段结束时[/color]恢复自身400点体力",
         "args": "2 1 50 400 1",
         "come": "黄金圣徒伙伴效果",
         "des": [],
@@ -55312,7 +55313,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=dot4]每次在场自身的[color=#52a5f2]首次[/color]使用的攻击技能必定打出[color=#52a5f2]致命一击[/color]，在打出之前每回合[color=#57c975]战斗阶段结束时[/color]消除对手能力提升状态，消除成功则消除对手[color=#52a5f2]回合类效果[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若本次在场自身打出[color=#52a5f2]致命一击[/color]的次数高于对手则将对手所处的异常状态[color=#52a5f2][color=#52a5f2]转化[/color][/color]为2回合[color=#57c975]焚烬[/color]，若低于对手则恢复双方最大体力差值的体力，若等于对手则下回合所有[color=#52a5f2]技能先制[/color]+3",
+        "analyze": "[sprite name=dot4]每次在场自身的[color=#52a5f2]首次[/color]使用的攻击技能必定打出[color=#52a5f2]致命一击[/color]，在打出之前每回合[color=#57c975]战斗阶段结束时[/color]消除对手能力提升状态，消除成功则消除对手[color=#52a5f2]回合类效果[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若本次在场自身打出[color=#52a5f2]致命一击[/color]的次数高于对手则将对手所处的异常状态[color=#52a5f2]转化[/color]为2回合[color=#57c975]焚烬[/color]，若低于对手则恢复双方最大体力差值的体力，若等于对手则下回合所有[color=#52a5f2]技能先制[/color]+3",
         "args": "1 1",
         "come": "黄金圣徒伙伴效果",
         "des": [],
@@ -55365,7 +55366,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，自身[color=#52a5f2]当回合[/color]每有1级[color=#52a5f2]先制[/color]，下回合[color=#52a5f2]技能先制[/color]+1，最高+3；自身的[color=#52a5f2]先制[/color]高于[color=#52a5f2]对手[/color]时，自身使用攻击技能后70%令[color=#52a5f2]对手[/color][color=#57c975]冰封[/color]，若自身的[color=#52a5f2]先制[/color][color=#52a5f2]达到[/color][color=#52a5f2]对手[/color]的2倍，则改为100%且[color=#52a5f2]未触发[/color]时附加[color=#52a5f2]当回合[/color]所造成攻击伤害100%的[color=#52a5f2]百分比伤害[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，自身[color=#52a5f2]当回合[/color]每有1级[color=#52a5f2]先制[/color]，下回合[color=#52a5f2]技能先制[/color]+1，最高+3；自身的[color=#52a5f2]先制[/color]高于[color=#52a5f2]对手[/color]时，自身使用攻击技能后70%令[color=#52a5f2]对手[/color][color=#57c975]冰封[/color]，若自身的[color=#52a5f2]先制[/color][color=#52a5f2]达到[/color][color=#52a5f2]对手[/color]的2倍，则改为100%且[color=#52a5f2]未触发[/color]时附加[color=#52a5f2]当回合[/color]所造成[color=#52a5f2]攻击伤害[/color]100%的[color=#52a5f2]百分比伤害[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -55549,7 +55550,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot1][color=#57c975]回合开始时[/color]，若对手处于能力提升则[color=#52a5f2]当回合[/color]造成的攻击伤害提升100%，对手的各项能力等级存在不同时，额外使自身[color=#52a5f2]当回合[/color]必定打出[color=#52a5f2]致命一击[/color]",
+        "analyze": "[sprite name=dot1][color=#57c975]回合开始时[/color]，若对手处于能力提升则[color=#52a5f2]当回合[/color]造成的[color=#52a5f2]攻击伤害[/color]提升100%，对手的各项能力等级存在不同时，额外使自身[color=#52a5f2]当回合[/color]必定打出[color=#52a5f2]致命一击[/color]",
         "args": "0 0",
         "come": "",
         "des": [],
@@ -55575,7 +55576,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]战斗开始时，自身消耗20%的体力上限并提升自身的其他能力值等量的数值，[color=#52a5f2]然后[/color]自身记录自身的体力上限，[color=#52a5f2]之后[/color]本场战斗自身[color=#57c975]登场[/color]时，若[color=#52a5f2]对手[/color]的体力上限低于此记录值，令[color=#52a5f2]对手[/color]的体力上限增加20%并减少其他能力值等量的数值|[sprite name=dot4]自身进入[color=#52a5f2]异常状态[/color]时，若此[color=#52a5f2]异常状态[/color]位于自身[color=#52a5f2]异常状态[/color]抗性的1号位，则自身恢复所有技能PP值，若此[color=#52a5f2]异常状态[/color]位于自身[color=#52a5f2]异常状态[/color]抗性的2号位，则[color=#52a5f2]对手[/color]下回合属性[color=#52a5f2]技能无效[/color]，若此[color=#52a5f2]异常状态[/color]位于自身[color=#52a5f2]异常状态[/color]的3号位，则[color=#52a5f2]对手[/color]下回合攻击[color=#52a5f2]技能无效[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，自身恢复最大体力的1/4，上述效果每满足过1次效果提升1/4，溢出的恢复量转化为等量的临时体力上限，最高叠加至自身战斗开始时所记录数值，未溢出时下回合自身以[color=#57c975]最优系别[/color]计算受到的攻击伤害与造成的攻击伤害",
+        "analyze": "[sprite name=dot4]战斗开始时，自身消耗20%的体力上限并提升自身的其他能力值等量的数值，[color=#52a5f2]然后[/color]自身记录自身的体力上限，[color=#52a5f2]之后[/color]本场战斗自身[color=#57c975]登场[/color]时，若[color=#52a5f2]对手[/color]的体力上限低于此记录值，令[color=#52a5f2]对手[/color]的体力上限增加20%并减少其他能力值等量的数值|[sprite name=dot4]自身进入[color=#52a5f2]异常状态[/color]时，若此[color=#52a5f2]异常状态[/color]位于自身[color=#52a5f2]异常状态[/color]抗性的1号位，则自身恢复所有技能PP值，若此[color=#52a5f2]异常状态[/color]位于自身[color=#52a5f2]异常状态[/color]抗性的2号位，则[color=#52a5f2]对手[/color]下回合属性[color=#52a5f2]技能无效[/color]，若此[color=#52a5f2]异常状态[/color]位于自身[color=#52a5f2]异常状态[/color]的3号位，则[color=#52a5f2]对手[/color]下回合攻击[color=#52a5f2]技能无效[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，自身恢复最大体力的1/4，上述效果每满足过1次效果提升1/4，溢出的恢复量转化为等量的临时体力上限，最高叠加至自身战斗开始时所记录数值，未溢出时下回合自身以[color=#57c975]最优系别[/color]计算受到的[color=#52a5f2]攻击伤害[/color]与造成的[color=#52a5f2]攻击伤害[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -55601,7 +55602,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身体力不为满则[color=#52a5f2][color=#52a5f2]当回合[/color]造成的攻击伤害提升50%；[color=#57c975]战斗阶段结束时[/color]，消耗自身20%的体力值[color=#52a5f2]以[/color]恢复至[color=#52a5f2]己方[/color]不在场精灵，若消耗后自身体力低于最大体力的50%，则恢复全部体力",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身体力不为满则[color=#52a5f2]当回合[/color]造成的[color=#52a5f2]攻击伤害[/color]提升50%；[color=#57c975]战斗阶段结束时[/color]，消耗自身20%的体力值[color=#52a5f2]以[/color]恢复至[color=#52a5f2]己方[/color]不在场精灵，若消耗后自身体力低于最大体力的50%，则恢复全部体力",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -55679,7 +55680,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#57c975]登场时[/color]，获得1道[color=#f35555]神圣之霆[/color]，[color=#52a5f2]然后[/color]自身每有1层神圣之霆为对手附加1层[color=#f35555]荣光之裁[/color]、对手下1次使用攻击技能时将对手所处的异常状态[color=#52a5f2][color=#52a5f2]转化[/color][/color]为回合数三倍的[color=#57c975]麻痹[/color]、对手下1次使用属性技能时令对手[color=#57c975]麻痹[/color]一回合、对手下1个未使用技能的[color=#52a5f2]当回合[/color][/color]结束时令对手下回合攻击[color=#52a5f2]技能先制[/color]无法高于0|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身体力高于最大体力的1/2则下次攻击造成的伤害提升50%，若自身体力低于最大体力的1/2则令对手[color=#57c975]麻痹[/color]，[color=#52a5f2]然后[/color]若[color=#52a5f2]当回合(412)[/color]对手免疫过或自身受到过[color=#57c975]麻痹[/color]状态，则[color=#52a5f2]当回合结束后[/color]解除自身所处的异常状态并消除对手的[color=#52a5f2]回合类效果[/color]与能力提升状态",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]登场时[/color]，获得1道[color=#f35555]神圣之霆[/color]，[color=#52a5f2]然后[/color]自身每有1层神圣之霆为对手附加1层[color=#f35555]荣光之裁[/color]、对手下1次使用攻击技能时将对手所处的异常状态[color=#52a5f2]转化[/color]为回合数三倍的[color=#57c975]麻痹[/color]、对手下1次使用属性技能时令对手[color=#57c975]麻痹[/color]一回合、对手下1个未使用技能的[color=#52a5f2]当回合[/color]结束时令对手下回合攻击[color=#52a5f2]技能先制[/color]无法高于0|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身体力高于最大体力的1/2则下次攻击造成的伤害提升50%，若自身体力低于最大体力的1/2则令对手[color=#57c975]麻痹[/color]，[color=#52a5f2]然后[/color]若[color=#52a5f2]当回合(412)[/color]对手免疫过或自身受到过[color=#57c975]麻痹[/color]状态，则[color=#52a5f2]当回合结束后[/color]解除自身所处的异常状态并消除对手的[color=#52a5f2]回合类效果[/color]与能力提升状态",
         "args": "1 0",
         "come": "圣光格劳瑞觉醒",
         "des": [],
@@ -55755,7 +55756,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#52a5f2]回合开始[/color]时，令自身攻击、特攻+1，令对手攻击、特攻-1，若[color=#52a5f2][color=#52a5f2][color=#52a5f2]当回合[/color][/color][/color]自身未受到攻击伤害，则下回合本条效果翻倍|[sprite name=dot4]自身使用攻击技能后附加对手攻击、特攻值之和40%的[color=#52a5f2]百分比伤害[/color]，若[color=#52a5f2]技能无效[/color]则效果翻倍；自身使用属性技能后恢复自身攻击、特攻值之和40%的体力，若[color=#52a5f2]技能无效[/color]则体力的恢复改为[color=#52a5f2]吸取[/color]对手等量的体力",
+        "analyze": "[sprite name=dot4][color=#52a5f2]回合开始[/color]时，令自身攻击、特攻+1，令对手攻击、特攻-1，若[color=#52a5f2]当回合[/color]自身未受到[color=#52a5f2]攻击伤害[/color]，则下回合本条效果翻倍|[sprite name=dot4]自身使用攻击技能后附加对手攻击、特攻值之和40%的[color=#52a5f2]百分比伤害[/color]，若[color=#52a5f2]技能无效[/color]则效果翻倍；自身使用属性技能后恢复自身攻击、特攻值之和40%的体力，若[color=#52a5f2]技能无效[/color]则体力的恢复改为[color=#52a5f2]吸取[/color]对手等量的体力",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -55782,7 +55783,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身位于出战背包时，[color=#52a5f2]己方[/color]精灵的PP值被清除时为[color=#52a5f2]己方[/color]附加5回合[color=#f35555]金之肃革[/color]，[color=#52a5f2]对方[/color][color=#52a5f2]执行[/color]概率不高于50%的[color=#52a5f2]异常状态附加效果[/color]时为[color=#52a5f2]对方[/color]附加5回合[color=#f35555]木之伸曲[/color]，[color=#52a5f2]对方[/color]场下精灵指定场上精灵为效果目标时为[color=#52a5f2]对方[/color]附加5回合[color=#f35555]水之掩藏[/color]，[color=#52a5f2]己方[/color]的攻击伤害因[color=#57c975]免疫[/color]、减少归0时为[color=#52a5f2]己方[/color]附加5回合[color=#f35555]火土之烈岩[/color]|[sprite name=dot4]自身[color=#57c975]登场[/color]时触发上述效果，若场上存在[color=#f35555]五行印记[/color]则场上每增加1种消除[color=#52a5f2]对手[/color]的[color=#52a5f2]回合类效果[/color]、[color=#52a5f2]对手[/color]的[color=#52a5f2]能力提升状态[/color]、自身所处的[color=#52a5f2]异常状态[/color]中的前1项，消除成功则为[color=#52a5f2]对手[/color]附加[color=#57c975]麻痹[/color]、[color=#57c975]感染[/color]、[color=#57c975]冰封[/color]、[color=#57c975]焚烬[/color]、还有[color=#57c975]石化[/color]中的1种[color=#52a5f2]异常状态[/color]，每[color=#52a5f2]未触发[/color]1种[color=#52a5f2]异常状态[/color][color=#52a5f2]对手[/color]1回合[color=#52a5f2]技能无效[/color]，每有1项消除未成功自身恢复100点体力",
+        "analyze": "[sprite name=dot4]自身位于出战背包时，[color=#52a5f2]己方[/color]精灵的PP值被清除时为[color=#52a5f2]己方[/color]附加5回合[color=#f35555]金之肃革[/color]，[color=#52a5f2]对方[/color][color=#52a5f2]执行[/color]概率不高于50%的[color=#52a5f2]异常状态附加效果[/color]时为[color=#52a5f2]对方[/color]附加5回合[color=#f35555]木之伸曲[/color]，[color=#52a5f2]对方[/color]场下精灵指定场上精灵为效果目标时为[color=#52a5f2]对方[/color]附加5回合[color=#f35555]水之掩藏[/color]，[color=#52a5f2]己方[/color]的[color=#52a5f2]攻击伤害[/color]因[color=#57c975]免疫[/color]、减少归0时为[color=#52a5f2]己方[/color]附加5回合[color=#f35555]火土之烈岩[/color]|[sprite name=dot4]自身[color=#57c975]登场[/color]时触发上述效果，若场上存在[color=#f35555]五行印记[/color]则场上每增加1种消除[color=#52a5f2]对手[/color]的[color=#52a5f2]回合类效果[/color]、[color=#52a5f2]对手[/color]的[color=#52a5f2]能力提升状态[/color]、自身所处的[color=#52a5f2]异常状态[/color]中的前1项，消除成功则为[color=#52a5f2]对手[/color]附加[color=#57c975]麻痹[/color]、[color=#57c975]感染[/color]、[color=#57c975]冰封[/color]、[color=#57c975]焚烬[/color]、还有[color=#57c975]石化[/color]中的1种[color=#52a5f2]异常状态[/color]，每[color=#52a5f2]未触发[/color]1种[color=#52a5f2]异常状态[/color][color=#52a5f2]对手[/color]1回合[color=#52a5f2]技能无效[/color]，每有1项消除未成功自身恢复100点体力",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -55809,7 +55810,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#52a5f2]回合开始[/color]时，若自身处于控制类异常状态，则[color=#52a5f2][color=#52a5f2][color=#52a5f2]当回合[/color][/color][/color][color=#57c975]战斗阶段结束时[/color]恢复自身最大体力的1/3并消除对手的[color=#52a5f2]回合类效果[/color]，若自身处于弱化类异常状态，则[color=#52a5f2][color=#52a5f2][color=#52a5f2]当回合[/color][/color][/color]自身免疫弱化类异常状态|[sprite name=dot4]双方[color=#57c975]使用技能后[/color]，自身将场上存在的[color=#57c975]烧伤[/color][color=#52a5f2][color=#52a5f2]转化[/color][/color]为[color=#57c975]焚烬[/color]，[color=#52a5f2]然后[/color]若自身处于[color=#57c975]焚烬[/color]，则对手2回合内属性[color=#52a5f2]技能无效[/color]，若对手处于[color=#57c975]焚烬[/color]，则自身2回合内造成的攻击伤害提升100%",
+        "analyze": "[sprite name=dot4][color=#52a5f2]回合开始[/color]时，若自身处于控制类异常状态，则[color=#52a5f2]当回合[/color][color=#57c975]战斗阶段结束时[/color]恢复自身最大体力的1/3并消除对手的[color=#52a5f2]回合类效果[/color]，若自身处于弱化类异常状态，则[color=#52a5f2]当回合[/color]自身免疫弱化类异常状态|[sprite name=dot4]双方[color=#57c975]使用技能后[/color]，自身将场上存在的[color=#57c975]烧伤[/color][color=#52a5f2]转化[/color]为[color=#57c975]焚烬[/color]，[color=#52a5f2]然后[/color]若自身处于[color=#57c975]焚烬[/color]，则对手2回合内属性[color=#52a5f2]技能无效[/color]，若对手处于[color=#57c975]焚烬[/color]，则自身2回合内造成的[color=#52a5f2]攻击伤害[/color]提升100%",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -55885,7 +55886,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身处于[color=#52a5f2]能力提升状态[/color]则下回合造成的攻击伤害提升30%，若自身不处于[color=#52a5f2]能力提升状态[/color]则恢复自身最大体力的1/8；[color=#52a5f2]己方[/color]每阵亡1只精灵，前述效果提升1倍|[sprite name=dot4]自身被[color=#57c975]击败[/color]时，[color=#52a5f2]己方[/color]所有精灵恢复所有技能2点PP值与500点体力，[color=#52a5f2]己方[/color]下只[color=#52a5f2]出战[/color]的满体力的精灵1回合内[color=#57c975]免疫[/color]受到的[color=#52a5f2]异常状态[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身处于[color=#52a5f2]能力提升状态[/color]则下回合造成的[color=#52a5f2]攻击伤害[/color]提升30%，若自身不处于[color=#52a5f2]能力提升状态[/color]则恢复自身最大体力的1/8；[color=#52a5f2]己方[/color]每阵亡1只精灵，前述效果提升1倍|[sprite name=dot4]自身被[color=#57c975]击败[/color]时，[color=#52a5f2]己方[/color]所有精灵恢复所有技能2点PP值与500点体力，[color=#52a5f2]己方[/color]下只[color=#52a5f2]出战[/color]的满体力的精灵1回合内[color=#57c975]免疫[/color]受到的[color=#52a5f2]异常状态[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -55937,7 +55938,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，消除对手的能力提升状态，若消除成功则令对手[color=#57c975]烧伤[/color]，对手处于[color=#57c975]烧伤[/color]时改为50%令对手[color=#57c975]焚烬[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若对手处于[color=#57c975]烧伤[/color]，则本次在场自身造成的攻击伤害提升50%，最高150%",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，消除对手的能力提升状态，若消除成功则令对手[color=#57c975]烧伤[/color]，对手处于[color=#57c975]烧伤[/color]时改为50%令对手[color=#57c975]焚烬[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若对手处于[color=#57c975]烧伤[/color]，则本次在场自身造成的[color=#52a5f2]攻击伤害[/color]提升50%，最高150%",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -55963,7 +55964,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]双方[color=#57c975]使用技能时[/color]，令对手攻击、特攻-1，[color=#52a5f2]未触发[/color]则自身解除所处的异常状态且本场战斗自身造成的攻击伤害提升30%，最高150%|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若对手处于能力下降状态则令对手下回合属性[color=#52a5f2]技能无效[/color]，若对手不处于能力下降状态则恢复自身最大体力的1/3，每溢出10点自身下回合受到的攻击伤害减少1%且获得10点[color=#57c975]护盾[/color]，[color=#57c975]护盾[/color]存在期间自身每次[color=#57c975]受到攻击后[/color]消除对手能力提升状态",
+        "analyze": "[sprite name=dot4]双方[color=#57c975]使用技能时[/color]，令对手攻击、特攻-1，[color=#52a5f2]未触发[/color]则自身解除所处的异常状态且本场战斗自身造成的[color=#52a5f2]攻击伤害[/color]提升30%，最高150%|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若对手处于能力下降状态则令对手下回合属性[color=#52a5f2]技能无效[/color]，若对手不处于能力下降状态则恢复自身最大体力的1/3，每溢出10点自身下回合受到的[color=#52a5f2]攻击伤害[/color]减少1%且获得10点[color=#57c975]护盾[/color]，[color=#57c975]护盾[/color]存在期间自身每次[color=#57c975]受到攻击后[/color]消除对手能力提升状态",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -56068,7 +56069,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]当回合[/color]自身受到了攻击伤害则使自身全能力等级+1，若[color=#52a5f2]当回合[/color]自身未受到攻击伤害则令对手全能力等级-1；[color=#57c975]回合开始时[/color]，若自身处于能力提升状态则[color=#52a5f2]当回合[/color]100%[color=#57c975]闪避[/color]对手攻击，若对手处于能力下降状态则[color=#52a5f2]当回合[/color]攻击命中后100%令对手[color=#57c975]害怕[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]当回合[/color]自身受到了[color=#52a5f2]攻击伤害[/color]则使自身全能力等级+1，若[color=#52a5f2]当回合[/color]自身未受到[color=#52a5f2]攻击伤害[/color]则令对手全能力等级-1；[color=#57c975]回合开始时[/color]，若自身处于能力提升状态则[color=#52a5f2]当回合[/color]100%[color=#57c975]闪避[/color]对手攻击，若对手处于能力下降状态则[color=#52a5f2]当回合[/color]攻击命中后100%令对手[color=#57c975]害怕[/color]",
         "args": "6 1 6 1 100 100 1",
         "come": "",
         "des": [],
@@ -56095,7 +56096,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]对手使用属性技能时，令对手[color=#52a5f2]当回合[/color]技能PP消耗翻倍，自身使用属性技能时，[color=#52a5f2]吸取[/color]对手300点体力；[color=#57c975]战斗阶段结束时[/color]，若对手[color=#52a5f2]当回合[/color]使用了属性技能则下回合自身造成的攻击伤害提升100%，对手体力高于自身时效果提升至150%",
+        "analyze": "[sprite name=dot4]对手使用属性技能时，令对手[color=#52a5f2]当回合[/color]技能PP消耗翻倍，自身使用属性技能时，[color=#52a5f2]吸取[/color]对手300点体力；[color=#57c975]战斗阶段结束时[/color]，若对手[color=#52a5f2]当回合[/color]使用了属性技能则下回合自身造成的[color=#52a5f2]攻击伤害[/color]提升100%，对手体力高于自身时效果提升至150%",
         "args": "0 300 100 150 1",
         "come": "",
         "des": [],
@@ -56199,7 +56200,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身存活于场下时，为[color=#52a5f2]己方[/color]提供[color=#f35555]霜域血装[/color][color=#57c975]支援[/color]，自身存活于场上时，自身受到的攻击伤害、[color=#52a5f2]固定伤害[/color]减少50%|[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手处于能力提升状态则为自身附加3回合[color=#f35555]冰呪[/color]且[color=#52a5f2]当回合[/color]自身攻击将对手的能力提升效果视为能力下降效果，若对手不处于能力提升状态则[color=#52a5f2]当回合[/color]自身攻击技能造成的伤害提升50%并无视自身能力下降|[sprite name=dot4]自身被[color=#57c975]击败[/color]时，消除对手的[color=#52a5f2]回合类效果[/color]并令对手[color=#57c975]冰封[/color]，若对手不处于[color=#52a5f2]回合类效果[/color]则当回合自身死亡切换下场时为己方下只出战精灵附加3回合[color=#f35555]冰呪[/color]",
+        "analyze": "[sprite name=dot4]自身存活于场下时，为[color=#52a5f2]己方[/color]提供[color=#f35555]霜域血装[/color][color=#57c975]支援[/color]，自身存活于场上时，自身受到的[color=#52a5f2]攻击伤害[/color]、[color=#52a5f2]固定伤害[/color]减少50%|[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手处于能力提升状态则为自身附加3回合[color=#f35555]冰呪[/color]且[color=#52a5f2]当回合[/color]自身攻击将对手的能力提升效果视为能力下降效果，若对手不处于能力提升状态则[color=#52a5f2]当回合[/color]自身攻击技能造成的伤害提升50%并无视自身能力下降|[sprite name=dot4]自身被[color=#57c975]击败[/color]时，消除对手的[color=#52a5f2]回合类效果[/color]并令对手[color=#57c975]冰封[/color]，若对手不处于[color=#52a5f2]回合类效果[/color]则当回合自身死亡切换下场时为己方下只出战精灵附加3回合[color=#f35555]冰呪[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -56357,7 +56358,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身存活于场下时，[color=#52a5f2]对方[/color]每次触发概率不高于10%的抗性或[color=#52a5f2]执行[/color]概率不高于10%的通用特性时，[color=#52a5f2]对方[/color]获得1分[color=#f35555]不武[/color]；自身存活于场上时，自身攻击技能无视对手的能力等级提升，若攻击技能使用时对手不处于能力提升则下回合攻击[color=#52a5f2]技能先制[/color]+2|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身处于异常状态则2回合内受到的攻击伤害减少50%，若自身不处于异常状态则2回合内[color=#57c975]战斗阶段结束时[/color]恢复自身最大体力的30%，若场上存在[color=#f35555]武道[/color]则自身开启[color=#f35555]胜之道[/color]并减少[color=#52a5f2]对方[/color]1分[color=#f35555]不武[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]当回合[/color]双方任意一方使用了攻击技能则记录[color=#52a5f2]当回合[/color]双方造成的攻击伤害，自身下回合使用攻击技能时附加此记录50%的[color=#52a5f2]百分比伤害[/color]，此记录小于200则下回合造成的攻击伤害提升100%",
+        "analyze": "[sprite name=dot4]自身存活于场下时，[color=#52a5f2]对方[/color]每次触发概率不高于10%的抗性或[color=#52a5f2]执行[/color]概率不高于10%的通用特性时，[color=#52a5f2]对方[/color]获得1分[color=#f35555]不武[/color]；自身存活于场上时，自身攻击技能无视对手的能力等级提升，若攻击技能使用时对手不处于能力提升则下回合攻击[color=#52a5f2]技能先制[/color]+2|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身处于异常状态则2回合内受到的[color=#52a5f2]攻击伤害[/color]减少50%，若自身不处于异常状态则2回合内[color=#57c975]战斗阶段结束时[/color]恢复自身最大体力的30%，若场上存在[color=#f35555]武道[/color]则自身开启[color=#f35555]胜之道[/color]并减少[color=#52a5f2]对方[/color]1分[color=#f35555]不武[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若[color=#52a5f2]当回合[/color]双方任意一方使用了攻击技能则记录[color=#52a5f2]当回合[/color]双方造成的[color=#52a5f2]攻击伤害[/color]，自身下回合使用攻击技能时附加此记录50%的[color=#52a5f2]百分比伤害[/color]，此记录小于200则下回合造成的[color=#52a5f2]攻击伤害[/color]提升100%",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -56383,7 +56384,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手处于[color=#57c975]烧伤[/color]则[color=#52a5f2]当回合[/color]造成的攻击伤害提升100%，若对手不处于[color=#57c975]烧伤[/color]则自身[color=#52a5f2]全属性[/color]+1|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身处于能力提升，则50%令对手[color=#57c975]烧伤[/color]，[color=#52a5f2]未触发[/color]则令对手[color=#57c975]焚烬[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手处于[color=#57c975]烧伤[/color]则[color=#52a5f2]当回合[/color]造成的[color=#52a5f2]攻击伤害[/color]提升100%，若对手不处于[color=#57c975]烧伤[/color]则自身[color=#52a5f2]全属性[/color]+1|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，若自身处于能力提升，则50%令对手[color=#57c975]烧伤[/color]，[color=#52a5f2]未触发[/color]则令对手[color=#57c975]焚烬[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -56409,7 +56410,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]帝皇之戎为[color=#57c975]团体精灵[/color]；战斗开始时，若帝皇之戎为首发精灵，则帝皇之钺担任帝皇之戎的[color=#52a5f2]主位[/color]，若帝皇之戎所在的位置不为首发精灵，则帝皇之御担任帝皇之戎[color=#52a5f2]主位[/color]，[color=#52a5f2]然后[/color]未担任[color=#52a5f2]主位[/color]的一方担任[color=#52a5f2]副位[/color]|[sprite name=dot4]帝皇之钺担任[color=#52a5f2]主位[/color]时，自身攻击值提升100点、自身攻击[color=#52a5f2]技能先制[/color]+1且造成的伤害提升50%；帝皇之钺担任[color=#52a5f2]副位[/color]时，帝皇之戎每造成300点伤害，[color=#57c975]回合结束时[/color]令[color=#52a5f2]对手[/color]进入1种非限制类的控制类[color=#52a5f2]异常状态[/color]|[sprite name=dot4]帝皇之御担任[color=#52a5f2]主位[/color]时，自身速度值提升100点、自身受到攻击伤害后附加伤害值100%的[color=#52a5f2]真实伤害[/color]；帝皇之御担任[color=#52a5f2]副位[/color]时，帝皇之戎[color=#57c975]登场时[/color]，解除双方所处的[color=#52a5f2]异常状态[/color]、2回合内[color=#57c975]免疫[/color]受到的[color=#52a5f2]异常状态[/color]且所有[color=#52a5f2]技能先制[/color]+2|[sprite name=dot4]自身的[color=#52a5f2]副位[/color]没有空缺时，自身[color=#57c975]免疫[/color]受到的致命一击伤害且攻击技能无视[color=#52a5f2]对手[/color][color=#57c975]护盾[/color]效果并于命中后为[color=#52a5f2]对手[/color]附加[color=#f35555]讨[/color]，战斗中的[color=#f35555]星皇之赐[/color]、[color=#f35555]星皇之佑[/color]无法指定帝皇之戎以外的精灵为目标，且[color=#52a5f2]己方[/color]的[color=#f35555]星皇之佑[/color]回合数不会减少、[color=#f35555]星皇之赐[/color]效果翻倍",
+        "analyze": "[sprite name=dot4]帝皇之戎为[color=#57c975]团体精灵[/color]；战斗开始时，若帝皇之戎为首发精灵，则帝皇之钺担任帝皇之戎的[color=#52a5f2]主位[/color]，若帝皇之戎所在的位置不为首发精灵，则帝皇之御担任帝皇之戎[color=#52a5f2]主位[/color]，[color=#52a5f2]然后[/color]未担任[color=#52a5f2]主位[/color]的一方担任[color=#52a5f2]副位[/color]|[sprite name=dot4]帝皇之钺担任[color=#52a5f2]主位[/color]时，自身攻击值提升100点、自身攻击[color=#52a5f2]技能先制[/color]+1且造成的伤害提升50%；帝皇之钺担任[color=#52a5f2]副位[/color]时，帝皇之戎每造成300点伤害，[color=#57c975]回合结束时[/color]令[color=#52a5f2]对手[/color]进入1种非限制类的控制类[color=#52a5f2]异常状态[/color]|[sprite name=dot4]帝皇之御担任[color=#52a5f2]主位[/color]时，自身速度值提升100点、自身受到[color=#52a5f2]攻击伤害[/color]后附加伤害值100%的[color=#52a5f2]真实伤害[/color]；帝皇之御担任[color=#52a5f2]副位[/color]时，帝皇之戎[color=#57c975]登场时[/color]，解除双方所处的[color=#52a5f2]异常状态[/color]、2回合内[color=#57c975]免疫[/color]受到的[color=#52a5f2]异常状态[/color]且所有[color=#52a5f2]技能先制[/color]+2|[sprite name=dot4]自身的[color=#52a5f2]副位[/color]没有空缺时，自身[color=#57c975]免疫[/color]受到的致命一击伤害且攻击技能无视[color=#52a5f2]对手[/color][color=#57c975]护盾[/color]效果并于命中后为[color=#52a5f2]对手[/color]附加[color=#f35555]讨[/color]，战斗中的[color=#f35555]星皇之赐[/color]、[color=#f35555]星皇之佑[/color]无法指定帝皇之戎以外的精灵为目标，且[color=#52a5f2]己方[/color]的[color=#f35555]星皇之佑[/color]回合数不会减少、[color=#f35555]星皇之赐[/color]效果翻倍",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -56435,7 +56436,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身受到的攻击伤害每有自身体力值的1%此[color=#52a5f2]伤害额外减少[/color]1%，自身造成的攻击伤害每有自身体力值的1%此伤害的1%额外增加至自身体力，最高均为50%；自身因前述效果减少的伤害、增加的体力每累计[color=#52a5f2]达到[/color]500点，自身获得1面[color=#f35555]弥沦之镜[/color]；[color=#57c975]战斗阶段结束时[/color]，自身解除对手所处的附属类异常状态，自身每拥有1面[color=#f35555]弥沦之镜[/color]，则改为将对手随机1种附属类异常状态转移至自身，每转移1种自身恢复最大体力的30%与所有技能1点PP值|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身体力低于1/2则[color=#52a5f2]当回合[/color]自身[color=#52a5f2]技能先制[/color]+1且造成的攻击伤害提升100%，若自身体力高于1/2则[color=#52a5f2]当回合[/color]结束时附加对手[color=#52a5f2]当回合[/color]所[color=#52a5f2]执行[/color]过的[color=#52a5f2]异常状态附加效果[/color]对应的异常状态，附加效果[color=#52a5f2]执行[/color]后若双方所处的异常状态数量不同，则解除自身所处的异常状态，每解除1种附加2回合[color=#f35555]没夜之月[/color]",
+        "analyze": "[sprite name=dot4]自身受到的[color=#52a5f2]攻击伤害[/color]每有自身体力值的1%此[color=#52a5f2]伤害额外减少[/color]1%，自身造成的[color=#52a5f2]攻击伤害[/color]每有自身体力值的1%此伤害的1%额外增加至自身体力，最高均为50%；自身因前述效果减少的伤害、增加的体力每累计[color=#52a5f2]达到[/color]500点，自身获得1面[color=#f35555]弥沦之镜[/color]；[color=#57c975]战斗阶段结束时[/color]，自身解除对手所处的附属类异常状态，自身每拥有1面[color=#f35555]弥沦之镜[/color]，则改为将对手随机1种附属类异常状态转移至自身，每转移1种自身恢复最大体力的30%与所有技能1点PP值|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身体力低于1/2则[color=#52a5f2]当回合[/color]自身[color=#52a5f2]技能先制[/color]+1且造成的[color=#52a5f2]攻击伤害[/color]提升100%，若自身体力高于1/2则[color=#52a5f2]当回合[/color]结束时附加对手[color=#52a5f2]当回合[/color]所[color=#52a5f2]执行[/color]过的[color=#52a5f2]异常状态附加效果[/color]对应的异常状态，附加效果[color=#52a5f2]执行[/color]后若双方所处的异常状态数量不同，则解除自身所处的异常状态，每解除1种附加2回合[color=#f35555]没夜之月[/color]",
         "args": "1 0",
         "come": "柯尔霍德觉醒",
         "des": [],
@@ -56461,7 +56462,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身使用攻击技能时，自身获得速度值60%的[color=#57c975]临时体力上限[/color]，每次执行后效果提升20%，最高120%|[sprite name=dot4]自身使用攻击技能后，附加自身[color=#52a5f2]已损失体力[/color]值60%的[color=#52a5f2]百分比伤害[/color]，每次执行后效果提升20%，最高120%|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身体力为满，则[color=#52a5f2]当回合[/color]自身造成的攻击伤害提升60%，每次满足后效果提升20%，最高120%",
+        "analyze": "[sprite name=dot4]自身使用攻击技能时，自身获得速度值60%的[color=#57c975]临时体力上限[/color]，每次执行后效果提升20%，最高120%|[sprite name=dot4]自身使用攻击技能后，附加自身[color=#52a5f2]已损失体力[/color]值60%的[color=#52a5f2]百分比伤害[/color]，每次执行后效果提升20%，最高120%|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身体力为满，则[color=#52a5f2]当回合[/color]自身造成的[color=#52a5f2]攻击伤害[/color]提升60%，每次满足后效果提升20%，最高120%",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -56513,7 +56514,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]战斗开始时，己方获得[color=#f35555]起[/color]；本场战斗中，己方的[color=#f35555]起/承/转/合[/color]每转化1次，自身受到的攻击伤害减少10%|[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手拥有[color=#f35555]谋死[/color]，则[color=#52a5f2]当回合[/color]自身以自身的最优系别计算受到的攻击伤害与附加的攻击伤害，若对手没有谋死，则[color=#57c975]战斗阶段结束时[/color]消除对手的[color=#52a5f2]回合类效果[/color]，消除成功则[color=#52a5f2]反馈[/color]自身所处的[color=#57c975]异常状态[/color]",
+        "analyze": "[sprite name=dot4]战斗开始时，己方获得[color=#f35555]起[/color]；本场战斗中，己方的[color=#f35555]起/承/转/合[/color]每转化1次，自身受到的[color=#52a5f2]攻击伤害[/color]减少10%|[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手拥有[color=#f35555]谋死[/color]，则[color=#52a5f2]当回合[/color]自身以自身的最优系别计算受到的[color=#52a5f2]攻击伤害[/color]与附加的[color=#52a5f2]攻击伤害[/color]，若对手没有谋死，则[color=#57c975]战斗阶段结束时[/color]消除对手的[color=#52a5f2]回合类效果[/color]，消除成功则[color=#52a5f2]反馈[/color]自身所处的[color=#57c975]异常状态[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -56666,7 +56667,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot1]自身[color=#57c975]登场时[/color]，使自身下1次受到的攻击伤害减少41%，对手每有4100点体力，次数+1|[sprite name=dot1][color=#57c975]战斗阶段结束时[/color]，若上述伤害减少效果存在，则自身恢复410点体力",
+        "analyze": "[sprite name=dot1]自身[color=#57c975]登场时[/color]，使自身下1次受到的[color=#52a5f2]攻击伤害[/color]减少41%，对手每有4100点体力，次数+1|[sprite name=dot1][color=#57c975]战斗阶段结束时[/color]，若上述伤害减少效果存在，则自身恢复410点体力",
         "args": "0 0",
         "come": "",
         "des": [],
@@ -56692,7 +56693,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身处于异常状态，则免疫受到的攻击伤害，免疫成功则获得等量的[color=#57c975]护盾[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，恢复[color=#52a5f2]己方[/color]所有精灵41点体力",
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身处于异常状态，则免疫受到的[color=#52a5f2]攻击伤害[/color]，免疫成功则获得等量的[color=#57c975]护盾[/color]|[sprite name=dot4][color=#57c975]战斗阶段结束时[/color]，恢复[color=#52a5f2]己方[/color]所有精灵41点体力",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -56734,6 +56735,61 @@
         "effect_id": 2563,
         "icon_id": 2161,
         "id": 2161,
+        "intensify": 0,
+        "is_adv": 0,
+        "label": 0,
+        "limited_type": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]战斗开始时，[color=#52a5f2]己方[/color]获得[color=#f35555]神魂之器[/color]|[sprite name=dot4]自身为神灵系时，免疫受到的存在于[color=#f35555]神魂之器[/color]中的记录|[sprite name=dot4]自身不为神灵系时，免疫受到的[color=#52a5f2]致死伤害[/color]，触发后本次在场自身变为神灵系并移除[color=#f35555]神魂之器[/color]中的最后一项记录|[sprite name=dot4]自身存活于场下时，[color=#52a5f2]己方[/color]在场精灵附加从[color=#f35555]神魂之器[/color]移除的记录时，无视对手的对应的免疫效果与抗性提升效果|[sprite name=dot4]自身存活于场上时，自身造成的伤害视为[color=#52a5f2]致死伤害[/color]，若此伤害已为[color=#52a5f2]致死伤害[/color]，则自身免疫下1次对手的攻击|[sprite name=dot4][color=#57c975]回合开始时[/color]，[color=#52a5f2]己方[/color][color=#f35555]神魂之器[/color]每有1项记录，下回合自身前1号位的技能选择[color=#52a5f2]不受PP值限制[/color]，[color=#52a5f2]己方[/color][color=#f35555]神魂之器[/color]每被移除过1项记录，自身免疫受到的伤害后额外受到免疫量25%的[color=#52a5f2]真实伤害[/color]，最高不超过自身最大体力值的25%",
+        "args": "1 0",
+        "come": "",
+        "des": [],
+        "tag": [],
+        "tips": "战斗开始时，己方获得神魂之器|自身为神灵系时，免疫受到的存在于神魂之器中的记录|自身不为神灵系时，免疫受到的致死伤害，触发后本次在场自身变为神灵系并移除神魂之器中的最后一项记录|自身存活于场下时，己方在场精灵附加从神魂之器移除的记录时，无视对手的对应的免疫效果与抗性提升效果|自身存活于场上时，自身造成的伤害视为致死伤害，若此伤害已为致死伤害，则自身免疫下1次对手的攻击|回合开始时，己方神魂之器每有1项记录，下回合自身前1号位的技能选择不受PP值限制，己方神魂之器每被移除过1项记录，自身免疫受到的伤害后额外受到免疫量25%的真实伤害，最高不超过自身最大体力值的25%|（boss无效）",
+        "kind": [
+          6,
+          1,
+          14
+        ],
+        "pet_id": [
+          13311
+        ],
+        "specific_id": [],
+        "effect_id": 2567,
+        "icon_id": 2162,
+        "id": 2162,
+        "intensify": 0,
+        "is_adv": 0,
+        "label": 0,
+        "limited_type": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身处于能力提升状态则[color=#52a5f2]当回合[/color]免疫受到的异常状态，若自身不处于能力提升状态则[color=#52a5f2]当回合[/color]自身造成的[color=#52a5f2]攻击伤害[/color]提升50%且[color=#57c975]战斗阶段结束时[/color][color=#52a5f2]全属性[/color]+1|[sprite name=dot4]自身能力提升状态被消除时，[color=#52a5f2]吸取[/color]对手最大体力的1/3",
+        "args": "1 0",
+        "come": "",
+        "des": [],
+        "tag": [],
+        "tips": "回合开始时，若自身处于能力提升状态则当回合免疫受到的异常状态，若自身不处于能力提升状态则当回合自身造成的攻击伤害提升50%且战斗阶段结束时全属性+1|自身能力提升状态被消除时，吸取对手最大体力的1/3|（boss无效）",
+        "kind": [
+          7,
+          1,
+          11,
+          5
+        ],
+        "pet_id": [
+          4964
+        ],
+        "specific_id": [],
+        "effect_id": 2568,
+        "icon_id": 2163,
+        "id": 2163,
         "intensify": 0,
         "is_adv": 0,
         "label": 0,

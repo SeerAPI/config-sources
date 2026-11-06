@@ -4008,7 +4008,7 @@
     {
       "curr_app_do": 1,
       "id": 702,
-      "is_full_screen": 1,
+      "is_full_screen": 0,
       "module_name": "dangoActivity",
       "res_config": []
     },
@@ -5610,6 +5610,13 @@
     },
     {
       "curr_app_do": 1,
+      "id": 922,
+      "is_full_screen": 1,
+      "module_name": "templeHeroesNew",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
       "module_name": "zuma",
@@ -6831,6 +6838,97 @@
       "id": 1260,
       "is_full_screen": 1,
       "module_name": "fourSpiritsActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1300,
+      "is_full_screen": 1,
+      "module_name": "dangoActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1301,
+      "is_full_screen": 1,
+      "module_name": "dangoActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1302,
+      "is_full_screen": 0,
+      "module_name": "dangoActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1303,
+      "is_full_screen": 1,
+      "module_name": "mingwangGet",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1304,
+      "is_full_screen": 1,
+      "module_name": "minghuangxiuluo",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1305,
+      "is_full_screen": 1,
+      "module_name": "minghuangxiuluo",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1306,
+      "is_full_screen": 1,
+      "module_name": "ringgameActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1307,
+      "is_full_screen": 1,
+      "module_name": "lingshenSkinRoll",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1308,
+      "is_full_screen": 1,
+      "module_name": "somuaNewActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1309,
+      "is_full_screen": 1,
+      "module_name": "montaArtwork",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1310,
+      "is_full_screen": 1,
+      "module_name": "sglsuppanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1311,
+      "is_full_screen": 1,
+      "module_name": "lingShenSp",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1312,
+      "is_full_screen": 0,
+      "module_name": "shengguanglingshengjump",
       "res_config": []
     }
   ]

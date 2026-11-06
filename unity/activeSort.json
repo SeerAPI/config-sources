@@ -583,6 +583,26 @@
       "priority": 26,
       "truepos": 1,
       "type": 2
+    },
+    {
+      "controller": "",
+      "dest": "Somua",
+      "finishtime": "2030/12/12 10:00:00",
+      "image": "somua",
+      "name": "",
+      "statlog": "苏摩系统,主界面,点击【苏摩庄园】入口",
+      "reddotid": [
+        600000
+      ],
+      "daily_red": 0,
+      "id": 34,
+      "iosreviewshow": 0,
+      "isdeadline": 0,
+      "isshow": 1,
+      "jumptarget": 0,
+      "priority": 27,
+      "truepos": 1,
+      "type": 2
     }
   ]
 }

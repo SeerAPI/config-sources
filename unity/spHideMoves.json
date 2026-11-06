@@ -950,6 +950,56 @@
         "monster": 3432,
         "moves": 38553,
         "movetype": 1
+      },
+      {
+        "itemname": "完成能力强化",
+        "movesname": "盛凌",
+        "id": 10097,
+        "item": 0,
+        "itemnumber": 295001,
+        "monster": 3311,
+        "moves": 38633,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成能力强化",
+        "movesname": "谳世还生",
+        "id": 10098,
+        "item": 0,
+        "itemnumber": 295001,
+        "monster": 3311,
+        "moves": 29506,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成能力强化",
+        "movesname": "诸魔挽章",
+        "id": 10099,
+        "item": 0,
+        "itemnumber": 295001,
+        "monster": 3311,
+        "moves": 29507,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成能力强化",
+        "movesname": "众我的凯歌",
+        "id": 10100,
+        "item": 0,
+        "itemnumber": 295001,
+        "monster": 3311,
+        "moves": 38634,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成能力强化",
+        "movesname": "神诏之诀别",
+        "id": 10101,
+        "item": 0,
+        "itemnumber": 295001,
+        "monster": 3311,
+        "moves": 38635,
+        "movetype": 1
       }
     ],
     "sp_moves": [

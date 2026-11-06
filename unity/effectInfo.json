@@ -305,7 +305,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合自己受到特殊攻击伤害减半（boss有效）",
+        "analyze": "[sprite name=iconHit]{0}回合自己受到特殊[color=#52a5f2]攻击伤害[/color]减半（boss有效）",
         "info": "{0}回合自己受到特殊攻击伤害减半",
         "param": [],
         "args_num": 1,
@@ -359,7 +359,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合自身受到物理攻击伤害减半（boss有效）",
+        "analyze": "[sprite name=iconHit]{0}回合自身受到物理[color=#52a5f2]攻击伤害[/color]减半（boss有效）",
         "info": "{0}回合自身受到物理攻击伤害减半",
         "param": [],
         "args_num": 1,
@@ -386,7 +386,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合攻击伤害是正常状态下的{1}倍（boss有效）",
+        "analyze": "[sprite name=iconHit]{0}回合[color=#52a5f2]攻击伤害[/color]是正常状态下的{1}倍（boss有效）",
         "info": "{0}回合攻击伤害是正常状态下的{1}倍",
         "param": [],
         "args_num": 2,
@@ -395,7 +395,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合使对方攻击伤害是正常状态下的1/{1}倍（boss有效）",
+        "analyze": "[sprite name=iconHit]{0}回合使对方[color=#52a5f2]攻击伤害[/color]是正常状态下的1/{1}倍（boss有效）",
         "info": "{0}回合使对方攻击伤害是正常状态下的1/{1}倍",
         "param": [],
         "args_num": 2,
@@ -1096,7 +1096,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内将受到的攻击伤害[color=#52a5f2]转化[/color]为自身体力（boss有效）",
+        "analyze": "[sprite name=iconHit]{0}回合内将受到的[color=#52a5f2]攻击伤害[/color][color=#52a5f2]转化[/color]为自身体力（boss有效）",
         "info": "{0}回合内将受到的攻击伤害转化为自身体力",
         "param": [],
         "args_num": 1,
@@ -2453,7 +2453,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit]若先出手则造成攻击伤害的{0}%恢复自身体力（boss有效）",
+        "analyze": "[sprite name=iconHit]若先出手则造成[color=#52a5f2]攻击伤害[/color]的{0}%恢复自身体力（boss有效）",
         "info": "若先出手则造成攻击伤害的{0}%恢复自身体力",
         "param": [],
         "args_num": 1,
@@ -3282,7 +3282,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害若低于{0}则恢复自身{1}点体力（boss有效）",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]若低于{0}则恢复自身{1}点体力（boss有效）",
         "info": "造成的攻击伤害若低于{0}则恢复自身{1}点体力",
         "param": [],
         "args_num": 2,
@@ -3519,7 +3519,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]命中后{0}回合内若对手受到攻击伤害则100%[color=#57c975]烧伤[/color]（boss有效）",
+        "analyze": "[sprite name=iconHit]命中后{0}回合内若对手受到[color=#52a5f2]攻击伤害[/color]则100%[color=#57c975]烧伤[/color]（boss有效）",
         "info": "命中后{0}回合内若对手受到攻击伤害则100%烧伤",
         "param": [],
         "args_num": 1,
@@ -3638,7 +3638,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内免疫低于{1}的攻击伤害（boss有效）",
+        "analyze": "[sprite name=iconHit]{0}回合内免疫低于{1}的[color=#52a5f2]攻击伤害[/color]（boss有效）",
         "info": "{0}回合内免疫低于{1}的攻击伤害",
         "param": [],
         "args_num": 2,
@@ -3678,7 +3678,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内自身受到直接攻击伤害的{1}%反馈给对手（boss有效）",
+        "analyze": "[sprite name=iconHit]{0}回合内自身受到直接[color=#52a5f2]攻击伤害[/color]的{1}%反馈给对手（boss有效）",
         "info": "{0}回合内自身受到直接攻击伤害的{1}%反馈给对手",
         "param": [],
         "args_num": 2,
@@ -4586,7 +4586,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]下次受到攻击伤害后于对手出手流程结束反馈伤害值{0}%的[color=#52a5f2]百分比伤害[/color]（boss有效）",
+        "analyze": "[sprite name=iconHit]下次受到[color=#52a5f2]攻击伤害[/color]后于对手出手流程结束反馈伤害值{0}%的[color=#52a5f2]百分比伤害[/color]（boss有效）",
         "info": "下次受到攻击伤害后于对手出手流程结束反馈伤害值{0}%的百分比伤害",
         "param": [],
         "args_num": 1,
@@ -4656,7 +4656,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]若先出手则[color=#52a5f2]当回合[/color]对手无法造成攻击伤害",
+        "analyze": "[sprite name=iconHit]若先出手则[color=#52a5f2]当回合[/color]对手无法造成[color=#52a5f2]攻击伤害[/color]",
         "info": "若先出手则当回合对手无法造成攻击伤害",
         "param": [],
         "args_num": 0,
@@ -5419,7 +5419,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内免疫大于{1}的攻击伤害",
+        "analyze": "[sprite name=iconHit]{0}回合内免疫大于{1}的[color=#52a5f2]攻击伤害[/color]",
         "info": "{0}回合内免疫大于{1}的攻击伤害",
         "param": [],
         "args_num": 2,
@@ -5686,7 +5686,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]消除对手能力提升状态，消除成功则{0}回合内对手造成的攻击伤害不超过{1}点（boss有效）",
+        "analyze": "[sprite name=iconHit]消除对手能力提升状态，消除成功则{0}回合内对手造成的[color=#52a5f2]攻击伤害[/color]不超过{1}点（boss有效）",
         "info": "消除对手能力提升状态，消除成功则{0}回合内对手造成的攻击伤害不超过{1}点",
         "param": [],
         "args_num": 2,
@@ -5776,7 +5776,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]下{0}回合自身造成的攻击伤害翻倍（boss有效）",
+        "analyze": "[sprite name=iconHit]下{0}回合自身造成的[color=#52a5f2]攻击伤害[/color]翻倍（boss有效）",
         "info": "下{0}回合自身造成的攻击伤害翻倍",
         "param": [],
         "args_num": 1,
@@ -5942,7 +5942,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]消除对手能力提升，消除成功可以抵挡{0}回合内对手的攻击伤害",
+        "analyze": "[sprite name=iconHit]消除对手能力提升，消除成功可以抵挡{0}回合内对手的[color=#52a5f2]攻击伤害[/color]",
         "info": "消除对手能力提升，消除成功可以抵挡{0}回合内对手的攻击伤害",
         "param": [],
         "args_num": 1,
@@ -6171,7 +6171,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]出手时本回合若未受到攻击伤害，则附加自身{0}值{1}%的[color=#52a5f2]百分比伤害[/color]，并恢复等量体力（boss有效）",
+        "analyze": "[sprite name=iconHit]出手时本回合若未受到[color=#52a5f2]攻击伤害[/color]，则附加自身{0}值{1}%的[color=#52a5f2]百分比伤害[/color]，并恢复等量体力（boss有效）",
         "info": "出手时本回合若未受到攻击伤害，则附加自身{0}值{1}%的百分比伤害，并恢复等量体力",
         "param": [
           2,
@@ -6251,7 +6251,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]消除对手能力提升状态，消除成功则令自身下{0}回合必定先出手且下{1}回合造成的攻击伤害翻倍（boss有效）",
+        "analyze": "[sprite name=iconHit]消除对手能力提升状态，消除成功则令自身下{0}回合必定先出手且下{1}回合造成的[color=#52a5f2]攻击伤害[/color]翻倍（boss有效）",
         "info": "消除对手能力提升状态，消除成功则令自身下{0}回合必定先出手且下{1}回合造成的攻击伤害翻倍",
         "param": [],
         "args_num": 2,
@@ -6449,7 +6449,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内每回合有{1}%的概率免疫[color=#52a5f2]当回合[/color]受到的攻击伤害（boss有效）",
+        "analyze": "[sprite name=iconHit]{0}回合内每回合有{1}%的概率免疫[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]攻击伤害[/color]（boss有效）",
         "info": "{0}回合内每回合有{1}%的概率免疫当回合受到的攻击伤害",
         "param": [],
         "args_num": 2,
@@ -7120,7 +7120,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}%概率造成的攻击伤害为{1}倍，[color=#52a5f2]未触发[/color]则{2}回合内令对手使用的属性技能无效",
+        "analyze": "[sprite name=iconHit]{0}%概率造成的[color=#52a5f2]攻击伤害[/color]为{1}倍，[color=#52a5f2]未触发[/color]则{2}回合内令对手使用的属性技能无效",
         "info": "{0}%概率造成的攻击伤害为{1}倍，未触发则{2}回合内令对手使用的属性技能无效",
         "param": [],
         "args_num": 3,
@@ -7520,7 +7520,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]反转自身能力下降（boss有效），反转成功则自身下{0}回合免疫攻击伤害",
+        "analyze": "[sprite name=iconHit]反转自身能力下降（boss有效），反转成功则自身下{0}回合免疫[color=#52a5f2]攻击伤害[/color]",
         "info": "反转自身能力下降，反转成功则自身下{0}回合免疫攻击伤害",
         "param": [],
         "args_num": 1,
@@ -7627,7 +7627,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]出手时若自身体力低于对手，则免疫下{0}次受到的攻击伤害",
+        "analyze": "[sprite name=iconHit]出手时若自身体力低于对手，则免疫下{0}次受到的[color=#52a5f2]攻击伤害[/color]",
         "info": "出手时若自身体力低于对手，则免疫下{0}次受到的攻击伤害",
         "param": [],
         "args_num": 1,
@@ -8082,7 +8082,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害若高于{0}则令对手{1}回合内使用的属性技能无效（boss有效）",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]若高于{0}则令对手{1}回合内使用的属性技能无效（boss有效）",
         "info": "造成的攻击伤害若高于{0}则令对手{1}回合内使用的属性技能无效",
         "param": [],
         "args_num": 2,
@@ -8127,7 +8127,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内{1}%的概率免疫对手攻击伤害，[color=#52a5f2]未触发[/color]则[color=#57c975]回合结束时[/color]附加{2}%伤害量的[color=#52a5f2]百分比伤害[/color]",
+        "analyze": "[sprite name=iconHit]{0}回合内{1}%的概率免疫对手[color=#52a5f2]攻击伤害[/color]，[color=#52a5f2]未触发[/color]则[color=#57c975]回合结束时[/color]附加{2}%伤害量的[color=#52a5f2]百分比伤害[/color]",
         "info": "{0}回合内{1}%的概率免疫对手攻击伤害，未触发则回合结束时附加{2}%伤害量的百分比伤害",
         "param": [],
         "args_num": 3,
@@ -8229,7 +8229,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]（boss有效），消除成功则免疫下{0}回合受到的攻击伤害",
+        "analyze": "[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]（boss有效），消除成功则免疫下{0}回合受到的[color=#52a5f2]攻击伤害[/color]",
         "info": "消除对手回合类效果，消除成功则免疫下{0}回合受到的攻击伤害",
         "param": [],
         "args_num": 1,
@@ -8303,7 +8303,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害若低于{0}则令对手下{1}次使用的攻击技能无效",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]若低于{0}则令对手下{1}次使用的攻击技能无效",
         "info": "造成的攻击伤害若低于{0}则令对手下{1}次使用的攻击技能无效",
         "param": [],
         "args_num": 2,
@@ -8485,7 +8485,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]消耗自身全部体力，{0}%随机附加{1}种控制类异常状态，[color=#52a5f2]己方[/color]下只出场精灵{2}回合内攻击伤害提升{3}%且[color=#52a5f2]先制[/color]+{4}",
+        "analyze": "[sprite name=iconHit]消耗自身全部体力，{0}%随机附加{1}种控制类异常状态，[color=#52a5f2]己方[/color]下只出场精灵{2}回合内[color=#52a5f2]攻击伤害[/color]提升{3}%且[color=#52a5f2]先制[/color]+{4}",
         "info": "消耗自身全部体力，{0}%随机附加{1}种控制类异常状态，己方下只出场精灵{2}回合内攻击伤害提升{3}%且先制+{4}",
         "param": [],
         "args_num": 5,
@@ -8761,7 +8761,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害高于{0}则[color=#52a5f2]吸取[/color]对手最大体力的1/{1}",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]高于{0}则[color=#52a5f2]吸取[/color]对手最大体力的1/{1}",
         "info": "造成的攻击伤害高于{0}则吸取对手最大体力的1/{1}",
         "param": [],
         "args_num": 2,
@@ -8837,7 +8837,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2]全属性[/color]+1，自身当前体力低于最大体力的1/2时强化效果翻倍（boss有效）；4回合内每回合使用技能[color=#52a5f2]吸取[/color]对手最大体力的1/3，[color=#52a5f2]吸取[/color]体力时若自身体力低于最大体力的1/2则[color=#52a5f2]吸取[/color]效果翻倍；自身下2次使用技能触发[color=#f35555]星皇之怒[/color]的概率翻倍（boss有效）;技能结束后对手体力值高于0，则50%进行一次[color=#52a5f2]额外行动[/color][color=#52a5f2]以[/color]触发[color=#f35555]星皇之怒[/color]（boss有效）（[color=#f35555]星皇之怒[/color]：下2回合自身造成的攻击伤害翻倍；下2次自身受到的攻击[color=#52a5f2]伤害额外减少[/color]50%）",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]全属性[/color]+1，自身当前体力低于最大体力的1/2时强化效果翻倍（boss有效）；4回合内每回合使用技能[color=#52a5f2]吸取[/color]对手最大体力的1/3，[color=#52a5f2]吸取[/color]体力时若自身体力低于最大体力的1/2则[color=#52a5f2]吸取[/color]效果翻倍；自身下2次使用技能触发[color=#f35555]星皇之怒[/color]的概率翻倍（boss有效）;技能结束后对手体力值高于0，则50%进行一次[color=#52a5f2]额外行动[/color][color=#52a5f2]以[/color]触发[color=#f35555]星皇之怒[/color]（boss有效）（[color=#f35555]星皇之怒[/color]：下2回合自身造成的[color=#52a5f2]攻击伤害[/color]翻倍；下2次自身受到的攻击[color=#52a5f2]伤害额外减少[/color]50%）",
         "info": "全属性+1，自身当前体力低于最大体力的1/2时强化效果翻倍；4回合内每回合使用技能吸取对手最大体力的1/3，吸取体力时若自身体力低于最大体力的1/2则吸取效果翻倍；自身下2次使用技能触发星皇之怒的概率翻倍;技能结束后对手体力值高于0，则50%进行一次额外行动以触发星皇之怒（星皇之怒：下2回合自身造成的攻击伤害翻倍；下2次自身受到的攻击伤害额外减少50%）",
         "param": [],
         "args_num": 0,
@@ -8846,7 +8846,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害若低于280则令对手[color=#57c975]疲惫[/color]；未[color=#57c975]击败[/color]对手则令对手下1回合使用的攻击技能无效;技能结束后对手体力值高于0，则50%进行一次[color=#52a5f2]额外行动[/color][color=#52a5f2]以[/color]触发[color=#f35555]星皇之怒[/color]（boss有效）（[color=#f35555]星皇之怒[/color]：50%令对手[color=#57c975]失明[/color]，[color=#52a5f2]未触发[/color]则2回合内令对手使用的属性技能无效）",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]若低于280则令对手[color=#57c975]疲惫[/color]；未[color=#57c975]击败[/color]对手则令对手下1回合使用的攻击技能无效;技能结束后对手体力值高于0，则50%进行一次[color=#52a5f2]额外行动[/color][color=#52a5f2]以[/color]触发[color=#f35555]星皇之怒[/color]（boss有效）（[color=#f35555]星皇之怒[/color]：50%令对手[color=#57c975]失明[/color]，[color=#52a5f2]未触发[/color]则2回合内令对手使用的属性技能无效）",
         "info": "造成的攻击伤害若低于280则令对手疲惫；未击败对手则令对手下1回合使用的攻击技能无效;技能结束后对手体力值高于0，则50%进行一次额外行动以触发星皇之怒（星皇之怒：50%令对手失明，未触发则2回合内令对手使用的属性技能无效）",
         "param": [],
         "args_num": 0,
@@ -8931,7 +8931,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2]当回合[/color]造成的攻击伤害若高于{0}则{1}%令对手[color=#57c975]{2}[/color]",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]当回合[/color]造成的[color=#52a5f2]攻击伤害[/color]若高于{0}则{1}%令对手[color=#57c975]{2}[/color]",
         "info": "当回合造成的攻击伤害若高于{0}则{1}%令对手{2}",
         "param": [
           1,
@@ -9359,7 +9359,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]若先出手则将本回合受到的攻击伤害{0}%反馈给对手（双方同时死亡时对手残留1点体力）",
+        "analyze": "[sprite name=iconHit]若先出手则将本回合受到的[color=#52a5f2]攻击伤害[/color]{0}%反馈给对手（双方同时死亡时对手残留1点体力）",
         "info": "若先出手则将本回合受到的攻击伤害{0}%反馈给对手（双方同时死亡时对手残留1点体力）",
         "param": [],
         "args_num": 1,
@@ -9484,7 +9484,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内自身技能额外{1}%概率令对手[color=#57c975]{2}[/color]，[color=#52a5f2]未触发[/color][color=#57c975]{3}[/color]则自身下{4}次受到的攻击伤害减少{5}点",
+        "analyze": "[sprite name=iconHit]{0}回合内自身技能额外{1}%概率令对手[color=#57c975]{2}[/color]，[color=#52a5f2]未触发[/color][color=#57c975]{3}[/color]则自身下{4}次受到的[color=#52a5f2]攻击伤害[/color]减少{5}点",
         "info": "{0}回合内自身技能额外{1}%概率令对手{2}，未触发{3}则自身下{4}次受到的攻击伤害减少{5}点",
         "param": [
           1,
@@ -9883,7 +9883,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的伤害低于{0}则自身下{1}次受到的攻击伤害降低{2}点（boss有效）",
+        "analyze": "[sprite name=iconHit]造成的伤害低于{0}则自身下{1}次受到的[color=#52a5f2]攻击伤害[/color]降低{2}点（boss有效）",
         "info": "造成的伤害低于{0}则自身下{1}次受到的攻击伤害降低{2}点",
         "param": [],
         "args_num": 3,
@@ -10076,7 +10076,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害若高于{0}则令自身下{1}回合所有[color=#52a5f2]技能先制[/color]+{2}",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]若高于{0}则令自身下{1}回合所有[color=#52a5f2]技能先制[/color]+{2}",
         "info": "造成的攻击伤害若高于{0}则令自身下{1}回合所有技能先制+{2}",
         "param": [],
         "args_num": 3,
@@ -10103,7 +10103,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内受到攻击伤害降低{1}点，[color=#57c975]回合结束时[/color]若[color=#52a5f2]当回合[/color]未受到攻击伤害则[color=#52a5f2]吸取[/color]对手{2}点体力（boss有效）",
+        "analyze": "[sprite name=iconHit]{0}回合内受到[color=#52a5f2]攻击伤害[/color]降低{1}点，[color=#57c975]回合结束时[/color]若[color=#52a5f2]当回合[/color]未受到[color=#52a5f2]攻击伤害[/color]则[color=#52a5f2]吸取[/color]对手{2}点体力（boss有效）",
         "info": "{0}回合内受到攻击伤害降低{1}点，回合结束时若当回合未受到攻击伤害则吸取对手{2}点体力",
         "param": [],
         "args_num": 3,
@@ -10415,7 +10415,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害若高于{0}则自身免疫下{1}次受到的异常状态（boss有效）",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]若高于{0}则自身免疫下{1}次受到的异常状态（boss有效）",
         "info": "造成的攻击伤害若高于{0}则自身免疫下{1}次受到的异常状态",
         "param": [],
         "args_num": 2,
@@ -10424,7 +10424,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内有{1}%概率免疫对手攻击伤害，[color=#52a5f2]未触发[/color]则对手{2}",
+        "analyze": "[sprite name=iconHit]{0}回合内有{1}%概率免疫对手[color=#52a5f2]攻击伤害[/color]，[color=#52a5f2]未触发[/color]则对手{2}",
         "info": "{0}回合内有{1}%概率免疫对手攻击伤害，未触发则对手{2}",
         "param": [
           0,
@@ -10482,7 +10482,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]下{0}次受到的攻击伤害减少{1}%（boss有效）",
+        "analyze": "[sprite name=iconHit]下{0}次受到的[color=#52a5f2]攻击伤害[/color]减少{1}%（boss有效）",
         "info": "下{0}次受到的攻击伤害减少{1}%",
         "param": [],
         "args_num": 2,
@@ -10614,7 +10614,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，[color=#52a5f2]未触发[/color]则免疫下{2}次受到的攻击伤害并[color=#52a5f2]反弹[/color]等量的[color=#52a5f2]固定伤害[/color]",
+        "analyze": "[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，[color=#52a5f2]未触发[/color]则免疫下{2}次受到的[color=#52a5f2]攻击伤害[/color]并[color=#52a5f2]反弹[/color]等量的[color=#52a5f2]固定伤害[/color]",
         "info": "{0}%令对手{1}，未触发则免疫下{2}次受到的攻击伤害并反弹等量的固定伤害",
         "param": [
           1,
@@ -10699,7 +10699,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2]吸取[/color]对手能力提升，[color=#52a5f2]吸取[/color]成功则下{0}次受到的攻击伤害减少{1}%（boss有效）",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]吸取[/color]对手能力提升，[color=#52a5f2]吸取[/color]成功则下{0}次受到的[color=#52a5f2]攻击伤害[/color]减少{1}%（boss有效）",
         "info": "吸取对手能力提升，吸取成功则下{0}次受到的攻击伤害减少{1}%",
         "param": [],
         "args_num": 2,
@@ -10815,7 +10815,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]3回合内每次对手造成的攻击伤害低于300则减少对手所有不在场精灵100点体力，每次对手使用属性技能则恢复[color=#52a5f2]己方[/color]所有不在场精灵100点体力，使对手不在场精灵死亡时令其残留1点体力",
+        "analyze": "[sprite name=iconHit]3回合内每次对手造成的[color=#52a5f2]攻击伤害[/color]低于300则减少对手所有不在场精灵100点体力，每次对手使用属性技能则恢复[color=#52a5f2]己方[/color]所有不在场精灵100点体力，使对手不在场精灵死亡时令其残留1点体力",
         "info": "3回合内每次对手造成的攻击伤害低于300则减少对手所有不在场精灵100点体力，每次对手使用属性技能则恢复己方所有不在场精灵100点体力，使对手不在场精灵死亡时令其残留1点体力",
         "param": [],
         "args_num": 0,
@@ -10824,7 +10824,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内受到的攻击伤害减少{1}%，受到的伤害高于{2}时随机附加{3}种异常状态，[color=#52a5f2]未触发[/color]则消除对手[color=#52a5f2]回合类效果[/color]",
+        "analyze": "[sprite name=iconHit]{0}回合内受到的[color=#52a5f2]攻击伤害[/color]减少{1}%，受到的伤害高于{2}时随机附加{3}种异常状态，[color=#52a5f2]未触发[/color]则消除对手[color=#52a5f2]回合类效果[/color]",
         "info": "{0}回合内受到的攻击伤害减少{1}%，受到的伤害高于{2}时随机附加{3}种异常状态，未触发则消除对手回合类效果",
         "param": [],
         "args_num": 4,
@@ -10887,16 +10887,16 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]未[color=#57c975]击败[/color]对手则恢复[color=#52a5f2]己方[/color]所有不在场精灵100点体力（boss有效）",
-        "info": "未击败对手则恢复己方所有不在场精灵100点体力",
+        "analyze": "[sprite name=iconHit]未[color=#57c975]击败[/color]对手则恢复[color=#52a5f2]己方[/color]所有不在场精灵{0}点体力（boss有效）",
+        "info": "未击败对手则恢复己方所有不在场精灵{0}点体力",
         "param": [],
-        "args_num": 0,
+        "args_num": 1,
         "id": 1307,
         "key": "",
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手则自身下1次[color=#57c975][color=#57c975]登场[/color]时[/color]帝君之罚和帝君之赐效果不会削弱",
+        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手则自身下1次[color=#57c975]登场时[/color]帝君之罚和帝君之赐效果不会削弱",
         "info": "击败对手则自身下1次登场时帝君之罚和帝君之赐效果不会削弱",
         "param": [],
         "args_num": 0,
@@ -10950,7 +10950,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]令自身下{0}次受到的攻击伤害[color=#52a5f2]转化[/color]为体力（boss有效）",
+        "analyze": "[sprite name=iconHit]令自身下{0}次受到的[color=#52a5f2]攻击伤害[/color][color=#52a5f2]转化[/color]为体力（boss有效）",
         "info": "令自身下{0}次受到的攻击伤害转化为体力",
         "param": [],
         "args_num": 1,
@@ -11476,7 +11476,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]附加攻击伤害{0}%的[color=#52a5f2]百分比伤害[/color]，每次使用增加{1}%，最高{2}%（boss有效）",
+        "analyze": "[sprite name=iconHit]附加[color=#52a5f2]攻击伤害[/color]{0}%的[color=#52a5f2]百分比伤害[/color]，每次使用增加{1}%，最高{2}%（boss有效）",
         "info": "附加攻击伤害{0}%的百分比伤害，每次使用增加{1}%，最高{2}%",
         "param": [],
         "args_num": 3,
@@ -11503,7 +11503,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内每回合{1}%令对手使用的攻击技能无效，[color=#52a5f2]未触发[/color]则[color=#52a5f2]当回合[/color]受到的攻击伤害减少{2}%",
+        "analyze": "[sprite name=iconHit]{0}回合内每回合{1}%令对手使用的攻击技能无效，[color=#52a5f2]未触发[/color]则[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]攻击伤害[/color]减少{2}%",
         "info": "{0}回合内每回合{1}%令对手使用的攻击技能无效，未触发则当回合受到的攻击伤害减少{2}%",
         "param": [],
         "args_num": 3,
@@ -12022,7 +12022,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2]当回合[/color]打出的攻击伤害在{0}—{1}之间则{2}%令对手[color=#57c975]{3}[/color]（boss有效）",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]当回合[/color]打出的[color=#52a5f2]攻击伤害[/color]在{0}—{1}之间则{2}%令对手[color=#57c975]{3}[/color]（boss有效）",
         "info": "当回合打出的攻击伤害在{0}—{1}之间则{2}%令对手{3}",
         "param": [
           1,
@@ -12174,7 +12174,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]“[color=#f35555]辛[/color]”死亡后令自身下1次受到的攻击伤害减少50%（boss有效）",
+        "analyze": "[sprite name=iconHit]“[color=#f35555]辛[/color]”死亡后令自身下1次受到的[color=#52a5f2]攻击伤害[/color]减少50%（boss有效）",
         "info": "“辛”死亡后令自身下1次受到的攻击伤害减少50%",
         "param": [],
         "args_num": 0,
@@ -12201,7 +12201,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]“[color=#f35555]辛[/color]”存活时造成攻击伤害的50%恢复自身体力，“[color=#f35555]辛[/color]”死亡后造成的攻击[color=#52a5f2]伤害额外提升[/color]50%（boss有效）",
+        "analyze": "[sprite name=iconHit]“[color=#f35555]辛[/color]”存活时造成[color=#52a5f2]攻击伤害[/color]的50%恢复自身体力，“[color=#f35555]辛[/color]”死亡后造成的攻击[color=#52a5f2]伤害额外提升[/color]50%（boss有效）",
         "info": "“辛”存活时造成攻击伤害的50%恢复自身体力，“辛”死亡后造成的攻击伤害额外提升50%",
         "param": [],
         "args_num": 0,
@@ -12380,7 +12380,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]消耗自身全部体力，使对手受到自身最大体力1/{0}的[color=#52a5f2]百分比伤害[/color]，同时使自身下只出场精灵前{1}回合免疫受到的攻击伤害",
+        "analyze": "[sprite name=iconHit]消耗自身全部体力，使对手受到自身最大体力1/{0}的[color=#52a5f2]百分比伤害[/color]，同时使自身下只出场精灵前{1}回合免疫受到的[color=#52a5f2]攻击伤害[/color]",
         "info": "消耗自身全部体力，使对手受到自身最大体力1/{0}的百分比伤害，同时使自身下只出场精灵前{1}回合免疫受到的攻击伤害",
         "param": [],
         "args_num": 2,
@@ -12932,7 +12932,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]先出手时免疫[color=#52a5f2]当回合[/color]受到的攻击伤害，若对手为自身天敌则免疫并[color=#52a5f2]反弹[/color]给对手造成伤害值{0}%的[color=#52a5f2]百分比伤害[/color]",
+        "analyze": "[sprite name=iconHit]先出手时免疫[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]攻击伤害[/color]，若对手为自身天敌则免疫并[color=#52a5f2]反弹[/color]给对手造成伤害值{0}%的[color=#52a5f2]百分比伤害[/color]",
         "info": "先出手时免疫当回合受到的攻击伤害，若对手为自身天敌则免疫并反弹给对手造成伤害值{0}%的百分比伤害",
         "param": [],
         "args_num": 1,
@@ -12972,7 +12972,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手体力上限高于{0}则造成的攻击伤害提升{1}%，对手体力上限低于{2}则附加自身{3}值{4}%的[color=#52a5f2]百分比伤害[/color]（boss有效）",
+        "analyze": "[sprite name=iconHit]对手体力上限高于{0}则造成的[color=#52a5f2]攻击伤害[/color]提升{1}%，对手体力上限低于{2}则附加自身{3}值{4}%的[color=#52a5f2]百分比伤害[/color]（boss有效）",
         "info": "对手体力上限高于{0}则造成的攻击伤害提升{1}%，对手体力上限低于{2}则附加自身{3}值{4}%的百分比伤害",
         "param": [
           2,
@@ -13066,7 +13066,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}%的概率造成的攻击伤害提升{1}%，若出手时自身为满体力则概率翻倍（boss有效）",
+        "analyze": "[sprite name=iconHit]{0}%的概率造成的[color=#52a5f2]攻击伤害[/color]提升{1}%，若出手时自身为满体力则概率翻倍（boss有效）",
         "info": "{0}%的概率造成的攻击伤害提升{1}%，若出手时自身为满体力则概率翻倍",
         "param": [],
         "args_num": 2,
@@ -13142,7 +13142,7 @@
         "type": 3
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害低于{0}时附加大量[color=#52a5f2]真实伤害[/color]（boss有效）",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]低于{0}时附加大量[color=#52a5f2]真实伤害[/color]（boss有效）",
         "info": "造成的攻击伤害低于{0}时附加大量真实伤害",
         "param": [],
         "args_num": 1,
@@ -13379,7 +13379,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]下{0}回合若打出[color=#52a5f2]致命一击[/color]则造成的攻击伤害提升{1}%",
+        "analyze": "[sprite name=iconHit]下{0}回合若打出[color=#52a5f2]致命一击[/color]则造成的[color=#52a5f2]攻击伤害[/color]提升{1}%",
         "info": "下{0}回合若打出致命一击则造成的攻击伤害提升{1}%",
         "param": [],
         "args_num": 2,
@@ -13532,7 +13532,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身为圣念状态时下2回合受到的攻击伤害减少50%，自身为邪念状态时下2回合造成的攻击伤害提升50%",
+        "analyze": "[sprite name=iconHit]自身为圣念状态时下2回合受到的[color=#52a5f2]攻击伤害[/color]减少50%，自身为邪念状态时下2回合造成的[color=#52a5f2]攻击伤害[/color]提升50%",
         "info": "自身为圣念状态时下2回合受到的攻击伤害减少50%，自身为邪念状态时下2回合造成的攻击伤害提升50%",
         "param": [],
         "args_num": 0,
@@ -13642,7 +13642,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]出手时若自身未满体力则下回合自身受到的攻击伤害减少{0}%",
+        "analyze": "[sprite name=iconHit]出手时若自身未满体力则下回合自身受到的[color=#52a5f2]攻击伤害[/color]减少{0}%",
         "info": "出手时若自身未满体力则下回合自身受到的攻击伤害减少{0}%",
         "param": [],
         "args_num": 1,
@@ -13816,7 +13816,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]命中后附加自身最大体力{0}%的[color=#52a5f2]百分比伤害[/color]，若打出的攻击伤害为奇数则额外恢复等量体力值",
+        "analyze": "[sprite name=iconHit]命中后附加自身最大体力{0}%的[color=#52a5f2]百分比伤害[/color]，若打出的[color=#52a5f2]攻击伤害[/color]为奇数则额外恢复等量体力值",
         "info": "命中后附加自身最大体力{0}%的百分比伤害，若打出的攻击伤害为奇数则额外恢复等量体力值",
         "param": [],
         "args_num": 1,
@@ -14012,7 +14012,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内每回合{1}%对手属性技能无效，[color=#52a5f2]未触发[/color]则下{2}次受到的攻击伤害减少{3}%（boss有效）",
+        "analyze": "[sprite name=iconHit]{0}回合内每回合{1}%对手属性技能无效，[color=#52a5f2]未触发[/color]则下{2}次受到的[color=#52a5f2]攻击伤害[/color]减少{3}%（boss有效）",
         "info": "{0}回合内每回合{1}%对手属性技能无效，未触发则下{2}次受到的攻击伤害减少{3}%",
         "param": [],
         "args_num": 4,
@@ -14108,7 +14108,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内每回合若自身未受到攻击伤害则[color=#57c975]回合结束后[/color]附加对手最大体力1/{1}的[color=#52a5f2]百分比伤害[/color]（自身体力为0时也可触发）",
+        "analyze": "[sprite name=iconHit]{0}回合内每回合若自身未受到[color=#52a5f2]攻击伤害[/color]则[color=#57c975]回合结束后[/color]附加对手最大体力1/{1}的[color=#52a5f2]百分比伤害[/color]（自身体力为0时也可触发）",
         "info": "{0}回合内每回合若自身未受到攻击伤害则回合结束后附加对手最大体力1/{1}的百分比伤害（自身体力为0时也可触发）",
         "param": [],
         "args_num": 2,
@@ -14175,7 +14175,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内若自身未受到攻击伤害则令对手[color=#52a5f2]全属性[/color]-{1}",
+        "analyze": "[sprite name=iconHit]{0}回合内若自身未受到[color=#52a5f2]攻击伤害[/color]则令对手[color=#52a5f2]全属性[/color]-{1}",
         "info": "{0}回合内若自身未受到攻击伤害则令对手全属性-{1}",
         "param": [],
         "args_num": 2,
@@ -14238,7 +14238,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内对手使用属性技能时自身下{1}次受到的攻击伤害减少{2}%",
+        "analyze": "[sprite name=iconHit]{0}回合内对手使用属性技能时自身下{1}次受到的[color=#52a5f2]攻击伤害[/color]减少{2}%",
         "info": "{0}回合内对手使用属性技能时自身下{1}次受到的攻击伤害减少{2}%",
         "param": [],
         "args_num": 3,
@@ -14274,7 +14274,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}%概率造成的攻击伤害为{1}倍，对手每存在1层[color=#f35555]致命裂痕[/color]则概率提升{2}%，[color=#52a5f2]未触发[/color]则{3}回合内令对手使用的属性技能无效",
+        "analyze": "[sprite name=iconHit]{0}%概率造成的[color=#52a5f2]攻击伤害[/color]为{1}倍，对手每存在1层[color=#f35555]致命裂痕[/color]则概率提升{2}%，[color=#52a5f2]未触发[/color]则{3}回合内令对手使用的属性技能无效",
         "info": "{0}%概率造成的攻击伤害为{1}倍，对手每存在1层致命裂痕则概率提升{2}%，未触发则{3}回合内令对手使用的属性技能无效",
         "param": [],
         "args_num": 4,
@@ -14488,7 +14488,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害不低于{0}，若对手处于能力提升状态则造成的攻击伤害不低于{1}（boss有效）",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]不低于{0}，若对手处于能力提升状态则造成的[color=#52a5f2]攻击伤害[/color]不低于{1}（boss有效）",
         "info": "造成的攻击伤害不低于{0}，若对手处于能力提升状态则造成的攻击伤害不低于{1}",
         "param": [],
         "args_num": 2,
@@ -14546,7 +14546,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]附加给自身{0}点[color=#52a5f2]固定伤害[/color]（致死时令自身残留1点体力），附加给对手{1}点[color=#52a5f2]固定伤害[/color]，令自身下{2}次受到的攻击伤害[color=#52a5f2]转化[/color]为体力",
+        "analyze": "[sprite name=iconHit]附加给自身{0}点[color=#52a5f2]固定伤害[/color]（致死时令自身残留1点体力），附加给对手{1}点[color=#52a5f2]固定伤害[/color]，令自身下{2}次受到的[color=#52a5f2]攻击伤害[/color][color=#52a5f2]转化[/color]为体力",
         "info": "附加给自身{0}点固定伤害（致死时令自身残留1点体力），附加给对手{1}点固定伤害，令自身下{2}次受到的攻击伤害转化为体力",
         "param": [],
         "args_num": 3,
@@ -14586,7 +14586,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2]吸取[/color]对手能力提升状态，[color=#52a5f2]吸取[/color]成功则下{0}次受到的攻击伤害减少{1}点（boss有效）",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]吸取[/color]对手能力提升状态，[color=#52a5f2]吸取[/color]成功则下{0}次受到的[color=#52a5f2]攻击伤害[/color]减少{1}点（boss有效）",
         "info": "吸取对手能力提升状态，吸取成功则下{0}次受到的攻击伤害减少{1}点",
         "param": [],
         "args_num": 2,
@@ -14631,7 +14631,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]先出手时造成的攻击伤害提升{0}%，若对手当前体力值高于自身则[color=#52a5f2]伤害额外提升[/color]{1}%（boss有效）",
+        "analyze": "[sprite name=iconHit]先出手时造成的[color=#52a5f2]攻击伤害[/color]提升{0}%，若对手当前体力值高于自身则[color=#52a5f2]伤害额外提升[/color]{1}%（boss有效）",
         "info": "先出手时造成的攻击伤害提升{0}%，若对手当前体力值高于自身则伤害额外提升{1}%",
         "param": [],
         "args_num": 2,
@@ -14819,7 +14819,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]命中后造成的攻击伤害为0时[color=#52a5f2]吸取[/color]对手最大体力的{0}%",
+        "analyze": "[sprite name=iconHit]命中后造成的[color=#52a5f2]攻击伤害[/color]为0时[color=#52a5f2]吸取[/color]对手最大体力的{0}%",
         "info": "命中后造成的攻击伤害为0时吸取对手最大体力的{0}%",
         "param": [],
         "args_num": 1,
@@ -14922,7 +14922,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内若对手使用属性技能，则使用属性技能后的下{1}回合造成的攻击伤害减少{2}点",
+        "analyze": "[sprite name=iconHit]{0}回合内若对手使用属性技能，则使用属性技能后的下{1}回合造成的[color=#52a5f2]攻击伤害[/color]减少{2}点",
         "info": "{0}回合内若对手使用属性技能，则使用属性技能后的下{1}回合造成的攻击伤害减少{2}点",
         "param": [],
         "args_num": 3,
@@ -14931,7 +14931,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]后出手时造成的攻击伤害提升{0}%，若对手当前体力值高于自身则[color=#52a5f2]伤害额外提升[/color]{1}%（boss有效）",
+        "analyze": "[sprite name=iconHit]后出手时造成的[color=#52a5f2]攻击伤害[/color]提升{0}%，若对手当前体力值高于自身则[color=#52a5f2]伤害额外提升[/color]{1}%（boss有效）",
         "info": "后出手时造成的攻击伤害提升{0}%，若对手当前体力值高于自身则伤害额外提升{1}%",
         "param": [],
         "args_num": 2,
@@ -14940,7 +14940,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手则下{0}回合自身造成的攻击伤害提升{1}%，若[color=#52a5f2]以[/color][color=#52a5f2]致命一击[/color][color=#57c975]击败[/color]对手则伤害再提升{2}%",
+        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手则下{0}回合自身造成的[color=#52a5f2]攻击伤害[/color]提升{1}%，若[color=#52a5f2]以[/color][color=#52a5f2]致命一击[/color][color=#57c975]击败[/color]对手则伤害再提升{2}%",
         "info": "击败对手则下{0}回合自身造成的攻击伤害提升{1}%，若以致命一击击败对手则伤害再提升{2}%",
         "param": [],
         "args_num": 3,
@@ -14994,7 +14994,7 @@
         "type": 3
       },
       {
-        "analyze": "[sprite name=iconHit]附加对手上回合造成攻击伤害{0}%的[color=#52a5f2]百分比伤害[/color]，后出手时效果提升{1}%",
+        "analyze": "[sprite name=iconHit]附加对手上回合造成[color=#52a5f2]攻击伤害[/color]{0}%的[color=#52a5f2]百分比伤害[/color]，后出手时效果提升{1}%",
         "info": "附加对手上回合造成攻击伤害{0}%的百分比伤害，后出手时效果提升{1}%",
         "param": [],
         "args_num": 2,
@@ -15025,7 +15025,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}%的概率造成的攻击伤害翻倍，[color=#52a5f2]未触发[/color]则令自身[color=#52a5f2]全属性[/color]+{1}（boss有效）",
+        "analyze": "[sprite name=iconHit]{0}%的概率造成的[color=#52a5f2]攻击伤害[/color]翻倍，[color=#52a5f2]未触发[/color]则令自身[color=#52a5f2]全属性[/color]+{1}（boss有效）",
         "info": "{0}%的概率造成的攻击伤害翻倍，未触发则令自身全属性+{1}",
         "param": [],
         "args_num": 2,
@@ -15043,7 +15043,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害为奇数则{0}%令对手[color=#57c975]{1}[/color]，造成的攻击伤害为偶数则{2}%令对手[color=#57c975]{3}[/color]",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]为奇数则{0}%令对手[color=#57c975]{1}[/color]，造成的[color=#52a5f2]攻击伤害[/color]为偶数则{2}%令对手[color=#57c975]{3}[/color]",
         "info": "造成的攻击伤害为奇数则{0}%令对手{1}，造成的攻击伤害为偶数则{2}%令对手{3}",
         "param": [
           1,
@@ -15086,7 +15086,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]，消除成功则{0}%令对手[color=#57c975]{1}[/color]，若对手不处于[color=#52a5f2]回合类效果[/color]则造成的攻击伤害提升{2}%",
+        "analyze": "[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]，消除成功则{0}%令对手[color=#57c975]{1}[/color]，若对手不处于[color=#52a5f2]回合类效果[/color]则造成的[color=#52a5f2]攻击伤害[/color]提升{2}%",
         "info": "消除对手回合类效果，消除成功则{0}%令对手{1}，若对手不处于回合类效果则造成的攻击伤害提升{2}%",
         "param": [
           1,
@@ -15188,7 +15188,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]若对手当前精灵未携带技能石则造成的攻击伤害提升{0}%（boss有效）",
+        "analyze": "[sprite name=iconHit]若对手当前精灵未携带技能石则造成的[color=#52a5f2]攻击伤害[/color]提升{0}%（boss有效）",
         "info": "若对手当前精灵未携带技能石则造成的攻击伤害提升{0}%",
         "param": [],
         "args_num": 1,
@@ -15197,7 +15197,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]下{0}回合自身造成物理攻击伤害后{1}%使对手[color=#57c975]{2}[/color]",
+        "analyze": "[sprite name=iconHit]下{0}回合自身造成物理[color=#52a5f2]攻击伤害[/color]后{1}%使对手[color=#57c975]{2}[/color]",
         "info": "下{0}回合自身造成物理攻击伤害后{1}%使对手{2}",
         "param": [
           1,
@@ -15210,7 +15210,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]下{0}回合自身造成特殊攻击伤害后{1}%使对手[color=#57c975]{2}[/color]",
+        "analyze": "[sprite name=iconHit]下{0}回合自身造成特殊[color=#52a5f2]攻击伤害[/color]后{1}%使对手[color=#57c975]{2}[/color]",
         "info": "下{0}回合自身造成特殊攻击伤害后{1}%使对手{2}",
         "param": [
           1,
@@ -15428,7 +15428,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit]将自身下{0}次受到的攻击伤害[color=#52a5f2]转化[/color]为等量[color=#57c975]护盾[/color]，最多获得{1}点",
+        "analyze": "[sprite name=iconHit]将自身下{0}次受到的[color=#52a5f2]攻击伤害[/color][color=#52a5f2]转化[/color]为等量[color=#57c975]护盾[/color]，最多获得{1}点",
         "info": "将自身下{0}次受到的攻击伤害转化为等量护盾，最多获得{1}点",
         "param": [],
         "args_num": 2,
@@ -15580,7 +15580,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内对手使用技能时自身免疫对手下1次非[color=#52a5f2]致命一击[/color]造成的攻击伤害",
+        "analyze": "[sprite name=iconHit]{0}回合内对手使用技能时自身免疫对手下1次非[color=#52a5f2]致命一击[/color]造成的[color=#52a5f2]攻击伤害[/color]",
         "info": "{0}回合内对手使用技能时自身免疫对手下1次非致命一击造成的攻击伤害",
         "param": [],
         "args_num": 1,
@@ -15665,7 +15665,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]下{0}次受到攻击伤害时，若伤害高于{1}，则自身恢复全部体力",
+        "analyze": "[sprite name=iconHit]下{0}次受到[color=#52a5f2]攻击伤害[/color]时，若伤害高于{1}，则自身恢复全部体力",
         "info": "下{0}次受到攻击伤害时，若伤害高于{1}，则自身恢复全部体力",
         "param": [],
         "args_num": 2,
@@ -15745,7 +15745,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]若上回合自身未受到攻击伤害则附加对手最大体力1/{0}的[color=#52a5f2]百分比伤害[/color]",
+        "analyze": "[sprite name=iconHit]若上回合自身未受到[color=#52a5f2]攻击伤害[/color]则附加对手最大体力1/{0}的[color=#52a5f2]百分比伤害[/color]",
         "info": "若上回合自身未受到攻击伤害则附加对手最大体力1/{0}的百分比伤害",
         "param": [],
         "args_num": 1,
@@ -15754,7 +15754,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]若上回合自身受到了攻击伤害则下{0}次受到的攻击伤害不会超过上回合所受攻击伤害的数额",
+        "analyze": "[sprite name=iconHit]若上回合自身受到了[color=#52a5f2]攻击伤害[/color]则下{0}次受到的[color=#52a5f2]攻击伤害[/color]不会超过上回合所受[color=#52a5f2]攻击伤害[/color]的数额",
         "info": "若上回合自身受到了攻击伤害则下{0}次受到的攻击伤害不会超过上回合所受攻击伤害的数额",
         "param": [],
         "args_num": 1,
@@ -15928,7 +15928,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害若低于{0}则附加给对手{1}点[color=#52a5f2]真实伤害[/color]",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]若低于{0}则附加给对手{1}点[color=#52a5f2]真实伤害[/color]",
         "info": "造成的攻击伤害若低于{0}则附加给对手{1}点真实伤害",
         "param": [],
         "args_num": 2,
@@ -16035,7 +16035,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#f35555][color=#f35555]圣剑[/color]重铸[/color]期间若[color=#57c975]击败[/color]对手则解放双方场上所有[color=#f35555]圣剑[/color]，每解放1柄则随机为对方下只出战精灵附加1种异常状态",
+        "analyze": "[sprite name=iconHit][color=#f35555]圣剑重铸[/color]期间若[color=#57c975]击败[/color]对手则解放双方场上所有[color=#f35555]圣剑[/color]，每解放1柄则随机为对方下只出战精灵附加1种异常状态",
         "info": "圣剑重铸期间若击败对手则解放双方场上所有圣剑，每解放1柄则随机为对方下只出战精灵附加1种异常状态",
         "param": [],
         "args_num": 0,
@@ -16071,7 +16071,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身下{0}次受到的攻击伤害不超过{1}，并[color=#52a5f2]反弹[/color]给对手原本超出部分{2}%的[color=#52a5f2]百分比伤害[/color]",
+        "analyze": "[sprite name=iconHit]自身下{0}次受到的[color=#52a5f2]攻击伤害[/color]不超过{1}，并[color=#52a5f2]反弹[/color]给对手原本超出部分{2}%的[color=#52a5f2]百分比伤害[/color]",
         "info": "自身下{0}次受到的攻击伤害不超过{1}，并反弹给对手原本超出部分{2}%的百分比伤害",
         "param": [],
         "args_num": 3,
@@ -16129,7 +16129,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]若打出[color=#52a5f2]致命一击[/color]则造成的攻击伤害提升{0}%",
+        "analyze": "[sprite name=iconHit]若打出[color=#52a5f2]致命一击[/color]则造成的[color=#52a5f2]攻击伤害[/color]提升{0}%",
         "info": "若打出致命一击则造成的攻击伤害提升{0}%",
         "param": [],
         "args_num": 1,
@@ -16156,7 +16156,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害若高于{0}则{1}%令对手[color=#57c975]{2}[/color]",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]若高于{0}则{1}%令对手[color=#57c975]{2}[/color]",
         "info": "造成的攻击伤害若高于{0}则{1}%令对手{2}",
         "param": [
           1,
@@ -16196,7 +16196,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]消耗自身全部体力，使[color=#52a5f2]己方[/color]下只出战精灵[color=#57c975][color=#57c975]登场[/color]时[/color]立即恢复{0}点体力且[color=#52a5f2]首次[/color]使用技能后恢复{1}点体力",
+        "analyze": "[sprite name=iconHit]消耗自身全部体力，使[color=#52a5f2]己方[/color]下只出战精灵[color=#57c975]登场时[/color]立即恢复{0}点体力且[color=#52a5f2]首次[/color]使用技能后恢复{1}点体力",
         "info": "消耗自身全部体力，使己方下只出战精灵登场时立即恢复{0}点体力且首次使用技能后恢复{1}点体力",
         "param": [],
         "args_num": 2,
@@ -16400,7 +16400,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]先出手时[color=#52a5f2]吸取[/color]对手最大体力的1/{0}且[color=#52a5f2]当回合[/color]对手无法造成攻击伤害",
+        "analyze": "[sprite name=iconHit]先出手时[color=#52a5f2]吸取[/color]对手最大体力的1/{0}且[color=#52a5f2]当回合[/color]对手无法造成[color=#52a5f2]攻击伤害[/color]",
         "info": "先出手时吸取对手最大体力的1/{0}且当回合对手无法造成攻击伤害",
         "param": [],
         "args_num": 1,
@@ -16434,7 +16434,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身存在[color=#57c975]护罩[/color]则造成的攻击伤害翻倍",
+        "analyze": "[sprite name=iconHit]自身存在[color=#57c975]护罩[/color]则造成的[color=#52a5f2]攻击伤害[/color]翻倍",
         "info": "自身存在护罩则造成的攻击伤害翻倍",
         "param": [],
         "args_num": 0,
@@ -16528,7 +16528,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2]吸取[/color]对手能力提升状态，[color=#52a5f2]吸取[/color]成功则自身下{0}回合造成的攻击伤害提升{1}%，若对手不处于能力提升状态则自身下{2}回合[color=#52a5f2]先制[/color]+{3}",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]吸取[/color]对手能力提升状态，[color=#52a5f2]吸取[/color]成功则自身下{0}回合造成的[color=#52a5f2]攻击伤害[/color]提升{1}%，若对手不处于能力提升状态则自身下{2}回合[color=#52a5f2]先制[/color]+{3}",
         "info": "吸取对手能力提升状态，吸取成功则自身下{0}回合造成的攻击伤害提升{1}%，若对手不处于能力提升状态则自身下{2}回合先制+{3}",
         "param": [],
         "args_num": 4,
@@ -16559,7 +16559,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害提升{0}%，若未[color=#57c975]击败[/color]对手则对手[color=#57c975]回合结束后[/color]其恢复最大体力的1/{1}（boss有效）",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]提升{0}%，若未[color=#57c975]击败[/color]对手则对手[color=#57c975]回合结束后[/color]其恢复最大体力的1/{1}（boss有效）",
         "info": "造成的攻击伤害提升{0}%，若未击败对手则对手回合结束后其恢复最大体力的1/{1}",
         "param": [],
         "args_num": 2,
@@ -16666,7 +16666,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconInherent]再现本次[color=#57c975]登场[/color]所[color=#f35555]解析[/color]的技能（[color=#52a5f2]当回合[/color]触发的[color=#52a5f2]先制[/color]修改效果无法再现），若本次[color=#57c975]登场[/color]尚未[color=#f35555]解析[/color]技能或[color=#f35555]解析[/color]的技能与本技能同名，则附加300点[color=#52a5f2]真实伤害[/color]并恢复等量体力，若再现的技能为攻击技能，则造成的攻击伤害提升50%，若再现的技能为属性技能，则恢复自身所有其他技能1点PP值",
+        "analyze": "[sprite name=iconInherent]再现本次[color=#57c975]登场[/color]所[color=#f35555]解析[/color]的技能（[color=#52a5f2]当回合[/color]触发的[color=#52a5f2]先制[/color]修改效果无法再现），若本次[color=#57c975]登场[/color]尚未[color=#f35555]解析[/color]技能或[color=#f35555]解析[/color]的技能与本技能同名，则附加300点[color=#52a5f2]真实伤害[/color]并恢复等量体力，若再现的技能为攻击技能，则造成的[color=#52a5f2]攻击伤害[/color]提升50%，若再现的技能为属性技能，则恢复自身所有其他技能1点PP值",
         "info": "再现本次登场所解析的技能（当回合触发的先制修改效果无法再现），若本次登场尚未解析技能或解析的技能与本技能同名，则附加300点真实伤害并恢复等量体力，若再现的技能为攻击技能，则造成的攻击伤害提升50%，若再现的技能为属性技能，则恢复自身所有其他技能1点PP值",
         "param": [],
         "args_num": 0,
@@ -16697,7 +16697,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]消除对手能力提升状态，消除成功则{0}回合内对手造成的攻击伤害不超过{1}点，若对手不处于能力提升状态则{2}回合内对手所有体力恢复效果减少{3}%（boss有效）",
+        "analyze": "[sprite name=iconHit]消除对手能力提升状态，消除成功则{0}回合内对手造成的[color=#52a5f2]攻击伤害[/color]不超过{1}点，若对手不处于能力提升状态则{2}回合内对手所有体力恢复效果减少{3}%（boss有效）",
         "info": "消除对手能力提升状态，消除成功则{0}回合内对手造成的攻击伤害不超过{1}点，若对手不处于能力提升状态则{2}回合内对手所有体力恢复效果减少{3}%",
         "param": [],
         "args_num": 4,
@@ -16706,7 +16706,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]下{0}回合自身技能将对手的能力提升效果视为能力下降效果，对手不处于能力提升状态时改为造成的攻击伤害翻倍",
+        "analyze": "[sprite name=iconHit]下{0}回合自身技能将对手的能力提升效果视为能力下降效果，对手不处于能力提升状态时改为造成的[color=#52a5f2]攻击伤害[/color]翻倍",
         "info": "下{0}回合自身技能将对手的能力提升效果视为能力下降效果，对手不处于能力提升状态时改为造成的攻击伤害翻倍",
         "param": [],
         "args_num": 1,
@@ -17054,7 +17054,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2]己方[/color]场下每死亡一只精灵则造成的攻击伤害提升{0}%（boss有效）",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]己方[/color]场下每死亡一只精灵则造成的[color=#52a5f2]攻击伤害[/color]提升{0}%（boss有效）",
         "info": "己方场下每死亡一只精灵则造成的攻击伤害提升{0}%",
         "param": [],
         "args_num": 1,
@@ -17180,7 +17180,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]下{0}次攻击技能必定打出偶数攻击伤害",
+        "analyze": "[sprite name=iconHit]下{0}次攻击技能必定打出偶数[color=#52a5f2]攻击伤害[/color]",
         "info": "下{0}次攻击技能必定打出偶数攻击伤害",
         "param": [],
         "args_num": 1,
@@ -17198,7 +17198,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]命中后[color=#52a5f2]吸取[/color]对手最大体力的{0}%，若打出的攻击伤害为偶数则效果翻倍",
+        "analyze": "[sprite name=iconHit]命中后[color=#52a5f2]吸取[/color]对手最大体力的{0}%，若打出的[color=#52a5f2]攻击伤害[/color]为偶数则效果翻倍",
         "info": "命中后吸取对手最大体力的{0}%，若打出的攻击伤害为偶数则效果翻倍",
         "param": [],
         "args_num": 1,
@@ -17238,7 +17238,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}%的概率造成的攻击伤害为{1}倍",
+        "analyze": "[sprite name=iconHit]{0}%的概率造成的[color=#52a5f2]攻击伤害[/color]为{1}倍",
         "info": "{0}%的概率造成的攻击伤害为{1}倍",
         "param": [],
         "args_num": 2,
@@ -17274,7 +17274,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身持有[color=#f35555]圣雷华冠[/color]时造成的攻击伤害翻倍",
+        "analyze": "[sprite name=iconHit]自身持有[color=#f35555]圣雷华冠[/color]时造成的[color=#52a5f2]攻击伤害[/color]翻倍",
         "info": "自身持有圣雷华冠时造成的攻击伤害翻倍",
         "param": [],
         "args_num": 0,
@@ -17283,7 +17283,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]，消除成功{0}%令对手[color=#57c975]{1}[/color]，[color=#52a5f2]未触发[/color]则造成的攻击伤害翻倍",
+        "analyze": "[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]，消除成功{0}%令对手[color=#57c975]{1}[/color]，[color=#52a5f2]未触发[/color]则造成的[color=#52a5f2]攻击伤害[/color]翻倍",
         "info": "消除对手回合类效果，消除成功{0}%令对手{1}，未触发则造成的攻击伤害翻倍",
         "param": [
           1,
@@ -17350,7 +17350,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]消除对手能力提升状态，若消除成功且自身持有[color=#f35555]回体[/color]Ⅰ则下回合造成的攻击伤害提升{0}%，若消除成功且对手持有[color=#f35555]失体[/color]Ⅰ则下回合造成的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]提升{1}%",
+        "analyze": "[sprite name=iconHit]消除对手能力提升状态，若消除成功且自身持有[color=#f35555]回体[/color]Ⅰ则下回合造成的[color=#52a5f2]攻击伤害[/color]提升{0}%，若消除成功且对手持有[color=#f35555]失体[/color]Ⅰ则下回合造成的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]提升{1}%",
         "info": "消除对手能力提升状态，若消除成功且自身持有回体Ⅰ则下回合造成的攻击伤害提升{0}%，若消除成功且对手持有失体Ⅰ则下回合造成的固定伤害、百分比伤害提升{1}%",
         "param": [],
         "args_num": 2,
@@ -17447,7 +17447,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconComp]自身持有[color=#f35555]拥君之盾[/color]时[color=#52a5f2]先制[/color]+1且造成的攻击伤害翻倍",
+        "analyze": "[sprite name=iconComp]自身持有[color=#f35555]拥君之盾[/color]时[color=#52a5f2]先制[/color]+1且造成的[color=#52a5f2]攻击伤害[/color]翻倍",
         "info": "自身持有拥君之盾时先制+1且造成的攻击伤害翻倍",
         "param": [],
         "args_num": 0,
@@ -17487,7 +17487,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害若低于{0}则{1}回合内免疫并[color=#52a5f2]反弹[/color]自身受到的异常状态",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]若低于{0}则{1}回合内免疫并[color=#52a5f2]反弹[/color]自身受到的异常状态",
         "info": "造成的攻击伤害若低于{0}则{1}回合内免疫并反弹自身受到的异常状态",
         "param": [],
         "args_num": 2,
@@ -17509,7 +17509,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]双方6项能力等级状态全部相同时造成的攻击伤害翻倍",
+        "analyze": "[sprite name=iconHit]双方6项能力等级状态全部相同时造成的[color=#52a5f2]攻击伤害[/color]翻倍",
         "info": "双方6项能力等级状态全部相同时造成的攻击伤害翻倍",
         "param": [],
         "args_num": 0,
@@ -17536,7 +17536,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害提升{0}%，若自身持有红色或[color=#f35555]白色龙鳞[/color]则增伤效果翻倍",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]提升{0}%，若自身持有红色或[color=#f35555]白色龙鳞[/color]则增伤效果翻倍",
         "info": "造成的攻击伤害提升{0}%，若自身持有红色或白色龙鳞则增伤效果翻倍",
         "param": [],
         "args_num": 1,
@@ -17710,7 +17710,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]若对手处于能力提升状态则造成的攻击伤害提升{0}%，先出手时提升效果翻倍",
+        "analyze": "[sprite name=iconHit]若对手处于能力提升状态则造成的[color=#52a5f2]攻击伤害[/color]提升{0}%，先出手时提升效果翻倍",
         "info": "若对手处于能力提升状态则造成的攻击伤害提升{0}%，先出手时提升效果翻倍",
         "param": [],
         "args_num": 1,
@@ -17781,7 +17781,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手每存在{0}点[color=#57c975]护盾[/color]则造成的攻击伤害提升{1}倍",
+        "analyze": "[sprite name=iconHit]对手每存在{0}点[color=#57c975]护盾[/color]则造成的[color=#52a5f2]攻击伤害[/color]提升{1}倍",
         "info": "对手每存在{0}点护盾则造成的攻击伤害提升{1}倍",
         "param": [],
         "args_num": 2,
@@ -17790,7 +17790,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身持有[color=#f35555]北冥狂刃[/color]时造成的攻击伤害提升{0}%",
+        "analyze": "[sprite name=iconHit]自身持有[color=#f35555]北冥狂刃[/color]时造成的[color=#52a5f2]攻击伤害[/color]提升{0}%",
         "info": "自身持有北冥狂刃时造成的攻击伤害提升{0}%",
         "param": [],
         "args_num": 1,
@@ -17902,7 +17902,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]双方当前每损失{0}点技能PP值则造成的攻击伤害提升{1}%",
+        "analyze": "[sprite name=iconHit]双方当前每损失{0}点技能PP值则造成的[color=#52a5f2]攻击伤害[/color]提升{1}%",
         "info": "双方当前每损失{0}点技能PP值则造成的攻击伤害提升{1}%",
         "param": [],
         "args_num": 2,
@@ -18012,7 +18012,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]，消除成功则{0}%令对手[color=#57c975]{1}[/color]，[color=#52a5f2]未触发[/color]则{2}回合内自身受到的攻击伤害减少{3}%",
+        "analyze": "[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]，消除成功则{0}%令对手[color=#57c975]{1}[/color]，[color=#52a5f2]未触发[/color]则{2}回合内自身受到的[color=#52a5f2]攻击伤害[/color]减少{3}%",
         "info": "消除对手回合类效果，消除成功则{0}%令对手{1}，未触发则{2}回合内自身受到的攻击伤害减少{3}%",
         "param": [
           1,
@@ -18164,7 +18164,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害若低于{0}则令[color=#52a5f2]己方[/color]免疫下{1}次受到的异常状态，若对手被施加的[color=#f35555]诡符[/color]数量[color=#52a5f2]达到[/color]{2}道则额外解放对手全部[color=#f35555]诡符[/color]，令[color=#52a5f2]己方[/color]免疫次数+{3}",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]若低于{0}则令[color=#52a5f2]己方[/color]免疫下{1}次受到的异常状态，若对手被施加的[color=#f35555]诡符[/color]数量[color=#52a5f2]达到[/color]{2}道则额外解放对手全部[color=#f35555]诡符[/color]，令[color=#52a5f2]己方[/color]免疫次数+{3}",
         "info": "造成的攻击伤害若低于{0}则令己方免疫下{1}次受到的异常状态，若对手被施加的诡符数量达到{2}道则额外解放对手全部诡符，令己方免疫次数+{3}",
         "param": [],
         "args_num": 4,
@@ -18173,7 +18173,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害若高于{0}则附加给对手{1}点[color=#52a5f2]固定伤害[/color]，若对手被施加的[color=#f35555]诡符[/color]数量[color=#52a5f2]达到[/color]{2}道则额外解放对手全部[color=#f35555]诡符[/color]，将[color=#52a5f2]固定伤害[/color]转变为等量的[color=#52a5f2]真实伤害[/color]",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]若高于{0}则附加给对手{1}点[color=#52a5f2]固定伤害[/color]，若对手被施加的[color=#f35555]诡符[/color]数量[color=#52a5f2]达到[/color]{2}道则额外解放对手全部[color=#f35555]诡符[/color]，将[color=#52a5f2]固定伤害[/color]转变为等量的[color=#52a5f2]真实伤害[/color]",
         "info": "造成的攻击伤害若高于{0}则附加给对手{1}点固定伤害，若对手被施加的诡符数量达到{2}道则额外解放对手全部诡符，将固定伤害转变为等量的真实伤害",
         "param": [],
         "args_num": 3,
@@ -18601,7 +18601,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身每有1篇[color=#f35555]空妄诗章[/color]造成的攻击伤害提升{0}%，若[color=#f35555]空妄诗章[/color]的篇数高于{1}则每有1篇额外附加{2}点[color=#52a5f2]真实伤害[/color]",
+        "analyze": "[sprite name=iconHit]自身每有1篇[color=#f35555]空妄诗章[/color]造成的[color=#52a5f2]攻击伤害[/color]提升{0}%，若[color=#f35555]空妄诗章[/color]的篇数高于{1}则每有1篇额外附加{2}点[color=#52a5f2]真实伤害[/color]",
         "info": "自身每有1篇空妄诗章造成的攻击伤害提升{0}%，若空妄诗章的篇数高于{1}则每有1篇额外附加{2}点真实伤害",
         "param": [],
         "args_num": 3,
@@ -18666,7 +18666,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身处于[color=#57c975]护盾[/color]状态时造成的攻击伤害翻倍",
+        "analyze": "[sprite name=iconHit]自身处于[color=#57c975]护盾[/color]状态时造成的[color=#52a5f2]攻击伤害[/color]翻倍",
         "info": "自身处于护盾状态时造成的攻击伤害翻倍",
         "param": [],
         "args_num": 0,
@@ -18848,7 +18848,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]解除自身所处的异常状态，解除成功则点燃[color=#f35555]烛[/color]且下{0}回合造成的攻击伤害提升{1}%",
+        "analyze": "[sprite name=iconHit]解除自身所处的异常状态，解除成功则点燃[color=#f35555]烛[/color]且下{0}回合造成的[color=#52a5f2]攻击伤害[/color]提升{1}%",
         "info": "解除自身所处的异常状态，解除成功则点燃烛且下{0}回合造成的攻击伤害提升{1}%",
         "param": [],
         "args_num": 2,
@@ -19091,7 +19091,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]解除双方的[color=#57c975]烧伤[/color]状态，每解除1回合自身的[color=#57c975]烧伤[/color][color=#52a5f2]己方[/color]获得1层[color=#f35555]佑灵灼火[/color]，每解除{0}回合对手的[color=#57c975]烧伤[/color]下回合造成的攻击伤害提升{1}%",
+        "analyze": "[sprite name=iconHit]解除双方的[color=#57c975]烧伤[/color]状态，每解除1回合自身的[color=#57c975]烧伤[/color][color=#52a5f2]己方[/color]获得1层[color=#f35555]佑灵灼火[/color]，每解除{0}回合对手的[color=#57c975]烧伤[/color]下回合造成的[color=#52a5f2]攻击伤害[/color]提升{1}%",
         "info": "解除双方的烧伤状态，每解除1回合自身的烧伤己方获得1层佑灵灼火，每解除{0}回合对手的烧伤下回合造成的攻击伤害提升{1}%",
         "param": [],
         "args_num": 2,
@@ -19145,7 +19145,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]构造IV：先出手时造成的攻击伤害提升50%",
+        "analyze": "[sprite name=iconHit]构造IV：先出手时造成的[color=#52a5f2]攻击伤害[/color]提升50%",
         "info": "构造IV：先出手时造成的攻击伤害提升50%",
         "param": [],
         "args_num": 0,
@@ -19407,7 +19407,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手处于[color=#f35555]星芳之缠[/color]时造成的攻击伤害提升{0}%，若自身体力低于对手则效果翻倍（boss有效）",
+        "analyze": "[sprite name=iconHit]对手处于[color=#f35555]星芳之缠[/color]时造成的[color=#52a5f2]攻击伤害[/color]提升{0}%，若自身体力低于对手则效果翻倍（boss有效）",
         "info": "对手处于星芳之缠时造成的攻击伤害提升{0}%，若自身体力低于对手则效果翻倍",
         "param": [],
         "args_num": 1,
@@ -19416,7 +19416,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手处于[color=#f35555]星火之灼[/color]时造成的攻击伤害提升{0}%，若自身体力低于对手则效果翻倍（boss有效）",
+        "analyze": "[sprite name=iconHit]对手处于[color=#f35555]星火之灼[/color]时造成的[color=#52a5f2]攻击伤害[/color]提升{0}%，若自身体力低于对手则效果翻倍（boss有效）",
         "info": "对手处于星火之灼时造成的攻击伤害提升{0}%，若自身体力低于对手则效果翻倍",
         "param": [],
         "args_num": 1,
@@ -19425,7 +19425,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手处于[color=#f35555]星海之浸[/color]时造成的攻击伤害提升{0}%，若自身体力低于对手则效果翻倍（boss有效）",
+        "analyze": "[sprite name=iconHit]对手处于[color=#f35555]星海之浸[/color]时造成的[color=#52a5f2]攻击伤害[/color]提升{0}%，若自身体力低于对手则效果翻倍（boss有效）",
         "info": "对手处于星海之浸时造成的攻击伤害提升{0}%，若自身体力低于对手则效果翻倍",
         "param": [],
         "args_num": 1,
@@ -19452,7 +19452,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身处于能力提升状态时造成的攻击伤害提升{0}%",
+        "analyze": "[sprite name=iconHit]自身处于能力提升状态时造成的[color=#52a5f2]攻击伤害[/color]提升{0}%",
         "info": "自身处于能力提升状态时造成的攻击伤害提升{0}%",
         "param": [],
         "args_num": 1,
@@ -19781,7 +19781,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]每消耗20%的PP值则造成的攻击伤害提升{0}%",
+        "analyze": "[sprite name=iconHit]每消耗20%的PP值则造成的[color=#52a5f2]攻击伤害[/color]提升{0}%",
         "info": "每消耗20%的PP值则造成的攻击伤害提升{0}%",
         "param": [],
         "args_num": 1,
@@ -19790,7 +19790,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]打出[color=#52a5f2]致命一击[/color]时造成的攻击伤害提升{0}%",
+        "analyze": "[sprite name=iconHit]打出[color=#52a5f2]致命一击[/color]时造成的[color=#52a5f2]攻击伤害[/color]提升{0}%",
         "info": "打出致命一击时造成的攻击伤害提升{0}%",
         "param": [],
         "args_num": 1,
@@ -19942,7 +19942,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]下{0}回合使用技能不受PP值限制",
+        "analyze": "[sprite name=iconHit]下{0}回合使用技能[color=#52a5f2]不受PP值限制[/color]",
         "info": "下{0}回合使用技能不受PP值限制",
         "param": [],
         "args_num": 1,
@@ -20156,7 +20156,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]消耗自身体力上限的{0}%，每消耗{1}点本场战斗自身造成的攻击伤害提升{2}%",
+        "analyze": "[sprite name=iconHit]消耗自身体力上限的{0}%，每消耗{1}点本场战斗自身造成的[color=#52a5f2]攻击伤害[/color]提升{2}%",
         "info": "消耗自身体力上限的{0}%，每消耗{1}点本场战斗自身造成的攻击伤害提升{2}%",
         "param": [],
         "args_num": 3,
@@ -20334,7 +20334,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2]己方[/color]有其他精灵存活时造成的攻击伤害提升{0}%",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]己方[/color]有其他精灵存活时造成的[color=#52a5f2]攻击伤害[/color]提升{0}%",
         "info": "己方有其他精灵存活时造成的攻击伤害提升{0}%",
         "param": [],
         "args_num": 1,
@@ -20392,7 +20392,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]若对手为[color=#f35555]狩杀之的[/color]则造成的攻击伤害提升{0}%，若对手不为[color=#f35555]狩杀之的[/color]则自身[color=#52a5f2]当回合[/color]无法造成攻击伤害且附加等同于[color=#f35555]狩杀之的[/color]体力{1}%的[color=#52a5f2]百分比伤害[/color]，自身拥有[color=#f35555]狩杀之魂[/color]时上述效果提升{2}%",
+        "analyze": "[sprite name=iconHit]若对手为[color=#f35555]狩杀之的[/color]则造成的[color=#52a5f2]攻击伤害[/color]提升{0}%，若对手不为[color=#f35555]狩杀之的[/color]则自身[color=#52a5f2]当回合[/color]无法造成[color=#52a5f2]攻击伤害[/color]且附加等同于[color=#f35555]狩杀之的[/color]体力{1}%的[color=#52a5f2]百分比伤害[/color]，自身拥有[color=#f35555]狩杀之魂[/color]时上述效果提升{2}%",
         "info": "若对手为狩杀之的则造成的攻击伤害提升{0}%，若对手不为狩杀之的则自身当回合无法造成攻击伤害且附加等同于狩杀之的体力{1}%的百分比伤害，自身拥有狩杀之魂时上述效果提升{2}%",
         "param": [],
         "args_num": 3,
@@ -20473,8 +20473,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内使用技能恢复自身最大体力的1/{1}并造成等量[color=#52a5f2]百分比伤害[/color]，恢复效果溢出时[color=#52a5f2]转化[/color]为等量的[color=#57c975]护盾[/color]",
-        "info": "{0}回合内使用技能恢复自身最大体力的1/{1}并造成等量百分比伤害，恢复效果溢出时转化为等量的护盾",
+        "analyze": "[sprite name=iconHit]{0}回合内使用技能恢复自身最大体力的1/{1}并附加等同于恢复量的[color=#52a5f2]百分比伤害[/color]，恢复效果溢出时[color=#52a5f2]转化[/color]为等量的[color=#57c975]护盾[/color]",
+        "info": "{0}回合内使用技能恢复自身最大体力的1/{1}并附加等同于恢复量的百分比伤害，恢复效果溢出时转化为等量的护盾",
         "param": [],
         "args_num": 2,
         "id": 2287,
@@ -20491,7 +20491,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit]自身每点亮1颗[color=#f35555]雷辰[/color][color=#52a5f2]威力[/color]提升{0}点，若自身未点亮[color=#f35555]雷辰[/color]则[color=#52a5f2]己方[/color]每存活1只精灵造成的攻击伤害不低于{1}",
+        "analyze": "[sprite name=iconHit]自身每点亮1颗[color=#f35555]雷辰[/color][color=#52a5f2]威力[/color]提升{0}点，若自身未点亮[color=#f35555]雷辰[/color]则[color=#52a5f2]己方[/color]每存活1只精灵造成的[color=#52a5f2]攻击伤害[/color]不低于{1}",
         "info": "自身每点亮1颗雷辰威力提升{0}点，若自身未点亮雷辰则己方每存活1只精灵造成的攻击伤害不低于{1}",
         "param": [],
         "args_num": 2,
@@ -20509,7 +20509,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]自身[color=#f35555]武道[/color]衍化[color=#f35555]轨迹[/color]为正转时{0}回合内对手无法通过技能恢复体力，为逆转时{1}回合内对手造成的攻击伤害减少{2}%",
+        "analyze": "[sprite name=iconHit]自身[color=#f35555]武道[/color]衍化[color=#f35555]轨迹[/color]为正转时{0}回合内对手无法通过技能恢复体力，为逆转时{1}回合内对手造成的[color=#52a5f2]攻击伤害[/color]减少{2}%",
         "info": "自身武道衍化轨迹为正转时{0}回合内对手无法通过技能恢复体力，为逆转时{1}回合内对手造成的攻击伤害减少{2}%",
         "param": [],
         "args_num": 3,
@@ -20545,7 +20545,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]废除此技能，恢复对方精灵的全部体力，消耗此技能的全部PP值并获得等量的[color=#f35555]魔王咒怨[/color]，[color=#52a5f2]然后[/color]若[color=#f35555]魔王咒怨[/color]层数高于5则[color=#52a5f2]秒杀[/color]对手且造成的攻击伤害不低于对方精灵体力上限之和",
+        "analyze": "[sprite name=iconHit]废除此技能，恢复对方精灵的全部体力，消耗此技能的全部PP值并获得等量的[color=#f35555]魔王咒怨[/color]，[color=#52a5f2]然后[/color]若[color=#f35555]魔王咒怨[/color]层数高于5则[color=#52a5f2]秒杀[/color]对手且造成的[color=#52a5f2]攻击伤害[/color]不低于对方精灵体力上限之和",
         "info": "废除此技能，恢复对方精灵的全部体力，消耗此技能的全部PP值并获得等量的魔王咒怨，然后若魔王咒怨层数高于5则秒杀对手且造成的攻击伤害不低于对方精灵体力上限之和",
         "param": [],
         "args_num": 0,
@@ -20590,7 +20590,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]攻击伤害被限制时{0}%令对手[color=#57c975]{1}[/color]",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]攻击伤害[/color]被限制时{0}%令对手[color=#57c975]{1}[/color]",
         "info": "攻击伤害被限制时{0}%令对手{1}",
         "param": [
           1,
@@ -20643,7 +20643,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit]双方的此条效果本场战斗只能生效1次，若[color=#52a5f2]己方[/color]存在[color=#f35555][color=#f35555]希望[/color]之花[/color]则消耗自身全部体力并使[color=#52a5f2]己方[/color]的[color=#57c975]危机感[/color]+1，若[color=#52a5f2]己方[/color]的[color=#f35555][color=#f35555]希望[/color]之花[/color]已被摧毁则使自身获得10层[color=#f35555]魔王咒怨[/color]",
+        "analyze": "[sprite name=iconHit]双方的此条效果本场战斗只能生效1次，若[color=#52a5f2]己方[/color]存在[color=#f35555]希望之花[/color]则消耗自身全部体力并使[color=#52a5f2]己方[/color]的[color=#57c975]危机感[/color]+1，若[color=#52a5f2]己方[/color]的[color=#f35555]希望之花[/color]已被摧毁则使自身获得10层[color=#f35555]魔王咒怨[/color]",
         "info": "双方的此条效果本场战斗只能生效1次，若己方存在希望之花则消耗自身全部体力并使己方的危机感+1，若己方的希望之花已被摧毁则使自身获得10层魔王咒怨",
         "param": [],
         "args_num": 0,
@@ -20665,7 +20665,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害低于{0}时附加{1}点[color=#52a5f2]固定伤害[/color]，若本次攻击微弱对手则附加的[color=#52a5f2]固定伤害[/color]除[color=#52a5f2]以[/color]克制倍数",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]低于{0}时附加{1}点[color=#52a5f2]固定伤害[/color]，若本次攻击微弱对手则附加的[color=#52a5f2]固定伤害[/color]除[color=#52a5f2]以[/color]克制倍数",
         "info": "造成的攻击伤害低于{0}时附加{1}点固定伤害，若本次攻击微弱对手则附加的固定伤害除以克制倍数",
         "param": [],
         "args_num": 2,
@@ -20799,7 +20799,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害低于{0}则令对手{1}回合内属性技能无效",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]低于{0}则令对手{1}回合内属性技能无效",
         "info": "造成的攻击伤害低于{0}则令对手{1}回合内属性技能无效",
         "param": [],
         "args_num": 2,
@@ -20947,7 +20947,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害高于{0}时随机附加{1}种非限制类异常状态",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]高于{0}时随机附加{1}种非限制类异常状态",
         "info": "造成的攻击伤害高于{0}时随机附加{1}种非限制类异常状态",
         "param": [],
         "args_num": 2,
@@ -20965,7 +20965,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconComp]对手选择非第五技能的回合此[color=#52a5f2]技能先制[/color]-3且造成的攻击伤害不低于[color=#52a5f2]当回合[/color]所受攻击伤害的3倍，否则恢复自身最大体力的1/3",
+        "analyze": "[sprite name=iconComp]对手选择非第五技能的回合此[color=#52a5f2]技能先制[/color]-3且造成的[color=#52a5f2]攻击伤害[/color]不低于[color=#52a5f2]当回合[/color]所受[color=#52a5f2]攻击伤害[/color]的3倍，否则恢复自身最大体力的1/3",
         "info": "对手选择非第五技能的回合此技能先制-3且造成的攻击伤害不低于当回合所受攻击伤害的3倍，否则恢复自身最大体力的1/3",
         "param": [],
         "args_num": 0,
@@ -21019,7 +21019,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconInherent][color=#f35555]英雄之耀[/color][color=#52a5f2]达到[/color]3层时此技能不受PP值限制且额外[color=#52a5f2]先制[/color]+1",
+        "analyze": "[sprite name=iconInherent][color=#f35555]英雄之耀[/color][color=#52a5f2]达到[/color]3层时此技能[color=#52a5f2]不受PP值限制[/color]且额外[color=#52a5f2]先制[/color]+1",
         "info": "英雄之耀达到3层时此技能不受PP值限制且额外先制+1",
         "param": [],
         "args_num": 0,
@@ -21028,7 +21028,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconInherent][color=#f35555]英雄之耀[/color][color=#52a5f2]达到[/color]3层时此技能不受PP值限制且使用时解除自身所处的异常状态",
+        "analyze": "[sprite name=iconInherent][color=#f35555]英雄之耀[/color][color=#52a5f2]达到[/color]3层时此技能[color=#52a5f2]不受PP值限制[/color]且使用时解除自身所处的异常状态",
         "info": "英雄之耀达到3层时此技能不受PP值限制且使用时解除自身所处的异常状态",
         "param": [],
         "args_num": 0,
@@ -21037,7 +21037,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconInherent][color=#f35555]英雄之耀[/color][color=#52a5f2]达到[/color]3层时此技能不受PP值限制且使用时消除自身[color=#52a5f2]回合类效果[/color]",
+        "analyze": "[sprite name=iconInherent][color=#f35555]英雄之耀[/color][color=#52a5f2]达到[/color]3层时此技能[color=#52a5f2]不受PP值限制[/color]且使用时消除自身[color=#52a5f2]回合类效果[/color]",
         "info": "英雄之耀达到3层时此技能不受PP值限制且使用时消除自身回合类效果",
         "param": [],
         "args_num": 0,
@@ -21064,7 +21064,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害不低于[color=#52a5f2]已损失体力[/color]值的{0}%，若对手不处于能力下降则效果翻倍且造成的攻击伤害额外恢复至体力",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]不低于[color=#52a5f2]已损失体力[/color]值的{0}%，若对手不处于能力下降则效果翻倍且造成的[color=#52a5f2]攻击伤害[/color]额外恢复至体力",
         "info": "造成的攻击伤害不低于已损失体力值的{0}%，若对手不处于能力下降则效果翻倍且造成的攻击伤害额外恢复至体力",
         "param": [],
         "args_num": 1,
@@ -21082,7 +21082,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害提升{0}%，对手处于异常状态时效果翻倍",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]提升{0}%，对手处于异常状态时效果翻倍",
         "info": "造成的攻击伤害提升{0}%，对手处于异常状态时效果翻倍",
         "param": [],
         "args_num": 1,
@@ -21140,7 +21140,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconInherent]玄源之㡣阵亡时不受PP值限制、无视对手的能力提升效果",
+        "analyze": "[sprite name=iconInherent]玄源之㡣阵亡时[color=#52a5f2]不受PP值限制[/color]、无视对手的能力提升效果",
         "info": "玄源之㡣阵亡时不受PP值限制、无视对手的能力提升效果",
         "param": [],
         "args_num": 0,
@@ -21149,7 +21149,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconInherent]金祖之龍阵亡时不受PP值限制、无视对手的[color=#52a5f2]攻击免疫效果[/color]",
+        "analyze": "[sprite name=iconInherent]金祖之龍阵亡时[color=#52a5f2]不受PP值限制[/color]、无视对手的[color=#52a5f2]攻击免疫效果[/color]",
         "info": "金祖之龍阵亡时不受PP值限制、无视对手的攻击免疫效果",
         "param": [],
         "args_num": 0,
@@ -21216,7 +21216,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害高于{0}时{1}回合内对手体力恢复效果减少{2}%",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]高于{0}时{1}回合内对手体力恢复效果减少{2}%",
         "info": "造成的攻击伤害高于{0}时{1}回合内对手体力恢复效果减少{2}%",
         "param": [],
         "args_num": 3,
@@ -21296,7 +21296,7 @@
         "type": 1
       },
       {
-        "analyze": "[sprite name=iconInherent]拉的叙事诗:自身受到攻击伤害后，若对手处于能力提升状态，则下回合令对手的[color=#52a5f2]技能先制[/color]-1",
+        "analyze": "[sprite name=iconInherent]拉的叙事诗:自身受到[color=#52a5f2]攻击伤害[/color]后，若对手处于能力提升状态，则下回合令对手的[color=#52a5f2]技能先制[/color]-1",
         "info": "拉的叙事诗:自身受到攻击伤害后，若对手处于能力提升状态，则下回合令对手的技能先制-1",
         "param": [],
         "args_num": 0,
@@ -21404,7 +21404,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#52a5f2]吸取[/color]对手最大体力的1/{0}，对手免疫百分比伤害时当回合造成的攻击伤害提升{1}%",
+        "analyze": "[sprite name=iconHit][color=#52a5f2]吸取[/color]对手最大体力的1/{0}，对手免疫百分比伤害时当回合造成的[color=#52a5f2]攻击伤害[/color]提升{1}%",
         "info": "吸取对手最大体力的1/{0}，对手免疫百分比伤害时当回合造成的攻击伤害提升{1}%",
         "param": [],
         "args_num": 2,
@@ -21550,7 +21550,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconComp]本场战斗双方每使1只精灵[color=#57c975]消逝[/color]，自身的[color=#f35555]旧日之晷[/color]触发阈值-1且此技能造成的攻击伤害提升30%、[color=#52a5f2]吸取[/color]对手最大体力的10%",
+        "analyze": "[sprite name=iconComp]本场战斗双方每使1只精灵[color=#57c975]消逝[/color]，自身的[color=#f35555]旧日之晷[/color]触发阈值-1且此技能造成的[color=#52a5f2]攻击伤害[/color]提升30%、[color=#52a5f2]吸取[/color]对手最大体力的10%",
         "info": "本场战斗双方每使1只精灵消逝，自身的旧日之晷触发阈值-1且此技能造成的攻击伤害提升30%、吸取对手最大体力的10%",
         "param": [],
         "args_num": 0,
@@ -21682,7 +21682,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害低于{0}时恢复自身最大体力的{1}%",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]低于{0}时恢复自身最大体力的{1}%",
         "info": "造成的攻击伤害低于{0}时恢复自身最大体力的{1}%",
         "param": [],
         "args_num": 2,
@@ -21826,7 +21826,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]未造成攻击伤害时消除对手[color=#52a5f2]回合类效果[/color]并令对手[color=#57c975]{0}[/color]",
+        "analyze": "[sprite name=iconHit]未造成[color=#52a5f2]攻击伤害[/color]时消除对手[color=#52a5f2]回合类效果[/color]并令对手[color=#57c975]{0}[/color]",
         "info": "未造成攻击伤害时消除对手回合类效果并令对手{0}",
         "param": [
           1,
@@ -21848,7 +21848,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]每造成{0}次攻击伤害，[color=#52a5f2]己方[/color]下只精灵[color=#57c975]出战时[/color]恢复{1}点PP值",
+        "analyze": "[sprite name=iconHit]每造成{0}次[color=#52a5f2]攻击伤害[/color]，[color=#52a5f2]己方[/color]下只精灵[color=#57c975]出战时[/color]恢复{1}点PP值",
         "info": "每造成{0}次攻击伤害，己方下只精灵出战时恢复{1}点PP值",
         "param": [],
         "args_num": 2,
@@ -21927,7 +21927,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]未[color=#57c975]击败[/color]对手时恢复[color=#52a5f2]当回合(411)[/color]所造成攻击伤害的{0}%的体力，若未造成攻击伤害则对手{1}回合内无法[color=#52a5f2]主动切换[/color]精灵",
+        "analyze": "[sprite name=iconHit]未[color=#57c975]击败[/color]对手时恢复[color=#52a5f2]当回合(411)[/color]所造成[color=#52a5f2]攻击伤害[/color]的{0}%的体力，若未造成[color=#52a5f2]攻击伤害[/color]则对手{1}回合内无法[color=#52a5f2]主动切换[/color]精灵",
         "info": "未击败对手时恢复当回合所造成攻击伤害的{0}%的体力，若未造成攻击伤害则对手{1}回合内无法主动切换精灵",
         "param": [],
         "args_num": 2,
@@ -21936,7 +21936,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconInherent]自身免疫并反弹受到的[color=#57c975]睡眠[/color]、[color=#57c975]疲惫[/color]状态，反弹成功时本次在场自身专属特性中的“受到的攻击伤害减少”改为“造成的攻击伤害提升”",
+        "analyze": "[sprite name=iconInherent]自身免疫并反弹受到的[color=#57c975]睡眠[/color]、[color=#57c975]疲惫[/color]状态，反弹成功时本次在场自身专属特性中的“受到的[color=#52a5f2]攻击伤害[/color]减少”改为“造成的[color=#52a5f2]攻击伤害[/color]提升”",
         "info": "自身免疫并反弹受到的睡眠、疲惫状态，反弹成功时本次在场自身专属特性中的“受到的攻击伤害减少”改为“造成的攻击伤害提升”",
         "param": [],
         "args_num": 0,
@@ -22117,7 +22117,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]与对手交换自身低于对手的能力等级，[color=#52a5f2]然后[/color]若对手处于能力下降状态则自身免疫下{0}次受到的攻击，若自身处于能力提升状态则自身下回合造成的攻击伤害提升{1}%",
+        "analyze": "[sprite name=iconHit]与对手交换自身低于对手的能力等级，[color=#52a5f2]然后[/color]若对手处于能力下降状态则自身免疫下{0}次受到的攻击，若自身处于能力提升状态则自身下回合造成的[color=#52a5f2]攻击伤害[/color]提升{1}%",
         "info": "与对手交换自身低于对手的能力等级，然后若对手处于能力下降状态则自身免疫下{0}次受到的攻击，若自身处于能力提升状态则自身下回合造成的攻击伤害提升{1}%",
         "param": [],
         "args_num": 2,
@@ -22198,8 +22198,8 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]",
-        "info": "",
+        "analyze": "[sprite name=iconInherent]自身每获得1层[color=#f35555]神途之熠[/color]，此技能拥有[color=#f35555]辟邪斩[/color]、[color=#f35555]圣世锋芒斩[/color]、[color=#f35555]神圣领域[/color]、[color=#f35555]诛魔杀阵[/color]、[color=#f35555]光辉审判[/color]、[color=#f35555]王凌盛世[/color]、[color=#f35555]神诏之救赎[/color]中前1个技能的效果与25%的威力值",
+        "info": "自身每获得1层神途之熠，此技能拥有辟邪斩、圣世锋芒斩、神圣领域、诛魔杀阵、光辉审判、王凌盛世、神诏之救赎中前1个技能的效果与25%的威力值",
         "param": [],
         "args_num": 0,
         "id": 2468,
@@ -22397,7 +22397,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手每处于{0}项异常状态造成的攻击伤害额外提升{1}%",
+        "analyze": "[sprite name=iconHit]对手每处于{0}项异常状态造成的[color=#52a5f2]攻击伤害[/color]额外提升{1}%",
         "info": "对手每处于{0}项异常状态造成的攻击伤害额外提升{1}%",
         "param": [],
         "args_num": 2,
@@ -22469,7 +22469,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]若自身于上回合受到了攻击伤害则附加{0}点的{1}系伤害，此攻击伤害对应的攻击值每有{2}点效果翻倍{3}次",
+        "analyze": "[sprite name=iconHit]若自身于上回合受到了[color=#52a5f2]攻击伤害[/color]则附加{0}点的{1}系伤害，此[color=#52a5f2]攻击伤害[/color]对应的攻击值每有{2}点效果翻倍{3}次",
         "info": "若自身于上回合受到了攻击伤害则附加{0}点的{1}系伤害，此攻击伤害对应的攻击值每有{2}点效果翻倍{3}次",
         "param": [
           22,
@@ -22482,7 +22482,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]若自身未于上回合受到攻击伤害则获得自身最大体力的{0}%的[color=#57c975]护盾[/color]、[color=#57c975]护罩[/color]",
+        "analyze": "[sprite name=iconHit]若自身未于上回合受到[color=#52a5f2]攻击伤害[/color]则获得自身最大体力的{0}%的[color=#57c975]护盾[/color]、[color=#57c975]护罩[/color]",
         "info": "若自身未于上回合受到攻击伤害则获得自身最大体力的{0}%的护盾、护罩",
         "param": [],
         "args_num": 1,
@@ -22491,7 +22491,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的攻击伤害为0时，若自身体力低于对手则与对手交换体力",
+        "analyze": "[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]为0时，若自身体力低于对手则与对手交换体力",
         "info": "造成的攻击伤害为0时，若自身体力低于对手则与对手交换体力",
         "param": [],
         "args_num": 0,
@@ -22525,7 +22525,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconInherent]无视双方的能力提升、下降效果，无视成功则[color=#52a5f2]当回合[/color]造成的攻击伤害提升100%",
+        "analyze": "[sprite name=iconInherent]无视双方的能力提升、下降效果，无视成功则[color=#52a5f2]当回合[/color]造成的[color=#52a5f2]攻击伤害[/color]提升100%",
         "info": "无视双方的能力提升、下降效果，无视成功则当回合造成的攻击伤害提升100%",
         "param": [],
         "args_num": 0,
@@ -22561,7 +22561,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手处于骑士决斗类状态时，[color=#52a5f2]当回合[/color]无视对手的攻击伤害减少类效果",
+        "analyze": "[sprite name=iconHit]对手处于骑士决斗类状态时，[color=#52a5f2]当回合[/color]无视对手的[color=#52a5f2]攻击伤害[/color]减少类效果",
         "info": "对手处于骑士决斗类状态时，当回合无视对手的攻击伤害减少类效果",
         "param": [],
         "args_num": 0,
@@ -22696,7 +22696,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手每处于1级能力下降状态，当回合对手造成的攻击伤害减少{0}%，最高{1}%",
+        "analyze": "[sprite name=iconHit]对手每处于1级能力下降状态，当回合对手造成的[color=#52a5f2]攻击伤害[/color]减少{0}%，最高{1}%",
         "info": "对手每处于1级能力下降状态，当回合对手造成的攻击伤害减少{0}%，最高{1}%",
         "param": [],
         "args_num": 2,
@@ -22839,7 +22839,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]场上每有1种[color=#f35555]五行印记[/color]，自身造成的攻击伤害提升{0}%",
+        "analyze": "[sprite name=iconHit]场上每有1种[color=#f35555]五行印记[/color]，自身造成的[color=#52a5f2]攻击伤害[/color]提升{0}%",
         "info": "场上每有1种五行印记，自身造成的攻击伤害提升{0}%",
         "param": [],
         "args_num": 1,
@@ -22870,7 +22870,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconInherent][color=#52a5f2]己方[/color]拥有[color=#f35555]蜃都之序[/color]时，若[color=#52a5f2]己方[/color][color=#f35555]蜃都之序[/color]的转化顺序位于[color=#f35555]蜃都之理[/color]之后则[color=#57c975]不受PP值限制[/color]",
+        "analyze": "[sprite name=iconInherent][color=#52a5f2]己方[/color]拥有[color=#f35555]蜃都之序[/color]时，若[color=#52a5f2]己方[/color][color=#f35555]蜃都之序[/color]的转化顺序位于[color=#f35555]蜃都之理[/color]之后则[color=#52a5f2]不受PP值限制[/color]",
         "info": "己方拥有蜃都之序时，若己方蜃都之序的转化顺序位于蜃都之理之后则不受PP值限制",
         "param": [],
         "args_num": 0,
@@ -22915,7 +22915,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconInherent]自身处于领域效果时使用技能不受PP值限制，对手无法通过技能恢复PP值",
+        "analyze": "[sprite name=iconInherent]自身处于领域效果时使用技能[color=#52a5f2]不受PP值限制[/color]，对手无法通过技能恢复PP值",
         "info": "自身处于领域效果时使用技能不受PP值限制，对手无法通过技能恢复PP值",
         "param": [],
         "args_num": 0,
@@ -23013,7 +23013,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]先出手时{0}%令对手{1}，[color=#52a5f2]未触发[/color]则[color=#52a5f2]当回合[/color]受到的攻击伤害减少{2}%",
+        "analyze": "[sprite name=iconHit]先出手时{0}%令对手{1}，[color=#52a5f2]未触发[/color]则[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]攻击伤害[/color]减少{2}%",
         "info": "先出手时{0}%令对手{1}，未触发则当回合受到的攻击伤害减少{2}%",
         "param": [
           1,
@@ -23414,7 +23414,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]先出手时造成的攻击伤害提升{0}%，自身每[color=#52a5f2]出战[/color]{1}次，效果减少{2}%，最低{3}%",
+        "analyze": "[sprite name=iconHit]先出手时造成的[color=#52a5f2]攻击伤害[/color]提升{0}%，自身每[color=#52a5f2]出战[/color]{1}次，效果减少{2}%，最低{3}%",
         "info": "先出手时造成的攻击伤害提升{0}%，自身每出战{1}次，效果减少{2}%，最低{3}%",
         "param": [],
         "args_num": 4,
@@ -23441,7 +23441,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]未[color=#57c975]击败[/color]对手则恢复自身所有技能{0}点PP值且1回合内造成的攻击伤害提升{1}%",
+        "analyze": "[sprite name=iconHit]未[color=#57c975]击败[/color]对手则恢复自身所有技能{0}点PP值且1回合内造成的[color=#52a5f2]攻击伤害[/color]提升{1}%",
         "info": "未击败对手则恢复自身所有技能{0}点PP值且1回合内造成的攻击伤害提升{1}%",
         "param": [],
         "args_num": 2,
@@ -23450,7 +23450,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]未造成攻击伤害时附加{0}{1}值的[color=#52a5f2]固定伤害[/color]",
+        "analyze": "[sprite name=iconHit]未造成[color=#52a5f2]攻击伤害[/color]时附加{0}{1}值的[color=#52a5f2]固定伤害[/color]",
         "info": "未造成攻击伤害时附加{0}{1}值的固定伤害",
         "param": [
           4,
@@ -23562,6 +23562,229 @@
         ],
         "args_num": 3,
         "id": 2601,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]，消除成功则令对手[color=#57c975]{0}[/color]，若对手回合类效果无法被消除则令对手{1}回合内无法行动",
+        "info": "消除对手回合类效果，消除成功则令对手{0}，若对手回合类效果无法被消除则令对手{1}回合内无法行动",
+        "param": [
+          1,
+          0,
+          0
+        ],
+        "args_num": 2,
+        "id": 2602,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]自身为神灵系时，此技能[color=#52a5f2]转化(357)[/color]为神灵系且无视对手[color=#52a5f2]先制[/color]等级",
+        "info": "自身为神灵系时，此技能转化为神灵系且无视对手先制等级",
+        "param": [],
+        "args_num": 0,
+        "id": 2603,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]自身为神灵系时，此技能[color=#52a5f2]转化(357)[/color]为神灵系且无视对手[color=#52a5f2]攻击伤害减少[/color]效果",
+        "info": "自身为神灵系时，此技能转化为神灵系且无视对手攻击伤害减少效果",
+        "param": [],
+        "args_num": 0,
+        "id": 2604,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]自身为神灵系时，此技能[color=#52a5f2]转化(357)[/color]为神灵系且选择[color=#52a5f2]不受PP值限制[/color]，自身不为神灵系时，若己方[color=#f35555]神魂之器[/color]中的记录数大于1，则视为自身受到1次[color=#52a5f2]致死伤害[/color]",
+        "info": "自身为神灵系时，此技能转化为神灵系且选择不受PP值限制，自身不为神灵系时，若己方神魂之器中的记录数大于1，则视为自身受到1次致死伤害",
+        "param": [],
+        "args_num": 0,
+        "id": 2605,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]若{0}{1}[color=#52a5f2]异常状态免疫效果[/color]，则令对手[color=#57c975]{2}[/color]",
+        "info": "若{0}{1}异常状态免疫效果，则令对手{2}",
+        "param": [
+          4,
+          0,
+          0,
+          35,
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
+        "args_num": 3,
+        "id": 2606,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]若{0}{1}[color=#52a5f2]能力下降状态免疫效果[/color]，则令对手[color=#52a5f2]全属性[/color]-{2}",
+        "info": "若{0}{1}能力下降状态免疫效果，则令对手全属性-{2}",
+        "param": [
+          4,
+          0,
+          0,
+          35,
+          1,
+          1
+        ],
+        "args_num": 3,
+        "id": 2607,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]若{0}{1}[color=#52a5f2]固定伤害免疫效果[/color]，则附加{2}点[color=#52a5f2]固定伤害[/color]",
+        "info": "若{0}{1}固定伤害免疫效果，则附加{2}点固定伤害",
+        "param": [
+          4,
+          0,
+          0,
+          35,
+          1,
+          1
+        ],
+        "args_num": 3,
+        "id": 2608,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]若{0}{1}[color=#52a5f2]百分比伤害免疫效果[/color]，则附加对手最大体力{2}%的[color=#52a5f2]百分比伤害[/color]",
+        "info": "若{0}{1}百分比伤害免疫效果，则附加对手最大体力{2}%的百分比伤害",
+        "param": [
+          4,
+          0,
+          0,
+          35,
+          1,
+          1
+        ],
+        "args_num": 3,
+        "id": 2609,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]自身可以储存7层[color=#f35555]神途之熠[/color]，自身受到[color=#52a5f2]致死伤害[/color]时，获得1层[color=#f35555]神途之熠[/color]",
+        "info": "自身可以储存7层神途之熠，自身受到致死伤害时，获得1层神途之熠",
+        "param": [],
+        "args_num": 0,
+        "id": 2610,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]本场战斗首次生效时，自身获得2层[color=#f35555]神途之熠[/color]",
+        "info": "本场战斗首次生效时，自身获得2层神途之熠",
+        "param": [],
+        "args_num": 0,
+        "id": 2611,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]消除双方能力提升、下降状态，每消除{0}种能力的状态，附加{1}点[color=#52a5f2]固定伤害[/color]",
+        "info": "消除双方能力提升、下降状态，每消除{0}种能力的状态，附加{1}点固定伤害",
+        "param": [],
+        "args_num": 2,
+        "id": 2612,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]恢复自身最大体力的1/{0}，体力少于1/{1}时恢复效果翻倍，自身体力为满时改为恢复[color=#52a5f2]己方[/color]所有精灵{2}点体力",
+        "info": "恢复自身最大体力的1/{0}，体力少于1/{1}时恢复效果翻倍，自身体力为满时改为恢复己方所有精灵{2}点体力",
+        "param": [],
+        "args_num": 3,
+        "id": 2613,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]造成的[color=#52a5f2]攻击伤害[/color]不低于180",
+        "info": "造成的攻击伤害不低于180",
+        "param": [],
+        "args_num": 0,
+        "id": 2614,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]{0}回合内{1}%闪避对手攻击，对手攻击技能命中时令对手[color=#57c975]{2}[/color]",
+        "info": "{0}回合内{1}%闪避对手攻击，对手攻击技能命中时令对手{2}",
+        "param": [
+          1,
+          2,
+          2
+        ],
+        "args_num": 3,
+        "id": 2615,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，未触发则对手{2}回合内属性技能无效",
+        "info": "{0}%令对手{1}，未触发则对手{2}回合内属性技能无效",
+        "param": [
+          1,
+          1,
+          1
+        ],
+        "args_num": 3,
+        "id": 2616,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]本场战斗首次生效时，自身获得2层[color=#f35555]神途之熠[/color]",
+        "info": "本场战斗首次生效时，自身获得2层神途之熠",
+        "param": [],
+        "args_num": 0,
+        "id": 2617,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]本场战斗首次生效时，自身获得2层[color=#f35555]神途之熠[/color]",
+        "info": "本场战斗首次生效时，自身获得2层神途之熠",
+        "param": [],
+        "args_num": 0,
+        "id": 2618,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]未打出致命一击则恢复自身最大体力的1/{0}",
+        "info": "未打出致命一击则恢复自身最大体力的1/{0}",
+        "param": [],
+        "args_num": 1,
+        "id": 2619,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]击败对手时，自身获得2层[color=#f35555]神途之熠[/color]",
+        "info": "击败对手时，自身获得2层神途之熠",
+        "param": [],
+        "args_num": 0,
+        "id": 2620,
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]全属性+{0}，双方任意一方处于异常状态则效果翻倍并解除自身所处的异常状态",
+        "info": "全属性+{0}，双方任意一方处于异常状态则效果翻倍并解除自身所处的异常状态",
+        "param": [],
+        "args_num": 1,
+        "id": 2621,
         "key": "",
         "type": 0
       }
@@ -23706,6 +23929,10 @@
       {
         "id": 34,
         "params": "点固定伤害，若自身体力低于对手则效果翻倍（boss有效）|%对手最大体力的百分比伤害，若自身体力低于对手则效果翻倍"
+      },
+      {
+        "id": 35,
+        "params": "处于|不处于"
       }
     ]
   }

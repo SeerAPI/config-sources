@@ -8484,6 +8484,20 @@
         "rarity": 2,
         "effect_id": 2157,
         "show": 1
+      },
+      {
+        "id": 2400611,
+        "monster_id": 4964,
+        "move_id": 38629,
+        "moves_consume": 100,
+        "needmon_id": 0,
+        "new_se_idx": 6464,
+        "new_se_consume": 200,
+        "pet_consume": 400,
+        "pet_limit": 1,
+        "rarity": 2,
+        "effect_id": 2163,
+        "show": 1
       }
     ]
   }

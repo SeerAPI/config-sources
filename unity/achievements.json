@@ -2436,6 +2436,20 @@
                     "id": 27,
                     "proicon": 1524,
                     "spe_name_bonus": 608
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "圣光审判者",
+                    "desc": "完成【不熄圣光】系列剧情",
+                    "threshold": "28",
+                    "title": "圣光审判者",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 28,
+                    "proicon": 1533,
+                    "spe_name_bonus": 612
                   }
                 ],
                 "id": 161,
