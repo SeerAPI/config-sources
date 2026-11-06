@@ -3024,7 +3024,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="28"/>
 	</Skin>	
 
-	<Skin ID="885" MonID="4215" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="坎贝尔" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+	<Skin ID="885" MonID="4215" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="坎贝尔" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
@@ -3036,9 +3036,18 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="28"/>
 	</Skin>	
 	
-	
-	
-	
+	<Skin ID="888" MonID="3311" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="小小灵神" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114184">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
+	<Skin ID="889" MonID="3311" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="曙光星律·圣光灵神" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114183">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
+	<Skin ID="890" MonID="4663" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="墨意千峰·关银屏" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
 	
 	
 	

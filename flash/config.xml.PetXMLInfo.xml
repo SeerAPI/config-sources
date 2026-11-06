@@ -62694,10 +62694,17 @@
 		  <Move ID="30467" LearningLv="73"/>
 	      <Move ID="25339" LearningLv="74" Rec="1"/>
 	      <Move ID="30468" LearningLv="75" Rec="1"/>
+		  <AdvMove ID="38633" Tag="1"/>
+		  <AdvMove ID="29506" Tag="2"/>
+		  <AdvMove ID="29507" Tag="3"/>
+		  <AdvMove ID="38634" Tag="4"/>
 </LearnableMoves>
 <ExtraMoves>
 		  <Move ID="30469" LearningLv="76"/>
 </ExtraMoves>
+<SpExtraMoves>
+		  <Move ID="38635" LearningLv="76"/>
+</SpExtraMoves>
 </Monster>
 
 <Monster ID="3312" DefName="魔君索伦森" Type="89" GrowthType="5" HP="160" Atk="70" Def="119" SpAtk="140" SpDef="117" Spd="126" YieldingExp="130" CatchRate="0" YieldingEV="0 0 0 1 0 1" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="1982" FormParam="1" CharacterAttrParam="4" GradeParam="5" AddSeParam="1" Resist="1">
@@ -103726,6 +103733,31 @@
 		</ExtraMoves>
 	</Monster>
 	
+	<Monster ID="4964" DefName="伊娜" Type="54" GrowthType="4" HP="163" Atk="70" Def="112" SpAtk="144" SpDef="112" Spd="134" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="2" PetClass="3625" FormParam="0" CharacterAttrParam="4" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10086" LearningLv="1"/>
+			<Move ID="20302" LearningLv="5"/>
+			<Move ID="10287" LearningLv="9"/>
+			<Move ID="10194" LearningLv="13"/>
+			<Move ID="20135" LearningLv="17"/>
+			<Move ID="38627" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="10148" LearningLv="25"/>
+			<Move ID="20631" LearningLv="29"/>
+			<Move ID="14384" LearningLv="33"/>
+			<Move ID="15839" LearningLv="37"/>
+			<Move ID="23216" LearningLv="41"/>
+			<Move ID="36321" LearningLv="45"/>
+			<Move ID="29504" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="36322" LearningLv="53"/>
+			<Move ID="29505" LearningLv="57" Rec="1" Tag="3"/>
+			<Move ID="38628" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38629" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+
+	
 	<Monster ID="4995" DefName="镇世神岳·玄武" Type="37" GrowthType="4" HP="125" Atk="100" Def="120" SpAtk="95" SpDef="120" Spd="90" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3656" FormParam="0" CharacterAttrParam="0" GradeParam="5" AddSeParam="1" Resist="1">
 		<LearnableMoves>
 			<Move ID="11141" LearningLv="1"/>
@@ -103788,6 +103820,39 @@
 		  <Move ID="31143" LearningLv="81"/>
 </ExtraMoves>
 </Monster>
+
+<Monster ID="13311" DefName="圣光灵神SP" Type="65" GrowthType="5" HP="180" Atk="160" Def="120" SpAtk="80" SpDef="120" Spd="140" YieldingExp="130" CatchRate="0" YieldingEV="0 1 0 0 0 1" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="1981" FormParam="1" CharacterAttrParam="0" GradeParam="5" AddSeParam="1" Resist="1">
+<LearnableMoves>
+		  <Move ID="12897" LearningLv="1"/>
+		  <Move ID="21506" LearningLv="5"/>
+		  <Move ID="12898" LearningLv="9"/>
+		  <Move ID="12903" LearningLv="13"/>
+		  <Move ID="20307" LearningLv="17"/>
+		  <Move ID="16684" LearningLv="21"/>
+		  <Move ID="14733" LearningLv="25"/>
+		  <Move ID="22358" LearningLv="29"/>
+		  <Move ID="14730" LearningLv="33"/>
+		  <Move ID="16685" LearningLv="37"/>
+		  <Move ID="23685" LearningLv="41"/>
+		  <Move ID="16686" LearningLv="45"/>
+		  <Move ID="23686" LearningLv="49"/>
+		  <Move ID="16687" LearningLv="53"/>
+		  <Move ID="23687" LearningLv="57"/>
+		  <Move ID="16688" LearningLv="61"/>
+	      <Move ID="23800" LearningLv="63"/>
+	      <Move ID="23771" LearningLv="65"/>
+	      <Move ID="38624" LearningLv="66"/>
+	      <Move ID="29502" LearningLv="67"/>
+	      <Move ID="29503" LearningLv="68"/>
+	      <Move ID="38625" LearningLv="69"/>
+
+</LearnableMoves>
+<ExtraMoves>
+		  <Move ID="38626" LearningLv="71"/>
+</ExtraMoves>
+</Monster>
+
+
 
 
 
@@ -117142,6 +117207,9 @@
   <Monster ID="1400885" DefName="坎贝尔" RealId="1804"/>
   <Monster ID="1400886" DefName="灵祈万象·武心婵" RealId=""/>
   <Monster ID="1400887" DefName="圣贯宙合·赵云" RealId=""/>
+  <Monster ID="1400888" DefName="小小灵神" RealId=""/>
+  <Monster ID="1400889" DefName="曙光星律·圣光灵神" RealId=""/>
+  <Monster ID="1400890" DefName="墨意千峰·关银屏" RealId=""/>
 
 </Monsters>
 

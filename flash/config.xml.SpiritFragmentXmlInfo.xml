@@ -608,5 +608,6 @@
 	<Fragment ID="2400608" show="1" Name="凌波清芙因子" MonsterID="3888" Rarity="4" PetLimit="0" PetConsume="1000" NewSeIdx="3239" effectId="1157" NewseConsume="500" MoveID="33416" MovesConsume="200" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
 	<Fragment ID="2400609" show="1" Name="凯亚因子" MonsterID="4957" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6456" effectId="2154" NewseConsume="200" MoveID="38602" MovesConsume="100" NeedmonID="0" NewMsglogId="2610220900" SeMsglog="2610220901" EffectMsglog="2610220902"/>
 	<Fragment ID="2400610" show="1" Name="塔尼瓦因子" MonsterID="4960" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6460" effectId="2157" NewseConsume="200" MoveID="38611" MovesConsume="100" NeedmonID="0" NewMsglogId="2610290600" SeMsglog="2610290601" EffectMsglog="2610290602"/>
+	<Fragment ID="2400611" show="1" Name="伊娜因子" MonsterID="4964" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6464" effectId="2163" NewseConsume="200" MoveID="38629" MovesConsume="100" NeedmonID="0" NewMsglogId="2611050500" SeMsglog="2611050501" EffectMsglog="2611050502"/>
 	
 </Root>

@@ -304,6 +304,7 @@
 				<Rule ID="25" Threshold="25" AchievementPoint="10" icon="1" achName="波卢卡的火炬" proicon="1487" SpeNameBonus="585" title="自由之潮" Desc="完成主线【自由之潮】获得" titleColor="0xFFFFFF"/>
 				<Rule ID="26" Threshold="26" AchievementPoint="10" icon="1" achName="往日之殇" proicon="1499" SpeNameBonus="596" title="往日之殇" Desc="完成主线【黄金的万象-往日荣耀】获得" titleColor="0xFFFFFF"/>
 				<Rule ID="27" Threshold="27" AchievementPoint="10" icon="1" achName="灵渊守护者" proicon="1524" SpeNameBonus="608" title="灵渊守护者" Desc="完成主线【灵渊的回响】获得" titleColor="0xFFFFFF"/>
+				<Rule ID="28" Threshold="28" AchievementPoint="10" icon="1" achName="圣光审判者" proicon="1533" SpeNameBonus="612" title="圣光审判者" Desc="完成【不熄圣光】系列剧情" titleColor="0xFFFFFF"/>
 			</Branch>
 
 		</Branches>

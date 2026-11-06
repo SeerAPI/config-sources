@@ -290,6 +290,11 @@
 	<ShowMoves id="10095" monster="3432" monstername="柯尔霍德" moves="38552" movesname="王·宿世归泯" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="2"/>
 	<ShowMoves id="10096" monster="3432" monstername="柯尔霍德" moves="38553" movesname="王·天衍星霜" item="0" itemname="完成精灵觉醒" itemnumber="0" itemtips="" movetype="1"/>
 
+	<ShowMoves id="10097" monster="3311" monstername="圣光灵神" moves="38633" movesname="盛凌" item="0" itemname="完成能力强化" itemnumber="295001" itemtips="" movetype="2"/>
+	<ShowMoves id="10098" monster="3311" monstername="圣光灵神" moves="29506" movesname="谳世还生" item="0" itemname="完成能力强化" itemnumber="295001" itemtips="" movetype="2"/>
+	<ShowMoves id="10099" monster="3311" monstername="圣光灵神" moves="29507" movesname="诸魔挽章" item="0" itemname="完成能力强化" itemnumber="295001" itemtips="" movetype="2"/>
+	<ShowMoves id="10100" monster="3311" monstername="圣光灵神" moves="38634" movesname="众我的凯歌" item="0" itemname="完成能力强化" itemnumber="295001" itemtips="" movetype="2"/>
+	<ShowMoves id="10101" monster="3311" monstername="圣光灵神" moves="38635" movesname="神诏之诀别" item="0" itemname="完成能力强化" itemnumber="295001" itemtips="" movetype="1"/>
 
 
 
