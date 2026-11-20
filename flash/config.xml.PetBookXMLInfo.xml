@@ -213,9 +213,9 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4965" ImageID= "4965" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4966" ImageID= "4966" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4967" ImageID= "4967" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "0" ID="4968" ImageID= "4968" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4969" ImageID= "4969" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <!-- <place type= "0" ID="4967" ImageID= "4967" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4962" ImageID= "4962" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4963" ImageID= "4963" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,9 +255,9 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="891" monID="4355" ImageID= "1400891" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <!-- <place type= "1" ID="889" monID="3311" ImageID= "1400889" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
-	  <!-- <place type= "1" ID="890" monID="4663" ImageID= "1400890" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "1" ID="892" monID="4969" ImageID= "1400892" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="893" monID="3396" ImageID= "1400893" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "1" ID="894" monID="3613" ImageID= "1400894" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "1" ID="882" monID="4353" ImageID= "1400882" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="847" monID="4911" ImageID= "1400846" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="842" monID="4909" ImageID= "1400842" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -5267,6 +5267,8 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4965" DefName="沙罗摩奥" Type="火 暗影" Height="156" Weight="96" Features="沙罗摩奥与瓦坎相依为命，他们俩如同形影不离的兄弟。这只蜥蜴的力量不容小觑，就和它的主人一样，隐藏着自己真正的实力。"  Redirect="module" Go="app/FinalActivityPanel" Target="153201/1032"/>
 	<Monster ID="4966" DefName="普卡" Type="次元" Height="62" Weight="26" Features="神流的神秘小精灵，据说是用来特殊召唤赛尔的。普卡卷成了一个圈的样子，那个小圈似乎连通着另一个世界。"  Redirect="module" Go="app/FinalActivityPanel" Target="170000"/>
 	<Monster ID="4967" DefName="米铃" Type="飞行 神秘" Height="145" Weight="37" Features="星愿投递局里最忙碌的小信使，总是抱着比自己准备得还充分的邮包出发。虽然偶尔认错路、跑掉帽子，但每当有人等待来信，米铃都会认真地说：“请再等一下，我马上就到！”"  Redirect="module" Go="app/FinalActivityPanel" Target="114185"/>
+	<Monster ID="4968" DefName="瓦坎" Type="神秘 战斗" Height="185" Weight="67" Features="瓦坎是马努湾海瓦斗技的明星斗士，为人散漫，嘴上没个正经，但实力却深不见底。他的过去，鲜为人知。"  Redirect="module" Go="app/FinalActivityPanel" Target="153201/1035"/>
+	<Monster ID="4969" DefName="米铃娜" Type="飞行 神秘" Height="165" Weight="46" Features="穿行于星际邮路的可靠信使，熟悉不同星球的方向，也记得每一份托付的重量。当米铃娜带着邮宠出现在约定的地方，那句温和的“久等了”，总能让等待的人放下心来。"  Redirect="module" Go="app/FinalActivityPanel" Target="114187"/>
 
 	
 	<Monster ID="4995" DefName="镇世神岳·玄武" Type="机械 地面" Height="380" Weight="1500" Features="玄武，帕诺的远古神兽、大地的守护者——他曾以伟岸之躯抵御世间最凶猛的灾厄，碎为戈拉后以钢铁新壳归来，仍在守护帕诺之夜。" Redirect="module" Go="app/FinalActivityPanel" Target="150145"/>

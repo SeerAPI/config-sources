@@ -613,6 +613,7 @@
 	<Fragment ID="2400613" show="1" Name="亚伦德因子" MonsterID="3874" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="3224" effectId="1144" NewseConsume="200" MoveID="33342" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
 	<Fragment ID="2400614" show="1" Name="牧魂祭司因子" MonsterID="3474" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="2708" effectId="787" NewseConsume="200" MoveID="31313" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
 	<Fragment ID="2400615" show="1" Name="普卡因子" MonsterID="4966" Rarity="1" PetLimit="1" PetConsume="200" NewSeIdx="6469" effectId="2165" NewseConsume="100" MoveID="38643" MovesConsume="50" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+	<Fragment ID="2400616" show="1" Name="瓦坎因子" MonsterID="4968" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6472" effectId="2167" NewseConsume="200" MoveID="38655" MovesConsume="100" NeedmonID="0" NewMsglogId="2611190700" SeMsglog="2611190701" EffectMsglog="2611190702"/>
 	
 	
 </Root>

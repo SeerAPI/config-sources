@@ -613,7 +613,7 @@
 	<MintMark ID="20158" Type="1" Rare="1" MonsterID="763" Level="100" Max="99" Des="跳跃水波弹刻印" EffectDes="威力+10" Effect="101" Arg="10" Rarity="3" MoveID="11861"/>
 	<MintMark ID="20159" Type="1" Rare="1" MonsterID="765" Level="100" Max="99" Des="回旋击石刻印" EffectDes="连击次数+1" Effect="105" Arg="1" Rarity="3" MoveID="11864"/>
 	<MintMark ID="20160" Type="1" Rare="1" MonsterID="770" Level="100" Max="99" Des="遮云布刻印" EffectDes="附加消除对手能力强化效果" Effect="115" Rarity="3" MoveID="11874"/>
-	<MintMark ID="20161" Type="1" Rare="1" Level="100" Max="99" Des="思维停滞刻印" EffectDes="命中+10" Effect="104" Arg="1" Rarity="3" MoveID="20559"/>
+	<MintMark ID="20161" Type="1" Rare="1" Level="100" Max="99" Des="思维停滞刻印" EffectDes="命中+10" Effect="104" Arg="10" Rarity="3" MoveID="20559"/>
 	<MintMark ID="20162" Type="1" Rare="1" MonsterID="782" Level="100" Max="99" Des="冰冷支配刻印" EffectDes="必中" Effect="106" Rarity="3" MoveID="11894"/>
 	<MintMark ID="20163" Type="1" Rare="1" MonsterID="784" Level="100" Max="99" Des="切割之翼刻印" EffectDes="持续回合数+2" Effect="107" Arg="2" Rarity="3" MoveID="11896"/>
 	<MintMark ID="20164" Type="1" Rare="1" Level="100" Max="99" Des="水流喷射刻印" EffectDes="威力+20" Effect="101" Arg="20" Rarity="3" MoveID="10024"/>
@@ -947,9 +947,9 @@
 	<MintMark ID="20492" Type="1" Rare="1" MonsterID="2033 2575 2576" Level="100" Max="99" Des="幽光幻刺刻印" EffectDes="必中" Effect="106" Rarity="3" MoveID="14926"/>
 	<MintMark ID="20493" Type="1" Rare="1" MonsterID="2055" Level="100" Max="99" Des="混沌暗影刻印" EffectDes="先制+1" Effect="103" Arg="1" Rarity="3" MoveID="22712"/>
 	<MintMark ID="20494" Type="1" Rare="1" MonsterID="2045" Level="100" Max="99" Des="烈焰狂火击刻印" EffectDes="必中" Effect="106" Rarity="3" MoveID="14953"/>
-	<MintMark ID="20495" Type="1" Rare="1" MonsterID="2056" Level="100" Max="99" Des="超能反射刻印" EffectDes="回合数+1" Effect="107" Rarity="3" MoveID="22714"/>
+	<MintMark ID="20495" Type="1" Rare="1" MonsterID="2056" Level="100" Max="99" Des="超能反射刻印" EffectDes="回合数+1" Effect="107" Arg="1" Rarity="3" MoveID="22714"/>
 	<MintMark ID="20496" Type="1" Rare="1" MonsterID="2072" Level="100" Max="99" Des="神力碎土拳刻印" EffectDes="必中" Effect="106" Rarity="3" MoveID="15026"/>
-	<MintMark ID="20497" Type="1" Rare="1" MonsterID="2088" Level="100" Max="99" Des="断魂之地刻印" EffectDes="命中率提升10%" Effect="104" Rarity="3" MoveID="22766"/>
+	<MintMark ID="20497" Type="1" Rare="1" MonsterID="2088" Level="100" Max="99" Des="断魂之地刻印" EffectDes="命中率提升10%" Effect="104" Arg="10" Rarity="3" MoveID="22766"/>
 	<MintMark ID="20498" Type="1" Rare="1" MonsterID="2120" Level="100" Max="99" Des="灵焰洗礼刻印" EffectDes="必中" Effect="106" Rarity="3" MoveID="15158"/>
 	<MintMark ID="20499" Type="1" Rare="1" MonsterID="2001" Level="100" Max="99" Des="贯日破月击刻印" EffectDes="必中" Effect="106" Rarity="3" MoveID="15036"/>
 	<MintMark ID="20500" Type="1" Rare="1" MonsterID="2096" Level="100" Max="99" Des="末日镭射炮刻印" EffectDes="固定伤害+30" Effect="102" Arg="30" Rarity="3" MoveID="15098"/>
@@ -3830,7 +3830,16 @@
 	<MintMark ID="42731" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="6 3 0 3 3 9" MaxAttriValue="65 30 0 30 30 95" MonsterID="4947" Level="100" Max="99" Des="不灭战魂·盖亚专属全能刻印" EffectDes="攻击+6/65,防御+3/30,特防+3/30,速度+3/30,体力+9/95"/>
     <MintMark ID="42732" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 4 0 4 2 10" MaxAttriValue="40 45 0 45 20 100" MonsterID="4995" Level="100" Max="99" Des="镇世神岳·玄武专属全能刻印" EffectDes="攻击+4/40,防御+4/45,特防+4/45,速度+2/20,体力+10/100"/>
     <MintMark ID="42733" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 2 0 2 4 9" MaxAttriValue="55 25 0 25 40 95" MonsterID="4950" Level="100" Max="99" Des="帝皇之戎专属全能刻印" EffectDes="攻击5/55,防御2/25,特防2/25,速度4/40,体力9/95"/>
-	
+	<MintMark ID="42734" Type="3" Rare="5" Quality="3" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="7 0 0 0 4 10" MaxAttriValue="70 0 0 0 41 109" MintmarkClass="98" Level="100" Max="99" Des="圣光·诛魔" EffectDes="攻击7/70,速度4/41,体力10/109"/>
+	<MintMark ID="42735" Type="3" Rare="5" Quality="3" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 0 7 0 4 10" MaxAttriValue="0 0 70 0 41 109" MintmarkClass="98" Level="100" Max="99" Des="圣光·王凌" EffectDes="特攻7/70,速度4/41,体力10/109"/>
+	<MintMark ID="42736" Type="3" Rare="5" Quality="3" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="8 7 0 7 0 0" MaxAttriValue="80 70 0 70 0 0" MintmarkClass="98" Level="100" Max="99" Des="圣光·审判" EffectDes="攻击8/80,防御7/70,特防7/70"/>
+	<MintMark ID="42737" Type="3" Rare="5" Quality="3" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 7 8 7 0 0" MaxAttriValue="0 70 80 70 0 0" MintmarkClass="98" Level="100" Max="99" Des="圣光·裁决" EffectDes="防御7/70,特攻8/80,特防7/70"/>
+	<MintMark ID="42738" Type="3" Rare="5" Quality="3" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 7 0 0 4 10" MaxAttriValue="0 70 0 0 41 109" MintmarkClass="98" Level="100" Max="99" Des="圣光·天穹" EffectDes="防御7/70,速度4/41,体力10/109"/>
+	<MintMark ID="42739" Type="3" Rare="5" Quality="3" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 0 0 7 4 10" MaxAttriValue="0 0 0 70 41 109" MintmarkClass="98" Level="100" Max="99" Des="圣光·寰宇" EffectDes="特防7/70,速度4/41,体力10/109"/>
+	<MintMark ID="42740" Type="3" Rare="5" Quality="3" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 6 0 6 0 10" MaxAttriValue="0 60 0 60 0 100" MintmarkClass="98" Level="100" Max="99" Des="圣光·庇佑" EffectDes="防御6/60,特防6/60,体力10/100"/>
+	<MintMark ID="42741" Type="3" Rare="5" Quality="3" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 7 0 7 4 0" MaxAttriValue="0 70 0 70 41 0" MintmarkClass="98" Level="100" Max="99" Des="圣光·领域" EffectDes="防御7/70,特防7/70,速度4/41"/>
+    <MintMark ID="42742" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="7 3 0 3 3 10" MaxAttriValue="75 37 0 37 37 94" MintmarkClass="11" Level="100" Max="99" Des="V17·圣光" EffectDes="攻击7/75,防御3/37,特防3/37,速度3/37,体力9/94"/>
+
 
 
 
@@ -4045,6 +4054,7 @@
     <MintmarkClass ID="95" ClassName="薇系列" />
     <MintmarkClass ID="96" ClassName="黄金残影系列" />
     <MintmarkClass ID="97" ClassName="铠甲勇士系列" />
+    <MintmarkClass ID="98" ClassName="圣光系列" />
 
 	
 </MintMarks>

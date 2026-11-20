@@ -47,5 +47,6 @@ txType          2  直接弹框  Alarm 类型的弹框
     <errorpost id="1965117" event="0" txType="2" tx="出战阵容存在禁用池精灵，请调整阵容后再开始匹配。"/>
     <errorpost id="1965118" event="0" txType="2" tx="所需资源不足！"/>
     <errorpost id="1965119" event="0" txType="2" tx="尚有灾厄事件没有解决。"/>
+    <errorpost id="1965155" event="0" txType="2" tx="请选择拥有正确特性的精灵开启新技能"/>
 
 </root>

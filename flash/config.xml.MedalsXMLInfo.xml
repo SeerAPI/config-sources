@@ -19,7 +19,7 @@
 	<medal id="11" title="上校" achievepoint="8100" award="396" medalicon="11" provise="" rankeffect="effect11" titleeffect="title11"/>
 	<medal id="12" title="大校" achievepoint="10500" award="397" medalicon="12" provise="" rankeffect="effect12" titleeffect="title12"/>
 	<medal id="13" title="准将" achievepoint="12000" award="441" medalicon="13" provise="" rankeffect="effect13" titleeffect="title13"/>
-	<medal id="14" title="少将" achievepoint="100000000" award="" medalicon="14" provise="" rankeffect="effect14" titleeffect="title14" hide="1"/>
+	<medal id="14" title="少将" achievepoint="15000" award="482" medalicon="14" provise="" rankeffect="effect14" titleeffect="title14" />
 	<medal id="15" title="中将" achievepoint="100000000" award="" medalicon="15" provise="" rankeffect="effect15" titleeffect="title15" hide="1"/>
 	<medal id="16" title="上将" achievepoint="100000000" award="" medalicon="16" provise="" rankeffect="effect16" titleeffect="title16" hide="1"/>
 	<medal id="17" title="副元帅" achievepoint="100000000" award="" medalicon="" provise="" rankeffect="effect0" hide="1"/>

@@ -3001,7 +3001,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>	
 
 	<Skin ID="879" MonID="4956" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="四幕连环·珀萝" Go="app/FinalActivityPanel" GoType="module" Jumptarget="202000">
-		<SkinKind ID="1" Type="2" LifeTime="0" Year="2026"/>
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2026"/>
 	</Skin>	
 
 	<Skin ID="880" MonID="4816" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="苍蓝幻想·伊芙" Go="app/FinalActivityPanel" GoType="module" Jumptarget="204000">
@@ -3016,11 +3016,11 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
-	<Skin ID="883" MonID="4605" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="甘落清心·欧根尼克" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114153">
+	<Skin ID="883" MonID="4605" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="甘落清心·欧根尼克" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="28"/>
 	</Skin>	
 
-	<Skin ID="884" MonID="4468" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="鼎镇绛河·嬴政" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114153">
+	<Skin ID="884" MonID="4468" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="鼎镇绛河·嬴政" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="28"/>
 	</Skin>	
 
@@ -3028,15 +3028,15 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
-	<Skin ID="886" MonID="4500" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="灵祈万象·武心婵" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114178">
+	<Skin ID="886" MonID="4500" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="灵祈万象·武心婵" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="28"/>
 	</Skin>	
 	
-	<Skin ID="887" MonID="4421" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="圣贯宙合·赵云" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114178">
+	<Skin ID="887" MonID="4421" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="圣贯宙合·赵云" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="28"/>
 	</Skin>	
 	
-	<Skin ID="888" MonID="3311" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="小小灵神" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114184">
+	<Skin ID="888" MonID="3311" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="小小灵神" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
@@ -3044,7 +3044,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
-	<Skin ID="890" MonID="4663" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="墨意千峰·关银屏" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+	<Skin ID="890" MonID="4663" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="墨意千峰·关银屏" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
@@ -3052,8 +3052,18 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
+	<Skin ID="892" MonID="4969" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="星际信使·米铃娜" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114188">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
+	<Skin ID="893" MonID="3396" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="16" Name="夜宴余杯·潘多拉" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114190">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
 	
-	
+	<Skin ID="894" MonID="3613" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="茉蕊儿" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
 	
 	<!-- <Skin ID="000" MonID="000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="复制模版"> -->
 	<!-- <SkinKind ID="1" Type="2" LifeTime="0"/> -->

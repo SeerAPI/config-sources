@@ -24262,4 +24262,20 @@
 	<item icon="" itemID="1728624" price="30" vip="1" type="0" productType="-1" malldiscount="0" productID="262878" name="付费扫荡困难关卡（沙罗摩奥）"></item>
 	<item icon="" itemID="1728625" price="40" vip="1" type="0" productType="-1" malldiscount="0" productID="262879" name="付费扫荡地狱关卡（沙罗摩奥）"></item>
 	<item icon="" itemID="1728626" price="2" vip="1" type="0" productType="-1" malldiscount="0" productID="262880" name="购买获得沙罗摩奥因子"></item>
+	<item icon="" itemID="1728638" price="198" vip="1" type="0" productType="-1" malldiscount="0" productID="262881" name="购买圣光系列刻印"></item>
+	<item icon="" itemID="1728639" price="178" vip="1" type="0" productType="-1" malldiscount="0" productID="262882" name="VIP特惠购买圣光系列刻印"></item>
+	<item icon="" itemID="1728640" price="1" vip="1" type="0" productType="-1" malldiscount="0" productID="262883" name="购买限定皮肤单价"></item>
+	<item icon="" itemID="1728641" price="598" vip="1" type="0" productType="-1" malldiscount="0" productID="262884" name="一键获得夜宴余杯·潘多拉"></item>
+	<item icon="" itemID="1728642" price="498" vip="1" type="0" productType="-1" malldiscount="0" productID="262885" name="优惠获得夜宴余杯·潘多拉"></item>
+	<item icon="" itemID="1728643" price="598" vip="1" type="0" productType="-1" malldiscount="0" productID="262886" name="至尊获得精灵【瓦坎】"></item>
+	<item icon="" itemID="1728644" price="30" vip="1" type="0" productType="-1" malldiscount="0" productID="262887" name="购买每日挑战次数（瓦坎）"></item>
+	<item icon="" itemID="1728645" price="20" vip="1" type="0" productType="-1" malldiscount="0" productID="262888" name="付费扫荡简单关卡（瓦坎）"></item>
+	<item icon="" itemID="1728646" price="30" vip="1" type="0" productType="-1" malldiscount="0" productID="262889" name="付费扫荡困难关卡（瓦坎）"></item>
+	<item icon="" itemID="1728647" price="40" vip="1" type="0" productType="-1" malldiscount="0" productID="262890" name="付费扫荡地狱关卡（瓦坎）"></item>
+	<item icon="" itemID="1728648" price="2" vip="1" type="0" productType="-1" malldiscount="0" productID="262891" name="购买获得瓦坎因子"></item>
+	<item icon="" itemID="1728649" price="125" vip="1" type="0" productType="-1" malldiscount="0" productID="262892" name="钻石替代乐享币购买通用刻印激活水晶"></item>
+	<item icon="" itemID="1728650" price="80" vip="1" type="0" productType="-1" malldiscount="0" productID="262893" name="钻石替代乐享币购买石之砂"></item>
+	<item icon="" itemID="1728651" price="80" vip="1" type="0" productType="-1" malldiscount="0" productID="262894" name="钻石替代乐享币购买原核碎片"></item>
+	<item icon="" itemID="1728652" price="40" vip="1" type="0" productType="-1" malldiscount="0" productID="262895" name="钻石替代乐享币购买悲悯神石"></item>
+	<item icon="" itemID="1728653" price="20" vip="1" type="0" productType="-1" malldiscount="0" productID="262896" name="钻石替代乐享币购买特性重组剂"></item>
 </root>

@@ -237,13 +237,13 @@
 		
 		<Branches ID="9" Desc="成长之路">
 			<Branch ID="113" Desc="成长之路" introl="" proicon=""  type="2" isShowPro="1">
-			    <Rule ID="1" Threshold="5000" AchievementPoint="40"  achName="成长之路" Desc="击败5000只野生精灵（已绝版）" proicon="502" icon="5" SpeNameBonus="138" title="刷怪狂人"/>
+			    <Rule ID="1" Threshold="5000" AchievementPoint="40"  achName="刷怪狂人" Desc="成长之路击败5000只野生精灵" proicon="502" icon="5" SpeNameBonus="138" title="刷怪狂人"/>
 			</Branch>
 			<Branch ID="114" Desc="成长之路" introl="" proicon=""  type="2" isShowPro="1">
-			    <Rule ID="1" Threshold="800" AchievementPoint="40"  achName="成长之路" Desc="收集800种精灵（已绝版）" proicon="503" icon="5" SpeNameBonus="139" title="收集狂人"/>
+			    <Rule ID="1" Threshold="800" AchievementPoint="40"  achName="收集狂人" Desc="成长之路收集800种精灵" proicon="503" icon="5" SpeNameBonus="139" title="收集狂人"/>
 			</Branch>
 			<Branch ID="115" Desc="成长之路" introl="" proicon=""  type="2" isShowPro="1">
-			    <Rule ID="1" Threshold="50" AchievementPoint="20"  achName="成长之路" Desc="击败50种SPTBOSS（已绝版）" proicon="504" icon="4" SpeNameBonus="140" title="挑战先锋"/>
+			    <Rule ID="1" Threshold="50" AchievementPoint="20"  achName="挑战先锋" Desc="成长之路击败50种SPTBOSS" proicon="504" icon="4" SpeNameBonus="140" title="挑战先锋"/>
 			</Branch>
 			<Branch ID="144" Desc="2021年船员回归活动">			
 				<Rule ID="1" Threshold="1" AchievementPoint="15" achName="锋芒初现"  Desc="参与2021年船员回归活动获得" SpeNameBonus="362" title="锋芒初现" proicon="1197" icon="3" titleColor="0xFFFFFF"/>
@@ -339,6 +339,7 @@
 				<Rule ID="7" Threshold="7" AchievementPoint="20" achName="上校"  Desc="完成上校授勋" proicon="1145" icon="4" SpeNameBonus="319"  title="上校" titleColor="0xFFFFFF"/>
 				<Rule ID="8" Threshold="8" AchievementPoint="25" achName="大校"  Desc="完成大校授勋" proicon="1146" icon="7" SpeNameBonus="320"  title="大校" titleColor="0xFFFFFF"/>
 				<Rule ID="9" Threshold="9" AchievementPoint="25" achName="准将"  Desc="完成准将授勋" proicon="1309" icon="7" SpeNameBonus="473"  title="准将" titleColor="0xFFFFFF"/>
+				<Rule ID="10" Threshold="10" AchievementPoint="30" achName="少将"  Desc="完成少将授勋" proicon="1534" icon="3" SpeNameBonus="613"  title="少将" titleColor="0xFFFFFF"/>
 			</Branch>
 		</Branches>
 

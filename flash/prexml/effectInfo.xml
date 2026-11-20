@@ -29,7 +29,7 @@
  	<ParamType id="12" params="低于|高于" />
  	<ParamType id="13" params="轻微反击|反击|强力反击|超强反击|绝对反击|完美反击" desc="0轻微反击：使对手受到50点固定伤害，1反击：使对手受到100点固定伤害，2强力反击：使对手受到150点固定伤害，3超强反击：使对手受到200点固定伤害，4绝对反击：使对手受到250点固定伤害，5完美反击：使对手受到300点固定伤害" />
  	<ParamType id="14" params="0" desc="0|1|2|3|4|5|6|||||||当数值是正时添加+号" />
- 	<ParamType id="15" params="|物理|特殊||属性"/>
+ 	<ParamType id="15" params="|物理攻击|特殊攻击|攻击|属性"/><!-- 0表示所有技能 3表示攻击技能-->
 	<ParamType id="16" params="攻击|防御|特攻|特防|速度|命中" desc="+0"/>
 	<ParamType id="17" params="0|6.25|12.5|18.75|25|31.25|37.5|43.75|50|56.25|62.5|68.75|75|81.25|87.25|93.75|100" />
 	<ParamType id="18" params="1|2|3|4|5|6" />
@@ -360,7 +360,7 @@
 	<Effect id="516" argsNum="7" info="{0},体力值低于1/{6}时强化效果翻倍" param="0,0,0" analyze="[sprite name=iconHit]{0},体力值低于1/{6}时强化效果翻倍（boss有效）"/>
 	<Effect id="517" argsNum="3" info="{0}%概率使对手害怕，每损失{1}%体力，害怕概率提升{2}%" analyze="[sprite name=iconHit]{0}%概率使对手[color=#57c975]害怕[/color]，每损失{1}%体力，[color=#57c975]害怕[/color]概率提升{2}%（boss有效）"/>
 	<Effect id="518" argsNum="3" info="若伤害高于{0}，则自身{1}+{2}" param="2,1,1" analyze="[sprite name=iconHit]若伤害高于{0}，则自身{1}+{2}（boss有效）"/>
-	<Effect id="519" argsNum="2" info="{0}回合内自身每处于一种能力提升或下降状态时都会恢复{1}点体力" analyze="[sprite name=iconHit]{0}回合内自身每处于一种能力提升或下降状态时都会恢复{1}点体力（boss有效）"/>
+	<Effect id="519" argsNum="2" info="{0}回合内自身每处于1种能力提升或下降状态时都会恢复{1}点体力" analyze="[sprite name=iconHit]{0}回合内自身每处于1种能力提升或下降状态时都会恢复{1}点体力（boss有效）"/>
 	<Effect id="520" argsNum="1" info="有{0}%的概率使自己害怕" analyze="[sprite name=iconHit]有{0}%的概率使自己[color=#57c975]害怕[/color]（boss有效）"/>
 	<Effect id="521" argsNum="0" info="反转自身能力下降状态" analyze="[sprite name=iconHit]反转自身能力下降状态（boss有效）"/>
 	<Effect id="522" argsNum="2" info="{0}回合内若自身处于异常状态则受到伤害减少{1}点" analyze="[sprite name=iconHit]{0}回合内若自身处于异常状态则受到伤害减少{1}点（boss有效）"/>
@@ -383,7 +383,7 @@
 	<Effect id="539" argsNum="0" info="对手处于能力提升状态时先制额外+1且威力翻倍" analyze="[sprite name=iconComp]对手处于能力提升状态时[color=#52a5f2]先制[/color]额外+1且[color=#52a5f2]威力[/color]翻倍（boss有效）" type="3"/>
 	<Effect id="540" argsNum="1" info="若后出手则下{0}回合攻击必定致命一击" analyze="[sprite name=iconHit]若后出手则下{0}回合攻击必定[color=#52a5f2]致命一击[/color]（boss有效）"/>
 	<Effect id="541" argsNum="2" info="造成的攻击伤害若低于{0}则恢复自身{1}点体力" analyze="[sprite name=iconHit]造成的[color=#52a5f2]攻击伤害[/color]若低于{0}则恢复自身{1}点体力（boss有效）"/>
-	<Effect id="542" argsNum="1" info="对手每处于一种能力下降状态时附加{0}点固定伤害" analyze="[sprite name=iconHit]对手每处于一种能力下降状态时附加{0}点[color=#52a5f2]固定伤害[/color]（boss有效）"/>
+	<Effect id="542" argsNum="1" info="对手每处于1种能力下降状态时附加{0}点固定伤害" analyze="[sprite name=iconHit]对手每处于1种能力下降状态时附加{0}点[color=#52a5f2]固定伤害[/color]（boss有效）"/>
 	<Effect id="543" argsNum="1" info="增加致命一击的概率" analyze="[sprite name=iconInherent]增加[color=#52a5f2]致命一击[/color]的概率（boss有效）" type="1"/>
 	<Effect id="544" argsNum="0" info="解除自身的烧伤、冻伤、中毒状态" analyze="[sprite name=iconHit]解除自身的[color=#57c975]烧伤[/color]、[color=#57c975]冻伤[/color]、[color=#57c975]中毒[/color]状态（boss有效）"/>
 	<Effect id="545" argsNum="3" info="{0}回合内若受到伤害高于{1}则对手{2}" param="1,2,2" analyze="[sprite name=iconHit]{0}回合内若受到伤害高于{1}则对手[color=#57c975]{2}[/color]（boss有效）"/>
@@ -608,7 +608,7 @@
 	<Effect id="765" argsNum="1" info="{0}回合对手无法使自身能力出现提升状态" analyze="[sprite name=iconHit]{0}回合对手无法使自身能力出现提升状态"/>
 	<Effect id="766" argsNum="2" info="消除对手能力提升状态，消除成功则{0}回合内对手造成的攻击伤害不超过{1}点" analyze="[sprite name=iconHit]消除对手能力提升状态，消除成功则{0}回合内对手造成的[color=#52a5f2]攻击伤害[/color]不超过{1}点（boss有效）"/>
 	<Effect id="767" argsNum="2" info="{0}回合内每回合使用技能且出手流程结束后若对手处于能力下降状态则附加给对手{1}点固定伤害" analyze="[sprite name=iconHit]{0}回合内每回合使用技能且出手流程结束后若对手处于能力下降状态则附加给对手{1}点[color=#52a5f2]固定伤害[/color]（boss有效）"/>
-	<Effect id="768" argsNum="1" info="对手每处于一种异常状态则附加{0}点固定伤害" analyze="[sprite name=iconHit]对手每处于一种异常状态则附加{0}点[color=#52a5f2]固定伤害[/color]（boss有效）"/>
+	<Effect id="768" argsNum="1" info="对手每处于1种异常状态则附加{0}点固定伤害" analyze="[sprite name=iconHit]对手每处于1种异常状态则附加{0}点[color=#52a5f2]固定伤害[/color]（boss有效）"/>
 	<Effect id="769" argsNum="1" info="若对手不处于异常状态则造成的攻击伤害额外提升{0}%" analyze="[sprite name=iconHit]若对手不处于异常状态则造成的攻击[color=#52a5f2]伤害额外提升[/color]{0}%（boss有效）"/>
 	<Effect id="770" argsNum="0" info="若对手处于异常状态，则恢复自身全部体力" analyze="[sprite name=iconHit]若对手处于异常状态，则恢复自身全部体力（boss有效）"/>
 	<Effect id="771" argsNum="2" info="{0}回合内使用攻击技能{1}%随机附加1种异常状态" analyze="[sprite name=iconHit]{0}回合内使用攻击技能{1}%随机附加1种异常状态"/>
@@ -648,7 +648,7 @@
 	<Effect id="805" argsNum="1" info="消除对手能力提升状态，消除成功则令对手随机{0}项技能PP值归零" analyze="[sprite name=iconHit]消除对手能力提升状态（boss有效），消除成功则令对手随机{0}项技能PP值归零"/>
 	<Effect id="806" argsNum="2" info="{0}回合内若对手使用攻击技能则使用后令自身全属性+{1}" analyze="[sprite name=iconHit]{0}回合内若对手使用攻击技能则使用后令自身[color=#52a5f2]全属性[/color]+{1}"/>
 	<Effect id="807" argsNum="0" info="附加对手上次造成伤害数值的固定伤害" analyze="[sprite name=iconHit]附加对手上次造成伤害数值的[color=#52a5f2]固定伤害[/color]"/>
-	<Effect id="808" argsNum="1" info="自身每处于一种能力提升状态则附加{0}点固定伤害" analyze="[sprite name=iconHit]自身每处于一种能力提升状态则附加{0}点[color=#52a5f2]固定伤害[/color]"/>
+	<Effect id="808" argsNum="1" info="自身每处于1种能力提升状态则附加{0}点固定伤害" analyze="[sprite name=iconHit]自身每处于1种能力提升状态则附加{0}点[color=#52a5f2]固定伤害[/color]"/>
 	<Effect id="809" argsNum="0" info="使对手下次使用的攻击技能失效" analyze="[sprite name=iconHit]使对手下次使用的攻击技能失效"/>
 	<Effect id="810" argsNum="1" info="每次命中对手后此技能威力下降{0}点" analyze="[sprite name=iconHit]每次命中对手后此技能[color=#52a5f2]威力[/color]下降{0}点（boss有效）"/>
 	<Effect id="811" argsNum="0" info="使自身下次受到的伤害减少n点，n等于本回合自身造成的伤害" analyze="[sprite name=iconHit]使自身下次受到的伤害减少n点，n等于本回合自身造成的伤害（boss有效）"/>
@@ -687,7 +687,7 @@
 	<Effect id="845" argsNum="2" info="若自身当前体力高于最大体力的1/{0}则威力提升{1}%" analyze="[sprite name=iconHit]若自身当前体力高于最大体力的1/{0}则[color=#52a5f2]威力[/color]提升{1}%（boss有效）"/>
 	<Effect id="846" argsNum="2" info="{0}%随机附加{1}控制类异常状态" analyze="[sprite name=iconHit]{0}%随机附加{1}控制类异常状态（boss有效）"/>
 	<Effect id="847" argsNum="1" info="为自身附加{0}点护盾" analyze="[sprite name=iconHit]为自身附加{0}点[color=#57c975]护盾[/color]（boss有效）"/>
-	<Effect id="848" argsNum="1" info="对手每处于一种能力下降状态附加{0}点固定伤害" analyze="[sprite name=iconHit]对手每处于一种能力下降状态附加{0}点[color=#52a5f2]固定伤害[/color]（boss有效）"/>
+	<Effect id="848" argsNum="1" info="对手每处于1种能力下降状态附加{0}点固定伤害" analyze="[sprite name=iconHit]对手每处于1种能力下降状态附加{0}点[color=#52a5f2]固定伤害[/color]（boss有效）"/>
 	<Effect id="849" argsNum="2" info="{0}回合内每回合使用技能则造成伤害前随机吸取对手{1}项能力值-1" analyze="[sprite name=iconHit]{0}回合内每回合使用技能则造成伤害前随机[color=#52a5f2]吸取[/color]对手{1}项能力值-1（boss有效）"/>
 	<Effect id="850" argsNum="2" info="{0}回合内每回合有{1}%的概率免疫当回合受到的攻击伤害" analyze="[sprite name=iconHit]{0}回合内每回合有{1}%的概率免疫[color=#52a5f2]当回合[/color]受到的[color=#52a5f2]攻击伤害[/color]（boss有效）"/>
 	<Effect id="851" argsNum="1" info="随机附加害怕、失明、烧伤、冻伤、中毒中的{0}种异常状态" analyze="[sprite name=iconHit]随机附加[color=#57c975]害怕[/color]、[color=#57c975]失明[/color]、[color=#57c975]烧伤[/color]、[color=#57c975]冻伤[/color]、[color=#57c975]中毒[/color]中的{0}种异常状态（boss有效）"/>
@@ -721,7 +721,7 @@
 	<Effect id="879" argsNum="0" info="消除对手回合类效果，消除成功则恢复自身全部体力" analyze="[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]，消除成功则恢复自身全部体力（boss有效）"/>
 	<Effect id="880" argsNum="1" info="消除对手回合类效果，消除成功则令自身下回合所有技能先制+{0}" analyze="[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]，消除成功则令自身下回合所有[color=#52a5f2]技能先制[/color]+{0}（boss有效）"/>
 	<Effect id="881" argsNum="0" info="若自身处于能力下降状态则技能先制+3" analyze="[sprite name=iconInherent]若自身处于能力下降状态则[color=#52a5f2]技能先制[/color]+3（boss有效）" type="1"/>
-	<Effect id="882" argsNum="1" info="自身每处于一种能力提升状态，此技能威力提升{0}" analyze="[sprite name=iconHit]自身每处于一种能力提升状态，此技能[color=#52a5f2]威力[/color]提升{0}（boss有效）"/>
+	<Effect id="882" argsNum="1" info="自身每处于1种能力提升状态，此技能威力提升{0}" analyze="[sprite name=iconHit]自身每处于1种能力提升状态，此技能[color=#52a5f2]威力[/color]提升{0}（boss有效）"/>
 	<Effect id="883" argsNum="2" info="每次命中对手会降低对手下只出战精灵最大体力的{0}%，最多降低{1}%" analyze="[sprite name=iconHit]每次命中对手会降低对手下只出战精灵最大体力的{0}%，最多降低{1}%"/>
 	<Effect id="884" argsNum="0" info="令对手下次使用的技能无效" analyze="[sprite name=iconHit]令对手下次使用的技能无效"/>
 	<Effect id="885" argsNum="1" info="全属性+{0}，自身当前体力高于对手时强化效果翻倍" analyze="[sprite name=iconHit][color=#52a5f2]全属性[/color]+{0}，自身当前体力高于对手时强化效果翻倍（boss有效）"/>
@@ -820,8 +820,8 @@
 	<Effect id="978" argsNum="0" info="吸取并反转对手能力提升状态" analyze="[sprite name=iconHit][color=#52a5f2]吸取[/color]并[color=#52a5f2]反转[/color]对手能力提升状态（boss有效）"/>
 	<Effect id="979" argsNum="2" info="消除对手回合类效果，消除成功则自身下{0}回合所有技能先制+{1}" analyze="[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]（boss有效），消除成功则自身下{0}回合所有[color=#52a5f2]技能先制[/color]+{1}"/>
 	<Effect id="980" argsNum="0" info="先出手时对手当回合属性技能无效" analyze="[sprite name=iconHit]先出手时对手[color=#52a5f2]当回合[/color]属性技能无效"/>
-	<Effect id="981" argsNum="2" info="直接造成{0}点电系伤害，自身每处于一种能力提升状态则造成的伤害提高{1}%" analyze="[sprite name=iconHit]直接造成{0}点电系伤害，自身每处于一种能力提升状态则造成的伤害提高{1}%（boss有效）"/>
-	<Effect id="982" argsNum="3" info="{0}%使对手{1}，自身每处于一种能力提升状态则概率提高{2}%" param="1,1,1" analyze="[sprite name=iconHit]{0}%使对手[color=#57c975]{1}[/color]，自身每处于一种能力提升状态则概率提高{2}%（boss有效）"/>
+	<Effect id="981" argsNum="2" info="直接造成{0}点电系伤害，自身每处于1种能力提升状态则造成的伤害提高{1}%" analyze="[sprite name=iconHit]直接造成{0}点电系伤害，自身每处于1种能力提升状态则造成的伤害提高{1}%（boss有效）"/>
+	<Effect id="982" argsNum="3" info="{0}%使对手{1}，自身每处于1种能力提升状态则概率提高{2}%" param="1,1,1" analyze="[sprite name=iconHit]{0}%使对手[color=#57c975]{1}[/color]，自身每处于1种能力提升状态则概率提高{2}%（boss有效）"/>
 	<Effect id="983" argsNum="1" info="未击败对手则自身全属性+{0}" analyze="[sprite name=iconHit]未[color=#57c975]击败[/color]对手则自身[color=#52a5f2]全属性[/color]+{0}（boss有效）"/>
 	<Effect id="984" argsNum="1" info="未击败对手则下回合自身所有技能先制+{0}" analyze="[sprite name=iconHit]未[color=#57c975]击败[/color]对手则下回合自身所有[color=#52a5f2]技能先制[/color]+{0}（boss有效）"/>
 	<Effect id="985" argsNum="1" info="吸取对手能力提升状态，吸取成功则下{0}回合对手属性技能无效" analyze="[sprite name=iconHit][color=#52a5f2]吸取[/color]对手能力提升状态（boss有效），[color=#52a5f2]吸取[/color]成功则下{0}回合对手属性技能无效"/>
@@ -947,7 +947,7 @@
 	<Effect id="1105" argsNum="2" info="{0}回合内每回合攻击附加自身攻击和特攻中最高一项{1}%的百分比伤害" analyze="[sprite name=iconHit]{0}回合内每回合攻击附加自身攻击和特攻中最高一项{1}%的[color=#52a5f2]百分比伤害[/color]"/>
 	<Effect id="1106" argsNum="3" info="当回合造成的攻击伤害若高于{0}则{1}%令对手{2}" param="1,2,2" analyze="[sprite name=iconHit][color=#52a5f2]当回合[/color]造成的[color=#52a5f2]攻击伤害[/color]若高于{0}则{1}%令对手[color=#57c975]{2}[/color]"/>
 	<Effect id="1107" argsNum="4" info="未击败对手则{0}%自身全属性+{1}，{2}%对手全属性-{3}" analyze="[sprite name=iconHit]未[color=#57c975]击败[/color]对手则{0}%自身[color=#52a5f2]全属性[/color]+{1}，{2}%对手[color=#52a5f2]全属性[/color]-{3}"/>
-	<Effect id="1108" argsNum="2" info="自身每处于一种能力提升状态则技能连击数+{0}，对手每处于一种弱化状态则技能连击数+{1}" analyze="[sprite name=iconHit]自身每处于一种能力提升状态则技能连击数+{0}，对手每处于一种弱化状态则技能连击数+{1}"/>
+	<Effect id="1108" argsNum="2" info="自身每处于1种能力提升状态则技能连击数+{0}，对手每处于1种弱化状态则技能连击数+{1}" analyze="[sprite name=iconHit]自身每处于1种能力提升状态则技能连击数+{0}，对手每处于1种弱化状态则技能连击数+{1}"/>
 	<Effect id="1109" argsNum="2" info="{0}回合内若自身能力提升状态被消除则吸取对手最大体力的1/{1}" analyze="[sprite name=iconHit]{0}回合内若自身能力提升状态被消除则[color=#52a5f2]吸取[/color]对手最大体力的1/{1}"/>
 	<Effect id="1110" argsNum="1" info="反转对手能力提升状态，反转成功则对手下{0}次属性技能失效，反转失败则消除对手能力提升状态" analyze="[sprite name=iconHit][color=#52a5f2]反转[/color]对手能力提升状态（boss有效），反转成功则对手下{0}次属性技能失效，反转失败则消除对手能力提升状态"/>
 	<Effect id="1111" argsNum="4" info="{0}%令对手{1}，未触发则{2}回合内自身造成的攻击伤害额外提升{3}%" param="1,1,1" analyze="[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，[color=#52a5f2]未触发[/color]则{2}回合内自身造成的攻击[color=#52a5f2]伤害额外提升[/color]{3}%"/>
@@ -1212,7 +1212,7 @@
 	<Effect id="1370" argsNum="2" info="消除对手回合类效果，消除成功则对手{0}，未触发则{1}回合内对手无法通过自身技能恢复体力" param="1,0,0" analyze="[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]，消除成功则对手[color=#57c975]{0}[/color]，[color=#52a5f2]未触发[/color]则{1}回合内对手[color=#52a5f2]无法通过自身技能恢复体力[/color]"/>
 	<Effect id="1371" argsNum="1" info="若自身未满体力则吸取对手最大体力的1/{0}" analyze="[sprite name=iconHit]若自身未满体力则[color=#52a5f2]吸取[/color]对手最大体力的1/{0}"/>
 	<Effect id="1372" argsNum="3" info="{0}回合内对手使用攻击技能后{1}%令对手{2}，未触发则消除对手回合类效果" param="1,2,2" analyze="[sprite name=iconHit]{0}回合内对手使用攻击技能后{1}%令对手[color=#57c975]{2}[/color]，[color=#52a5f2]未触发[/color]则消除对手[color=#52a5f2]回合类效果[/color]"/>
-	<Effect id="1373" argsNum="2" info="直接造成{0}点冰系伤害，自身每处于一种能力提升状态则造成的伤害提高{1}%" analyze="[sprite name=iconHit]直接造成{0}点冰系伤害，自身每处于一种能力提升状态则造成的伤害提高{1}%（boss有效）"/>
+	<Effect id="1373" argsNum="2" info="直接造成{0}点冰系伤害，自身每处于1种能力提升状态则造成的伤害提高{1}%" analyze="[sprite name=iconHit]直接造成{0}点冰系伤害，自身每处于1种能力提升状态则造成的伤害提高{1}%（boss有效）"/>
 	<Effect id="1374" argsNum="0" info="命中后100%秒杀对方，若MISS则自身死亡，消除对手回合类效果且100%令对手冰封，同时令我方下一只出场精灵3回合内获得冰之祝福效果" sp="1" analyze="[sprite name=iconHit]命中后100%[color=#52a5f2]秒杀[/color]对方，[sprite name=iconInherent] 若MISS则自身死亡，消除对手[color=#52a5f2]回合类效果[/color]且100%令对手[color=#57c975]冰封[/color]，同时令我方下一只出场精灵3回合内获得[color=#f35555]冰之祝福[/color]效果" type="3"/>
 	<Effect id="1375" argsNum="1" info="自身下{0}回合获得了冰之祝福" sp="1" analyze="[sprite name=iconHit]自身下{0}回合获得了[color=#f35555]冰之祝福[/color]（boss有效）"/>
 	<Effect id="1376" argsNum="4" info="{0}回合内自身使用攻击技能则{1}%令对手{2}，未触发则吸取对手最大体力的1/{3}" param="1,2,2" analyze="[sprite name=iconHit]{0}回合内自身使用攻击技能则{1}%令对手[color=#57c975]{2}[/color]，[color=#52a5f2]未触发[/color]则[color=#52a5f2]吸取[/color]对手最大体力的1/{3}"/>
@@ -1696,7 +1696,7 @@
 	<Effect id="1855" argsNum="3" info="{0}回合内每回合使用技能额外恢复自身最大体力的1/{1}，若自身不处于能力提升状态则附加对手最大体力1/{2}的百分比伤害" analyze="[sprite name=iconHit]{0}回合内每回合使用技能额外恢复自身最大体力的1/{1}，若自身不处于能力提升状态则附加对手最大体力1/{2}的[color=#52a5f2]百分比伤害[/color]"/>
 	<Effect id="1856" argsNum="1" info="全属性+{0}，若强化前自身处于能力下降状态则额外获得等同的能力提升状态" analyze="[sprite name=iconHit][color=#52a5f2]全属性[/color]+{0}，若强化前自身处于能力下降状态则额外获得等同的能力提升状态"/>
 	<Effect id="1857" argsNum="2" info="技能威力提升{0}%，对手任意1项技能PP值小于{1}点则提升效果翻倍" analyze="[sprite name=iconHit]技能[color=#52a5f2]威力[/color]提升{0}%，对手任意1项技能PP值小于{1}点则提升效果翻倍"/>
-	<Effect id="1858" argsNum="1" info="自身每处于一种能力提升、能力下降、异常状态则附加{0}点固定伤害，自身每有1层龙胆视为自身至少处于一种" sp="1" analyze="[sprite name=iconHit]自身每处于一种能力提升、能力下降、异常状态则附加{0}点[color=#52a5f2]固定伤害[/color]，自身每有1层[color=#f35555]龙胆[/color]视为自身至少处于一种"/>
+	<Effect id="1858" argsNum="1" info="自身每处于1种能力提升、能力下降、异常状态则附加{0}点固定伤害，自身每有1层龙胆视为自身至少处于一种" sp="1" analyze="[sprite name=iconHit]自身每处于1种能力提升、能力下降、异常状态则附加{0}点[color=#52a5f2]固定伤害[/color]，自身每有1层[color=#f35555]龙胆[/color]视为自身至少处于一种"/>
 	<Effect id="1859" argsNum="1" info="消除对手回合类效果，消除成功则附加{0}点真实伤害，若自身龙胆层数达到7则真实伤害的附加将无视前提条件" sp="1" analyze="[sprite name=iconHit]消除对手[color=#52a5f2]回合类效果[/color]，消除成功则附加{0}点[color=#52a5f2]真实伤害[/color]，若自身[color=#f35555]龙胆[/color]层数[color=#52a5f2]达到[/color]7则[color=#52a5f2]真实伤害[/color]的附加将无视前提条件"/>
 	<Effect id="1860" argsNum="0" info="自身不处于能力提升状态时先制+1且必定命中" analyze="[sprite name=iconInherent]自身不处于能力提升状态时[color=#52a5f2]先制[/color]+1且[color=#52a5f2]必定命中[/color]（boss有效）" type="1"/>
 	<Effect id="1861" argsNum="0" info="技能无效时，消除对手回合类效果且100%令对手沉默3回合" analyze="[sprite name=iconInherent]技能无效时，消除对手[color=#52a5f2]回合类效果[/color]且100%令对手[color=#57c975]沉默[/color]3回合" type="1"/>
@@ -1911,7 +1911,7 @@
 	<Effect id="2070" argsNum="1" info="下{0}次自身能力提升状态被反转时令该效果无效" analyze="[sprite name=iconHit]下{0}次自身能力提升状态被反转时令该效果无效"/>
 	<Effect id="2071" argsNum="2" info="自身被击败后，对手下{0}次体力恢复效果减少{1}%" analyze="[sprite name=iconHit]自身[color=#57c975]被击败[/color]后，对手下{0}次体力恢复效果减少{1}%（boss有效）"/>
 	<Effect id="2072" argsNum="0" info="自身处于异常状态时先制+1且必定命中" analyze="[sprite name=iconInherent]自身处于异常状态时[color=#52a5f2]先制[/color]+1且[color=#52a5f2]必定命中[/color]（boss有效）" type="1"/>
-	<Effect id="2073" argsNum="1" info="对手每处于一种异常状态造成的伤害提升{0}%" analyze="[sprite name=iconHit]对手每处于一种异常状态造成的伤害提升{0}%"/>
+	<Effect id="2073" argsNum="1" info="对手每处于1种异常状态造成的伤害提升{0}%" analyze="[sprite name=iconHit]对手每处于1种异常状态造成的伤害提升{0}%"/>
 	<Effect id="2074" argsNum="1" info="随机附加{0}种非限制类异常状态" analyze="[sprite name=iconHit]随机附加{0}种非限制类异常状态"/>
 	<Effect id="2075" argsNum="1" info="未击败对手则对手下{0}回合无法解除、反转自身能力下降状态" analyze="[sprite name=iconHit]未[color=#57c975]击败[/color]对手则对手下{0}回合无法解除、反转自身能力下降状态"/>
 	<Effect id="2076" argsNum="4" info="{0}回合内使用技能吸取对手最大体力的1/{1}，自身体力低于1/{2}时效果翻倍，吸取后若对手体力未减少则为己方所有场下存活精灵恢复{3}点体力" analyze="[sprite name=iconHit]{0}回合内使用技能[color=#52a5f2]吸取[/color]对手最大体力的1/{1}，自身体力低于1/{2}时效果翻倍，[color=#52a5f2]吸取[/color]后若对手体力未减少则为[color=#52a5f2]己方[/color]所有场下存活精灵恢复{3}点体力"/>
@@ -2467,6 +2467,8 @@
 	<Effect id="2619" argsNum="1" info="未打出致命一击则恢复自身最大体力的1/{0}" analyze="[sprite name=iconHit]未打出致命一击则恢复自身最大体力的1/{0}"/>
 	<Effect id="2620" argsNum="0" info="击败对手时，自身获得2层神途之熠" analyze="[sprite name=iconHit]击败对手时，自身获得2层[color=#f35555]神途之熠[/color]"/>
 	<Effect id="2621" argsNum="1" info="全属性+{0}，双方任意一方处于异常状态则效果翻倍并解除自身所处的异常状态" analyze="[sprite name=iconHit]全属性+{0}，双方任意一方处于异常状态则效果翻倍并解除自身所处的异常状态"/>
+	<Effect id="2622" argsNum="3" info="{0}回合内自身使用{1}技能时令对手全属性-{2}" param="15,1,1" analyze="[sprite name=iconHit]{0}回合内自身使用{1}技能时令对手[color=#52a5f2]全属性[/color]-{2}"/>
+	<Effect id="2623" argsNum="3" info="{0}回合内自身使用{1}技能时使自身全属性+{2}" param="15,1,1" analyze="[sprite name=iconHit]{0}回合内自身使用{1}技能时使自身[color=#52a5f2]全属性[/color]+{2}"/>
 
 
 

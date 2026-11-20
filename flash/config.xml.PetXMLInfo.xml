@@ -64890,6 +64890,7 @@
 		  <Move ID="30893" LearningLv="74"/>
 		  <Move ID="25554" LearningLv="75" Rec="1"/>
 		  <Move ID="30894" LearningLv="76" Rec="1"/>
+		  <SpMove ID="29525"/>
 </LearnableMoves>
 <ExtraMoves>
 		  <Move ID="30895" LearningLv="81"/>
@@ -70222,6 +70223,8 @@
 		  <Move ID="26073" LearningLv="81" Rec="1"/>
 		  <Move ID="31928" LearningLv="82" Rec="1"/>
 		  <SpMove ID="32624"/>
+		  <SpMove ID="29524"/>
+
 </LearnableMoves>
 <ExtraMoves>
 		  <Move ID="31929" LearningLv="85"/>
@@ -103829,6 +103832,63 @@
 		</ExtraMoves>
 	</Monster>
 
+	<Monster ID="4968" DefName="瓦坎" Type="60" GrowthType="4" HP="162" Atk="147" Def="110" SpAtk="70" SpDef="110" Spd="136" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3629" FormParam="0" CharacterAttrParam="0" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10127" LearningLv="1" Rec="" Tag=""/>
+			<Move ID="20117" LearningLv="5" Rec="" Tag=""/>
+			<Move ID="10710" LearningLv="9" Rec="" Tag=""/>
+			<Move ID="10636" LearningLv="13" Rec="" Tag=""/>
+			<Move ID="20164" LearningLv="17" Rec="" Tag=""/>
+			<Move ID="38653" LearningLv="21" Rec="1" Tag="1"/>
+			<Move ID="10711" LearningLv="25" Rec="" Tag=""/>
+			<Move ID="20514" LearningLv="29" Rec="" Tag=""/>
+			<Move ID="10719" LearningLv="33" Rec="" Tag=""/>
+			<Move ID="21277" LearningLv="37" Rec="" Tag=""/>
+			<Move ID="36282" LearningLv="41" Rec="" Tag=""/>
+			<Move ID="36283" LearningLv="45" Rec="" Tag=""/>
+			<Move ID="29520" LearningLv="49" Rec="1" Tag="2"/>
+			<Move ID="36284" LearningLv="53" Rec="" Tag=""/>
+			<Move ID="29521" LearningLv="57" Rec="1" Tag="3"/>
+			<Move ID="38654" LearningLv="61" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38655" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+	
+	<Monster ID="4969" DefName="米铃娜" Type="53" GrowthType="4" HP="172" Atk="144" Def="112" SpAtk="70" SpDef="112" Spd="135" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="2" PetClass="3630" FormParam="0" CharacterAttrParam="0" GradeParam="4" AddSeParam="1" Resist="1">
+		<LearnableMoves>
+			<Move ID="10001" LearningLv="1"/>
+			<Move ID="20002" LearningLv="5"/>
+			<Move ID="10008" LearningLv="9"/>
+			<Move ID="10009" LearningLv="13"/>
+			<Move ID="20015" LearningLv="17"/>
+			<Move ID="38644" LearningLv="21"/>
+			<Move ID="10036" LearningLv="25"/>
+			<Move ID="20016" LearningLv="29"/>
+			<Move ID="10037" LearningLv="33"/>
+			<Move ID="10038" LearningLv="37"/>
+			<Move ID="10033" LearningLv="41"/>
+			<Move ID="20017" LearningLv="45"/>
+			<Move ID="29512" LearningLv="49"/>
+			<Move ID="14404" LearningLv="53"/>
+			<Move ID="29513" LearningLv="57"/>
+			<Move ID="38645" LearningLv="61"/>
+			<Move ID="38656" LearningLv="62" Rec="1" Tag="1"/>
+			<Move ID="29522" LearningLv="63" Rec="1" Tag="2"/>
+			<Move ID="29523" LearningLv="64" Rec="1" Tag="3"/>
+			<Move ID="38657" LearningLv="65" Rec="1" Tag="4"/>
+		</LearnableMoves>
+		<ExtraMoves>
+			<Move ID="38658" LearningLv="76"/>
+		</ExtraMoves>
+	</Monster>
+	
+	
+	
+	
+	
+	
 	
 	<Monster ID="4995" DefName="镇世神岳·玄武" Type="37" GrowthType="4" HP="125" Atk="100" Def="120" SpAtk="95" SpDef="120" Spd="90" YieldingExp="140" CatchRate="0" YieldingEV="0 0 0 0 0 0" FreeForbidden="1" FuseMaster="0" FuseSub="0" Gender="1" PetClass="3656" FormParam="0" CharacterAttrParam="0" GradeParam="5" AddSeParam="1" Resist="1">
 		<LearnableMoves>
@@ -117304,6 +117364,9 @@
   <Monster ID="1400889" DefName="曙光星律·圣光灵神" RealId=""/>
   <Monster ID="1400890" DefName="墨意千峰·关银屏" RealId=""/>
   <Monster ID="1400891" DefName="日蚀·终末大天使" RealId=""/>
+  <Monster ID="1400892" DefName="星际信使·米铃娜" RealId=""/>
+  <Monster ID="1400893" DefName="夜宴余杯·潘多拉" RealId=""/>
+  <Monster ID="1400894" DefName="茉蕊儿" RealId="3322"/>
 
 </Monsters>
 
