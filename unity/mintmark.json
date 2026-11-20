@@ -15823,7 +15823,7 @@
         "des": "思维停滞刻印",
         "effect_des": "命中+10",
         "arg": [
-          1
+          10
         ],
         "base_attri_value": [],
         "extra_attri_value": [],
@@ -24884,7 +24884,9 @@
       {
         "des": "超能反射刻印",
         "effect_des": "回合数+1",
-        "arg": [],
+        "arg": [
+          1
+        ],
         "base_attri_value": [],
         "extra_attri_value": [],
         "max_attri_value": [],
@@ -24936,7 +24938,9 @@
       {
         "des": "断魂之地刻印",
         "effect_des": "命中率提升10%",
-        "arg": [],
+        "arg": [
+          10
+        ],
         "base_attri_value": [],
         "extra_attri_value": [],
         "max_attri_value": [],
@@ -132665,6 +132669,330 @@
         "hide": 0
       },
       {
+        "des": "圣光·诛魔",
+        "effect_des": "攻击7/70,速度4/41,体力10/109",
+        "arg": [],
+        "base_attri_value": [
+          7,
+          0,
+          0,
+          0,
+          4,
+          10
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          70,
+          0,
+          0,
+          0,
+          41,
+          109
+        ],
+        "monster_id": [],
+        "move_id": [],
+        "grade": 5,
+        "id": 42734,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 98,
+        "quality": 3,
+        "rare": 5,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
+        "des": "圣光·王凌",
+        "effect_des": "特攻7/70,速度4/41,体力10/109",
+        "arg": [],
+        "base_attri_value": [
+          0,
+          0,
+          7,
+          0,
+          4,
+          10
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          0,
+          0,
+          70,
+          0,
+          41,
+          109
+        ],
+        "monster_id": [],
+        "move_id": [],
+        "grade": 5,
+        "id": 42735,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 98,
+        "quality": 3,
+        "rare": 5,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
+        "des": "圣光·审判",
+        "effect_des": "攻击8/80,防御7/70,特防7/70",
+        "arg": [],
+        "base_attri_value": [
+          8,
+          7,
+          0,
+          7,
+          0,
+          0
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          80,
+          70,
+          0,
+          70,
+          0,
+          0
+        ],
+        "monster_id": [],
+        "move_id": [],
+        "grade": 5,
+        "id": 42736,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 98,
+        "quality": 3,
+        "rare": 5,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
+        "des": "圣光·裁决",
+        "effect_des": "防御7/70,特攻8/80,特防7/70",
+        "arg": [],
+        "base_attri_value": [
+          0,
+          7,
+          8,
+          7,
+          0,
+          0
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          0,
+          70,
+          80,
+          70,
+          0,
+          0
+        ],
+        "monster_id": [],
+        "move_id": [],
+        "grade": 5,
+        "id": 42737,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 98,
+        "quality": 3,
+        "rare": 5,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
+        "des": "圣光·天穹",
+        "effect_des": "防御7/70,速度4/41,体力10/109",
+        "arg": [],
+        "base_attri_value": [
+          0,
+          7,
+          0,
+          0,
+          4,
+          10
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          0,
+          70,
+          0,
+          0,
+          41,
+          109
+        ],
+        "monster_id": [],
+        "move_id": [],
+        "grade": 5,
+        "id": 42738,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 98,
+        "quality": 3,
+        "rare": 5,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
+        "des": "圣光·寰宇",
+        "effect_des": "特防7/70,速度4/41,体力10/109",
+        "arg": [],
+        "base_attri_value": [
+          0,
+          0,
+          0,
+          7,
+          4,
+          10
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          0,
+          0,
+          0,
+          70,
+          41,
+          109
+        ],
+        "monster_id": [],
+        "move_id": [],
+        "grade": 5,
+        "id": 42739,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 98,
+        "quality": 3,
+        "rare": 5,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
+        "des": "圣光·庇佑",
+        "effect_des": "防御6/60,特防6/60,体力10/100",
+        "arg": [],
+        "base_attri_value": [
+          0,
+          6,
+          0,
+          6,
+          0,
+          10
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          0,
+          60,
+          0,
+          60,
+          0,
+          100
+        ],
+        "monster_id": [],
+        "move_id": [],
+        "grade": 5,
+        "id": 42740,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 98,
+        "quality": 3,
+        "rare": 5,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
+        "des": "圣光·领域",
+        "effect_des": "防御7/70,特防7/70,速度4/41",
+        "arg": [],
+        "base_attri_value": [
+          0,
+          7,
+          0,
+          7,
+          4,
+          0
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          0,
+          70,
+          0,
+          70,
+          41,
+          0
+        ],
+        "monster_id": [],
+        "move_id": [],
+        "grade": 5,
+        "id": 42741,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 98,
+        "quality": 3,
+        "rare": 5,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
+        "des": "V17·圣光",
+        "effect_des": "攻击7/75,防御3/37,特防3/37,速度3/37,体力9/94",
+        "arg": [],
+        "base_attri_value": [
+          7,
+          3,
+          0,
+          3,
+          3,
+          10
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          75,
+          37,
+          0,
+          37,
+          37,
+          94
+        ],
+        "monster_id": [],
+        "move_id": [],
+        "grade": 5,
+        "id": 42742,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 11,
+        "quality": 5,
+        "rare": 5,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
         "des": "十年·筑梦",
         "effect_des": "体力8/87,攻击4/48,防御2/28,特防2/28,速度3/39",
         "arg": [],
@@ -136351,6 +136679,10 @@
       {
         "class_name": "铠甲勇士系列",
         "id": 97
+      },
+      {
+        "class_name": "圣光系列",
+        "id": 98
       }
     ]
   }

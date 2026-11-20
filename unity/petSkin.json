@@ -15795,7 +15795,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 1,
             "type": 2,
             "year": 2026
           }
@@ -15860,8 +15860,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "甘落清心·欧根尼克",
         "skin_kind": [
           {
@@ -15873,13 +15873,13 @@
           }
         ],
         "id": 883,
-        "jump_target": 114153,
+        "jump_target": 0,
         "mon_id": 4605,
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "鼎镇绛河·嬴政",
         "skin_kind": [
           {
@@ -15891,7 +15891,7 @@
           }
         ],
         "id": 884,
-        "jump_target": 114153,
+        "jump_target": 0,
         "mon_id": 4468,
         "type": 18
       },
@@ -15914,8 +15914,8 @@
         "type": 0
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "灵祈万象·武心婵",
         "skin_kind": [
           {
@@ -15927,13 +15927,13 @@
           }
         ],
         "id": 886,
-        "jump_target": 114178,
+        "jump_target": 0,
         "mon_id": 4500,
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "圣贯宙合·赵云",
         "skin_kind": [
           {
@@ -15945,13 +15945,13 @@
           }
         ],
         "id": 887,
-        "jump_target": 114178,
+        "jump_target": 0,
         "mon_id": 4421,
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "小小灵神",
         "skin_kind": [
           {
@@ -15963,7 +15963,7 @@
           }
         ],
         "id": 888,
-        "jump_target": 114184,
+        "jump_target": 0,
         "mon_id": 3311,
         "type": 3
       },
@@ -15986,8 +15986,8 @@
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "墨意千峰·关银屏",
         "skin_kind": [
           {
@@ -15999,7 +15999,7 @@
           }
         ],
         "id": 890,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 4663,
         "type": 3
       },
@@ -16020,6 +16020,60 @@
         "jump_target": 114017,
         "mon_id": 4355,
         "type": 2
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "星际信使·米铃娜",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 892,
+        "jump_target": 114188,
+        "mon_id": 4969,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "夜宴余杯·潘多拉",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 893,
+        "jump_target": 114190,
+        "mon_id": 3396,
+        "type": 16
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "茉蕊儿",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 894,
+        "jump_target": 2,
+        "mon_id": 3613,
+        "type": 0
       }
     ]
   }

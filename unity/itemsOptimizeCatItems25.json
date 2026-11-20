@@ -3,6 +3,19 @@
     "items": [
       {
         "hide": 0,
+        "id": 2500019,
+        "life_time": 300,
+        "max": 999999,
+        "name": "乐享币",
+        "rarity": 3,
+        "sort": 34,
+        "use_max": 0,
+        "cat_id": 25,
+        "purpose": 0,
+        "wd": 1
+      },
+      {
+        "hide": 0,
         "id": 2500015,
         "life_time": 15,
         "max": 1,

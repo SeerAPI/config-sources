@@ -5616,6 +5616,20 @@
       "res_config": []
     },
     {
+      "curr_app_do": 0,
+      "id": 923,
+      "is_full_screen": 0,
+      "module_name": "getPdlSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 924,
+      "is_full_screen": 0,
+      "module_name": "vip17Mint",
+      "res_config": []
+    },
+    {
       "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
@@ -6978,6 +6992,62 @@
       "id": 1326,
       "is_full_screen": 1,
       "module_name": "rubberHoseGameEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1327,
+      "is_full_screen": 1,
+      "module_name": "MilingnaSkinCover",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1328,
+      "is_full_screen": 1,
+      "module_name": "AnniversaryGift",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1329,
+      "is_full_screen": 1,
+      "module_name": "vipFreeTryCover",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1330,
+      "is_full_screen": 1,
+      "module_name": "luckystarRota",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1331,
+      "is_full_screen": 1,
+      "module_name": "annualSkinPresale2026",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1332,
+      "is_full_screen": 1,
+      "module_name": "lingShenNewMarkAndNono",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1333,
+      "is_full_screen": 1,
+      "module_name": "limitedSkinReturnPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1334,
+      "is_full_screen": 1,
+      "module_name": "VIPHappyStoreActivity",
       "res_config": []
     }
   ]

@@ -9,7 +9,8 @@
         "itemnumber": 0,
         "monster": 3156,
         "moves": 28630,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -19,7 +20,8 @@
         "itemnumber": 0,
         "monster": 3156,
         "moves": 28631,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -29,7 +31,8 @@
         "itemnumber": 0,
         "monster": 3156,
         "moves": 37167,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -39,7 +42,8 @@
         "itemnumber": 0,
         "monster": 3156,
         "moves": 37168,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -49,7 +53,8 @@
         "itemnumber": 0,
         "monster": 3388,
         "moves": 28253,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -59,7 +64,8 @@
         "itemnumber": 0,
         "monster": 3388,
         "moves": 36483,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -69,7 +75,8 @@
         "itemnumber": 0,
         "monster": 3506,
         "moves": 36404,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -79,7 +86,8 @@
         "itemnumber": 0,
         "monster": 3506,
         "moves": 28217,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -89,7 +97,8 @@
         "itemnumber": 0,
         "monster": 3506,
         "moves": 36405,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -99,7 +108,8 @@
         "itemnumber": 0,
         "monster": 3506,
         "moves": 36406,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -109,7 +119,8 @@
         "itemnumber": 0,
         "monster": 3507,
         "moves": 36573,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -119,7 +130,8 @@
         "itemnumber": 0,
         "monster": 3507,
         "moves": 36574,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -129,7 +141,8 @@
         "itemnumber": 0,
         "monster": 3514,
         "moves": 36200,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -139,7 +152,8 @@
         "itemnumber": 0,
         "monster": 3514,
         "moves": 28118,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -149,7 +163,8 @@
         "itemnumber": 0,
         "monster": 3514,
         "moves": 36201,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -159,7 +174,8 @@
         "itemnumber": 0,
         "monster": 3613,
         "moves": 28646,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -169,7 +185,8 @@
         "itemnumber": 0,
         "monster": 3613,
         "moves": 37193,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -179,7 +196,8 @@
         "itemnumber": 0,
         "monster": 3613,
         "moves": 37194,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -189,7 +207,8 @@
         "itemnumber": 0,
         "monster": 3613,
         "moves": 37195,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -199,7 +218,8 @@
         "itemnumber": 0,
         "monster": 3670,
         "moves": 36535,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -209,7 +229,8 @@
         "itemnumber": 0,
         "monster": 3670,
         "moves": 28278,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -219,7 +240,8 @@
         "itemnumber": 0,
         "monster": 3670,
         "moves": 36536,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -229,7 +251,8 @@
         "itemnumber": 0,
         "monster": 3670,
         "moves": 36537,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -239,7 +262,8 @@
         "itemnumber": 0,
         "monster": 3704,
         "moves": 36291,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -249,7 +273,8 @@
         "itemnumber": 0,
         "monster": 3704,
         "moves": 28161,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -259,7 +284,8 @@
         "itemnumber": 0,
         "monster": 3705,
         "moves": 28496,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -269,7 +295,8 @@
         "itemnumber": 0,
         "monster": 3705,
         "moves": 28497,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -279,7 +306,8 @@
         "itemnumber": 0,
         "monster": 3705,
         "moves": 36943,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -289,7 +317,8 @@
         "itemnumber": 0,
         "monster": 3705,
         "moves": 36944,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -299,7 +328,8 @@
         "itemnumber": 0,
         "monster": 3716,
         "moves": 28455,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -309,7 +339,8 @@
         "itemnumber": 0,
         "monster": 3716,
         "moves": 28456,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -319,7 +350,8 @@
         "itemnumber": 0,
         "monster": 3716,
         "moves": 36878,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -329,7 +361,8 @@
         "itemnumber": 0,
         "monster": 3716,
         "moves": 36879,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -339,7 +372,8 @@
         "itemnumber": 0,
         "monster": 3724,
         "moves": 28380,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -349,7 +383,8 @@
         "itemnumber": 0,
         "monster": 3724,
         "moves": 28381,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -359,7 +394,8 @@
         "itemnumber": 0,
         "monster": 3724,
         "moves": 36744,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -369,7 +405,8 @@
         "itemnumber": 0,
         "monster": 3724,
         "moves": 36745,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -379,7 +416,8 @@
         "itemnumber": 0,
         "monster": 3954,
         "moves": 28341,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -389,7 +427,8 @@
         "itemnumber": 0,
         "monster": 3954,
         "moves": 36669,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -399,7 +438,8 @@
         "itemnumber": 0,
         "monster": 3954,
         "moves": 36670,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -409,7 +449,8 @@
         "itemnumber": 0,
         "monster": 3941,
         "moves": 28668,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -419,7 +460,8 @@
         "itemnumber": 0,
         "monster": 3941,
         "moves": 37239,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -429,7 +471,8 @@
         "itemnumber": 0,
         "monster": 3941,
         "moves": 37240,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -439,7 +482,8 @@
         "itemnumber": 0,
         "monster": 3941,
         "moves": 37241,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "参与活动获得",
@@ -449,7 +493,8 @@
         "itemnumber": 0,
         "monster": 3575,
         "moves": 32483,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -459,7 +504,8 @@
         "itemnumber": 0,
         "monster": 3623,
         "moves": 37461,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -469,7 +515,8 @@
         "itemnumber": 0,
         "monster": 3623,
         "moves": 37462,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -479,7 +526,8 @@
         "itemnumber": 0,
         "monster": 3623,
         "moves": 37463,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -489,7 +537,8 @@
         "itemnumber": 0,
         "monster": 3623,
         "moves": 37464,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -499,7 +548,8 @@
         "itemnumber": 0,
         "monster": 3171,
         "moves": 37760,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -509,7 +559,8 @@
         "itemnumber": 0,
         "monster": 3171,
         "moves": 28947,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -519,7 +570,8 @@
         "itemnumber": 0,
         "monster": 3171,
         "moves": 28948,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -529,7 +581,8 @@
         "itemnumber": 0,
         "monster": 3171,
         "moves": 37761,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -539,7 +592,8 @@
         "itemnumber": 0,
         "monster": 3740,
         "moves": 37806,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -549,7 +603,8 @@
         "itemnumber": 0,
         "monster": 3740,
         "moves": 28972,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -559,7 +614,8 @@
         "itemnumber": 0,
         "monster": 3740,
         "moves": 37807,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -569,7 +625,8 @@
         "itemnumber": 0,
         "monster": 3740,
         "moves": 37808,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成试炼获得",
@@ -579,7 +636,8 @@
         "itemnumber": 0,
         "monster": 4706,
         "moves": 28989,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成试炼获得",
@@ -589,7 +647,8 @@
         "itemnumber": 0,
         "monster": 4706,
         "moves": 37834,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成试炼获得",
@@ -599,7 +658,8 @@
         "itemnumber": 0,
         "monster": 4706,
         "moves": 37835,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -609,7 +669,8 @@
         "itemnumber": 0,
         "monster": 3886,
         "moves": 37809,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -619,7 +680,8 @@
         "itemnumber": 0,
         "monster": 3886,
         "moves": 28973,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -629,7 +691,8 @@
         "itemnumber": 0,
         "monster": 3886,
         "moves": 37810,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -639,7 +702,8 @@
         "itemnumber": 0,
         "monster": 3886,
         "moves": 37811,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -649,7 +713,8 @@
         "itemnumber": 0,
         "monster": 3516,
         "moves": 38008,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -659,7 +724,8 @@
         "itemnumber": 0,
         "monster": 3516,
         "moves": 29102,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -669,7 +735,8 @@
         "itemnumber": 0,
         "monster": 3516,
         "moves": 38009,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -679,7 +746,8 @@
         "itemnumber": 0,
         "monster": 3516,
         "moves": 38010,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -689,7 +757,8 @@
         "itemnumber": 0,
         "monster": 3766,
         "moves": 29023,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -699,7 +768,8 @@
         "itemnumber": 0,
         "monster": 3766,
         "moves": 29024,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -709,7 +779,8 @@
         "itemnumber": 0,
         "monster": 3766,
         "moves": 37880,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -719,7 +790,8 @@
         "itemnumber": 0,
         "monster": 3524,
         "moves": 29142,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -729,7 +801,8 @@
         "itemnumber": 0,
         "monster": 3524,
         "moves": 38075,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -739,7 +812,8 @@
         "itemnumber": 0,
         "monster": 3524,
         "moves": 38074,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -749,7 +823,8 @@
         "itemnumber": 0,
         "monster": 3524,
         "moves": 38076,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -759,7 +834,8 @@
         "itemnumber": 0,
         "monster": 3729,
         "moves": 28910,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -769,7 +845,8 @@
         "itemnumber": 0,
         "monster": 3729,
         "moves": 37691,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -779,7 +856,8 @@
         "itemnumber": 0,
         "monster": 3729,
         "moves": 37692,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -789,7 +867,8 @@
         "itemnumber": 0,
         "monster": 3729,
         "moves": 37693,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -799,7 +878,8 @@
         "itemnumber": 0,
         "monster": 3711,
         "moves": 29299,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -809,7 +889,8 @@
         "itemnumber": 0,
         "monster": 3711,
         "moves": 38317,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -819,7 +900,8 @@
         "itemnumber": 0,
         "monster": 3711,
         "moves": 38318,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -829,7 +911,8 @@
         "itemnumber": 0,
         "monster": 3711,
         "moves": 38319,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -839,7 +922,8 @@
         "itemnumber": 0,
         "monster": 3407,
         "moves": 29361,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -849,7 +933,8 @@
         "itemnumber": 0,
         "monster": 3407,
         "moves": 38407,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -859,7 +944,8 @@
         "itemnumber": 0,
         "monster": 3407,
         "moves": 38408,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -869,7 +955,8 @@
         "itemnumber": 0,
         "monster": 3407,
         "moves": 38409,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -879,7 +966,8 @@
         "itemnumber": 0,
         "monster": 4125,
         "moves": 29253,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -889,7 +977,8 @@
         "itemnumber": 0,
         "monster": 4125,
         "moves": 38247,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -899,7 +988,8 @@
         "itemnumber": 0,
         "monster": 4125,
         "moves": 38248,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -909,7 +999,8 @@
         "itemnumber": 0,
         "monster": 4125,
         "moves": 38249,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -919,7 +1010,8 @@
         "itemnumber": 0,
         "monster": 3432,
         "moves": 29465,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -929,7 +1021,8 @@
         "itemnumber": 0,
         "monster": 3432,
         "moves": 38551,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -939,7 +1032,8 @@
         "itemnumber": 0,
         "monster": 3432,
         "moves": 38552,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成精灵觉醒",
@@ -949,7 +1043,8 @@
         "itemnumber": 0,
         "monster": 3432,
         "moves": 38553,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "完成能力强化",
@@ -959,7 +1054,8 @@
         "itemnumber": 295001,
         "monster": 3311,
         "moves": 38633,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成能力强化",
@@ -969,7 +1065,8 @@
         "itemnumber": 295001,
         "monster": 3311,
         "moves": 29506,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成能力强化",
@@ -979,7 +1076,8 @@
         "itemnumber": 295001,
         "monster": 3311,
         "moves": 29507,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成能力强化",
@@ -989,7 +1087,8 @@
         "itemnumber": 295001,
         "monster": 3311,
         "moves": 38634,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "完成能力强化",
@@ -999,7 +1098,8 @@
         "itemnumber": 295001,
         "monster": 3311,
         "moves": 38635,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       }
     ],
     "sp_moves": [
@@ -1011,7 +1111,8 @@
         "itemnumber": 1,
         "monster": 4450,
         "moves": 36303,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "熔岩核心",
@@ -1021,7 +1122,8 @@
         "itemnumber": 3,
         "monster": 4167,
         "moves": 36471,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "魔剪印章",
@@ -1031,7 +1133,8 @@
         "itemnumber": 1,
         "monster": 4347,
         "moves": 36519,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "赤箭印章",
@@ -1041,7 +1144,8 @@
         "itemnumber": 1,
         "monster": 4173,
         "moves": 36520,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "灵叶印章",
@@ -1051,7 +1155,8 @@
         "itemnumber": 1,
         "monster": 4135,
         "moves": 36521,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "梦夜之源",
@@ -1061,7 +1166,8 @@
         "itemnumber": 1,
         "monster": 4329,
         "moves": 36696,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "龙吟咖啡",
@@ -1071,7 +1177,8 @@
         "itemnumber": 3,
         "monster": 4401,
         "moves": 28355,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "荒合异录",
@@ -1081,7 +1188,8 @@
         "itemnumber": 1,
         "monster": 3763,
         "moves": 37141,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "圣灵之泪",
@@ -1091,7 +1199,8 @@
         "itemnumber": 1,
         "monster": 3421,
         "moves": 37197,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "圣灵荣光",
@@ -1101,7 +1210,8 @@
         "itemnumber": 1,
         "monster": 3425,
         "moves": 37198,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "般若偈佗",
@@ -1111,7 +1221,8 @@
         "itemnumber": 1,
         "monster": 4499,
         "moves": 37021,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "守白论",
@@ -1121,7 +1232,8 @@
         "itemnumber": 1,
         "monster": 4489,
         "moves": 37022,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "无极遗辰",
@@ -1131,7 +1243,8 @@
         "itemnumber": 1,
         "monster": 4564,
         "moves": 37023,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "媚云之焰",
@@ -1141,7 +1254,8 @@
         "itemnumber": 1,
         "monster": 4514,
         "moves": 37024,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "入梦冥音",
@@ -1151,7 +1265,8 @@
         "itemnumber": 1,
         "monster": 3816,
         "moves": 37025,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "黯夜星辉",
@@ -1161,7 +1276,8 @@
         "itemnumber": 1,
         "monster": 3568,
         "moves": 37196,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "墟祖记忆",
@@ -1171,7 +1287,8 @@
         "itemnumber": 1,
         "monster": 4394,
         "moves": 37252,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "御浪海灵",
@@ -1181,7 +1298,8 @@
         "itemnumber": 1,
         "monster": 3506,
         "moves": 37278,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "无根莲",
@@ -1191,7 +1309,8 @@
         "itemnumber": 1,
         "monster": 4449,
         "moves": 37275,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "双生魔兵",
@@ -1201,7 +1320,8 @@
         "itemnumber": 1,
         "monster": 4384,
         "moves": 37277,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "冷色弹丸",
@@ -1211,7 +1331,8 @@
         "itemnumber": 1,
         "monster": 4318,
         "moves": 37276,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "太初幽石",
@@ -1221,7 +1342,8 @@
         "itemnumber": 1,
         "monster": 4287,
         "moves": 37274,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "浴战龙冠",
@@ -1231,7 +1353,8 @@
         "itemnumber": 1,
         "monster": 4186,
         "moves": 37295,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "孽龙之鳞",
@@ -1241,7 +1364,8 @@
         "itemnumber": 1,
         "monster": 4264,
         "moves": 37296,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "同心意念",
@@ -1251,7 +1375,8 @@
         "itemnumber": 1,
         "monster": 3672,
         "moves": 37297,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "荒芜龙心",
@@ -1261,7 +1386,8 @@
         "itemnumber": 1,
         "monster": 3575,
         "moves": 37298,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "天虹幻光",
@@ -1271,7 +1397,8 @@
         "itemnumber": 1,
         "monster": 3456,
         "moves": 37299,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "咒劫魔晶",
@@ -1281,7 +1408,8 @@
         "itemnumber": 1,
         "monster": 3580,
         "moves": 37310,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "天楚令",
@@ -1291,7 +1419,8 @@
         "itemnumber": 1,
         "monster": 3564,
         "moves": 37311,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "和歌琴",
@@ -1301,7 +1430,8 @@
         "itemnumber": 1,
         "monster": 3560,
         "moves": 37312,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "归魂幻瞳",
@@ -1311,7 +1441,8 @@
         "itemnumber": 1,
         "monster": 3529,
         "moves": 37313,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "吠陀经",
@@ -1321,7 +1452,8 @@
         "itemnumber": 1,
         "monster": 3376,
         "moves": 37314,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "秋风的讯息",
@@ -1331,7 +1463,8 @@
         "itemnumber": 1,
         "monster": 4629,
         "moves": 37315,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "荒骨",
@@ -1341,7 +1474,8 @@
         "itemnumber": 1,
         "monster": 3964,
         "moves": 37334,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "毁灭乐章",
@@ -1351,7 +1485,8 @@
         "itemnumber": 1,
         "monster": 3945,
         "moves": 37335,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "夜魇魔球",
@@ -1361,7 +1496,8 @@
         "itemnumber": 1,
         "monster": 3883,
         "moves": 37336,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "堕落邪瞳",
@@ -1371,7 +1507,8 @@
         "itemnumber": 1,
         "monster": 3797,
         "moves": 37337,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "光火密令",
@@ -1381,7 +1518,8 @@
         "itemnumber": 1,
         "monster": 3680,
         "moves": 37338,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "银弧-补充装",
@@ -1391,7 +1529,8 @@
         "itemnumber": 1,
         "monster": 4511,
         "moves": 37339,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "星光之种",
@@ -1401,7 +1540,8 @@
         "itemnumber": 1,
         "monster": 4364,
         "moves": 37340,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "囚冰之刃",
@@ -1411,7 +1551,8 @@
         "itemnumber": 1,
         "monster": 4493,
         "moves": 37359,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "悼龙古鳞",
@@ -1421,7 +1562,8 @@
         "itemnumber": 1,
         "monster": 4373,
         "moves": 37360,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "\t凛锋剑意",
@@ -1431,7 +1573,8 @@
         "itemnumber": 1,
         "monster": 4343,
         "moves": 37361,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "留音琵琶",
@@ -1441,7 +1584,8 @@
         "itemnumber": 1,
         "monster": 4340,
         "moves": 37362,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "匣中希望",
@@ -1451,7 +1595,8 @@
         "itemnumber": 1,
         "monster": 3396,
         "moves": 37363,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "九界方",
@@ -1461,7 +1606,8 @@
         "itemnumber": 1,
         "monster": 4333,
         "moves": 37398,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "深渊秽莲",
@@ -1471,7 +1617,8 @@
         "itemnumber": 1,
         "monster": 3806,
         "moves": 37418,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "太祖遗篇",
@@ -1481,7 +1628,8 @@
         "itemnumber": 1,
         "monster": 4058,
         "moves": 28759,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "星象之书",
@@ -1491,7 +1639,8 @@
         "itemnumber": 1,
         "monster": 4061,
         "moves": 28758,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "孤怨魔颅",
@@ -1501,7 +1650,8 @@
         "itemnumber": 1,
         "monster": 4238,
         "moves": 37419,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "九霄光球",
@@ -1511,7 +1661,8 @@
         "itemnumber": 1,
         "monster": 3783,
         "moves": 37465,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "九霄斗甲",
@@ -1521,7 +1672,8 @@
         "itemnumber": 1,
         "monster": 3482,
         "moves": 37466,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "重逢之念",
@@ -1531,7 +1683,8 @@
         "itemnumber": 1,
         "monster": 4589,
         "moves": 28782,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "六韬门",
@@ -1541,7 +1694,8 @@
         "itemnumber": 1,
         "monster": 4625,
         "moves": 28867,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "凋灵",
@@ -1551,7 +1705,8 @@
         "itemnumber": 1,
         "monster": 4189,
         "moves": 37621,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "濯曦莲",
@@ -1561,7 +1716,8 @@
         "itemnumber": 1,
         "monster": 4219,
         "moves": 37620,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "解魂珠",
@@ -1571,7 +1727,8 @@
         "itemnumber": 1,
         "monster": 3785,
         "moves": 28868,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "赤曜之心",
@@ -1581,7 +1738,8 @@
         "itemnumber": 1,
         "monster": 4569,
         "moves": 28869,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "邪穹黯羽",
@@ -1591,7 +1749,8 @@
         "itemnumber": 1,
         "monster": 3820,
         "moves": 29013,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "苍冥镜",
@@ -1601,7 +1760,8 @@
         "itemnumber": 1,
         "monster": 4239,
         "moves": 29012,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "不可解",
@@ -1611,7 +1771,8 @@
         "itemnumber": 1,
         "monster": 3896,
         "moves": 37872,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "循我道",
@@ -1621,7 +1782,8 @@
         "itemnumber": 1,
         "monster": 3847,
         "moves": 29011,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "机狂心兵",
@@ -1631,7 +1793,8 @@
         "itemnumber": 1,
         "monster": 3802,
         "moves": 37873,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "川溟诗话",
@@ -1641,7 +1804,8 @@
         "itemnumber": 1,
         "monster": 3763,
         "moves": 29020,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "银蔷薇",
@@ -1651,7 +1815,8 @@
         "itemnumber": 1,
         "monster": 4184,
         "moves": 29019,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "荒神印",
@@ -1661,7 +1826,8 @@
         "itemnumber": 1,
         "monster": 3964,
         "moves": 29017,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "魔灵密卷",
@@ -1671,7 +1837,8 @@
         "itemnumber": 1,
         "monster": 3541,
         "moves": 29016,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "狮心圣甲",
@@ -1681,7 +1848,8 @@
         "itemnumber": 1,
         "monster": 3631,
         "moves": 29018,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "巨兽之齿",
@@ -1691,7 +1859,8 @@
         "itemnumber": 1,
         "monster": 3584,
         "moves": 37965,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "挽尘之心",
@@ -1701,7 +1870,8 @@
         "itemnumber": 1,
         "monster": 3983,
         "moves": 37964,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "百炼锤炎",
@@ -1711,7 +1881,8 @@
         "itemnumber": 1,
         "monster": 4215,
         "moves": 37966,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "鼓动咒胎",
@@ -1721,7 +1892,8 @@
         "itemnumber": 1,
         "monster": 3580,
         "moves": 29076,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "奥义书",
@@ -1731,7 +1903,8 @@
         "itemnumber": 1,
         "monster": 3376,
         "moves": 29075,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "月藏霜",
@@ -1741,7 +1914,8 @@
         "itemnumber": 1,
         "monster": 4147,
         "moves": 37963,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "千象目",
@@ -1751,7 +1925,8 @@
         "itemnumber": 1,
         "monster": 4105,
         "moves": 37989,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "哀人帐",
@@ -1761,7 +1936,8 @@
         "itemnumber": 1,
         "monster": 4642,
         "moves": 29092,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "归魂幕",
@@ -1771,7 +1947,8 @@
         "itemnumber": 1,
         "monster": 3932,
         "moves": 29093,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "怀霜箑",
@@ -1781,7 +1958,8 @@
         "itemnumber": 1,
         "monster": 4068,
         "moves": 37990,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "阳炎真火",
@@ -1791,7 +1969,8 @@
         "itemnumber": 1,
         "monster": 4219,
         "moves": 38042,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "大招秘籍",
@@ -1801,7 +1980,8 @@
         "itemnumber": 1,
         "monster": 4801,
         "moves": 38046,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "大招秘籍",
@@ -1811,7 +1991,8 @@
         "itemnumber": 1,
         "monster": 4802,
         "moves": 38047,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "大招秘籍",
@@ -1821,7 +2002,8 @@
         "itemnumber": 1,
         "monster": 4803,
         "moves": 38048,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "大招秘籍",
@@ -1831,7 +2013,8 @@
         "itemnumber": 1,
         "monster": 4804,
         "moves": 38049,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "霜之苦痛",
@@ -1841,7 +2024,8 @@
         "itemnumber": 1,
         "monster": 3813,
         "moves": 29133,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "夜之追怀",
@@ -1851,7 +2035,8 @@
         "itemnumber": 1,
         "monster": 3815,
         "moves": 29134,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "方天画戟",
@@ -1861,7 +2046,8 @@
         "itemnumber": 1,
         "monster": 3940,
         "moves": 29135,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "霸王枪",
@@ -1871,7 +2057,8 @@
         "itemnumber": 1,
         "monster": 3823,
         "moves": 38063,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "杀神之斧",
@@ -1881,7 +2068,8 @@
         "itemnumber": 1,
         "monster": 3532,
         "moves": 38064,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "黄昏之眼",
@@ -1891,7 +2079,8 @@
         "itemnumber": 1,
         "monster": 3883,
         "moves": 38117,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "深雷之羽",
@@ -1901,7 +2090,8 @@
         "itemnumber": 1,
         "monster": 3879,
         "moves": 29169,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "无缝天缎",
@@ -1911,7 +2101,8 @@
         "itemnumber": 1,
         "monster": 3866,
         "moves": 29170,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "弥尘骨",
@@ -1921,7 +2112,8 @@
         "itemnumber": 1,
         "monster": 4354,
         "moves": 38118,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "鏖战双镰",
@@ -1931,7 +2123,8 @@
         "itemnumber": 1,
         "monster": 3586,
         "moves": 38119,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "记忆铭刻",
@@ -1941,7 +2134,8 @@
         "itemnumber": 1,
         "monster": 3983,
         "moves": 29193,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "苍茫元心",
@@ -1951,7 +2145,8 @@
         "itemnumber": 1,
         "monster": 3739,
         "moves": 29211,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "残缺辰星",
@@ -1961,7 +2156,8 @@
         "itemnumber": 1,
         "monster": 3999,
         "moves": 29212,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "白虹",
@@ -1971,7 +2167,8 @@
         "itemnumber": 1,
         "monster": 3685,
         "moves": 29213,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "风杀利羽",
@@ -1981,7 +2178,8 @@
         "itemnumber": 1,
         "monster": 3554,
         "moves": 38186,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "蝶身心",
@@ -1991,7 +2189,8 @@
         "itemnumber": 1,
         "monster": 3830,
         "moves": 38187,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "堕妖面",
@@ -2001,7 +2200,8 @@
         "itemnumber": 1,
         "monster": 3686,
         "moves": 38232,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "黑岩壁",
@@ -2011,7 +2211,8 @@
         "itemnumber": 1,
         "monster": 3867,
         "moves": 38233,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "无上魔轮",
@@ -2021,7 +2222,8 @@
         "itemnumber": 1,
         "monster": 4001,
         "moves": 29245,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "真武天",
@@ -2031,7 +2233,8 @@
         "itemnumber": 1,
         "monster": 3875,
         "moves": 38234,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "荒古锁",
@@ -2041,7 +2244,8 @@
         "itemnumber": 1,
         "monster": 3741,
         "moves": 29246,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "虫巢之誓",
@@ -2051,7 +2255,8 @@
         "itemnumber": 1,
         "monster": 4863,
         "moves": 38261,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "斑驳之骨",
@@ -2061,7 +2266,8 @@
         "itemnumber": 1,
         "monster": 3442,
         "moves": 29283,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "无面之疚",
@@ -2071,7 +2277,8 @@
         "itemnumber": 1,
         "monster": 3446,
         "moves": 29284,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "霜焱之谛",
@@ -2081,7 +2288,8 @@
         "itemnumber": 1,
         "monster": 4657,
         "moves": 38296,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "死海之锢",
@@ -2091,7 +2299,8 @@
         "itemnumber": 1,
         "monster": 3907,
         "moves": 38295,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "地葬神颂",
@@ -2101,7 +2310,8 @@
         "itemnumber": 1,
         "monster": 4024,
         "moves": 38294,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "丹心影",
@@ -2111,7 +2321,8 @@
         "itemnumber": 1,
         "monster": 4354,
         "moves": 38348,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "平衡装置",
@@ -2121,7 +2332,8 @@
         "itemnumber": 1,
         "monster": 4358,
         "moves": 38358,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "燃火手指",
@@ -2131,7 +2343,8 @@
         "itemnumber": 1,
         "monster": 4332,
         "moves": 38357,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "奥法魔刃",
@@ -2141,7 +2354,8 @@
         "itemnumber": 1,
         "monster": 3870,
         "moves": 29329,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "狂蛮之角",
@@ -2151,7 +2365,8 @@
         "itemnumber": 1,
         "monster": 3971,
         "moves": 38356,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "夜呓之镜",
@@ -2161,7 +2376,8 @@
         "itemnumber": 1,
         "monster": 3491,
         "moves": 29330,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "不逝狂念",
@@ -2171,7 +2387,8 @@
         "itemnumber": 1,
         "monster": 3541,
         "moves": 38372,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "灭神魔石",
@@ -2181,7 +2398,8 @@
         "itemnumber": 1,
         "monster": 3791,
         "moves": 38370,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "朽念龙鳞",
@@ -2191,7 +2409,8 @@
         "itemnumber": 1,
         "monster": 3575,
         "moves": 29338,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "撕雷之牙",
@@ -2201,7 +2420,8 @@
         "itemnumber": 1,
         "monster": 3924,
         "moves": 38371,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "瀚海神颂",
@@ -2211,7 +2431,8 @@
         "itemnumber": 1,
         "monster": 4030,
         "moves": 29337,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "月鬼面",
@@ -2221,7 +2442,8 @@
         "itemnumber": 1,
         "monster": 4147,
         "moves": 38437,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "御世八芒",
@@ -2231,7 +2453,8 @@
         "itemnumber": 1,
         "monster": 3549,
         "moves": 29392,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "月淬之坠",
@@ -2241,7 +2464,8 @@
         "itemnumber": 1,
         "monster": 4114,
         "moves": 38453,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "咎者焚卷",
@@ -2251,7 +2475,8 @@
         "itemnumber": 1,
         "monster": 3847,
         "moves": 38455,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "熔碑之泪",
@@ -2261,7 +2486,8 @@
         "itemnumber": 1,
         "monster": 3979,
         "moves": 38456,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "燃辉之冠",
@@ -2271,7 +2497,8 @@
         "itemnumber": 1,
         "monster": 4216,
         "moves": 38454,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "英灵之镜",
@@ -2281,7 +2508,8 @@
         "itemnumber": 1,
         "monster": 4184,
         "moves": 38461,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "星占之眼",
@@ -2291,7 +2519,8 @@
         "itemnumber": 1,
         "monster": 4187,
         "moves": 29399,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "坏世歧角",
@@ -2301,7 +2530,8 @@
         "itemnumber": 1,
         "monster": 3814,
         "moves": 29400,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "焕生之痴",
@@ -2311,7 +2541,8 @@
         "itemnumber": 1,
         "monster": 3455,
         "moves": 29401,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "双源魂蒂",
@@ -2321,7 +2552,8 @@
         "itemnumber": 1,
         "monster": 3488,
         "moves": 29402,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "源式核心",
@@ -2331,7 +2563,8 @@
         "itemnumber": 1,
         "monster": 4258,
         "moves": 38515,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "圣婴之环",
@@ -2341,7 +2574,8 @@
         "itemnumber": 1,
         "monster": 3425,
         "moves": 38525,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "深瞳伏伺",
@@ -2351,7 +2585,8 @@
         "itemnumber": 1,
         "monster": 3797,
         "moves": 29446,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "天玄神颂",
@@ -2361,7 +2596,8 @@
         "itemnumber": 1,
         "monster": 4037,
         "moves": 29447,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "伦纳旧印",
@@ -2371,7 +2607,8 @@
         "itemnumber": 1,
         "monster": 3430,
         "moves": 29448,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "残怨血灵",
@@ -2381,7 +2618,8 @@
         "itemnumber": 1,
         "monster": 3683,
         "moves": 38526,
-        "movetype": 1
+        "movetype": 1,
+        "newse": 0
       },
       {
         "itemname": "魇龙纹",
@@ -2391,7 +2629,8 @@
         "itemnumber": 1,
         "monster": 4401,
         "moves": 38582,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "莲印·纠",
@@ -2401,7 +2640,8 @@
         "itemnumber": 1,
         "monster": 3888,
         "moves": 38583,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "妒命魂火",
@@ -2411,7 +2651,8 @@
         "itemnumber": 1,
         "monster": 4494,
         "moves": 29476,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "骷骨魔典",
@@ -2421,7 +2662,8 @@
         "itemnumber": 1,
         "monster": 3825,
         "moves": 38584,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
       },
       {
         "itemname": "黯灭之信",
@@ -2431,7 +2673,30 @@
         "itemnumber": 1,
         "monster": 4200,
         "moves": 29477,
-        "movetype": 2
+        "movetype": 2,
+        "newse": 0
+      },
+      {
+        "itemname": "奈落之指",
+        "movesname": "焦魂冥墟",
+        "id": 144,
+        "item": 1728654,
+        "itemnumber": 1,
+        "monster": 3592,
+        "moves": 29524,
+        "movetype": 2,
+        "newse": 6470
+      },
+      {
+        "itemname": "深渊之眼",
+        "movesname": "夜暝渊墟",
+        "id": 145,
+        "item": 1728655,
+        "itemnumber": 1,
+        "monster": 3396,
+        "moves": 29525,
+        "movetype": 2,
+        "newse": 6471
       }
     ]
   }

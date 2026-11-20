@@ -1752,8 +1752,8 @@
                 "rule": [
                   {
                     "abtext": "",
-                    "ach_name": "成长之路",
-                    "desc": "击败5000只野生精灵（已绝版）",
+                    "ach_name": "刷怪狂人",
+                    "desc": "成长之路击败5000只野生精灵",
                     "threshold": "5000",
                     "title": "刷怪狂人",
                     "title_color": "",
@@ -1775,8 +1775,8 @@
                 "rule": [
                   {
                     "abtext": "",
-                    "ach_name": "成长之路",
-                    "desc": "收集800种精灵（已绝版）",
+                    "ach_name": "收集狂人",
+                    "desc": "成长之路收集800种精灵",
                     "threshold": "800",
                     "title": "收集狂人",
                     "title_color": "",
@@ -1798,8 +1798,8 @@
                 "rule": [
                   {
                     "abtext": "",
-                    "ach_name": "成长之路",
-                    "desc": "击败50种SPTBOSS（已绝版）",
+                    "ach_name": "挑战先锋",
+                    "desc": "成长之路击败50种SPTBOSS",
                     "threshold": "50",
                     "title": "挑战先锋",
                     "title_color": "",
@@ -2644,6 +2644,20 @@
                     "id": 9,
                     "proicon": 1309,
                     "spe_name_bonus": 473
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "少将",
+                    "desc": "完成少将授勋",
+                    "threshold": "10",
+                    "title": "少将",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 0,
+                    "achievement_point": 30,
+                    "hide": 0,
+                    "id": 10,
+                    "proicon": 1534,
+                    "spe_name_bonus": 613
                   }
                 ],
                 "id": 58,
